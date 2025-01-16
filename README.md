@@ -21,27 +21,27 @@
 - Strong focus on ethical AI development and responsible innovation
 
 ### 🤖 Professional Experience
-- **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/Outlier-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEISURBVDhPY/j//z8DJZhhGANgBHGEN27cONHd3d0MxPv27bMASbx584YRJIfMBwGQHAM7O/t/XV1dkOaCBQsYQRLv379nAEmC+CAA4hop6+rq+n///v3/QUFBDCAJkDhIDUgemQYBkDqw6UZGRv+PHj0KVnzv3j0GkOT79+8ZkdXCAEgNw+vXrx2BJkJcumPHDrDk8+fPGZEl0QGyWgaQU0F8kGKQJLqNyADdRrBikODNmzcZ////D3YyOsDQCDYV5JSdO3eC6fPnzzMiayIE4BqR/QwDMP+BAMhv6ADERA5qEOjp6f0/duwYWALkZJA4sg3IACyArBjkJ1AAQNGKTQyZRlcLAiA1lGQQDAAAHWFvEYLPmd4AAAAASUVORK5CYII=)](https://outlier.ai/) (2024 - present)**
+- **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/Outlier-4A90E2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://outlier.ai/) (2024 - present)**
   - Enhanced AI model performance through technical content creation and code review
   - Achieved 64% improvement in AI coding efficiency via reinforced human feedback
   - Developed automated testing frameworks for model evaluation
 
-- **Impact Analyst @ Impaakt (2022 - 2024)**
+- **Impact Analyst @ [![Impaakt](https://img.shields.io/badge/Impaakt-27AE60?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://www.impaakt.com/) (2022 - 2024)**
   - Led 50+ ecological assessments of global corporations
   - Maintained 95%+ accuracy in ESG ratings and sustainability reports
   - Implemented data-driven methodologies for environmental impact analysis
 
-- **Research Assistant Student @ Georgia State University (2018 - 2020)**
+- **Research Assistant Student @ [![GSU](https://img.shields.io/badge/Georgia_State-002B7F?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://www.gsu.edu/) (2018 - 2020)**
   - Specialized in Data Science in Cognitive Science & Philosophy of Mind
   - Developed Python automation tools improving workflow efficiency by 54%
   - Published research on cognitive science, philosophy of mind and theoretical frameworks
 
 
 ## 🎓 Educational Background
-- Advanced AI & ML Studies @ FIAP (2024 - 2026) 
-- Biological Sciences @ Centro Universitário Academia (2022-2025) 
-- Associate Degree of Arts in Poetry @ FASCS (2022-2023) 
-- Philosophy (Philosophy of Mind) @ Georgia State University (2017 - 2020)
+- Advanced AI & ML Studies @ [![FIAP](https://img.shields.io/badge/FIAP-ED1C24?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://www.fiap.com.br/)(2024 - 2026) 
+- Biological Sciences @ [![UniAcademia](https://img.shields.io/badge/UniAcademia-9B59B6?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://www.uniacademia.edu.br/) (2022-2025) 
+- Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://www.fascs.com.br/) (2022-2023) 
+- Philosophy (Philosophy of Mind) @ [![GSU](https://img.shields.io/badge/Georgia_State-002B7F?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PC9zdmc+&logoColor=white)](https://www.gsu.edu/) (2017 - 2020)
 
 🌐 Languages:
 🇺🇸 English (Fluent)
