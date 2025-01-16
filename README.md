@@ -21,11 +21,6 @@
   [![Data Science](https://img.shields.io/badge/Data_Science-3498DB?style=flat&logo=pandas&logoColor=white)](https://github.com/YanCotta)
 </div>
 
-<p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=YanCotta" width="420" alt="Github Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanCotta&theme=dracula" width="420" alt="GitHub Streak" />
-</p>
-
 ## 🧠 Professional Journey
 
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
