@@ -1,5 +1,4 @@
-# Yan Cotta 👋
-# Yan Cotta 👋
+# Hey there! Welcome! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-cotta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanpcotta@gmail.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/YanCotta)
