@@ -3,8 +3,14 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/YanCotta/YanCotta/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://github.com/YanCotta/YanCotta/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F70069&background=FF000000&center=true&vCenter=true&width=650&lines=YAN+COTTA;%F0%9F%94%AC+AI+%7C+ML+%7C+DATA+SCIENTIST+%F0%9F%A7%AC" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=header&text=YAN%20COTTA&fontSize=80&fontColor=ffffff&animation=scaleIn&fontAlignY=30&desc=AI%20|%20ML%20|%20Data%20Science&descAlignY=70&descAlign=50"/>
 </div>
 
 <p align="center">
