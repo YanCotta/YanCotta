@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header&animation=fadeIn"/>
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=120&section=header&text=YAN%20COTTA&fontSize=65&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
