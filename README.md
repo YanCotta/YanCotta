@@ -2,13 +2,13 @@
 # Yan Cotta 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-cotta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanpcotta@gmail.com)
-[![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/YanCotta?tab=repositories&q=&type=&language=python)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/YanCotta)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/YanCotta)
-[![Biotech](https://img.shields.io/badge/Biotech-Expert-2ECC71?style=flat&logo=biotech&logoColor=white)](https://github.com/YanCotta?tab=repositories&q=biotech)
-[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Advanced-9B59B6?style=flat&logo=dna&logoColor=white)](https://github.com/YanCotta?tab=repositories&q=bioinformatics)
-[![Philosophy](https://img.shields.io/badge/Philosophy_of_Mind-Research-34495E?style=flat&logo=brain&logoColor=white)](https://github.com/YanCotta?tab=repositories&q=philosophy)
-[![ML/AI](https://img.shields.io/badge/Machine_Learning-Expert-F1C40F?style=flat&logo=pytorch&logoColor=white)](https://github.com/YanCotta?tab=repositories&q=machine-learning)
-[![Data Science](https://img.shields.io/badge/Data_Science-Advanced-3498DB?style=flat&logo=pandas&logoColor=white)](https://github.com/YanCotta?tab=repositories&q=data-science)
+[![Biotech](https://img.shields.io/badge/Biotech-2ECC71?style=flat&logo=biotech&logoColor=white)](https://github.com/YanCotta)
+[![Bioinformatics](https://img.shields.io/badge/Bioinformatics-9B59B6?style=flat&logo=dna&logoColor=white)](https://github.com/YanCotta)
+[![Philosophy](https://img.shields.io/badge/Philosophy_of_Mind-Research-34495E?style=flat&logo=brain&logoColor=white)](https://github.com/YanCotta)
+[![ML/AI](https://img.shields.io/badge/Machine_Learning-F1C40F?style=flat&logo=pytorch&logoColor=white)](https://github.com/YanCotta)
+[![Data Science](https://img.shields.io/badge/Data_Science-3498DB?style=flat&logo=pandas&logoColor=white)](https://github.com/YanCotta)
 
 ## 🎯 About Me
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
