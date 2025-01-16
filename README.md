@@ -15,6 +15,14 @@
 </p>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=120&section=header&text=YAN%20COTTA&fontSize=65&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Cognitive%20Science%20Researcher;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Philosopher%20of%20Mind;Biologist;AI%20Generalist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+
+<div align="center">
  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-cotta)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanpcotta@gmail.com)
