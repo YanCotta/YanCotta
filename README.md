@@ -3,22 +3,12 @@
 </p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F70069&background=FF000000&center=true&vCenter=true&width=650&lines=YAN+COTTA;%F0%9F%94%AC+AI+%7C+ML+%7C+DATA+SCIENTIST+%F0%9F%A7%AC" alt="Typing SVG" />
-  </a>
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&animation=twinkling"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=header&text=YAN%20COTTA&fontSize=80&fontColor=ffffff&animation=scaleIn&fontAlignY=30&desc=AI%20|%20ML%20|%20Data%20Science&descAlignY=70&descAlign=50"/>
 </div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=40&section=header&text=🔬%20AI%20|%20ML%20|%20Biotech%20|%20Science%20🧬&fontSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -116,6 +106,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=dracula&column=4&margin-w=15&margin-h=15" />
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=40&section=header&text=🔬%20AI%20|%20ML%20|%20Biotech%20|%20Science%20🧬&fontSize=20&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
