@@ -8,11 +8,11 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Cognitive%20Science%20Researcher;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Philosopher%20of%20Mind;Biologist;AI%20Generalist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Cognitive%20Science%20Researcher;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Philosopher%20of%20Mind;Biologist;AI%20Generalist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 </p>
 
 <div align="center">
@@ -106,10 +106,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=dracula&column=4&margin-w=15&margin-h=15" />
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=40&section=header&text=🔬%20AI%20|%20ML%20|%20Biotech%20|%20Science%20🧬&fontSize=20&animation=fadeIn" />
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
