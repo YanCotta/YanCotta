@@ -44,7 +44,7 @@
   - Maintained 95%+ accuracy in ESG ratings and sustainability reports
   - Implemented data-driven methodologies for environmental impact analysis
 
-- **Research Assistant Student @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2018 - 2020)**
+- **Research Assistant @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2018 - 2020)**
   - Specialized in Data Science in Cognitive Science & Philosophy of Mind
   - Developed Python automation tools improving workflow efficiency by 54%
   - Published research on cognitive science, philosophy of mind and theoretical frameworks
