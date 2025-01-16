@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header&animation=fadeIn"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1&section=header&animation=twinkling"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=header&text=YAN%20COTTA&fontSize=65&fontColor=ffffff&animation=fadeIn,twinkling,scaleIn&fontAlignY=50"/>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:a82da8&height=100&section=header&animation=fadeIn&text=YAN%20COTTA&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20|%20Machine%20Learning%20|%20Science&descSize=20&descAlignY=75&descAlign=50"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Cognitive%20Science%20Researcher;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Philosopher%20of%20Mind;Biologist;AI%20Generalist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
