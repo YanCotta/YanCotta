@@ -9,6 +9,7 @@
 </p>
 
 <div align="center">
+ 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-cotta)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanpcotta@gmail.com)
   [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/YanCotta)
@@ -27,28 +28,6 @@
 
 ## 🧠 Professional Journey
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">AI & Machine Learning</h3>
-      <div align="center">
-        <a href="https://github.com/YanCotta/AI-DrivenMulti-OmicsAnalysisToolkit" target="_blank">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YanCotta&repo=AI-DrivenMulti-OmicsAnalysisToolkit&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="AI-Driven Multi-Omics Analysis Toolkit"/>
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Data Science</h3>
-      <div align="center">
-        <a href="https://github.com/YanCotta/MarketBasketAnalysisImplementation" target="_blank">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YanCotta&repo=MarketBasketAnalysisImplementation&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Market Basket Analysis"/>
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 🎯 About Me
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
 
 ## 🚀 Core Expertise
