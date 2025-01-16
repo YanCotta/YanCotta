@@ -1,8 +1,19 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to Yan Cotta's Universe of AI & Science
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=&height=100&section=header&animation=fadeIn"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/YanCotta/YanCotta/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img src="https://github.com/YanCotta/YanCotta/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=40&section=header&text=🔬%20AI%20|%20ML%20|%20Biotech%20|%20Science%20🧬&fontSize=20&animation=fadeIn" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Cognitive%20Science%20Researcher;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Philosopher%20of%20Mind;Biologist;AI%20Generalist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
