@@ -21,7 +21,7 @@
 - Strong focus on ethical AI development and responsible innovation
 
 ### 🤖 Professional Experience
-- **GenAI Trainer @ Outlier (2024 - present)**
+- **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/Outlier-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEISURBVDhPY/j//z8DJZhhGANgBHGEN27cONHd3d0MxPv27bMASbx584YRJIfMBwGQHAM7O/t/XV1dkOaCBQsYQRLv379nAEmC+CAA4hop6+rq+n///v3/QUFBDCAJkDhIDUgemQYBkDqw6UZGRv+PHj0KVnzv3j0GkOT79+8ZkdXCAEgNw+vXrx2BJkJcumPHDrDk8+fPGZEl0QGyWgaQU0F8kGKQJLqNyADdRrBikODNmzcZ////D3YyOsDQCDYV5JSdO3eC6fPnzzMiayIE4BqR/QwDMP+BAMhv6ADERA5qEOjp6f0/duwYWALkZJA4sg3IACyArBjkJ1AAQNGKTQyZRlcLAiA1lGQQDAAAHWFvEYLPmd4AAAAASUVORK5CYII=)](https://outlier.ai/) (2024 - present)**
   - Enhanced AI model performance through technical content creation and code review
   - Achieved 64% improvement in AI coding efficiency via reinforced human feedback
   - Developed automated testing frameworks for model evaluation
@@ -43,7 +43,7 @@
 - Associate Degree of Arts in Poetry @ FASCS (2022-2023) 
 - Philosophy (Philosophy of Mind) @ Georgia State University (2017 - 2020)
 
-🌐 Languages
+🌐 Languages:
 🇺🇸 English (Fluent)
 🇧🇷 Portuguese (Native)
 🇫🇷 French (Advanced)
