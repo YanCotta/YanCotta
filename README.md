@@ -22,9 +22,9 @@
 
 ## 🚀 Core Expertise 🚀 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=1" />
+  <img src="https://skillicons.dev/icons?i=python,sklearn&perline=2" />
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
-  <img src="https://skillicons.dev/icons?i=aws,cpp,sklearn&perline=3" />
+  <img src="https://skillicons.dev/icons?i=aws,cpp&perline=2" />
   <img src="https://skillicons.dev/icons?i=rust,go,java,js&perline=4" />
   <img src="https://skillicons.dev/icons?i=html,sql&perline=2" />
 </div>
