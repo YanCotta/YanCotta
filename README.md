@@ -79,7 +79,7 @@
 - Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logoColor=white)](https://www.fascs.com.br/) (2022-2023) 
 - Philosophy (Philosophy of Mind) @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2017 - 2020)
 
-## 🌐 Global Communication
+## 🌐 Global Communication 🌐
 
 <div align="center">
   <table>
@@ -92,14 +92,14 @@
   </table>
 </div>
 
-## 🌐 GitHub Stats:
+## 🌐 GitHub Stats 🌐
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=dracula&column=4&margin-w=15&margin-h=15" />
 </div>
 
 [![Yan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanCotta&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect! 🤝
 
 <div align="center">
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
