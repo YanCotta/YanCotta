@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Cognitive%20Science%20Researcher;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Philosopher%20of%20Mind;Biologist%20and%20Biotechnologist;AI%20Generalist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Philosopher%20of%20Mind;Biologist%20and%20Biotechnologist;AI%20Generalist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
@@ -11,26 +11,21 @@
  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-cotta)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanpcotta@gmail.com)
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/YanCotta)
-  [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://github.com/YanCotta)
-  [![Biotech](https://img.shields.io/badge/Biotech-2ECC71?style=flat&logo=biotech&logoColor=white)](https://github.com/YanCotta)
-  [![Bioinformatics](https://img.shields.io/badge/Bioinformatics-9B59B6?style=flat&logo=dna&logoColor=white)](https://github.com/YanCotta)
-  [![Philosophy](https://img.shields.io/badge/Philosophy_of_Mind-Research-34495E?style=flat&logo=brain&logoColor=white)](https://github.com/YanCotta)
-  [![ML/AI](https://img.shields.io/badge/Machine_Learning-F1C40F?style=flat&logo=pytorch&logoColor=white)](https://github.com/YanCotta)
-  [![Data Science](https://img.shields.io/badge/Data_Science-3498DB?style=flat&logo=pandas&logoColor=white)](https://github.com/YanCotta)
+
 </div>
 
 ## 🧠 Professional Journey
 
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
 
-## 🚀 Core Expertise
+## 🚀 Core Technical Expertise
 
 ### Artificial Intelligence & Machine Learning
 - Advanced studies in ML, Deep Learning, NLP, and Cloud Computing at FIAP
-- Expertise in designing intelligent systems using Python, TensorFlow, and neural networks
-- Specialization in computer vision, natural language processing, and generative AI
+- Expertise in designing intelligent systems using Python, TensorFlow, and Neural Networks
+- Specialization in AI Agents, NLP, LLMs, and Generative AI
 - Strong focus on ethical AI development and responsible innovation
+- Growing efficiency in Python, C++, GO, Rust, HTML, SQL, Java, JavaScript
 
 ### 🤖 Professional Experience
 - **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**
@@ -55,11 +50,11 @@
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
-        <br>AI Model Performance
+        <br>GenAI Model Performance
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/95%25+-ESG_Rating_Accuracy-blue?style=for-the-badge" />
-        <br>Environmental Analysis
+        <br>Environmental Impact Data Analysis
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/54%25-Workflow_Optimization-orange?style=for-the-badge" />
@@ -94,6 +89,7 @@
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=dracula&column=4&margin-w=15&margin-h=15" />
