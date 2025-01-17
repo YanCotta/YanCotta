@@ -15,7 +15,7 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 </h2>
 
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
@@ -105,6 +105,7 @@
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
 
 <div align="center">
 
