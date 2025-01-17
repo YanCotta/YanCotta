@@ -22,7 +22,11 @@
 
 ## 🚀 Core Technical Expertise
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,cpp,html,sql,aws,java,js,rust,go&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python&perline=1" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
+  <img src="https://skillicons.dev/icons?i=aws,cpp,sklearn&perline=3" />
+  <img src="https://skillicons.dev/icons?i=rust,go,java,js&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,sql&perline=2" />
 </div>
 
 ### Artificial Intelligence & Machine Learning
@@ -30,7 +34,7 @@
 - Expertise in designing intelligent systems using Python, TensorFlow, and Neural Networks
 - Specialization in AI Agents, NLP, LLMs, and Generative AI
 - Strong focus on ethical AI development and responsible innovation
-- Growing efficiency in Python, C++, GO, Rust, HTML, SQL, Java, JavaScript
+- Growing efficiency in Python, C++, GO, Rust, HTML, SQL, Java, JavaScript, AWS
 
 ### 🤖 Professional Experience
 - **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**
@@ -88,19 +92,19 @@
   </table>
 </div>
 
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
-
 ## GitHub Stats:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=dracula&column=4&margin-w=15&margin-h=15" />
 </div>
 
 [![Yan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanCotta&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" /> </p>
 
