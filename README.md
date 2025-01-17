@@ -92,7 +92,7 @@
   </table>
 </div>
 
-## GitHub Stats:
+## 🌐 GitHub Stats:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=dracula&column=4&margin-w=15&margin-h=15" />
 </div>
@@ -106,9 +106,13 @@
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" /> </p>
-
+<div align="center">
+  
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" /> </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
