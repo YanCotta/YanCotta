@@ -20,7 +20,7 @@
 
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
 
-## 🚀 Core Technical Expertise
+## 🚀 Core Expertise 🚀 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&perline=1" />
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
@@ -29,14 +29,14 @@
   <img src="https://skillicons.dev/icons?i=html,sql&perline=2" />
 </div>
 
-### Artificial Intelligence & Machine Learning
+### 🤖 Artificial Intelligence & Machine Learning 🤖
 - Advanced studies in ML, Deep Learning, NLP, and Cloud Computing at FIAP
 - Expertise in designing intelligent systems using Python, TensorFlow, and Neural Networks
 - Specialization in AI Agents, NLP, LLMs, and Generative AI
 - Strong focus on ethical AI development and responsible innovation
 - Growing efficiency in Python, C++, GO, Rust, HTML, SQL, Java, JavaScript, AWS
 
-### 🤖 Professional Experience
+## 📈 Professional Experience 📈
 - **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**
   - Enhanced AI model performance through technical content creation and code review
   - Achieved 64% improvement in AI coding efficiency via reinforced human feedback
@@ -52,7 +52,7 @@
   - Developed Python automation tools improving workflow efficiency by 54%
   - Published research on cognitive science, philosophy of mind and theoretical frameworks
 
-## 📈 Achievements & Impact
+## 📈 Achievements & Impact 📈
 
 <div align="center">
   <table>
@@ -73,7 +73,7 @@
   </table>
 </div>
 
-## 🎓 Educational Background
+## 🎓 Educational Background 🎓 
 - Advanced AI & ML Studies @ [![FIAP](https://img.shields.io/badge/FIAPTech-ED1C24?style=flat&logoColor=white)](https://www.fiap.com.br/) (2024 - 2026) 
 - Biological Sciences @ [![UniAcademia](https://img.shields.io/badge/UniAcademia-9B59B6?style=flat&logoColor=white)](https://www.uniacademia.edu.br/) (2022-2025) 
 - Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logoColor=white)](https://www.fascs.com.br/) (2022-2023) 
