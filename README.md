@@ -22,8 +22,9 @@
 
 ## 🚀 Core Technical Expertise
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,cpp,html,sql,aws,java,js,rust,go&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,pandas,cpp,html,sql,aws,java,js,rust,go&perline=7" />
 </div>
+
 ### Artificial Intelligence & Machine Learning
 - Advanced studies in ML, Deep Learning, NLP, and Cloud Computing at FIAP
 - Expertise in designing intelligent systems using Python, TensorFlow, and Neural Networks
@@ -94,31 +95,17 @@
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-
+## GitHub Stats:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=dracula&column=4&margin-w=15&margin-h=15" />
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
-
-<div align="center">
-  <a href="https://linkedin.com/in/yan-cotta">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=true" />
-  </a>
-  <a href="mailto:yanpcotta@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
-
 [![Yan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanCotta&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" /> </p>
-<div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanCotta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=7&theme=radical"/>
-</div>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
