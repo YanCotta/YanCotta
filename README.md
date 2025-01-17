@@ -98,3 +98,46 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
+
+[![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/marcospimentel01)
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey
+</h2>
+
+<div align="center">
+  <a href="https://linkedin.com/in/yan-cotta">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&hover=true" />
+  </a>
+  <a href="mailto:yanpcotta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-★★★★★-informational?style=flat&logo=python&logoColor=white&color=3776AB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-★★★★☆-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-★★★★☆-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+![SQL](https://img.shields.io/badge/SQL-★★★★☆-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/YanCotta/YanCotta/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" /> </p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,rust,go,js,html,sql,docker,git,aws&perline=6" />
+</div>
+
+[![Yan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanCotta&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YanCotta&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=7&theme=radical"/>
+</div>
