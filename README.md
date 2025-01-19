@@ -20,21 +20,21 @@
 
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
 
-## 🚀 Core Expertise 🚀 
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,sklearn&perline=2" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" />
-  <img src="https://skillicons.dev/icons?i=aws,cpp&perline=2" />
-  <img src="https://skillicons.dev/icons?i=rust,go,java,js&perline=4" />
-  <img src="https://skillicons.dev/icons?i=html,sql&perline=2" />
+  <img src="https://skillicons.dev/icons?i=python&perline=1" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" />
+  <img src="https://skillicons.dev/icons?i=go,html,java,js&perline=4" />
+  <img src="https://skillicons.dev/icons?i=aws&perline=1" />
 </div>
+
 
 ### 🤖 Artificial Intelligence & Machine Learning 🤖
 - Advanced studies in ML, Deep Learning, NLP, and Cloud Computing at FIAP
 - Expertise in designing intelligent systems using Python, TensorFlow, and Neural Networks
 - Specialization in AI Agents, NLP, LLMs, and Generative AI
 - Strong focus on ethical AI development and responsible innovation
-- Growing efficiency in Python, C++, GO, Rust, HTML, SQL, Java, JavaScript, AWS
+- Growing efficiency in Python, Go, HTML, Java, JS, AWS
 
 ## 📈 Professional Experience 📈
 - **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**
