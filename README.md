@@ -18,27 +18,23 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 </h2>
 
-
 ### 🛠️ Tech Stack & Skills
 <div align="center">
   <h4>Machine Learning & AI</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,sql" alt="ML Stack" title="Python, PyTorch, TensorFlow, Scikit-learn, R, SQL"/>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r" alt="ML Stack" title="Python, PyTorch, TensorFlow, Scikit-learn, R"/>
   </p>
 
   <h4>Development</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=go,html,java,js" alt="Dev Stack" title="Go, HTML, Java, JavaScript"/>
+    <img src="https://skillicons.dev/icons?i=python,go,html,java,js" alt="Dev Stack" title="Python, Go, HTML, Java, JavaScript"/>
   </p>
 
-  <h4>Cloud Infrastructure</h4>
+  <h4>Cloud & Database</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=aws" alt="Cloud" title="AWS"/>
+    <img src="https://skillicons.dev/icons?i=aws,mysql" alt="Cloud & DB" title="AWS, SQL"/>
   </p>
 </div>
-
-
-
 
 ### 🤖 Artificial Intelligence & Machine Learning 🤖
 - Advanced studies in ML, Deep Learning, NLP, and Cloud Computing at FIAP
