@@ -18,13 +18,25 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 </h2>
 
-💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
 
-<p align="center">
-  
-![ML Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,sql "Machine Learning Stack")![Dev Stack](https://skillicons.dev/icons?i=go,html,java,js "Development Stack")![Cloud](https://skillicons.dev/icons?i=aws "AWS Cloud")
+### 🛠️ Tech Stack & Skills
+<div align="center">
+  <h4>Machine Learning & AI</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,sql" alt="ML Stack" title="Python, PyTorch, TensorFlow, Scikit-learn, R, SQL"/>
+  </p>
 
-</p>
+  <h4>Development</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=go,html,java,js" alt="Dev Stack" title="Go, HTML, Java, JavaScript"/>
+  </p>
+
+  <h4>Cloud Infrastructure</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws" alt="Cloud" title="AWS"/>
+  </p>
+</div>
+
 
 
 
