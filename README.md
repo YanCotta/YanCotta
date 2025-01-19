@@ -22,10 +22,11 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&perline=1" />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,r,mysql&perline=5" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,r,sql&perline=5" />
   <img src="https://skillicons.dev/icons?i=go,html,java,js&perline=4" />
   <img src="https://skillicons.dev/icons?i=aws&perline=1" />
 </div>
+
 
 
 ### 🤖 Artificial Intelligence & Machine Learning 🤖
