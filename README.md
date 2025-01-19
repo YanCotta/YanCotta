@@ -20,12 +20,15 @@
 
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python&perline=1" />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,r,sql&perline=5" />
-  <img src="https://skillicons.dev/icons?i=go,html,java,js&perline=4" />
-  <img src="https://skillicons.dev/icons?i=aws&perline=1" />
-</div>
+<p align="center">
+  
+![ML Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,sql "Machine Learning Stack")
+
+![Dev Stack](https://skillicons.dev/icons?i=python,go,html,java,js "Development Stack")
+
+![Cloud](https://skillicons.dev/icons?i=aws "AWS Cloud")
+
+</p>
 
 
 
