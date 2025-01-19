@@ -22,11 +22,7 @@
 
 <p align="center">
   
-![ML Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,sql "Machine Learning Stack")
-
-![Dev Stack](https://skillicons.dev/icons?i=go,html,java,js "Development Stack")
-
-![Cloud](https://skillicons.dev/icons?i=aws "AWS Cloud")
+![ML Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,r,sql "Machine Learning Stack")![Dev Stack](https://skillicons.dev/icons?i=go,html,java,js "Development Stack")![Cloud](https://skillicons.dev/icons?i=aws "AWS Cloud")
 
 </p>
 
