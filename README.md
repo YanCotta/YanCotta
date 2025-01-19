@@ -36,13 +36,6 @@
   </p>
 </div>
 
-### 🤖 Artificial Intelligence & Machine Learning 🤖
-- Advanced studies in ML, Deep Learning, NLP, and Cloud Computing at FIAP
-- Expertise in designing intelligent systems using Python, TensorFlow, and Neural Networks
-- Specialization in AI Agents, NLP, LLMs, and Generative AI
-- Strong focus on ethical AI development and responsible innovation
-- Growing efficiency in Python, R, SQL, GO, HTML, Java, JS, AWS
-
 ## 📈 Professional Experience 📈
 - **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**
   - Enhanced AI model performance through technical content creation and code review
