@@ -30,9 +30,9 @@
     <img src="https://skillicons.dev/icons?i=python,go,html,java,js" alt="Dev Stack" title="Python, Go, HTML, Java, JavaScript"/>
   </p>
 
-  <h4>Cloud & Database</h4>
+  <h4>Cloud</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=aws,mysql" alt="Cloud & DB" title="AWS, SQL"/>
+    <img src="https://skillicons.dev/icons?i=aws" alt="Cloud" title="AWS"/>
   </p>
 </div>
 
