@@ -20,10 +20,9 @@
 
 💡I am a dynamic, interdisciplinary professional passionate about leveraging Artificial Intelligence, Machine Learning, and Ecological Sustainability to drive impactful, data-driven solutions. My diverse background spans Cognitive Science & Philosophy of Mind, Biotech & Biology, AI & Machine Learning, and Natural Sciences Education & Teaching, equipping me with a holistic approach to solving complex problems. 
 
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python&perline=1" />
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&perline=3" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,r,mysql&perline=5" />
   <img src="https://skillicons.dev/icons?i=go,html,java,js&perline=4" />
   <img src="https://skillicons.dev/icons?i=aws&perline=1" />
 </div>
@@ -34,7 +33,7 @@
 - Expertise in designing intelligent systems using Python, TensorFlow, and Neural Networks
 - Specialization in AI Agents, NLP, LLMs, and Generative AI
 - Strong focus on ethical AI development and responsible innovation
-- Growing efficiency in Python, Go, HTML, Java, JS, AWS
+- Growing efficiency in Python, R, SQL, GO, HTML, Java, JS, AWS
 
 ## 📈 Professional Experience 📈
 - **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**
