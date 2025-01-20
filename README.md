@@ -22,12 +22,14 @@
 <div align="center">
   <h4>Machine Learning, AI and Data Science</h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,r" alt="ML Stack" title="Python, PyTorch, TensorFlow, R"/>
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="ML Stack" title="Python, PyTorch, TensorFlow"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" alt="Pandas" title="Pandas"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" title="Matplotlib"/>
     <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="48" alt="Scikit-learn" title="Scikit-learn"/>
-    <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" title="SQL"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" title="Matplotlib"/>
+    <img src="https://skillicons.dev/icons?i=r" alt="R" title="R"/>
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQL" title="SQL"/>
   </p>
+</div>
 
   <h4>Development</h4>
   <p>
