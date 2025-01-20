@@ -80,6 +80,7 @@
 - Biological Sciences @ [![UniAcademia](https://img.shields.io/badge/UniAcademia-9B59B6?style=flat&logoColor=white)](https://www.uniacademia.edu.br/) (2022-2025) 
 - Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logoColor=white)](https://www.fascs.com.br/) (2022-2023) 
 - Philosophy (Philosophy of Mind) @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2017 - 2020)
+- 💻 🚀 Self-taught Programmer and Software Developer ⚡ 🔧
 
 ## 🌐 Global Communication 🌐
 
