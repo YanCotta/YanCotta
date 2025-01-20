@@ -29,17 +29,11 @@
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="48" alt="Scikit-learn" title="Scikit-learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48" alt="Matplotlib" title="Matplotlib"/>
   <img src="https://skillicons.dev/icons?i=r" alt="R" title="R"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="Structured Query Language (SQL)" title="Structured Query Language (SQL)"/>
 </p>
 
-<h4>Development</h4>
+<h4>Growing Efficiency in</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,html" alt="Dev Stack" title="Python, Go, C, C++, HTML"/>
-</p>
-
-<h4>Cloud</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" alt="Cloud" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,rust,go" alt="Dev Stack" title="C, C++, TypeScript, Rust, Go"/>
 </p>
 
 </div>
