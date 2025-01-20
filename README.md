@@ -34,7 +34,7 @@
 
 <h4>Development</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,cs,html" alt="Dev Stack" title="Python, Go, C, C++, C#, HTML"/>
+  <img src="https://skillicons.dev/icons?i=python,go,c,cpp,html" alt="Dev Stack" title="Python, Go, C, C++, HTML"/>
 </p>
 
 <h4>Cloud</h4>
