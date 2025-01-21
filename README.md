@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Philosopher%20of%20Mind;Biologist%20and%20Biotechnologist;AI%20Generalist&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
@@ -76,11 +76,11 @@
 </div>
 
 ## 🎓 Educational Background 🎓 
+- 💻 🚀 Self-taught Programmer and Software Developer ⚡ 🔧
 - Advanced AI & ML Studies @ [![FIAP](https://img.shields.io/badge/FIAPTech-ED1C24?style=flat&logoColor=white)](https://www.fiap.com.br/) (2024 - 2026) 
 - Biological Sciences @ [![UniAcademia](https://img.shields.io/badge/UniAcademia-9B59B6?style=flat&logoColor=white)](https://www.uniacademia.edu.br/) (2022-2025) 
 - Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logoColor=white)](https://www.fascs.com.br/) (2022-2023) 
 - Philosophy (Philosophy of Mind) @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2017 - 2020)
-- 💻 🚀 Self-taught Programmer and Software Developer ⚡ 🔧
 
 ## 🌐 Global Communication 🌐
 
@@ -96,9 +96,6 @@
 </div>
 
 ## 🌐 GitHub Stats 🌐
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=dracula&column=4&margin-w=15&margin-h=15" />
-</div>
 
 [![Yan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanCotta&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -108,17 +105,15 @@
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" /> 
+</p>
 
 <div align="center">
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" /> 
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
