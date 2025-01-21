@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f75c7e&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
