@@ -29,9 +29,9 @@
 
 <h4>Agentic AI Engineering</h4>
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nvidia/nvidia-original.svg" width="48" alt="NVIDIA" title="NVIDIA"/>
-  <span style="color: #FF0000; font-weight: bold; font-size: 24px; margin: 0 10px;">CrewAI</span>
-  <span style="color: #3178C6; font-weight: bold; font-size: 24px; margin: 0 10px;">LangChain</span>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" title="NVIDIA"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF0000?style=for-the-badge" alt="CrewAI" title="CrewAI"/>
+  <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge" alt="LangChain" title="LangChain"/>
 </p>
 
 <h4>Growing Proficiency in</h4>
