@@ -29,9 +29,9 @@
 
 <h4>Agentic AI Engineering</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=unity" width="48" alt="NVIDIA" title="NVIDIA"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" alt="CrewAI" title="CrewAI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" alt="LangChain" title="LangChain"/>
+  <img src="https://developer.nvidia.com/themes/custom/developer/images/favicon.ico" width="48" alt="NVIDIA" title="NVIDIA"/>
+  <img src="https://crewai.net/assets/favicon.ico" width="48" alt="CrewAI" title="CrewAI"/>
+  <img src="https://python.langchain.com/img/favicon.ico" width="48" alt="LangChain" title="LangChain"/>
 </p>
 
 <h4>Growing Proficiency in</h4>
