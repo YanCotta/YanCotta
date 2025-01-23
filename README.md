@@ -29,17 +29,17 @@
 
 <h4>Agentic AI Engineering</h4>
 <p>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA" title="NVIDIA"/>
-  <img src="https://img.shields.io/badge/CrewAI-232F3E?style=flat" alt="CrewAI" title="CrewAI"/>
-  <img src="https://img.shields.io/badge/LangChain-6559F7?style=flat" alt="LangChain" title="LangChain"/>
+  <img src="https://skillicons.dev/icons?i=unity" width="48" alt="NVIDIA" title="NVIDIA"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" alt="CrewAI" title="CrewAI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="48" alt="LangChain" title="LangChain"/>
 </p>
 
-<h4 align="center">Growing Proficiency in</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" title="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" title="C++"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" title="Go"/>
+<h4>Growing Proficiency in</h4>
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,go" alt="Languages" title="C, C++, Go"/>
 </p>
+
+</div>
 
 <p align="center">
 I focus on Python for its rich ecosystem and versatility in AI model development, data science, and automation. 
