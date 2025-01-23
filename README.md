@@ -14,10 +14,6 @@
 
 </div>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-</h2>
-
 <h3 align="center">🛠️ Tech Stack & Skills</h3>
 
 <div align="center">
@@ -46,20 +42,28 @@ GO enables me to design concurrent, scalable backend systems for deploying AI so
 This combination allows me to specialize in creating powerful, efficient, and scalable AI-driven tech.
 </p>
 
-- **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**
-  - Enhanced AI model performance through technical content creation and code review
-  - Achieved 64% improvement in AI coding efficiency via reinforced human feedback
-  - Developed automated testing frameworks for model evaluation
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+</h2>
 
-- **Ecological Impact Data Analyst @ [![Impaakt](https://img.shields.io/badge/Impaakt-27AE60?style=flat&logoColor=white)](https://www.impaakt.com/) (2022 - 2024)**
-  - Led 500+ ecological assessments of global corporations
-  - Maintained 95%+ accuracy in ESG ratings and sustainability reports
-  - Implemented data-driven methodologies for environmental impact analysis
+<div align="center">
 
-- **Research Assistant @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2018 - 2020)**
-  - Specialized in Data Science in Cognitive Science & Philosophy of Mind
-  - Developed Python automation tools improving workflow efficiency by 54%
-  - Published research on cognitive science, philosophy of mind and theoretical frameworks
+**GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**  
+Enhanced AI model performance through technical content creation and code review  
+Achieved 64% improvement in AI coding efficiency via reinforced human feedback  
+Developed automated testing frameworks for model evaluation  
+
+**Ecological Impact Data Analyst @ [![Impaakt](https://img.shields.io/badge/Impaakt-27AE60?style=flat&logoColor=white)](https://www.impaakt.com/) (2022 - 2024)**  
+Led 500+ ecological assessments of global corporations  
+Maintained 95%+ accuracy in ESG ratings and sustainability reports  
+Implemented data-driven methodologies for environmental impact analysis  
+
+**Research Assistant @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2018 - 2020)**  
+Specialized in Data Science in Cognitive Science & Philosophy of Mind  
+Developed Python automation tools improving workflow efficiency by 54%  
+Published research on cognitive science and theoretical frameworks  
+
+</div>
 
 ## 📈 Achievements & Impact 📈
 
