@@ -31,6 +31,13 @@
   <img src="https://skillicons.dev/icons?i=r" alt="R" title="R"/>
 </p>
 
+<h4>Agentic AI Engineering</h4>
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white" alt="NVIDIA" title="NVIDIA"/>
+  <img src="https://img.shields.io/badge/CrewAI-232F3E?style=flat" alt="CrewAI" title="CrewAI"/>
+  <img src="https://img.shields.io/badge/LangChain-6559F7?style=flat" alt="LangChain" title="LangChain"/>
+</p>
+
 <h4>Growing Efficiency in</h4>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,ts,rust,go" alt="Dev Stack" title="C, C++, TypeScript, Rust, Go"/>
@@ -68,7 +75,7 @@
         <br>Environmental Impact Data Analysis
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/54%25-Workflow_Optimization-orange?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/84%25-Workflow_Optimization-orange?style=for-the-badge" />
         <br>Automation Impact
       </td>
     </tr>
