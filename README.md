@@ -14,7 +14,7 @@
 
 </div>
 
-<h3 align="center">🛠️ Tech Stack & Skills</h3>
+<h3 align="center">🛠️ Tech Stack & Skills 🛠️</h3>
 
 <div align="center">
 
@@ -43,7 +43,7 @@
 
 <p align="center">
 I focus on Python for its rich ecosystem and versatility in AI model development, data science, and automation. 
-CrewAI, LangChain, NVIDIA NIM, and others assist me in building Multi-AI-Agents Systems. 
+CrewAI, LangChain, NVIDIA NIM, and others, assist me in building Multi-AI-Agents Systems. 
 C++ strengthens my skills in performance optimization, memory management, and systems programming, critical for high-efficiency computing and AI frameworks. 
 GO enables me to design concurrent, scalable backend systems for deploying AI solutions in real-world environments. 
 This combination allows me to specialize in creating powerful, efficient, and scalable AI-driven tech.
