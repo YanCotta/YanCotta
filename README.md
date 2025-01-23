@@ -34,6 +34,13 @@
   <img src="https://img.shields.io/badge/LangChain-6559F7?style=flat" alt="LangChain" title="LangChain"/>
 </p>
 
+<h4 align="center">Growing Proficiency in</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C" title="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" title="C++"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" title="Go"/>
+</p>
+
 <p align="center">
 I focus on Python for its rich ecosystem and versatility in AI model development, data science, and automation. 
 CrewAI, LangChain, NVIDIA NIM, and others assist me in building Multi-AI-Agents Systems. 
@@ -87,12 +94,17 @@ Published research on cognitive science and theoretical frameworks
 </div>
 
 ## 🎓 Educational Background 🎓 
-- 💻 🚀 Self-taught Programmer and Software Developer ⚡ 🔧
-- Multiple ML & AI certifications from SuperDataScience, DeepLearning.AI, Udemy, and others (2024 - ongoing)
-- Advanced AI & ML Studies @ [![FIAP](https://img.shields.io/badge/FIAPTech-ED1C24?style=flat&logoColor=white)](https://www.fiap.com.br/) (2024 - 2026) 
-- Biological Sciences @ [![UniAcademia](https://img.shields.io/badge/UniAcademia-9B59B6?style=flat&logoColor=white)](https://www.uniacademia.edu.br/) (2022-2025) 
-- Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logoColor=white)](https://www.fascs.com.br/) (2022-2023) 
-- Philosophy (Philosophy of Mind) @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2017 - 2020)
+💻 🚀 Self-taught Programmer and Software Developer ⚡ 🔧
+
+Multiple ML & AI certifications from SuperDataScience, DeepLearning.AI, Udemy, and others (2024 - ongoing)
+
+Advanced AI & ML Studies @ [![FIAP](https://img.shields.io/badge/FIAPTech-ED1C24?style=flat&logoColor=white)](https://www.fiap.com.br/) (2024 - 2026)
+
+Biological Sciences @ [![UniAcademia](https://img.shields.io/badge/UniAcademia-9B59B6?style=flat&logoColor=white)](https://www.uniacademia.edu.br/) (2022-2025)
+
+Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logoColor=white)](https://www.fascs.com.br/) (2022-2023)
+
+Philosophy (Philosophy of Mind) @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2017 - 2020)
 
 ## 🌐 Global Communication 🌐
 
