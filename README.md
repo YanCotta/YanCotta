@@ -40,7 +40,7 @@
 
 <h4>Growing Efficiency in</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,ts,rust,go" alt="Dev Stack" title="C, C++, TypeScript, Rust, Go"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,go" alt="Dev Stack" title="C, C++, Go"/>
 </p>
 
 </div>
