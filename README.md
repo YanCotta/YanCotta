@@ -84,6 +84,7 @@
 
 ## 🎓 Educational Background 🎓 
 - 💻 🚀 Self-taught Programmer and Software Developer ⚡ 🔧
+- Multiple ML & AI certifications from SuperDataScience, DeepLearning.AI, Udemy, and others (2024 - ongoing)
 - Advanced AI & ML Studies @ [![FIAP](https://img.shields.io/badge/FIAPTech-ED1C24?style=flat&logoColor=white)](https://www.fiap.com.br/) (2024 - 2026) 
 - Biological Sciences @ [![UniAcademia](https://img.shields.io/badge/UniAcademia-9B59B6?style=flat&logoColor=white)](https://www.uniacademia.edu.br/) (2022-2025) 
 - Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logoColor=white)](https://www.fascs.com.br/) (2022-2023) 
