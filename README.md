@@ -51,8 +51,8 @@
   - Achieved 64% improvement in AI coding efficiency via reinforced human feedback
   - Developed automated testing frameworks for model evaluation
 
-- **Impact Analyst @ [![Impaakt](https://img.shields.io/badge/Impaakt-27AE60?style=flat&logoColor=white)](https://www.impaakt.com/) (2022 - 2024)**
-  - Led 50+ ecological assessments of global corporations
+- **Ecological Impact Data Analyst @ [![Impaakt](https://img.shields.io/badge/Impaakt-27AE60?style=flat&logoColor=white)](https://www.impaakt.com/) (2022 - 2024)**
+  - Led 500+ ecological assessments of global corporations
   - Maintained 95%+ accuracy in ESG ratings and sustainability reports
   - Implemented data-driven methodologies for environmental impact analysis
 
