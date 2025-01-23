@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 </h2>
 
-### 🛠️ Tech Stack & Skills
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 
 <div align="center">
 
@@ -38,14 +38,14 @@
   <img src="https://img.shields.io/badge/LangChain-6559F7?style=flat" alt="LangChain" title="LangChain"/>
 </p>
 
-<h4>Growing Efficiency in</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go" alt="Dev Stack" title="C, C++, Go"/>
+<p align="center">
+I focus on Python for its rich ecosystem and versatility in AI model development, data science, and automation. 
+CrewAI, LangChain, NVIDIA NIM, and others assist me in building Multi-AI-Agents Systems. 
+C++ strengthens my skills in performance optimization, memory management, and systems programming, critical for high-efficiency computing and AI frameworks. 
+GO enables me to design concurrent, scalable backend systems for deploying AI solutions in real-world environments. 
+This combination allows me to specialize in creating powerful, efficient, and scalable AI-driven tech.
 </p>
 
-</div>
-
-## 📈 Professional Experience 📈
 - **GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**
   - Enhanced AI model performance through technical content creation and code review
   - Achieved 64% improvement in AI coding efficiency via reinforced human feedback
