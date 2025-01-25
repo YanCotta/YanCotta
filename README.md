@@ -1,4 +1,15 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="100" height="100"/>
+  
+  # 🚧 Profile Under Construction 🚧
+  
+  ### Exciting updates in progress! Check back soon for new content.
+  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
+</div>
+
+---
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
