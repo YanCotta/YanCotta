@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="100" height="100"/>
   
-  # 🚧 Profile Under Construction 🚧
+  # Profile in Active Development
   
-  ### Exciting updates in progress! Check back soon for new content.
+  ### While this space evolves, explore my current projects and expertise below.
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 </div>
@@ -121,7 +121,6 @@ This combination allows me to specialize in creating powerful, efficient, and sc
       <td align="center">Native Portuguese</td>
       <td align="center">Fluent English</td>
       <td align="center">Advanced French & Spanish</td>
-      <td align="center">Technical Documentation</td>
     </tr>
   </table>
 </div>
