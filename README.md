@@ -25,6 +25,48 @@
 
 </div>
 
+## 👨‍💻 AI & Machine Learning Engineer
+
+> "In the era of AI acceleration, adaptability isn't just an asset—it's a prerequisite for innovation."
+
+I specialize in developing enterprise-scale AI solutions, with a unique combination of cognitive science understanding and technical expertise. My approach integrates theoretical AI foundations with practical implementation, focusing on building scalable, efficient AI systems.
+
+### 🎯 Core Impact & Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
+        <br>AI Model Optimization
+        <br><small>Custom PyTorch architecture improvements</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
+        <br>Multi-Agent Systems
+        <br><small>Scalable AI agent networks</small>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/10TB+-Monthly_Data_Pipeline-orange?style=for-the-badge" />
+        <br>Large-Scale Processing
+        <br><small>Environmental impact analysis</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🚀 Current Focus
+
+Freelance SOTA LLMs Trainer @ Outlier (2024 - ongoing)
+- Developing enterprise-grade AI testing frameworks
+- Optimizing LLM deployment pipelines
+- Building automated model evaluation systems
+- Dedicating 2025 to deep-diving into emerging AI technologies
+
+### 🎓 Professional Philosophy
+
+My greatest strength lies in rapid adaptation and learning in the fast-evolving AI landscape. With a background spanning cognitive science, biology, and AI engineering, I've developed a systematic approach to mastering new technologies that keeps me at the innovation frontier.
+
 <h3 align="center">🛠️ Tech Stack & Skills 🛠️</h3>
 
 <div align="center">
@@ -50,8 +92,6 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,go" alt="Languages" title="C, C++, Go"/>
 </p>
 
-</div>
-
 <p align="center">
 I focus on Python for its rich ecosystem and versatility in AI model development, data science, and automation. 
 CrewAI, LangChain, NVIDIA NIM, and others, assist me in building Multi-AI-Agents Systems. 
@@ -60,72 +100,28 @@ GO enables me to design concurrent, scalable backend systems for deploying AI so
 This combination allows me to specialize in creating powerful, efficient, and scalable AI-driven tech.
 </p>
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Professional Journey<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-</h2>
+### 📈 Professional Timeline
 
-<div align="center">
+**AI Engineering & Research**
+- GenAI Trainer @ Outlier (2024-present)
+- Ecological Impact Analyst @ Impaakt (2022-2024)
+- Research Assistant @ Georgia State University (2018-2020)
 
-**GenAI Trainer @ [![Outlier](https://img.shields.io/badge/OutlierAI-4A90E2?style=flat&logoColor=white)](https://outlier.ai/) (2024 - present)**  
-Enhanced AI model performance through technical content creation and code review  
-Achieved 64% improvement in AI coding efficiency via reinforced human feedback  
-Developed automated testing frameworks for model evaluation  
+**Education & Continuous Learning**
+- Advanced AI & ML Studies @ FIAP (2024-2026)
+- Multiple ML & AI Certifications (2024-ongoing)
+- Biology @ UniAcademia (2022-2025)
+- Philosophy of Mind @ GSU (2017-2020)
 
-**Ecological Impact Data Analyst @ [![Impaakt](https://img.shields.io/badge/Impaakt-27AE60?style=flat&logoColor=white)](https://www.impaakt.com/) (2022 - 2024)**  
-Led 500+ ecological assessments of global corporations  
-Maintained 95%+ accuracy in ESG ratings and sustainability reports  
-Implemented data-driven methodologies for environmental impact analysis  
-
-**Research Assistant @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2018 - 2020)**  
-Specialized in Data Science in Cognitive Science & Philosophy of Mind  
-Developed Python automation tools improving workflow efficiency by 84%  
-Published research on cognitive science and theoretical frameworks  
-
-</div>
-
-## 📈 Achievements & Impact 📈
+### 🌐 Communication & Global Reach
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
-        <br>GenAI Model Performance
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/95%25+-ESG_Rating_Accuracy-blue?style=for-the-badge" />
-        <br>Environmental Impact Data Analysis
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/84%25-Workflow_Optimization-orange?style=for-the-badge" />
-        <br>Automation Impact
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🎓 Educational Background 🎓 
-💻 🚀 Self-taught Programmer and Software Developer ⚡ 🔧
-
-Multiple ML & AI certifications from SuperDataScience, DeepLearning.AI, Udemy, and others (2024 - ongoing)
-
-Advanced AI & ML Studies @ [![FIAP](https://img.shields.io/badge/FIAPTech-ED1C24?style=flat&logoColor=white)](https://www.fiap.com.br/) (2024 - 2026)
-
-Biological Sciences @ [![UniAcademia](https://img.shields.io/badge/UniAcademia-9B59B6?style=flat&logoColor=white)](https://www.uniacademia.edu.br/) (2022-2025)
-
-Associate Degree of Arts in Poetry @ [![FASCS](https://img.shields.io/badge/FASCS-F39C12?style=flat&logoColor=white)](https://www.fascs.com.br/) (2022-2023)
-
-Philosophy (Philosophy of Mind) @ [![GSU](https://img.shields.io/badge/GeorgiaState-002B7F?style=flat&logoColor=white)](https://www.gsu.edu/) (2017 - 2020)
-
-## 🌐 Global Communication 🌐
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://flagicons.lipis.dev/flags/4x3/us.svg" width="30px"/><br>English<br>Fluent</td>
-      <td align="center"><img src="https://flagicons.lipis.dev/flags/4x3/br.svg" width="30px"/><br>Portuguese<br>Native</td>
-      <td align="center"><img src="https://flagicons.lipis.dev/flags/4x3/fr.svg" width="30px"/><br>French<br>Advanced</td>
-      <td align="center"><img src="https://flagicons.lipis.dev/flags/4x3/es.svg" width="30px"/><br>Spanish<br>Advanced</td>
+      <td align="center">Native Portuguese</td>
+      <td align="center">Fluent English</td>
+      <td align="center">Advanced French & Spanish</td>
+      <td align="center">Technical Documentation</td>
     </tr>
   </table>
 </div>
