@@ -98,7 +98,7 @@ This hybrid approach—combining strong Python expertise, emerging systems progr
 
 **AI Engineering & Research**
 - GenAI Trainer @ Outlier (2024-present)
-- Ecological Impact Analyst @ Impaakt (2022-2024)
+- Ecological Impact DAta Analyst @ Impaakt (2022-2024)
 - Research Assistant @ Georgia State University (2018-2020)
 
 **Education & Continuous Learning**
