@@ -87,11 +87,11 @@ My greatest strength lies in rapid adaptation and learning in the fast-evolving 
 </p>
 
 <p align="center">
-I focus on Python for its rich ecosystem and versatility in AI model development, data science, and automation. 
-CrewAI, LangChain, NVIDIA NIM, and others, assist me in building Multi-AI-Agents Systems. 
-C++ strengthens my skills in performance optimization, memory management, and systems programming, critical for high-efficiency computing and AI frameworks. 
-GO enables me to design concurrent, scalable backend systems for deploying AI solutions in real-world environments. 
-This combination allows me to specialize in creating powerful, efficient, and scalable AI-driven tech.
+My core expertise lies in Python, which I leverage extensively for AI development, data science, and automation. Using tools like CrewAI, LangChain, and NVIDIA NIM, I excel at building sophisticated Multi-AI-Agent Systems. 
+
+While I'm actively developing my solo coding skills in C++, C, and Go (focusing on systems programming, performance optimization, and scalable backends), my mastery of GenAI tools, combined with deep understanding of learning systems and complex architectures, enables rapid adaptation to any programming language.
+
+This hybrid approach—combining strong Python expertise, emerging systems programming skills, and AI-augmented development—allows me to create powerful, efficient, and scalable AI solutions while continuously expanding my technical capabilities.
 </p>
 
 ### 📈 Professional Timeline
