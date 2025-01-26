@@ -54,10 +54,10 @@ I specialize in developing small and large scale AI solutions, with a unique com
 ### 🚀 Current Focus
 
 Freelance SOTA LLMs Trainer @ Outlier (2024 - ongoing)
-- Developing enterprise-grade AI testing frameworks
-- Optimizing LLM deployment pipelines
-- Building automated model evaluation systems
-- Dedicating 2025 to deep-diving into emerging AI technologies
+- Prompt mastery and LLMs excellence in data manipulation
+- Optimizing LLMs' coding capabilities
+- 64% SOTA LLMs response improvement through reinforced learning with human feedback
+- Dedicating 2025 to deep diving into emerging AI technologies
 
 ### 🎓 Professional Philosophy
 
