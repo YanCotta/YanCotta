@@ -122,10 +122,6 @@ This combination allows me to specialize in creating powerful, efficient, and sc
   </table>
 </div>
 
-## 🌐 GitHub Stats 🌐
-
-[![Yan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YanCotta&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🤝 Let's Connect! 🤝
 
 <div align="center">
