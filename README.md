@@ -26,7 +26,7 @@
 
 > "In the era of AI acceleration, adaptability isn't just an asset—it's a prerequisite for innovation."
 
-I specialize in developing enterprise-scale AI solutions, with a unique combination of cognitive science understanding and technical expertise. My approach integrates theoretical AI foundations with practical implementation, focusing on building scalable, efficient AI systems.
+I specialize in developing small and large scale AI solutions, with a unique combination of ecological thinking, cognitive science understanding, complex systems comprehension and technical expertise. My approach integrates theoretical AI foundations with practical implementation, focusing on building scalable, efficient AI systems.
 
 ### 🎯 Core Impact & Achievements
 
@@ -35,7 +35,7 @@ I specialize in developing enterprise-scale AI solutions, with a unique combinat
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
-        <br>AI Model Optimization
+        <br>SOTA LLMs Optimization
         <br><small>Custom PyTorch architecture improvements</small>
       </td>
       <td align="center" width="33%">
