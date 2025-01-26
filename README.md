@@ -22,8 +22,6 @@
 
 </div>
 
-## 👨‍💻 AI & Machine Learning Engineer
-
 > "In the era of AI acceleration, adaptability isn't just an asset—it's a prerequisite for innovation."
 
 I specialize in developing small and large scale AI solutions, with a unique combination of ecological thinking, cognitive science understanding, complex systems comprehension and technical expertise. My approach integrates theoretical AI foundations with practical implementation, focusing on building scalable, efficient AI systems.
