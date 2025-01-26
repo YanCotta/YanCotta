@@ -14,8 +14,7 @@
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sailboat.png" alt="Sailboat" width="100" style="position: relative; top: -120px; left: 0px;"/>
-</p>
+
 <div align="center">
  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-cotta)
