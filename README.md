@@ -36,21 +36,20 @@ I specialize in developing small and large scale AI solutions, with a unique com
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
         <br>SOTA LLMs Optimization
-        <br><small>Custom PyTorch architecture improvements</small>
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
-        <br>Multi-Agent Systems
-        <br><small>Scalable AI agent networks</small>
+        <br>Multi-Agent AI Systems
+        <br><small>LLMs Mastery</small>
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/10TB+-Monthly_Data_Pipeline-orange?style=for-the-badge" />
-        <br>Large-Scale Processing
-        <br><small>Environmental impact analysis</small>
+        <img src="https://img.shields.io/badge/500+-ESG_Enterprise_Analysis-orange?style=for-the-badge" />
+        <br>Environmental Impact Data Analysis
       </td>
     </tr>
   </table>
 </div>
+
 
 ### 🚀 Current Focus
 
