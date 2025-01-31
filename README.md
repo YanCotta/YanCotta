@@ -59,7 +59,7 @@ Freelance SOTA LLMs Trainer @ Outlier (2024 - ongoing)
 
 ### 🎓 Professional Philosophy
 
-My greatest strength lies in rapid adaptation and learning in the fast-evolving AI landscape. With a background spanning cognitive science, philosophy of mind, biology, education, AI/ML engineering, and GenAI/LLMs prompt mastery, I've developed a systematic approach to mastering new technologies. This expertise keeps me at the innovation frontier, enabling me to apply these technologies to real-world problems for creative solutions and improvement. After all, the more flexible element is the one that controls the system.
+My greatest strength lies in rapid adaptation and learning in the fast-evolving AI landscape. With a background spanning Cognitive Science, Philosophy of Mind, Biology, Education, AI & ML Engineering, and GenAI/LLMs Prompt Mastery, I've developed a systematic approach to mastering new technologies. This expertise keeps me at the innovation frontier, enabling me to apply these technologies to real-world problems for creative solutions and improvement. After all, the more flexible element is the one that controls the system.
 
 <h3 align="center">🛠️ Tech Stack & Skills 🛠️</h3>
 
