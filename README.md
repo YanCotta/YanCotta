@@ -128,7 +128,7 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
         <h3>🎓 Education</h3>
         <p>
           <img src="https://img.shields.io/badge/2024_--_2026-Advanced_AI_@_FIAP-00ADD8?style=for-the-badge" /><br>
-          <img src="https://img.shields.io/badge/2024-PRESENT-ML_&_AI_Certifications-FFA726?style=for-the-badge" /><br>
+          <img src="https://img.shields.io/badge/2024_--_Ongoing-ML_&_AI_Certifications-FFA726?style=for-the-badge" /><br>
           <img src="https://img.shields.io/badge/2022_--_2025-Biological_Sciences-8BC34A?style=for-the-badge" /><br>
           <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_of_Mind-9C27B0?style=for-the-badge" />
         </p>
