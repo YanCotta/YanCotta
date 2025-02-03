@@ -1,17 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/<div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="100" height="100"/>
   
-  # 🚀 AI Engineering | Cognitive Science | AI for Science
-
-  ### Building AI that Enhances Discovery, Scales Intelligence & Solves Complex Problems
+  # Profile in Active Development
+  
+  ### While this space evolves, explore my current projects and expertise below.
 
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Engineer%20&%20Researcher;AI%20Generalist;Agentic%20AI%20Developer;AI%20for%20Science%20Specialist;Cognitive%20Science%20&%20ML;Bioinformatics%20+%20AI%20Innovation;Systems%20Programming%20(C++%2C%20Go);LLMs%20Optimization%20&%20Multi-Agent%20AI;&font=Fira%20Code&center=true&width=640&height=50&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Agentic%20AI%20Engineer;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
@@ -28,11 +27,7 @@ Then, AI transformed everything.
 
 I realized that intelligence, whether human, biological, or artificial, follows core principles of adaptation and optimization. My focus shifted to machine learning, multi-agent AI, and scalable automation, applying AI not just to solve problems but to amplify discovery.
 
-I engineer AI systems that push boundaries, accelerate research, and augment human expertise. With a background spanning cognitive science, bioinformatics, and AI engineering, I specialize in:
-
-- Multi-Agent AI and LLM Optimization – Building intelligent agent systems that enhance AI-driven automation and problem-solving.
-- AI for Science – Developing AI-powered research tools for bioinformatics, genomics, and cognitive AI modeling.
-- Scalable AI and Systems Programming – Combining Python, C++, and Go to create AI architectures that are fast, efficient, and built for real-world applications.
+I engineer AI systems that push boundaries, accelerate research, and augment human expertise. With a background spanning cognitive science, bioinformatics, and AI engineering, I focus on developing AI-powered research tools, multi-agent AI architectures, and scalable AI systems that bridge theory and application.
 
 AI is redefining how science is conducted—from genomics to cognitive modeling to environmental intelligence. My mission is to build AI that enhances discovery, scales problem-solving, and transforms data into meaningful insights.
 
@@ -63,16 +58,16 @@ AI is redefining how science is conducted—from genomics to cognitive modeling 
 
 ## 🚀 Current Focus
 LLMs Trainer at Outlier (2024 - Present)  
-- Optimizing LLM coding capabilities and AI-driven data manipulation  
-- Specializing in multi-agent AI, AI research automation, and emerging AI technologies  
+Optimizing LLM coding capabilities and AI-driven data manipulation  
+Specializing in multi-agent AI, AI research automation, and emerging AI technologies  
 
 AI for Science | Research and Development  
-- Advancing AI applications for bioinformatics, genomics, and cognitive AI research  
-- Designing AI-powered research assistants that accelerate discovery  
+Advancing AI applications for bioinformatics, genomics, and cognitive AI research  
+Designing AI-powered research assistants that accelerate discovery  
 
 Expanding AI Engineering Skills  
-- Deepening expertise in C++, Go, MLOps, and AI scalability  
-- Developing high-performance AI architectures for real-world applications  
+Deepening expertise in C++, Go, MLOps, and AI scalability  
+Developing high-performance AI architectures for real-world applications  
 
 ---
 
@@ -102,16 +97,16 @@ Expanding AI Engineering Skills
 ## 📈 Professional Timeline
 
 ### AI Engineering and Research
-- LLMs Trainer at Outlier (2024 - Present)  
-- AI for Science and Research Automation (2024 - Present)  
-- Environmental Data Analyst at Impaakt (2022 - 2024)  
-- Research Assistant at Georgia State University (2019 - 2020)  
+LLMs Trainer at Outlier (2024 - Present)  
+AI for Science and Research Automation (2024 - Present)  
+Environmental Data Analyst at Impaakt (2022 - 2024)  
+Research Assistant at Georgia State University (2019 - 2020)  
 
 ### Education and Continuous Learning
-- Advanced AI and ML Studies at FIAP (2024 - 2026)  
-- Multiple ML and AI Certifications (2024 - Ongoing)  
-- Biology at UniAcademia (2022 - 2025)  
-- Philosophy of Mind at Georgia State University (2017 - 2020)  
+Advanced AI and ML Studies at FIAP (2024 - 2026)  
+Multiple ML and AI Certifications (2024 - Ongoing)  
+Biology at UniAcademia (2022 - 2025)  
+Philosophy of Mind at Georgia State University (2017 - 2020)  
 
 ---
 
