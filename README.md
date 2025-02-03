@@ -4,16 +4,14 @@
   # Profile in Active Development
   
   ### While this space evolves, explore my current projects and expertise below.
+</div>
 
 ---
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Agentic%20AI%20Engineer;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
 ---
@@ -21,13 +19,13 @@
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
 
-I have always been drawn to complex systems—whether in philosophy, biology, or artificial cognition. My journey began in cognitive science and philosophy of mind, where I explored how intelligence emerges, adapts, categorizes, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in the natural sciences: biology, ecology, bioinformatics and environmental data analysis, to understand how complex biological systems work, and how AI-driven insights could revolutionize scientific research.
+I have always been drawn to complex systems—whether in intelligence, biology, or artificial cognition. My journey began in cognitive science and philosophy of mind, where I explored how intelligence emerges, adapts, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in bioinformatics and environmental data analysis to understand how AI-driven insights could revolutionize scientific research.
 
 Then, AI transformed everything.
 
-After years studying philosophical, cognitive, and biological complex systems, I realized that intelligence, whether human, biological, or artificial, follows core principles of adaptation and optimization. My focus shifted to artificial complex systems: machine learning, multi-agent AI, and scalable automation. Applying AI not just to solve problems but to amplify discovery.
+I realized that intelligence, whether human, biological, or artificial, follows core principles of adaptation and optimization. My focus shifted to machine learning, multi-agent AI, and scalable automation, applying AI not just to solve problems but to amplify discovery.
 
-AI is redefining how science is conducted—from genomics to cognitive modeling to environmental intelligence. My mission is to build AI that enhances discovery, scales problem-solving, and transforms data into meaningful insights.
+AI is reshaping science—from genomics to cognitive modeling to environmental intelligence—but many AI models fail to integrate domain-specific knowledge effectively. That’s where I come in. My mission is to bridge the gap between AI and domain expertise, ensuring that machine learning systems are not just powerful, but meaningful in real-world applications.
 
 ---
 
@@ -38,7 +36,7 @@ AI is redefining how science is conducted—from genomics to cognitive modeling 
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
-        <br> LLMs Optimization (Using RLHF)
+        <br> SOTA LLMs Optimization (Using RLHF)
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
@@ -54,66 +52,52 @@ AI is redefining how science is conducted—from genomics to cognitive modeling 
 
 ---
 
-## 🚀 Current Focus (2025) 
-AI for Science, Research and Development 
-- Advancing AI applications for bioinformatics, genomics, and cognitive AI research  
-- Designing AI-powered research assistants that accelerate discovery  
-- Specializing in multi-agent AI, AI research automation, and any and all emerging AI technologies  
-- Expanding AI Engineering Skills  
-- Deepening expertise in C++, Go, MLOps, and AI scalability  
-- Developing high-performance AI architectures for real-world applications  
+## 🚀 Featured Projects
+📌 **[Multi-Agent Research Assistant](https://github.com/YanCotta/MultiAgentResearchAI)**  
+Developing an AI-powered research assistant using LLM coordination to automate scientific literature analysis.
+
+📌 **[Genomics AI Pipeline](https://github.com/YanCotta/GenomicsAI)**  
+Creating an ML-based pipeline for genetic sequence pattern recognition and bioinformatics workflows.
+
+📌 **[RLHF for LLM Optimization](https://github.com/YanCotta/RLHF_LLMOptimization)**  
+Implementing Reinforcement Learning with Human Feedback to improve LLM response accuracy.
 
 ---
 
-## 🛠 Tech Stack & Skills
+## 🚀 Current Focus
+LLMs Trainer at Outlier (2024 - Present)  
+Optimizing LLM coding capabilities and AI-driven data manipulation. Specializing in multi-agent AI, AI research automation, and emerging AI technologies.
 
-### Machine Learning, AI, and Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="ML Stack"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="48" alt="Scikit-learn"/>
-</p>
+AI for Science | Research and Development  
+Advancing AI applications for bioinformatics, genomics, and cognitive AI research. Designing AI-powered research assistants that accelerate discovery.
 
-### Agentic AI Engineering Frameworks 
-<p>
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangChain-3178C6?style=for-the-badge"/>
-</p>
+Expanding AI Engineering Skills  
+Deepening expertise in C++, Go, MLOps, and AI scalability. Developing high-performance AI architectures for real-world applications.
 
-### Systems Programming and AI Optimization
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,go" alt="Languages"/>
-</p>
+---
+
+## 🛠 Tech Stack & Tools
+🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn  
+🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, RLHF  
+🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Genomics AI  
+🔹 **Systems Engineering & Optimization** – C++, Go, MLOps, Cloud AI Deployment  
 
 ---
 
 ## 📈 Professional Timeline
 
-### Work Experience 
-SOTA LLMs Trainer at Outlier (2024 - Present)   
+LLMs Trainer at Outlier (2024 - Present)  
+AI for Science and Research Automation (2024 - Present)  
 Environmental Data Analyst at Impaakt (2022 - 2024)  
 Research Assistant at Georgia State University (2019 - 2020)  
 
 ### Education and Continuous Learning
 Advanced AI and ML Studies at FIAP (2024 - 2026)  
 Multiple ML and AI Certifications (2024 - Ongoing)  
-Biological Sciences at UniAcademia (2022 - 2025)  
+Biology at UniAcademia (2022 - 2025)  
 Philosophy of Mind at Georgia State University (2017 - 2020)  
 
 ---
-
-## 🌐 Communication and Global Reach
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">Portuguese (Native)</td>
-      <td align="center">English (Fluent)</td>
-      <td align="center">French (Advanced)</td>
-      <td align="center">Spanish (Advanced)</td>
-    </tr>
-  </table>
-</div>
 
 ## 🤝 Let's Connect!
 <div align="center">
@@ -127,4 +111,4 @@ Philosophy of Mind at Georgia State University (2017 - 2020)
 
 ---
 
-"The most flexible element is the one that controls the system."
+> "The most flexible element is the one that controls the system."
