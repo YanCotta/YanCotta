@@ -160,5 +160,15 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
 </p>
 
 ---
-
-> "The most flexible element is the one that controls the system."
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="60" height="60"/>
+        <br>
+        <h3><i>"The most flexible element is the one that controls the system."</i></h3>
+        <p style="color: #666;">― Adaptive Systems Principle</p>
+      </td>
+    </tr>
+  </table>
+</div>
