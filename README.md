@@ -74,8 +74,11 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
 
 ## 🛠 Tech Stack & Tools
 🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn  
+
 🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks
+
 🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc
+
 🔹 **Systems Engineering & Optimization** – C, C++, Go, MLOps, Cloud AI Deployment  
 
 ---
