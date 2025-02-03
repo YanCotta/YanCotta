@@ -56,18 +56,14 @@ AI is redefining how science is conducted—from genomics to cognitive modeling 
 
 ---
 
-## 🚀 Current Focus
-LLMs Trainer at Outlier (2024 - Present)  
-Optimizing LLM coding capabilities and AI-driven data manipulation  
-Specializing in multi-agent AI, AI research automation, and emerging AI technologies  
-
-AI for Science | Research and Development  
-Advancing AI applications for bioinformatics, genomics, and cognitive AI research  
-Designing AI-powered research assistants that accelerate discovery  
-
-Expanding AI Engineering Skills  
-Deepening expertise in C++, Go, MLOps, and AI scalability  
-Developing high-performance AI architectures for real-world applications  
+## 🚀 Current Focus (2025) 
+AI for Science | Research and Development 
+- Advancing AI applications for bioinformatics, genomics, and cognitive AI research  
+- Designing AI-powered research assistants that accelerate discovery  
+- Specializing in multi-agent AI, AI research automation, and any and all emerging AI technologies  
+- Expanding AI Engineering Skills  
+- Deepening expertise in C++, Go, MLOps, and AI scalability  
+- Developing high-performance AI architectures for real-world applications  
 
 ---
 
@@ -80,7 +76,7 @@ Developing high-performance AI architectures for real-world applications
   <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.png" width="48" alt="Scikit-learn"/>
 </p>
 
-### Agentic AI Engineering
+### Agentic AI Engineering Frameworks 
 <p>
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/CrewAI-FF0000?style=for-the-badge"/>
@@ -96,9 +92,8 @@ Developing high-performance AI architectures for real-world applications
 
 ## 📈 Professional Timeline
 
-### AI Engineering and Research
-LLMs Trainer at Outlier (2024 - Present)  
-AI for Science and Research Automation (2024 - Present)  
+### Work Experience 
+SOTA LLMs Trainer at Outlier (2024 - Present)   
 Environmental Data Analyst at Impaakt (2022 - 2024)  
 Research Assistant at Georgia State University (2019 - 2020)  
 
