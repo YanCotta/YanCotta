@@ -119,18 +119,18 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
       <td align="center" width="50%">
         <h3>🏢 Work Experience</h3>
         <p>
-          <img src="https://img.shields.io/badge/2024_--_Present-SOTA_LLMs_Trainer_@_Outlier-0077B5?style=for-the-badge" /><br>
-          <img src="https://img.shields.io/badge/2022_--_2024-Environmental_Analyst_@_Impaakt-4CAF50?style=for-the-badge" /><br>
-          <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-FF5722?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/2024_--_Present-SOTA_LLMs_Trainer_@_Outlier-0077B5?style=for-the-badge&logo=none" /><br>
+          <img src="https://img.shields.io/badge/2022_--_2024-Environmental_Analyst_@_Impaakt-4CAF50?style=for-the-badge&logo=none" /><br>
+          <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-FF5722?style=for-the-badge&logo=none" />
         </p>
       </td>
       <td align="center" width="50%">
         <h3>🎓 Education</h3>
         <p>
-          <img src="https://img.shields.io/badge/2024_--_2026-Advanced_AI_@_FIAP-00ADD8?style=for-the-badge" /><br>
-          <img src="https://img.shields.io/badge/2024_--_Ongoing-ML_&_AI_Certifications-FFA726?style=for-the-badge" /><br>
-          <img src="https://img.shields.io/badge/2022_--_2025-Biological_Sciences-8BC34A?style=for-the-badge" /><br>
-          <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_of_Mind-9C27B0?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/2024_--_2026-Advanced_AI_@_FIAP-00ADD8?style=for-the-badge&logo=none" /><br>
+          <img src="https://img.shields.io/badge/2024_--_Ongoing-ML_&_AI_Certifications-FFA726?style=for-the-badge&logo=none" /><br>
+          <img src="https://img.shields.io/badge/2022_--_2025-Biological_Sciences-8BC34A?style=for-the-badge&logo=none" /><br>
+          <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_of_Mind-9C27B0?style=for-the-badge&logo=none" />
         </p>
       </td>
     </tr>
