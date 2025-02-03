@@ -20,9 +20,9 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-cotta)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanpcotta@gmail.com)
 
-</div>
+</div>"In the era of AI acceleration, adaptability isn't just an asset—it's a prerequisite for innovation."
 I’ve always been drawn to complex systems—whether in philosophy, biology, or artificial cognition. My journey began in philosophy of mind, where I explored how intelligence emerges, adapts, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in biology and environmental data analysis to understand how AI-driven insights could revolutionize scientific research. Then, I realized that intelligence—whether cognitive, biological, or artificial—follows core principles of adaptation and optimization. They are all Complex Systems after all. So, my focus shifted to ML, Multi-Agent AI, and scalable automation, applying AI not just to solve problems but to amplify discovery.
-> "In the era of AI acceleration, adaptability isn't just an asset—it's a prerequisite for innovation."
+
 
 I specialize in developing small and large scale AI solutions, with a unique combination of ecological thinking, cognitive science understanding, complex systems comprehension and technical expertise. My approach integrates theoretical AI foundations with practical implementation, focusing on building scalable, efficient AI systems.
 
