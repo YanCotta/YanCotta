@@ -73,13 +73,41 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
 ---
 
 ## 🛠 Tech Stack & Tools
-🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn  
+<div align="center">
 
-🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks
+### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+</p>
 
-🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc
+### LLM & Agentic AI
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=for-the-badge&logo=autoprefixer&logoColor=white"/>
+</p>
 
-🔹 **Systems Engineering & Optimization** – C, C++, Go, MLOps, Cloud AI Deployment  
+### Scientific Computing
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Systems Engineering
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
