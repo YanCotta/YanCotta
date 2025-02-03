@@ -1,4 +1,4 @@
-<div align="center" style="background: linear-gradient(90deg, #0c4a9d, #00d4ff); padding: 20px; border-radius: 10px;">
+<div align="center" style="background: linear-gradient(135deg, #0c4a9d22 0%, #00d4ff22 100%); padding: 2rem; border-radius: 15px; margin: 1rem 0;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="100" height="100"/>
   
   # Profile in Active Development
@@ -26,32 +26,44 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ---
 
 ## 🎯 Core Achievements & Impact
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge&animate=true" />
-        <br> SOTA LLMs Optimization (RLHF)
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge&animate=true" />
-        <br> Multi-Agent AI Systems
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/500+-ESG_Enterprise_Analysis-orange?style=for-the-badge&animate=true" />
-        <br> AI for Environmental Impact Analysis
-      </td>
-    </tr>
-  </table>
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 1rem;">
+  <div style="background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%); padding: 1rem; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black" />
+    <br>SOTA LLMs Optimization
+  </div>
+  <div style="background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%); padding: 1rem; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
+    <br> Multi-Agent AI Systems
+  </div>
+  <div style="background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%); padding: 1rem; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.shields.io/badge/500+-ESG_Enterprise_Analysis-orange?style=for-the-badge" />
+    <br> AI for Environmental Impact Analysis
+  </div>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-📌 <a href="https://github.com/YanCotta/AgenticAIPortfolio" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">Agentic AI Systems</a>  
-📌 <a href="https://github.com/YanCotta/GeneExpressionAnalysisTool" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">Gene Expression Analysis Tool</a>  
-📌 <a href="https://github.com/YanCotta/DNASequenceAnalysisTool" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">DNA Sequence Analysis Tool</a>
+<div style="display: grid; gap: 1rem;">
+  <a href="https://github.com/YanCotta/AgenticAIPortfolio" style="text-decoration: none;">
+    <div style="padding: 1rem; border-radius: 8px; transition: all 0.3s; background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%);" onmouseover="this.style.transform='translateX(10px)'" onmouseout="this.style.transform='translateX(0)'">
+      📌 <strong>Agentic AI Systems</strong><br/>
+      <small>AI-Agents and Multi-AI-Agents automation systems</small>
+    </div>
+  </a>
+  <a href="https://github.com/YanCotta/GeneExpressionAnalysisTool" style="text-decoration: none;">
+    <div style="padding: 1rem; border-radius: 8px; transition: all 0.3s; background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%);" onmouseover="this.style.transform='translateX(10px)'" onmouseout="this.style.transform='translateX(0)'">
+      📌 <strong>Gene Expression Analysis Tool</strong><br/>
+      <small>Gene expression analysis toolkit</small>
+    </div>
+  </a>
+  <a href="https://github.com/YanCotta/DNASequenceAnalysisTool" style="text-decoration: none;">
+    <div style="padding: 1rem; border-radius: 8px; transition: all 0.3s; background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%);" onmouseover="this.style.transform='translateX(10px)'" onmouseout="this.style.transform='translateX(0)'">
+      📌 <strong>DNA Sequence Analysis Tool</strong><br/>
+      <small>Comprehensive DNA sequence analysis</small>
+    </div>
+  </a>
+</div>
 
 ---
 
@@ -68,13 +80,32 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ---
 
 ## 🛠 Tech Stack & Tools
-🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn, <img src="https://assets2.lottiefiles.com/packages/lf20_puciaact.json" alt="Animated Icon" width="20" height="20" />  
-
-🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks, <img src="https://assets2.lottiefiles.com/private_files/lf30_editor_s7dvct.json" alt="Animated Icon" width="20" height="20" />  
-
-🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc  
-
-🔹 **Systems Engineering & Optimization** – C, C++, Go, MLOps, Cloud AI Deployment  
+<div style="display: grid; gap: 1rem;">
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="20px" height="20px">
+    <strong>AI & Machine Learning</strong> – 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="20px" height="20px">
+    <strong>LLM & Agentic AI</strong> – 
+    <img src="https://img.shields.io/badge/CrewAI-000000?style=flat&logo=crewai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white"/>
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="20px" height="20px">
+    <strong>Scientific Computing & Bioinformatics</strong> – 
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
+  </div>
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="20px" height="20px">
+    <strong>Systems Engineering & Optimization</strong> – 
+    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+  </div>
+</div>
 
 ---
 
@@ -103,18 +134,19 @@ Spanish - Advanced
 
 ## 🤝 Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/yan-cotta" style="transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yanpcotta@gmail.com" style="transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
 
-<!-- New animated GitHub stats section -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YanCotta&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400">
+<div align="center" style="margin-top: 2rem;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanCotta&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=YanCotta" alt="Contribution Stats" />
 </div>
 
 ---
+
 > "The most flexible element is the one that controls the system."
