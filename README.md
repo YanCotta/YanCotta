@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background: linear-gradient(90deg, #0c4a9d, #00d4ff); padding: 20px; border-radius: 10px;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="100" height="100"/>
   
   # Profile in Active Development
@@ -31,15 +31,15 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge&animate=true" />
         <br> SOTA LLMs Optimization (RLHF)
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge&animate=true" />
         <br> Multi-Agent AI Systems
       </td>
       <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/500+-ESG_Enterprise_Analysis-orange?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/500+-ESG_Enterprise_Analysis-orange?style=for-the-badge&animate=true" />
         <br> AI for Environmental Impact Analysis
       </td>
     </tr>
@@ -49,14 +49,9 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ---
 
 ## 🚀 Featured Projects
-📌 **[Agentic AI Systems](https://github.com/YanCotta/AgenticAIPortfolio)**  
-A portfolio showcasing my projects related to the engineering and deployment of AI-Agents and Multi-AI-Agents automation systems utilizing numerous frameworks.
-
-📌 **[Gene Expression Analysis Tool](https://github.com/YanCotta/GeneExpressionAnalysisTool)**  
-A professional-grade gene expression analysis toolkit implementing robust statistical methods and machine learning algorithms, optimized for high-performance computing environments.
-
-📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
-A high-performance Python library for comprehensive DNA sequence analysis, providing industrial-grade molecular biology and bioinformatics capabilities.
+📌 <a href="https://github.com/YanCotta/AgenticAIPortfolio" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">Agentic AI Systems</a>  
+📌 <a href="https://github.com/YanCotta/GeneExpressionAnalysisTool" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">Gene Expression Analysis Tool</a>  
+📌 <a href="https://github.com/YanCotta/DNASequenceAnalysisTool" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">DNA Sequence Analysis Tool</a>
 
 ---
 
@@ -73,11 +68,11 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
 ---
 
 ## 🛠 Tech Stack & Tools
-🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn  
+🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn, <img src="https://assets2.lottiefiles.com/packages/lf20_puciaact.json" alt="Animated Icon" width="20" height="20" />  
 
-🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks
+🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks, <img src="https://assets2.lottiefiles.com/private_files/lf30_editor_s7dvct.json" alt="Animated Icon" width="20" height="20" />  
 
-🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc
+🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc  
 
 🔹 **Systems Engineering & Optimization** – C, C++, Go, MLOps, Cloud AI Deployment  
 
@@ -108,14 +103,18 @@ Spanish - Advanced
 
 ## 🤝 Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yan-cotta" style="transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yanpcotta@gmail.com" style="transition: opacity 0.2s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
 
----
+<!-- New animated GitHub stats section -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YanCotta&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="400">
+</div>
 
+---
 > "The most flexible element is the one that controls the system."
