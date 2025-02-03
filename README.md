@@ -10,7 +10,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Agentic%20AI%20Engineer;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
@@ -21,13 +21,11 @@
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
 
-I have always been drawn to complex systems—whether in intelligence, biology, or artificial cognition. My journey began in cognitive science and philosophy of mind, where I explored how intelligence emerges, adapts, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in bioinformatics and environmental data analysis to understand how AI-driven insights could revolutionize scientific research.
+I have always been drawn to complex systems—whether in philosophy, biology, or artificial cognition. My journey began in cognitive science and philosophy of mind, where I explored how intelligence emerges, adapts, categorizes, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in the natural sciences: biology, ecology, bioinformatics and environmental data analysis, to understand how complex biological systems work, and how AI-driven insights could revolutionize scientific research.
 
 Then, AI transformed everything.
 
-I realized that intelligence, whether human, biological, or artificial, follows core principles of adaptation and optimization. My focus shifted to machine learning, multi-agent AI, and scalable automation, applying AI not just to solve problems but to amplify discovery.
-
-I engineer AI systems that push boundaries, accelerate research, and augment human expertise. With a background spanning cognitive science, bioinformatics, and AI engineering, I focus on developing AI-powered research tools, multi-agent AI architectures, and scalable AI systems that bridge theory and application.
+After years studying philosophical, cognitive, and biological complex systems, I realized that intelligence, whether human, biological, or artificial, follows core principles of adaptation and optimization. My focus shifted to artificial complex systems: machine learning, multi-agent AI, and scalable automation. Applying AI not just to solve problems but to amplify discovery.
 
 AI is redefining how science is conducted—from genomics to cognitive modeling to environmental intelligence. My mission is to build AI that enhances discovery, scales problem-solving, and transforms data into meaningful insights.
 
@@ -40,7 +38,7 @@ AI is redefining how science is conducted—from genomics to cognitive modeling 
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
-        <br> SOTA LLMs Optimization (Using RLHF)
+        <br> LLMs Optimization (Using RLHF)
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
@@ -57,7 +55,7 @@ AI is redefining how science is conducted—from genomics to cognitive modeling 
 ---
 
 ## 🚀 Current Focus (2025) 
-AI for Science | Research and Development 
+AI for Science, Research and Development 
 - Advancing AI applications for bioinformatics, genomics, and cognitive AI research  
 - Designing AI-powered research assistants that accelerate discovery  
 - Specializing in multi-agent AI, AI research automation, and any and all emerging AI technologies  
@@ -100,7 +98,7 @@ Research Assistant at Georgia State University (2019 - 2020)
 ### Education and Continuous Learning
 Advanced AI and ML Studies at FIAP (2024 - 2026)  
 Multiple ML and AI Certifications (2024 - Ongoing)  
-Biology at UniAcademia (2022 - 2025)  
+Biological Sciences at UniAcademia (2022 - 2025)  
 Philosophy of Mind at Georgia State University (2017 - 2020)  
 
 ---
