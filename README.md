@@ -125,12 +125,27 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
 - Philosophy of Mind at Georgia State University (2017 - 2020)  
 
 ---
-
 ## 🌍 Global Communication
-Portuguese - Native  
-English - Fluent  
-French - Advanced  
-Spanish - Advanced  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🇧🇷_Portuguese-Native-success?style=for-the-badge"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🇺🇸_English-Fluent-2ea44f?style=for-the-badge"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🇫🇷_French-Advanced-blue?style=for-the-badge"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🇪🇸_Spanish-Advanced-orange?style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
