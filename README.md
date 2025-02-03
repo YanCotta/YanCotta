@@ -1,4 +1,4 @@
-<div align="center" style="background: linear-gradient(135deg, #0c4a9d22 0%, #00d4ff22 100%); padding: 2rem; border-radius: 15px; margin: 1rem 0;">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="100" height="100"/>
   
   # Profile in Active Development
@@ -26,44 +26,37 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ---
 
 ## 🎯 Core Achievements & Impact
-<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 1rem;">
-  <div style="background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%); padding: 1rem; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=black" />
-    <br>SOTA LLMs Optimization
-  </div>
-  <div style="background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%); padding: 1rem; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
-    <br> Multi-Agent AI Systems
-  </div>
-  <div style="background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%); padding: 1rem; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.shields.io/badge/500+-ESG_Enterprise_Analysis-orange?style=for-the-badge" />
-    <br> AI for Environmental Impact Analysis
-  </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
+        <br> SOTA LLMs Optimization (RLHF)
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
+        <br> Multi-Agent AI Systems
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/500+-ESG_Enterprise_Analysis-orange?style=for-the-badge" />
+        <br> AI for Environmental Impact Analysis
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ## 🚀 Featured Projects
-<div style="display: grid; gap: 1rem;">
-  <a href="https://github.com/YanCotta/AgenticAIPortfolio" style="text-decoration: none;">
-    <div style="padding: 1rem; border-radius: 8px; transition: all 0.3s; background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%);" onmouseover="this.style.transform='translateX(10px)'" onmouseout="this.style.transform='translateX(0)'">
-      📌 <strong>Agentic AI Systems</strong><br/>
-      <small>AI-Agents and Multi-AI-Agents automation systems</small>
-    </div>
-  </a>
-  <a href="https://github.com/YanCotta/GeneExpressionAnalysisTool" style="text-decoration: none;">
-    <div style="padding: 1rem; border-radius: 8px; transition: all 0.3s; background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%);" onmouseover="this.style.transform='translateX(10px)'" onmouseout="this.style.transform='translateX(0)'">
-      📌 <strong>Gene Expression Analysis Tool</strong><br/>
-      <small>Gene expression analysis toolkit</small>
-    </div>
-  </a>
-  <a href="https://github.com/YanCotta/DNASequenceAnalysisTool" style="text-decoration: none;">
-    <div style="padding: 1rem; border-radius: 8px; transition: all 0.3s; background: linear-gradient(135deg, #0c4a9d11 0%, #00d4ff11 100%);" onmouseover="this.style.transform='translateX(10px)'" onmouseout="this.style.transform='translateX(0)'">
-      📌 <strong>DNA Sequence Analysis Tool</strong><br/>
-      <small>Comprehensive DNA sequence analysis</small>
-    </div>
-  </a>
-</div>
+📌 **[Agentic AI Systems](https://github.com/YanCotta/AgenticAIPortfolio)**  
+A portfolio showcasing my projects related to the engineering and deployment of AI-Agents and Multi-AI-Agents automation systems utilizing numerous frameworks.
+
+📌 **[Gene Expression Analysis Tool](https://github.com/YanCotta/GeneExpressionAnalysisTool)**  
+A professional-grade gene expression analysis toolkit implementing robust statistical methods and machine learning algorithms, optimized for high-performance computing environments.
+
+📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
+A high-performance Python library for comprehensive DNA sequence analysis, providing industrial-grade molecular biology and bioinformatics capabilities.
 
 ---
 
@@ -80,32 +73,13 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ---
 
 ## 🛠 Tech Stack & Tools
-<div style="display: grid; gap: 1rem;">
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="20px" height="20px">
-    <strong>AI & Machine Learning</strong> – 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  </div>
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="20px" height="20px">
-    <strong>LLM & Agentic AI</strong> – 
-    <img src="https://img.shields.io/badge/CrewAI-000000?style=flat&logo=crewai&logoColor=white"/>
-    <img src="https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white"/>
-  </div>
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="20px" height="20px">
-    <strong>Scientific Computing & Bioinformatics</strong> – 
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white"/>
-  </div>
-  <div style="display: flex; align-items: center; gap: 0.5rem;">
-    <img src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif" width="20px" height="20px">
-    <strong>Systems Engineering & Optimization</strong> – 
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  </div>
-</div>
+🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn  
+
+🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks
+
+🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc
+
+🔹 **Systems Engineering & Optimization** – C, C++, Go, MLOps, Cloud AI Deployment  
 
 ---
 
@@ -141,11 +115,6 @@ Spanish - Advanced
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
-
-<div align="center" style="margin-top: 2rem;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanCotta&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-contribution-stats.vercel.app/api/?username=YanCotta" alt="Contribution Stats" />
-</div>
 
 ---
 
