@@ -19,11 +19,7 @@
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
 
-I have always been drawn to complex systems—whether in intelligence, biology, or artificial cognition. My journey began in cognitive science and philosophy of mind, where I explored how intelligence emerges, adapts, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in bioinformatics and environmental data analysis to understand how AI-driven insights could revolutionize scientific research.
-
-Then, AI transformed everything.
-
-I realized that intelligence, whether human, biological, or artificial, follows core principles of adaptation and optimization. My focus shifted to machine learning, multi-agent AI, and scalable automation, applying AI not just to solve problems but to amplify discovery.
+I’ve always been drawn to Complex Systems—whether in Philosophy, Biology, Cognitive Sciences or AI. My journey began in Philosophy of Mind, where I explored how intelligence categorizes, adapts, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in Biological & Ecological Complex Systems to understand how life itself works. Then, I realized that intelligence—whether philosophical, biological, or artificial—follows core principles of adaptation and optimization. They are all Complex Systems after all. So, my focus shifted to ML, AI, and automation, applying AI not just to Biology and Cognitive Sciences, but also to problem-solving and amplifying scientific discovery.
 
 AI is reshaping science—from genomics to cognitive modeling to environmental intelligence—but many AI models fail to integrate domain-specific knowledge effectively. That’s where I come in. My mission is to bridge the gap between AI and domain expertise, ensuring that machine learning systems are not just powerful, but meaningful in real-world applications.
 
@@ -36,7 +32,7 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
     <tr>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
-        <br> SOTA LLMs Optimization (Using RLHF)
+        <br> SOTA LLMs Optimization (RLHF)
       </td>
       <td align="center" width="33%">
         <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
@@ -53,23 +49,20 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ---
 
 ## 🚀 Featured Projects
-📌 **[Multi-Agent Research Assistant](https://github.com/YanCotta/MultiAgentResearchAI)**  
-Developing an AI-powered research assistant using LLM coordination to automate scientific literature analysis.
+📌 **[Agentic AI Systems](https://github.com/YanCotta/AgenticAIPortfolio)**  
+A portfolio showcasing my projects related to the engineering and deployment of AI-Agents and Multi-AI-Agents automation systems utilizing numerous frameworks.
 
-📌 **[Genomics AI Pipeline](https://github.com/YanCotta/GenomicsAI)**  
-Creating an ML-based pipeline for genetic sequence pattern recognition and bioinformatics workflows.
+📌 **[Gene Expression Analysis Tool](https://github.com/YanCotta/GeneExpressionAnalysisTool)**  
+A professional-grade gene expression analysis toolkit implementing robust statistical methods and machine learning algorithms, optimized for high-performance computing environments.
 
-📌 **[RLHF for LLM Optimization](https://github.com/YanCotta/RLHF_LLMOptimization)**  
-Implementing Reinforcement Learning with Human Feedback to improve LLM response accuracy.
+📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
+A high-performance Python library for comprehensive DNA sequence analysis, providing industrial-grade molecular biology and bioinformatics capabilities.
 
 ---
 
-## 🚀 Current Focus
-LLMs Trainer at Outlier (2024 - Present)  
-Optimizing LLM coding capabilities and AI-driven data manipulation. Specializing in multi-agent AI, AI research automation, and emerging AI technologies.
-
-AI for Science | Research and Development  
-Advancing AI applications for bioinformatics, genomics, and cognitive AI research. Designing AI-powered research assistants that accelerate discovery.
+## 🚀 Current 2025 Focus
+AI for Science, Research and Development  
+Advancing AI applications for bioinformatics, genomics, and cognitive AI research. Designing AI-powered research assistants that accelerate discovery. Specializing in multi-agent AI, AI research automation, and emerging AI technologies.
 
 Expanding AI Engineering Skills  
 Deepening expertise in C++, Go, MLOps, and AI scalability. Developing high-performance AI architectures for real-world applications.
@@ -78,23 +71,22 @@ Deepening expertise in C++, Go, MLOps, and AI scalability. Developing high-perfo
 
 ## 🛠 Tech Stack & Tools
 🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn  
-🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, RLHF  
-🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Genomics AI  
-🔹 **Systems Engineering & Optimization** – C++, Go, MLOps, Cloud AI Deployment  
+🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks 
+🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc 
+🔹 **Systems Engineering & Optimization** – C, C++, Go, MLOps, Cloud AI Deployment  
 
 ---
 
 ## 📈 Professional Timeline
 
-LLMs Trainer at Outlier (2024 - Present)  
-AI for Science and Research Automation (2024 - Present)  
+SOTA LLMs Trainer at Outlier (2024 - Present)   
 Environmental Data Analyst at Impaakt (2022 - 2024)  
 Research Assistant at Georgia State University (2019 - 2020)  
 
 ### Education and Continuous Learning
 Advanced AI and ML Studies at FIAP (2024 - 2026)  
 Multiple ML and AI Certifications (2024 - Ongoing)  
-Biology at UniAcademia (2022 - 2025)  
+Biological Sciences at UniAcademia (2022 - 2025)  
 Philosophy of Mind at Georgia State University (2017 - 2020)  
 
 ---
