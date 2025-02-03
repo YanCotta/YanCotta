@@ -99,6 +99,14 @@ Philosophy of Mind at Georgia State University (2017 - 2020)
 
 ---
 
+## 🌍 Global Communication
+Portuguese - Native  
+English - Fluent  
+French - Advanced  
+Spanish - Advanced  
+
+---
+
 ## 🤝 Let's Connect!
 <div align="center">
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
