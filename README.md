@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="100" height="100"/>
   
-  # Profile in Active Development
+# Profile in Active Development
   
-  ### While this space evolves, explore my current projects and expertise below.
+### While this space evolves, explore my current projects and expertise below
 
 ---
 <div align="center">
@@ -16,13 +16,12 @@
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 <div align="center">
- 
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-cotta)
   [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:yanpcotta@gmail.com)
 
 </div>"In the era of AI acceleration, adaptability isn't just an asset—it's a prerequisite for innovation."
 I’ve always been drawn to complex systems—whether in philosophy, biology, or artificial cognition. My journey began in philosophy of mind, where I explored how intelligence emerges, adapts, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in biology and environmental data analysis to understand how AI-driven insights could revolutionize scientific research. Then, I realized that intelligence—whether cognitive, biological, or artificial—follows core principles of adaptation and optimization. They are all Complex Systems after all. So, my focus shifted to ML, Multi-Agent AI, and scalable automation, applying AI not just to solve problems but to amplify discovery.
-
 
 I specialize in developing small and large scale AI solutions, with a unique combination of ecological thinking, cognitive science understanding, complex systems comprehension and technical expertise. My approach integrates theoretical AI foundations with practical implementation, focusing on building scalable, efficient AI systems.
 
@@ -48,10 +47,10 @@ I specialize in developing small and large scale AI solutions, with a unique com
   </table>
 </div>
 
-
 ### 🚀 Current Focus
 
 Freelance SOTA LLMs Trainer @ Outlier (2024 - ongoing)
+
 - Prompt mastery and LLMs excellence in data manipulation
 - Optimizing LLMs' coding capabilities
 - 64% SOTA LLMs response improvement through reinforced learning with human feedback
@@ -87,7 +86,7 @@ My greatest strength lies in rapid adaptation and learning in the fast-evolving 
 </p>
 
 <p align="center">
-My core expertise lies in Python, which I leverage extensively for AI development, data science, and automation. Using tools like CrewAI, LangChain, and NVIDIA NIM, I excel at building sophisticated Multi-AI-Agent Systems. 
+My core expertise lies in Python, which I leverage extensively for AI development, data science, and automation. Using tools like CrewAI, LangChain, and NVIDIA NIM, I excel at building sophisticated Multi-AI-Agent Systems.
 
 While I'm actively developing my solo coding skills in C++, C, and Go (focusing on systems programming, performance optimization, and scalable backends), my mastery of GenAI tools, combined with deep understanding of learning systems and complex architectures, enables rapid adaptation to any programming language.
 
@@ -97,11 +96,13 @@ This hybrid approach—combining strong Python expertise, emerging systems progr
 ### 📈 Professional Timeline
 
 **AI Engineering & Research**
+
 - GenAI Trainer @ Outlier (2024-present)
 - Ecological Impact Data Analyst @ Impaakt (2022-2024)
 - Research Assistant @ Georgia State University (2018-2020)
 
 **Education & Continuous Learning**
+
 - Advanced AI & ML Studies @ FIAP (2024-2026)
 - Multiple ML & AI Certifications (2024-ongoing)
 - Biology @ UniAcademia (2022-2025)
@@ -125,8 +126,8 @@ This hybrid approach—combining strong Python expertise, emerging systems progr
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta" />
 </p>
 
 <div align="center">
