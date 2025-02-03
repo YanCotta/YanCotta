@@ -61,33 +61,37 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
 ---
 
 ## 🚀 Current 2025 Focus
-AI for Science, Research and Development  
-Advancing AI applications for bioinformatics, genomics, and cognitive AI research. Designing AI-powered research assistants that accelerate discovery. Specializing in multi-agent AI, AI research automation, and emerging AI technologies.
+-> AI for Science, Research and Development  
+- Advancing AI applications for bioinformatics, genomics, and cognitive AI research.
+- Designing AI-powered research assistants that accelerate discovery.
+- Specializing in multi-agent AI, AI research automation, and emerging AI technologies.
 
-Expanding AI Engineering Skills  
-Deepening expertise in C++, Go, MLOps, and AI scalability. Developing high-performance AI architectures for real-world applications.
+-> Expanding AI Engineering Skills  
+- Deepening expertise in C++, Go, MLOps, and AI scalability.
+- Developing high-performance AI architectures for real-world applications.
 
 ---
 
 ## 🛠 Tech Stack & Tools
 🔹 **AI & Machine Learning** – Python, PyTorch, TensorFlow, Scikit-learn  
-🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks 
-🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc 
+🔹 **LLM & Agentic AI** – CrewAI, LangChain, OpenAI API, LangGraph, AutoGen, and other frameworks
+🔹 **Scientific Computing & Bioinformatics** – Pandas, SciPy, NumPy, Matplotlib, etc
 🔹 **Systems Engineering & Optimization** – C, C++, Go, MLOps, Cloud AI Deployment  
 
 ---
 
 ## 📈 Professional Timeline
 
-SOTA LLMs Trainer at Outlier (2024 - Present)   
-Environmental Data Analyst at Impaakt (2022 - 2024)  
-Research Assistant at Georgia State University (2019 - 2020)  
+### Work History
+- SOTA LLMs Trainer at Outlier (2024 - Present)   
+- Environmental Data Analyst at Impaakt (2022 - 2024)  
+- Research Assistant at Georgia State University (2019 - 2020)  
 
 ### Education and Continuous Learning
-Advanced AI and ML Studies at FIAP (2024 - 2026)  
-Multiple ML and AI Certifications (2024 - Ongoing)  
-Biological Sciences at UniAcademia (2022 - 2025)  
-Philosophy of Mind at Georgia State University (2017 - 2020)  
+- Advanced AI and ML Studies at FIAP (2024 - 2026)  
+- Multiple ML and AI Certifications (2024 - Ongoing)  
+- Biological Sciences at UniAcademia (2022 - 2025)  
+- Philosophy of Mind at Georgia State University (2017 - 2020)  
 
 ---
 
