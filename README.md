@@ -30,21 +30,26 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
         <br> SOTA LLMs Optimization (RLHF)
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/1000+-Concurrent_Tasks-blue?style=for-the-badge" />
         <br> Multi-Agent AI Systems
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
         <img src="https://img.shields.io/badge/500+-ESG_Enterprise_Analysis-orange?style=for-the-badge" />
         <br> AI for Environmental Impact Analysis
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/84%25-Research_Optimization-purple?style=for-the-badge" />
+        <br> AI for Scientific Research
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
