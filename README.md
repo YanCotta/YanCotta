@@ -88,6 +88,7 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMOps-4B8BBE?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
 </div>
