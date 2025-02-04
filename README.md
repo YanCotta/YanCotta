@@ -48,30 +48,6 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 
 ---
 
-## 🚀 Featured Projects
-📌 **[Agentic AI Systems](https://github.com/YanCotta/AgenticAIPortfolio)**  
-A portfolio showcasing my projects related to the engineering and deployment of AI-Agents and Multi-AI-Agents automation systems utilizing numerous frameworks.
-
-📌 **[Gene Expression Analysis Tool](https://github.com/YanCotta/GeneExpressionAnalysisTool)**  
-A professional-grade gene expression analysis toolkit implementing robust statistical methods and machine learning algorithms, optimized for high-performance computing environments.
-
-📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
-A high-performance Python library for comprehensive DNA sequence analysis, providing industrial-grade molecular biology and bioinformatics capabilities.
-
----
-
-## 🚀 Current 2025 Focus
--> AI for Science, Research and Development  
-- Advancing AI applications for bioinformatics, genomics, and cognitive AI research.
-- Designing AI-powered research assistants that accelerate discovery.
-- Specializing in multi-agent AI, AI research automation, and emerging AI technologies.
-
--> Expanding AI Engineering Skills  
-- Deepening expertise in C++, Go, MLOps, and AI scalability.
-- Developing high-performance AI architectures for real-world applications.
-
----
-
 ## 🛠 Tech Stack & Tools
 <div align="center">
 
@@ -137,8 +113,31 @@ A high-performance Python library for comprehensive DNA sequence analysis, provi
   </table>
 </div>
 
+---
+## 🚀 Current 2025 Focus
+-> AI for Science, Research and Development  
+- Advancing AI applications for bioinformatics, genomics, and cognitive AI research.
+- Designing AI-powered research assistants that accelerate discovery.
+- Specializing in multi-agent AI, AI research automation, and emerging AI technologies.
+
+-> Expanding AI Engineering Skills  
+- Deepening expertise in C++, Go, MLOps, and AI scalability.
+- Developing high-performance AI architectures for real-world applications.
 
 ---
+
+## 🚀 Featured Projects
+📌 **[Agentic AI Systems](https://github.com/YanCotta/AgenticAIPortfolio)**  
+A portfolio showcasing my projects related to the engineering and deployment of AI-Agents and Multi-AI-Agents automation systems utilizing numerous frameworks.
+
+📌 **[Gene Expression Analysis Tool](https://github.com/YanCotta/GeneExpressionAnalysisTool)**  
+A professional-grade gene expression analysis toolkit implementing robust statistical methods and machine learning algorithms, optimized for high-performance computing environments.
+
+📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
+A high-performance Python library for comprehensive DNA sequence analysis, providing industrial-grade molecular biology and bioinformatics capabilities.
+
+---
+
 ## 🌍 Global Communication
 <div align="center">
   <table>
