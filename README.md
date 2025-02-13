@@ -73,6 +73,10 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+### 🗄️ Database Technologies
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### ⚙️ Systems Engineering
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -82,10 +86,6 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge&logo=github-actions&logoColor=white)
 ![LLMOps](https://img.shields.io/badge/LLMOps-4B8BBE?style=for-the-badge&logo=amazonecs&logoColor=white)
-
-### 🗄️ Database Technologies
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
