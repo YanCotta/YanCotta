@@ -50,7 +50,16 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+### ⚙️ Systems Engineering
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge&logo=github-actions&logoColor=white)
+![LLMOps](https://img.shields.io/badge/LLMOps-4B8BBE?style=for-the-badge&logo=amazonecs&logoColor=white)
+
 
 ### 🧮 Core ML & AI
 
@@ -76,16 +85,6 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ### 🗄️ Database Technologies
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Systems Engineering
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLOps](https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge&logo=github-actions&logoColor=white)
-![LLMOps](https://img.shields.io/badge/LLMOps-4B8BBE?style=for-the-badge&logo=amazonecs&logoColor=white)
 
 </div>
 
