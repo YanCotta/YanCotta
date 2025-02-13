@@ -82,6 +82,12 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
   <img src="https://img.shields.io/badge/LLMOps-4B8BBE?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
+### Database Technologies
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
 </div>
 
 ---
