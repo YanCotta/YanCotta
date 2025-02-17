@@ -13,6 +13,7 @@
 I understand artificial intelligence not just as a tool, but as an evolving, adaptive system—one that mirrors the intelligence found in nature. My ability to navigate and adapt to the ever-changing landscape of AI stems from a deep understanding of natural intelligence, rooted in biological, cognitive, and philosophical complex systems:
 
 🧬 Biological Systems: Life itself is a self-optimizing, adaptable network of interconnected processes. With a license in Biological Sciences, I’ve explored how living systems self-organize, process information, and optimize resources—principles that are fundamental to AI development.
+
 🧠 Cognitive Systems: Intelligence is more than computation; it’s the ability to learn, reason, and adapt. My studies in Philosophy of Mind, Cognitive Sciences, and the Psychology of Learning provide a foundation for understanding how intelligence emerges and evolves.
 
 AI is reshaping science—from genomics to cognitive modeling to environmental intelligence—but many AI models fail to integrate domain-specific knowledge effectively. That’s where I come in. My mission is to bridge the gap between AI and domain expertise, ensuring that machine learning systems are not just powerful, but meaningful in real-world applications.
