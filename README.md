@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20%26%20Machine%20Learning%20Engineer;AI%20Generalist;Agentic%20AI%20Engineer;Cognitive%20Scientist;Full%20Stack%20Data%20Scientist;Bioinformatics%20Developer;Software%20Developer;Biologist%20and%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer;AI%20Generalist;AI%20for%20Science%20and%20Industry;Data%20Scientist;Biologist%20&%20Biotechnologist;Philosopher%20of%20Mind&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
 ---
