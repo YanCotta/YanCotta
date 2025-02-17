@@ -10,7 +10,10 @@
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
 
-I’ve always been drawn to Complex Systems—whether in Philosophy, Biology, Cognitive Sciences or AI. My journey began in Philosophy of Mind, where I explored how intelligence categorizes, adapts, and learns. When the pandemic disrupted my academic path, I pivoted—immersing myself in Biological & Ecological Complex Systems to understand how life itself works. Then, I realized that intelligence—whether philosophical, biological, or artificial—follows core principles of adaptation and optimization. They are all Complex Systems after all. So, my focus shifted to ML, AI, and automation, applying AI not just to Biology and Cognitive Sciences, but also to problem-solving and amplifying scientific discovery.
+I understand artificial intelligence not just as a tool, but as an evolving, adaptive system—one that mirrors the intelligence found in nature. My ability to navigate and adapt to the ever-changing landscape of AI stems from a deep understanding of natural intelligence, rooted in biological, cognitive, and philosophical complex systems:
+
+🧬 Biological Systems: Life itself is a self-optimizing, adaptable network of interconnected processes. With a license in Biological Sciences, I’ve explored how living systems self-organize, process information, and optimize resources—principles that are fundamental to AI development.
+🧠 Cognitive Systems: Intelligence is more than computation; it’s the ability to learn, reason, and adapt. My studies in Philosophy of Mind, Cognitive Sciences, and the Psychology of Learning provide a foundation for understanding how intelligence emerges and evolves.
 
 AI is reshaping science—from genomics to cognitive modeling to environmental intelligence—but many AI models fail to integrate domain-specific knowledge effectively. That’s where I come in. My mission is to bridge the gap between AI and domain expertise, ensuring that machine learning systems are not just powerful, but meaningful in real-world applications.
 
