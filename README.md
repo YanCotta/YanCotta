@@ -2,13 +2,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20%26%20AI%20Engineer;AI%20for%20Science%20%26%20Industry;LLMs%2C%20Deep%20Learning%20%26%20AI%20Agents;RAG%2C%20LLMOps%20%26%20MLOps;Cognitive%20Science%20%26%20Philosophy%20of%20Mind;Bioinformatics%20%26%20Biotechnology&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20%26%20AI%20Engineer;AI%20for%20Science%20%26%20Industry;LLMs%2C%20Deep%20Learning%20%26%20AI%20Agents;RAG%2C%20LLMOps%20%26%20MLOps;Cognitive%20Sciences%20%26%20Philosophy%20of%20Mind;Bioinformatics%20%26%20Biotechnology&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
 ---
 
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
+
+Machine Learning & AI Engineer | AI for Science & Industry | LLMs, Deep Learning & AI Agents | RAG, LLMOps & MLOps | Cognitive Science & Philosophy of Mind | Bioinformatics & Biotechnology
 
 I understand artificial intelligence not just as a tool, but as an evolving, adaptive system—one that mirrors the intelligence found in nature. My ability to navigate and adapt to the ever-changing landscape of AI stems from a deep understanding of natural intelligence, rooted in biological, cognitive, and philosophical complex systems:
 
