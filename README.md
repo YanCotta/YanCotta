@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20%26%20AI%20Engineer;AI%20for%20Science%20%26%20Industry;LLMs%2C%20Deep%20Learning%20%26%20AI%20Agents;RAG%2C%20LLMOps%20%26%20MLOps;Cognitive%20Sciences%20%26%20Philosophy%20of%20Mind;Bioinformatics%20%26%20Biotechnology&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer%20%26%20AI%20Architect;Agentic%20AI%20%26%20Multi-Agent%20Systems;LLMOps%20%26%20MLOps;Cognitive%20Science%20%26%20Philosophy%20of%20Mind;Bioinformatics%20%26%20Biotechnology&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
 
-Machine Learning & AI Engineer | AI for Science & Industry | LLMs, Deep Learning & AI Agents | RAG, LLMOps & MLOps | Cognitive Science & Philosophy of Mind | Bioinformatics & Biotechnology
+Machine Learning Engineer & AI Architect | Agentic AI & Multi-Agent Systems | LLMOps & MLOps | Cognitive Science & Philosophy of Mind | Bioinformatics & Biotechnology
 
 I understand artificial intelligence not just as a tool, but as an evolving, adaptive system—one that mirrors the intelligence found in nature. My ability to navigate and adapt to the ever-changing landscape of AI stems from a deep understanding of natural intelligence, rooted in biological, cognitive, and philosophical complex systems:
 
@@ -61,11 +61,8 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge&logo=github-actions&logoColor=white)
 ![LLMOps](https://img.shields.io/badge/LLMOps-4B8BBE?style=for-the-badge&logo=amazonecs&logoColor=white)
-
 
 ### 🧮 Core ML & AI
 
@@ -73,6 +70,7 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)
 
 ### 🧠 LLM & Agentic AI
 
@@ -88,9 +86,35 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
+### 🌐 Frontend Development
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔧 Backend Frameworks & Tools
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2E7D32?style=for-the-badge&logo=python&logoColor=white)
+
 ### 🗄️ Database Technologies
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### 🚀 DevOps & Deployment
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
