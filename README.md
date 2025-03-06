@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=120&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=160&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer%20%26%20AI%20Architect;Agentic%20AI%20%26%20Multi-Agent%20Systems;LLMOps%20%26%20MLOps;Cognitive%20Science%20%26%20Philosophy%20of%20Mind;Bioinformatics%20%26%20Biotechnology&font=Fira%20Code&center=true&width=440&height=45&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer%20%26%20AI%20Architect;Agentic%20AI%20%26%20Multi-Agent%20Systems;LLMOps%20%26%20MLOps;Cognitive%20Science%20%26%20Philosophy%20of%20Mind;Bioinformatics%20%26%20Biotechnology&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
 ---
+
 
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
@@ -180,8 +182,14 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 - Developing high-performance AI architectures for real-world applications.
 
 ---
-
 ## 🚀 Featured Projects
+
+📌 **[Invoice Automation System](https://github.com/YanCotta/invoice-automation-system)**  
+Developed an AI-driven invoice processing system for a stealth startup's technical challenge. Features three variants: Streamlit (prototype), Next.js Main (production-ready), and Next.js Feature (scalable with SQLite/AWS S3). Reduced processing time by 75%.
+
+📌 **[Machine Learning Portfolio](https://github.com/YanCotta/MachineLearningPortfolio)**  
+This repository showcases my growing expertise in machine learning and AI. It includes projects demonstrating core algorithms and techniques, such as regression, classification, clustering, NLP, Deep Learning, and others. Each project is accompanied by detailed documentation to highlight objectives, methodologies, and insights gained.
+
 📌 **[Agentic AI Systems](https://github.com/YanCotta/AgenticAIPortfolio)**  
 A portfolio showcasing my projects related to the engineering and deployment of AI-Agents and Multi-AI-Agents automation systems utilizing numerous frameworks.
 
