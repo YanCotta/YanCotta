@@ -136,7 +136,7 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2025_--_Present-ML_&_AI_Engineer_@_Factored-0077B5?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2024_--_Present-SOTA_LLMs_Trainer_@_Outlier-0077B5?style=for-the-badge" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/2024_--_2026-Advanced_AI_&_ML_@_FIAP-0077B5?style=for-the-badge" />
@@ -144,7 +144,7 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2024_--_Present-SOTA_LLMs_Trainer_@_Outlier-0077B5?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2022_--_2024-Environmental_Analyst_@_Impaakt-4CAF50?style=for-the-badge" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/2024_--_Ongoing-ML_&_AI_Certifications-0077B5?style=for-the-badge" />
@@ -152,7 +152,7 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2022_--_2024-Environmental_Analyst_@_Impaakt-4CAF50?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-9C27B0?style=for-the-badge" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/2022_--_2025-Biological_Sciences_@_UniAcademia-4CAF50?style=for-the-badge" />
@@ -160,17 +160,10 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-9C27B0?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_of_Mind_@_GSU-9C27B0?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
         <img src="https://img.shields.io/badge/2018_--_2019-Restaurant_Manager-FF9800?style=for-the-badge" />
       </td>
       <td align="center">
+        <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_of_Mind_@_GSU-9C27B0?style=for-the-badge" />
       </td>
     </tr>
   </table>
