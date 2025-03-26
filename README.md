@@ -12,7 +12,7 @@
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
 
-Machine Learning Engineer & AI Architect | Agentic AI & Multi-Agent Systems | LLMOps & MLOps | Cognitive Science & Philosophy of Mind | Bioinformatics & Biotechnology
+AI Architect & ML Engineer | Agentic AI Specialist & AI Consultant | LLMOps & MLOps | Biologist & Cognitive Scientist
 
 I understand artificial intelligence not just as a tool, but as an evolving, adaptive system—one that mirrors the intelligence found in nature. My ability to navigate and adapt to the ever-changing landscape of AI stems from a deep understanding of natural intelligence, rooted in biological, cognitive, and philosophical complex systems:
 
