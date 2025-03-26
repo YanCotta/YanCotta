@@ -170,22 +170,10 @@ AI is reshaping science—from genomics to cognitive modeling to environmental i
 </div>
 
 ---
-
-## 🚀 Current 2025 Focus
--> AI for Science, Research and Development  
-- Advancing AI applications for bioinformatics, genomics, and cognitive AI research.
-- Designing AI-powered research assistants that accelerate discovery.
-- Specializing in multi-agent AI, AI research automation, and emerging AI technologies.
-
--> Expanding AI Engineering Skills  
-- Deepening expertise in C++, Go, MLOps, and AI scalability.
-- Developing high-performance AI architectures for real-world applications.
-
----
 ## 🚀 Featured Projects
 
-📌 **[Invoice Automation System](https://github.com/YanCotta/invoice-automation-system)**  
-Developed an AI-driven invoice processing system for a stealth startup's technical challenge. Features three variants: Streamlit (prototype), Next.js Main (production-ready), and Next.js Feature (scalable with SQLite/AWS S3). Reduced processing time by 75%.
+📌 **[Invoice Automation System](https://github.com/YanCotta/agentic_invoice_system_final_version)**  
+Developed a multi-agentic orchastrated workflow invoice processing system for a stealth startup's technical challenge. Features three variants: Streamlit (prototype), Next.js Main (production-ready), and Next.js Feature (scalable with SQLite/AWS S3). Reduced processing time by 85%.
 
 📌 **[Machine Learning Portfolio](https://github.com/YanCotta/MachineLearningPortfolio)**  
 This repository showcases my growing expertise in machine learning and AI. It includes projects demonstrating core algorithms and techniques, such as regression, classification, clustering, NLP, Deep Learning, and others. Each project is accompanied by detailed documentation to highlight objectives, methodologies, and insights gained.
