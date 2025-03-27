@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20Engineer%20%26%20AI%20Architect;Agentic%20AI%20%26%20Multi-Agent%20Systems;LLMOps%20%26%20MLOps;Cognitive%20Science%20%26%20Philosophy%20of%20Mind;Bioinformatics%20%26%20Biotechnology&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
----
-
-AI Architect, ML Engineer & Data Scientist | Agentic AI, LLMOps & MLOps | Biologist & Cognitive Scientist
 
 ## 🌍 About Me
 "In an era where accelerated AI demands more than mere advantage, adaptability is the foundation of innovation."
