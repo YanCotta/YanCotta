@@ -7,24 +7,28 @@
 </p>
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="1" cellpadding="5">
     <tr>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=Neural+Networks;Deep+Learning;Transformers" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/Neural%20Networks-blue?style=for-the-badge&color=00D4FF" alt="Neural Networks"/>
         <br/>
-        <img width="100%" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/48x48/apps/neural-network.svg" />
+        <img src="https://img.shields.io/badge/Deep%20Learning-darkblue?style=for-the-badge&color=0C4A9D" alt="Deep Learning"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Transformers-lightblue?style=for-the-badge&color=2EBDFF" alt="Transformers"/>
       </td>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=Machine+Learning;Data+Science;Analytics" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&color=00D4FF" alt="Machine Learning"/>
         <br/>
-        <div style="background: linear-gradient(45deg, #0c4a9d, #00d4ff); padding: 15px; border-radius: 50%;">
-          <img width="100%" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" />
-        </div>
+        <img src="https://img.shields.io/badge/Data%20Science-darkblue?style=for-the-badge&color=0C4A9D" alt="Data Science"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Analytics-lightblue?style=for-the-badge&color=2EBDFF" alt="Analytics"/>
       </td>
-      <td align="center" width="33%">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=LLMs;Agentic+AI;RAG" />
+      <td align="center">
+        <img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge&color=00D4FF" alt="LLMs"/>
         <br/>
-        <img width="100%" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" />
+        <img src="https://img.shields.io/badge/Agentic%20AI-darkblue?style=for-the-badge&color=0C4A9D" alt="Agentic AI"/>
+        <br/>
+        <img src="https://img.shields.io/badge/RAG-lightblue?style=for-the-badge&color=2EBDFF" alt="RAG"/>
       </td>
     </tr>
   </table>
