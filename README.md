@@ -6,6 +6,32 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence%20%26%20Data%20Science;Agentic%20AI%20%26%20LLMs;Deep%20Learning%20%26%20Machine%20Learning;MLOps%20%26%20LLMOps;Biological%20%26%20Cognitive%20Sciences&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=Neural+Networks;Deep+Learning;Transformers" />
+        <br/>
+        <img width="100%" src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/Papirus/48x48/apps/neural-network.svg" />
+      </td>
+      <td align="center" width="33%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=Machine+Learning;Data+Science;Analytics" />
+        <br/>
+        <div style="background: linear-gradient(45deg, #0c4a9d, #00d4ff); padding: 15px; border-radius: 50%;">
+          <img width="100%" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tensorflow.svg" />
+        </div>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=200&lines=LLMs;Agentic+AI;RAG" />
+        <br/>
+        <img width="100%" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a9d,100:00d4ff&height=2&section=header" width="80%" />
+</div>
+
 ## 🌍 About Me
 "In an era of accelerated AI, adaptability drives innovation."
 
@@ -46,6 +72,7 @@ I approach AI as an evolving, adaptive system, drawing parallels from natural in
     </tr>
   </table>
 </div>
+
 ## 🛠 Tech Stack & Tools
 
 <div align="center">
