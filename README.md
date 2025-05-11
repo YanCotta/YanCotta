@@ -145,14 +145,20 @@ I approach AI as an evolving, adaptive system, drawing parallels from natural in
 
 ## 🚀 Featured Projects
 
-📌 **[Fullstack Invoice Automation](https://github.com/YanCotta/agentic_invoice_system_final_version)**  
-Built a multi-agent system with Streamlit, Next.js/React, and AWS, reducing invoice processing time by 85%.
+📌 **[Fullstack Multi-Agentic Invoice Automation](https://github.com/YanCotta/agentic_invoice_system_final_version)**  
+Built a multi-agent system with Streamlit (version #1), Next.js/React.js/TypeScript (version #2), and AWS integration (version #3), reducing invoice processing time by 85%, for a british company.
+
+📌 **[Smart Leaf Disease Detection](https://github.com/YanCotta/SDS-CP028-smart-leaf)**  
+Deep Learning solution for classifying 14 crop diseases using CNN, optimized for crops like corn, potato, rice, and wheat; Project from a community of Data Scientists (SuperDataScience)
 
 📌 **[Machine Learning Portfolio](https://github.com/YanCotta/MachineLearningPortfolio)**  
-Showcases ML projects (regression, NLP, deep learning, etc) applied to real-world scenarios.
+Showcases ML projects (Supervised, Unsupervised, Reinforcement, Semi-Supervised Learning; Deep Learning, etc) applied to real-world scenarios.
 
 📌 **[Agentic AI Portfolio](https://github.com/YanCotta/AgenticAIPortfolio)**  
-Features multi-agent systems for automation using CrewAI, LangChain, and AutoGen.
+Features multi-agent systems for automation using CrewAI, LangChain, and AutoGen; and also a multi-agentic system made from scratch.
+
+📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
+A comprehensive Python tool for DNA sequence analysis providing molecular biology and bioinformatics functions.
 
 📌 **[Advanced RAG Techniques](https://github.com/YanCotta/AdvancedRAG)**  
 Implements cutting-edge RAG workflows with TruLens evaluation.
@@ -160,11 +166,7 @@ Implements cutting-edge RAG workflows with TruLens evaluation.
 📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessmentTool)**  
 Uses ensemble ML and deep learning for climate risk prediction.
 
-📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
-A comprehensive Python tool for DNA sequence analysis providing molecular biology and bioinformatics functions.
-
-📌 **[Smart Leaf Disease Detection](https://github.com/YanCotta/SDS-CP028-smart-leaf)**  
-Deep learning solution for classifying 14 crop diseases using CNN, optimized for crops like corn, potato, rice, and wheat.
+More projects on my Repositories!
 
 ---
 
