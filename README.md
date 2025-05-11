@@ -149,7 +149,7 @@ I approach AI as an evolving, adaptive system, drawing parallels from natural in
 Built a multi-agent system with Streamlit, Next.js/React, and AWS, reducing invoice processing time by 85%.
 
 📌 **[Machine Learning Portfolio](https://github.com/YanCotta/MachineLearningPortfolio)**  
-Showcases ML projects (regression, NLP, deep learning) applied to real-world scenarios.
+Showcases ML projects (regression, NLP, deep learning, etc) applied to real-world scenarios.
 
 📌 **[Agentic AI Portfolio](https://github.com/YanCotta/AgenticAIPortfolio)**  
 Features multi-agent systems for automation using CrewAI, LangChain, and AutoGen.
@@ -159,6 +159,12 @@ Implements cutting-edge RAG workflows with TruLens evaluation.
 
 📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessment)**  
 Uses ensemble ML and deep learning for climate risk prediction.
+
+📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
+A comprehensive Python tool for DNA sequence analysis providing molecular biology and bioinformatics functions.
+
+📌 **[Smart Leaf Disease Detection](https://github.com/YanCotta/SDS-CP028-smart-leaf)**  
+Deep learning solution for classifying 14 crop diseases using CNN, optimized for crops like corn, potato, rice, and wheat.
 
 ---
 
