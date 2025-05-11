@@ -5,35 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence%20%26%20Data%20Science;Agentic%20AI%20%26%20LLMs;Deep%20Learning%20%26%20Machine%20Learning;MLOps%20%26%20LLMOps;Biological%20%26%20Cognitive%20Sciences&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/64%25-Model_Accuracy-00D4FF?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/10K+-Parameters-0C4A9D?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/99%25-Training_Completion-2EBDFF?style=for-the-badge" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/87%25-Pipeline_Efficiency-00D4FF?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/24/7-System_Uptime-0C4A9D?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/500+-Daily_Processes-2EBDFF?style=for-the-badge" />
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/95%25-Task_Completion-00D4FF?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/1M+-Data_Points-0C4A9D?style=for-the-badge" />
-        <br/><br/>
-        <img src="https://img.shields.io/badge/100+-Active_Agents-2EBDFF?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-  
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0c4a9d,100:00d4ff&height=2&section=header" width="80%" />
-</div>
 
 ## 🌍 About Me
 "In an era of accelerated AI, adaptability drives innovation."
