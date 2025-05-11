@@ -157,7 +157,7 @@ Features multi-agent systems for automation using CrewAI, LangChain, and AutoGen
 📌 **[Advanced RAG Techniques](https://github.com/YanCotta/AdvancedRAG)**  
 Implements cutting-edge RAG workflows with TruLens evaluation.
 
-📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessment)**  
+📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessmentTool)**  
 Uses ensemble ML and deep learning for climate risk prediction.
 
 📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
