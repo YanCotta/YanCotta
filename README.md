@@ -5,30 +5,29 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence%20%26%20Data%20Science;Agentic%20AI%20%26%20LLMs;Deep%20Learning%20%26%20Machine%20Learning;MLOps%20%26%20LLMOps;Biological%20%26%20Cognitive%20Sciences&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
-
 <div align="center">
-  <table border="0" cellspacing="1" cellpadding="5">
+  <table>
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Neural%20Networks-blue?style=for-the-badge&color=00D4FF" alt="Neural Networks"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Deep%20Learning-darkblue?style=for-the-badge&color=0C4A9D" alt="Deep Learning"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Transformers-lightblue?style=for-the-badge&color=2EBDFF" alt="Transformers"/>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/64%25-Model_Accuracy-00D4FF?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/10K+-Parameters-0C4A9D?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/99%25-Training_Completion-2EBDFF?style=for-the-badge" />
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&color=00D4FF" alt="Machine Learning"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Data%20Science-darkblue?style=for-the-badge&color=0C4A9D" alt="Data Science"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Analytics-lightblue?style=for-the-badge&color=2EBDFF" alt="Analytics"/>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/87%25-Pipeline_Efficiency-00D4FF?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/24/7-System_Uptime-0C4A9D?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/500+-Daily_Processes-2EBDFF?style=for-the-badge" />
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/LLMs-blue?style=for-the-badge&color=00D4FF" alt="LLMs"/>
-        <br/>
-        <img src="https://img.shields.io/badge/Agentic%20AI-darkblue?style=for-the-badge&color=0C4A9D" alt="Agentic AI"/>
-        <br/>
-        <img src="https://img.shields.io/badge/RAG-lightblue?style=for-the-badge&color=2EBDFF" alt="RAG"/>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/95%25-Task_Completion-00D4FF?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/1M+-Data_Points-0C4A9D?style=for-the-badge" />
+        <br/><br/>
+        <img src="https://img.shields.io/badge/100+-Active_Agents-2EBDFF?style=for-the-badge" />
       </td>
     </tr>
   </table>
