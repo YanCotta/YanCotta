@@ -151,6 +151,9 @@ Built a multi-agent system with Streamlit (version #1), Next.js/React.js/TypeScr
 📌 **[Smart Leaf Disease Detection](https://github.com/YanCotta/SDS-CP028-smart-leaf)**  
 Deep Learning solution for classifying 14 crop diseases using CNN, optimized for crops like corn, potato, rice, and wheat; Project from a community of Data Scientists (SuperDataScience)
 
+📌 **[Local RAG Chat App](https://github.com/YanCotta/local_rag_chat_app)**  
+A fully local, privacy-friendly RAG-powered chat app using Reflex, LangChain, Huggingface, FAISS, and Ollama.
+
 📌 **[Machine Learning Portfolio](https://github.com/YanCotta/MachineLearningPortfolio)**  
 Showcases ML projects (Supervised, Unsupervised, Reinforcement, Semi-Supervised Learning; Deep Learning, etc) applied to real-world scenarios.
 
@@ -159,9 +162,6 @@ Features multi-agent systems for automation using CrewAI, LangChain, and AutoGen
 
 📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
 A comprehensive Python tool for DNA sequence analysis providing molecular biology and bioinformatics functions.
-
-📌 **[Advanced RAG Techniques](https://github.com/YanCotta/AdvancedRAG)**  
-Implements cutting-edge RAG workflows with TruLens evaluation.
 
 📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessmentTool)**  
 Uses ensemble ML and deep learning for climate risk prediction.
