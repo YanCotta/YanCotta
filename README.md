@@ -145,6 +145,12 @@ I approach AI as an evolving, adaptive system, drawing parallels from natural in
 
 ## 🚀 Featured Projects
 
+📌 **[National Resilience Platform](https://github.com/YanCotta/global_solution_1_fiap)**  
+A visionary national resilience platform for Brazil that fuses advanced Agentic AI with Brazilian folklore. Features a multi-agent system where five autonomous "Guardians" work in synergy to predict, manage, and respond to complex events like wildfires, epidemics, and infrastructure failures.
+
+📌 **[Predictive Maintenance SaaS](https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply)**  
+A predictive maintenance SaaS platform driven by a custom-built multi-agent AI system. Leverages PostgreSQL with TimescaleDB for high-performance time-series data handling and features intelligent agents for anomaly detection and failure prediction.
+
 📌 **[Fullstack Multi-Agentic Invoice Automation](https://github.com/YanCotta/agentic_invoice_system_final_version)**  
 Built a multi-agent system with Streamlit (version #1), Next.js/React.js/TypeScript (version #2), and AWS integration (version #3), reducing invoice processing time by 85%, for a british company.
 
@@ -166,7 +172,7 @@ A comprehensive Python tool for DNA sequence analysis providing molecular biolog
 📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessmentTool)**  
 Uses ensemble ML and deep learning for climate risk prediction.
 
-More projects on my Repositories!
+Many more projects on my Repositories!!!!
 
 ---
 
