@@ -9,7 +9,9 @@
 ## 🌍 About Me
 "In an era of accelerated AI, adaptability drives innovation."
 
-I approach AI as an evolving, adaptive system, drawing parallels from natural intelligence to create robust, meaningful solutions. My interdisciplinary expertise—spanning biological, cognitive, and philosophical systems—enables me to bridge AI with real-world applications.
+I build adaptive AI systems that bridge the gap between human intelligence and machine capability. My unique background in biological and cognitive sciences isn't just academic—it's the foundation of my engineering philosophy, allowing me to architect intuitive, robust, and meaningful AI solutions.
+
+My focus is on turning complex concepts into production-ready reality. I am passionate about the entire AI lifecycle, from crafting intelligent agents to deploying them with robust MLOps practices. I thrive on solving challenging problems and am always looking to connect with teams who are building the future of AI.
 
 **🧬 Biological Systems**: Life itself is a self-optimizing, adaptable network of interconnected processes. With a license in Biological Sciences from UniAcademia, I’ve explored how living systems self-organize, process information, and optimize resources—principles that are fundamental to AI development.
 
@@ -46,36 +48,129 @@ I approach AI as an evolving, adaptive system, drawing parallels from natural in
     </tr>  </table>
 </div>
 
-## 🚀 Featured Projects
+## 🚀 My Featured Projects
+Here are a few projects I'm proud of. They showcase my skills in Agentic AI, full-stack development, and deep learning.
 
-📌 **[National Resilience Platform](https://github.com/YanCotta/global_solution_1_fiap)**  
-A visionary national resilience platform for Brazil that fuses advanced Agentic AI with Brazilian folklore. Features a multi-agent system where five autonomous "Guardians" work in synergy to predict, manage, and respond to complex events like wildfires, epidemics, and infrastructure failures.
+<table>
+  <tbody>
+    <tr>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/global_solution_1_fiap">🇧🇷 National Resilience Platform</a></h3>
+        <p>A multi-agent AI system that predicts and manages national-scale events like wildfires and epidemics by fusing AI with Brazilian folklore concepts.</p>
+        <ul>
+          <li>Engineered 5 autonomous agents (Guardians) to work in synergy.</li>
+          <li>Built a fully operational MVP for wildfire prediction using real-time sensor data.</li>
+        </ul>
+        <p align="center">
+          <code>Agentic AI</code> <code>Python</code> <code>Scikit-learn</code> <code>FastAPI</code> <code>Docker</code> <code>MicroPython</code>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply">⚙️ Predictive Maintenance SaaS</a></h3>
+        <p>A multi-agent AI platform for industrial IoT that predicts machine failures and automates maintenance scheduling.</p>
+        <ul>
+          <li>Built from scratch without third-party agentic frameworks.</li>
+          <li>Leverages TimescaleDB for high-performance time-series data analysis.</li>
+        </ul>
+        <p align="center">
+          <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>TimescaleDB</code> <code>Docker</code> <code>Streamlit</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/agentic_invoice_system_final_version">📄 Full-Stack Invoice Automation</a></h3>
+        <p>An AI-powered system that automates invoice processing for a UK company, drastically reducing manual effort.</p>
+        <ul>
+          <li><strong>Reduced processing time by over 85%.</strong></li>
+          <li>Uses RAG with FAISS for intelligent error classification.</li>
+        </ul>
+        <p align="center">
+          <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>AWS</code> <code>LangChain</code> <code>Streamlit</code>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/DNASequenceAnalysisTool">🧬 DNA Sequence Analysis Tool</a></h3>
+        <p>A high-performance Python library providing industrial-grade bioinformatics capabilities for DNA and RNA analysis.</p>
+        <ul>
+          <li>Features include ORF detection, sequence alignment, and melting temperature calculation.</li>
+          <li>Combines my expertise in biology and software engineering.</li>
+        </ul>
+        <p align="center">
+          <code>Python</code> <code>Bioinformatics</code> <code>OOP</code> <code>Pytest</code>
+        </p>
+      </td>
+    </tr>
+     <tr>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/SDS-CP028-smart-leaf">🌿 Smart Leaf Disease Detection</a></h3>
+        <p>A Deep Learning solution that classifies 14 different crop diseases from leaf images with high accuracy.</p>
+        <ul>
+          <li>Trained a CNN on 13,000+ images of corn, potato, rice, and wheat.</li>
+          <li>Deployed via Streamlit for a user-friendly, real-time prediction interface.</li>
+        </ul>
+        <p align="center">
+          <code>Deep Learning</code> <code>CNN</code> <code>TensorFlow</code> <code>Python</code> <code>Streamlit</code>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/AgenticAIPortfolio">🤖 Agentic AI Portfolio</a></h3>
+        <p>A collection of advanced multi-agent systems for automation and complex problem-solving.</p>
+        <ul>
+          <li>Features projects built with CrewAI, LangChain, and AutoGen.</li>
+          <li>Includes a multi-agent system built entirely from scratch.</li>
+        </ul>
+        <p align="center">
+          <code>CrewAI</code> <code>LangChain</code> <code>AutoGen</code> <code>Python</code> <code>LLMs</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/local_rag_chat_app">💬 Local RAG Chat App</a></h3>
+        <p>A fully local, privacy-friendly RAG-powered chat application that runs entirely on your machine.</p>
+        <ul>
+          <li>Built with Reflex for modern web interface and seamless user experience.</li>
+          <li>Uses Ollama for local LLM inference and FAISS for vector search.</li>
+        </ul>
+        <p align="center">
+          <code>Reflex</code> <code>LangChain</code> <code>HuggingFace</code> <code>FAISS</code> <code>Ollama</code> <code>RAG</code>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/MachineLearningPortfolio">📊 Machine Learning Portfolio</a></h3>
+        <p>A comprehensive showcase of ML projects spanning supervised, unsupervised, and reinforcement learning techniques.</p>
+        <ul>
+          <li>Includes deep learning, semi-supervised learning, and ensemble methods.</li>
+          <li>Applied to real-world scenarios across various domains and industries.</li>
+        </ul>
+        <p align="center">
+          <code>Python</code> <code>Scikit-learn</code> <code>TensorFlow</code> <code>PyTorch</code> <code>XGBoost</code> <code>Pandas</code>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/ClimateRiskAssessmentTool">🌍 Climate Risk Assessment</a></h3>
+        <p>An advanced climate risk prediction system using ensemble machine learning and deep learning techniques.</p>
+        <ul>
+          <li>Combines multiple ML models for robust climate risk forecasting.</li>
+          <li>Integrates environmental data sources for comprehensive analysis.</li>
+        </ul>
+        <p align="center">
+          <code>Python</code> <code>Ensemble ML</code> <code>Deep Learning</code> <code>Climate Data</code> <code>Risk Assessment</code>
+        </p>
+      </td>
+      <td width="50%">
+        <!-- This cell can be used for future projects -->
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-📌 **[Predictive Maintenance SaaS](https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply)**  
-A predictive maintenance SaaS platform driven by a custom-built multi-agent AI system. Leverages PostgreSQL with TimescaleDB for high-performance time-series data handling and features intelligent agents for anomaly detection and failure prediction.
-
-📌 **[Fullstack Multi-Agentic Invoice Automation](https://github.com/YanCotta/agentic_invoice_system_final_version)**  
-Built a multi-agent system with Streamlit (version #1), Next.js/React.js/TypeScript (version #2), and AWS integration (version #3), reducing invoice processing time by 85%, for a british company.
-
-📌 **[Smart Leaf Disease Detection](https://github.com/YanCotta/SDS-CP028-smart-leaf)**  
-Deep Learning solution for classifying 14 crop diseases using CNN, optimized for crops like corn, potato, rice, and wheat; Project from a community of Data Scientists (SuperDataScience)
-
-📌 **[Local RAG Chat App](https://github.com/YanCotta/local_rag_chat_app)**  
-A fully local, privacy-friendly RAG-powered chat app using Reflex, LangChain, Huggingface, FAISS, and Ollama.
-
-📌 **[Machine Learning Portfolio](https://github.com/YanCotta/MachineLearningPortfolio)**  
-Showcases ML projects (Supervised, Unsupervised, Reinforcement, Semi-Supervised Learning; Deep Learning, etc) applied to real-world scenarios.
-
-📌 **[Agentic AI Portfolio](https://github.com/YanCotta/AgenticAIPortfolio)**  
-Features multi-agent systems for automation using CrewAI, LangChain, and AutoGen; and also a multi-agentic system made from scratch.
-
-📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
-A comprehensive Python tool for DNA sequence analysis providing molecular biology and bioinformatics functions.
-
-📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessmentTool)**  
-Uses ensemble ML and deep learning for climate risk prediction.
-
-Many more projects on my Repositories!!!!
+<div align="center">
+... and many more projects in my repositories!
+</div>
 
 ---
 
