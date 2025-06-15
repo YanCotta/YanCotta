@@ -48,7 +48,7 @@ My focus is on turning complex concepts into production-ready reality. I am pass
     </tr>  </table>
 </div>
 
-## � Professional Timeline
+## Professional Timeline
 
 <div align="center">
   <table>
@@ -89,7 +89,7 @@ My focus is on turning complex concepts into production-ready reality. I am pass
 
 ---
 
-## �🚀 My Featured Projects
+## 🚀 My Featured Projects
 Here are a few projects I'm proud of. They showcase my skills in Agentic AI, full-stack development, and deep learning.
 
 <table>
