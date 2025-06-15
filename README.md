@@ -48,7 +48,48 @@ My focus is on turning complex concepts into production-ready reality. I am pass
     </tr>  </table>
 </div>
 
-## 🚀 My Featured Projects
+## � Professional Timeline
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🏢 Professional Experience</h3>
+      </td>
+      <td align="center" width="50%">
+        <h3>🎓 Academic Background</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2024_--_Present-AI_Trainer_@_Outlier-0077B5?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2024_--_2026-Advanced_AI_&_ML_@_FIAP-0077B5?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2022_--_2024-Ecological_Analyst_@_Impaakt-4CAF50?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2022_--_2025-Biological_Sciences_@_UniAcademia-4CAF50?style=for-the-badge" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-9C27B0?style=for-the-badge" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_&_Psychology_@_GSU-9C27B0?style=for-the-badge" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## �🚀 My Featured Projects
 Here are a few projects I'm proud of. They showcase my skills in Agentic AI, full-stack development, and deep learning.
 
 <table>
@@ -278,47 +319,6 @@ Here are a few projects I'm proud of. They showcase my skills in Agentic AI, ful
 ![Flake8](https://img.shields.io/badge/Flake8-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black)
 
-</div>
-
----
-
-## 📈 Professional Timeline
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🏢 Professional Experience</h3>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎓 Academic Background</h3>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2024_--_Present-AI_Trainer_@_Outlier-0077B5?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2024_--_2026-Advanced_AI_&_ML_@_FIAP-0077B5?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2022_--_2024-Ecological_Analyst_@_Impaakt-4CAF50?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2022_--_2025-Biological_Sciences_@_UniAcademia-4CAF50?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-9C27B0?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_&_Psychology_@_GSU-9C27B0?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
