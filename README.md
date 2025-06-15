@@ -43,9 +43,41 @@ I approach AI as an evolving, adaptive system, drawing parallels from natural in
         <img src="https://img.shields.io/badge/84%25-Productivity_Gain-purple?style=for-the-badge" />
         <br> Research Workflow Optimization
       </td>
-    </tr>
-  </table>
+    </tr>  </table>
 </div>
+
+## 🚀 Featured Projects
+
+📌 **[National Resilience Platform](https://github.com/YanCotta/global_solution_1_fiap)**  
+A visionary national resilience platform for Brazil that fuses advanced Agentic AI with Brazilian folklore. Features a multi-agent system where five autonomous "Guardians" work in synergy to predict, manage, and respond to complex events like wildfires, epidemics, and infrastructure failures.
+
+📌 **[Predictive Maintenance SaaS](https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply)**  
+A predictive maintenance SaaS platform driven by a custom-built multi-agent AI system. Leverages PostgreSQL with TimescaleDB for high-performance time-series data handling and features intelligent agents for anomaly detection and failure prediction.
+
+📌 **[Fullstack Multi-Agentic Invoice Automation](https://github.com/YanCotta/agentic_invoice_system_final_version)**  
+Built a multi-agent system with Streamlit (version #1), Next.js/React.js/TypeScript (version #2), and AWS integration (version #3), reducing invoice processing time by 85%, for a british company.
+
+📌 **[Smart Leaf Disease Detection](https://github.com/YanCotta/SDS-CP028-smart-leaf)**  
+Deep Learning solution for classifying 14 crop diseases using CNN, optimized for crops like corn, potato, rice, and wheat; Project from a community of Data Scientists (SuperDataScience)
+
+📌 **[Local RAG Chat App](https://github.com/YanCotta/local_rag_chat_app)**  
+A fully local, privacy-friendly RAG-powered chat app using Reflex, LangChain, Huggingface, FAISS, and Ollama.
+
+📌 **[Machine Learning Portfolio](https://github.com/YanCotta/MachineLearningPortfolio)**  
+Showcases ML projects (Supervised, Unsupervised, Reinforcement, Semi-Supervised Learning; Deep Learning, etc) applied to real-world scenarios.
+
+📌 **[Agentic AI Portfolio](https://github.com/YanCotta/AgenticAIPortfolio)**  
+Features multi-agent systems for automation using CrewAI, LangChain, and AutoGen; and also a multi-agentic system made from scratch.
+
+📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
+A comprehensive Python tool for DNA sequence analysis providing molecular biology and bioinformatics functions.
+
+📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessmentTool)**  
+Uses ensemble ML and deep learning for climate risk prediction.
+
+Many more projects on my Repositories!!!!
+
+---
 
 ## 🛠 Tech Stack & Tools
 
@@ -186,39 +218,6 @@ I approach AI as an evolving, adaptive system, drawing parallels from natural in
     </tr>
   </table>
 </div>
-
----
-
-## 🚀 Featured Projects
-
-📌 **[National Resilience Platform](https://github.com/YanCotta/global_solution_1_fiap)**  
-A visionary national resilience platform for Brazil that fuses advanced Agentic AI with Brazilian folklore. Features a multi-agent system where five autonomous "Guardians" work in synergy to predict, manage, and respond to complex events like wildfires, epidemics, and infrastructure failures.
-
-📌 **[Predictive Maintenance SaaS](https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply)**  
-A predictive maintenance SaaS platform driven by a custom-built multi-agent AI system. Leverages PostgreSQL with TimescaleDB for high-performance time-series data handling and features intelligent agents for anomaly detection and failure prediction.
-
-📌 **[Fullstack Multi-Agentic Invoice Automation](https://github.com/YanCotta/agentic_invoice_system_final_version)**  
-Built a multi-agent system with Streamlit (version #1), Next.js/React.js/TypeScript (version #2), and AWS integration (version #3), reducing invoice processing time by 85%, for a british company.
-
-📌 **[Smart Leaf Disease Detection](https://github.com/YanCotta/SDS-CP028-smart-leaf)**  
-Deep Learning solution for classifying 14 crop diseases using CNN, optimized for crops like corn, potato, rice, and wheat; Project from a community of Data Scientists (SuperDataScience)
-
-📌 **[Local RAG Chat App](https://github.com/YanCotta/local_rag_chat_app)**  
-A fully local, privacy-friendly RAG-powered chat app using Reflex, LangChain, Huggingface, FAISS, and Ollama.
-
-📌 **[Machine Learning Portfolio](https://github.com/YanCotta/MachineLearningPortfolio)**  
-Showcases ML projects (Supervised, Unsupervised, Reinforcement, Semi-Supervised Learning; Deep Learning, etc) applied to real-world scenarios.
-
-📌 **[Agentic AI Portfolio](https://github.com/YanCotta/AgenticAIPortfolio)**  
-Features multi-agent systems for automation using CrewAI, LangChain, and AutoGen; and also a multi-agentic system made from scratch.
-
-📌 **[DNA Sequence Analysis Tool](https://github.com/YanCotta/DNASequenceAnalysisTool)**  
-A comprehensive Python tool for DNA sequence analysis providing molecular biology and bioinformatics functions.
-
-📌 **[Climate Risk Assessment](https://github.com/YanCotta/ClimateRiskAssessmentTool)**  
-Uses ensemble ML and deep learning for climate risk prediction.
-
-Many more projects on my Repositories!!!!
 
 ---
 
