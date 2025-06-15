@@ -160,9 +160,16 @@ Here are a few projects I'm proud of. They showcase my skills in Agentic AI, ful
         <p align="center">
           <code>Python</code> <code>Ensemble ML</code> <code>Deep Learning</code> <code>Climate Data</code> <code>Risk Assessment</code>
         </p>
-      </td>
-      <td width="50%">
-        <!-- This cell can be used for future projects -->
+      </td>      <td width="50%">
+        <h3 align="center"><a href="https://github.com/YanCotta/AgenticFlow">🚀 AgenticFlow</a></h3>
+        <p>An advanced AI-powered automation platform that streamlines digital communication and content management with intelligent email processing and social media automation.</p>
+        <ul>
+          <li>Automated email processing with AI-powered contextual responses.</li>
+          <li>Multi-platform social media content generation and scheduling.</li>
+        </ul>
+        <p align="center">
+          <code>React.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>CrewAI</code> <code>Tailwind CSS</code> <code>JWT</code>
+        </p>
       </td>
     </tr>
   </tbody>
