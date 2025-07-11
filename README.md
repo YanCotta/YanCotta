@@ -10,9 +10,11 @@
 
 *"In an era of accelerated AI, adaptability drives innovation."*
 
-I am a systems thinker who architects intelligent systems, inspired by the principles of nature and cognition. My approach is rooted in a deep understanding of the most successful systems ever created—those found in biology and the human mind—allowing me to engineer AI that is not only powerful, but also robust, intuitive, and meaningful.
+I am a systems thinker who architects intelligent systems, inspired by the principles of nature and cognition. My approach is rooted in a deep understanding of the most successful systems ever created: those found in biology and the human mind. I leverage first principles from these domains to engineer AI that is not only powerful, but also robust, intuitive, and meaningful.
 
-My focus is on the entire lifecycle, from philosophical ideation to production-ready deployment. I thrive on solving challenging problems and am looking for a team that shares this vision to build the future, responsibly.
+My focus is on the entire lifecycle, from philosophical ideation to production-ready deployment. In my work, I've boosted LLM efficiency by 64% and increased research productivity by 84%. This is not just a job for me; it is the practical application of a lifelong study into the nature of intelligence itself.
+
+As we enter the era of Agentic AI, my mission is to move beyond simply building tools and begin orchestrating intelligent workforces. I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
 
 
 ---
@@ -213,7 +215,7 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-83B81A?style=for-the-badge&logo=xgboost&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -267,6 +269,15 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <img src="https://img.shields.io/badge/Reflex-5c6ac4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+**Testing & Code Quality**
+<br>
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/Locust-83B81A?style=for-the-badge&logo=locust&logoColor=white" />
+<img src="https://img.shields.io/badge/Ruff-222?style=for-the-badge&logo=ruff&logoColor=white" />
+<img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/MyPy-2A5ADA?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" />
 
 </div>
 
