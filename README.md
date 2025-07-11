@@ -7,17 +7,12 @@
 </p>
 
 ## 🌍 About Me
-"In an era of accelerated AI, adaptability drives innovation."
 
-I build adaptive AI systems that bridge the gap between human intelligence and machine capability. My unique background in biological and cognitive sciences isn't just academic—it's the foundation of my engineering philosophy, allowing me to architect intuitive, robust, and meaningful AI solutions.
+*"In an era of accelerated AI, adaptability drives innovation."*
 
-My focus is on turning complex concepts into production-ready reality. I am passionate about the entire AI lifecycle, from crafting intelligent agents to deploying them with robust MLOps practices. I thrive on solving challenging problems and am always looking to connect with teams who are building the future of AI.
+I am a systems thinker who architects intelligent systems, inspired by the principles of nature and cognition. My approach is rooted in a deep understanding of the most successful systems ever created—those found in biology and the human mind—allowing me to engineer AI that is not only powerful, but also robust, intuitive, and meaningful.
 
-**🧬 Biological Systems**: Life itself is a self-optimizing, adaptable network of interconnected processes. With a license in Biological Sciences from UniAcademia, I’ve explored how living systems self-organize, process information, and optimize resources—principles that are fundamental to AI development.
-
-**🧠 Cognitive Systems**: Intelligence is more than computation; it’s the ability to learn, reason, and adapt. My studies at Georgia State University in Philosophy of Mind, Cognitive Sciences, and Psychology provided a foundation for understanding how intelligence emerges and evolves.
-
-**🎓 Artificial Intelligence Systems**: I'm completing a 2-year technologist degree (2025-2026), in advanced AI & ML studies in Brazil's top tech school: FIAP; while getting multiple certifications and taking courses from other plataforms such as Dr. Andrew Ng's DeepLearning.AI, IBM, and SuperDataScience.
+My focus is on the entire lifecycle, from philosophical ideation to production-ready deployment. I thrive on solving challenging problems and am looking for a team that shares this vision to build the future, responsibly.
 
 
 ---
@@ -88,240 +83,192 @@ My focus is on turning complex concepts into production-ready reality. I am pass
 </div>
 
 ---
+## 🚀 Featured Projects
 
-## 🚀 My Featured Projects
-Here are a few projects I'm proud of. They showcase my skills in Agentic AI, full-stack development, and deep learning.
-
-<table>
-  <tbody>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/global_solution_1_fiap">🇧🇷 National Resilience Platform</a></h3>
-        <p>A multi-agent AI system that predicts and manages national-scale events like wildfires and epidemics by fusing AI with Brazilian folklore concepts.</p>
-        <ul>
-          <li>Engineered 5 autonomous agents (Guardians) to work in synergy.</li>
-          <li>Built a fully operational MVP for wildfire prediction using real-time sensor data.</li>
-        </ul>
-        <p align="center">
-          <code>Agentic AI</code> <code>Python</code> <code>Scikit-learn</code> <code>FastAPI</code> <code>Docker</code> <code>MicroPython</code>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply">⚙️ Predictive Maintenance SaaS</a></h3>
-        <p>A multi-agent AI platform for industrial IoT that predicts machine failures and automates maintenance scheduling.</p>
-        <ul>
-          <li>Built from scratch without third-party agentic frameworks.</li>
-          <li>Leverages TimescaleDB for high-performance time-series data analysis.</li>
-        </ul>
-        <p align="center">
-          <code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>TimescaleDB</code> <code>Docker</code> <code>Streamlit</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/agentic_invoice_system_final_version">📄 Full-Stack Invoice Automation</a></h3>
-        <p>An AI-powered system that automates invoice processing for a UK company, drastically reducing manual effort.</p>
-        <ul>
-          <li><strong>Reduced processing time by over 85%.</strong></li>
-          <li>Uses RAG with FAISS for intelligent error classification.</li>
-        </ul>
-        <p align="center">
-          <code>Next.js</code> <code>React</code> <code>TypeScript</code> <code>AWS</code> <code>LangChain</code> <code>Streamlit</code>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/DNASequenceAnalysisTool">🧬 DNA Sequence Analysis Tool</a></h3>
-        <p>A high-performance Python library providing industrial-grade bioinformatics capabilities for DNA and RNA analysis.</p>
-        <ul>
-          <li>Features include ORF detection, sequence alignment, and melting temperature calculation.</li>
-          <li>Combines my expertise in biology and software engineering.</li>
-        </ul>
-        <p align="center">
-          <code>Python</code> <code>Bioinformatics</code> <code>OOP</code> <code>Pytest</code>
-        </p>
-      </td>
-    </tr>
-     <tr>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/SDS-CP028-smart-leaf">🌿 Smart Leaf Disease Detection</a></h3>
-        <p>A Deep Learning solution that classifies 14 different crop diseases from leaf images with high accuracy.</p>
-        <ul>
-          <li>Trained a CNN on 13,000+ images of corn, potato, rice, and wheat.</li>
-          <li>Deployed via Streamlit for a user-friendly, real-time prediction interface.</li>
-        </ul>
-        <p align="center">
-          <code>Deep Learning</code> <code>CNN</code> <code>TensorFlow</code> <code>Python</code> <code>Streamlit</code>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/AgenticAIPortfolio">🤖 Agentic AI Portfolio</a></h3>
-        <p>A collection of advanced multi-agent systems for automation and complex problem-solving.</p>
-        <ul>
-          <li>Features projects built with CrewAI, LangChain, and AutoGen.</li>
-          <li>Includes a multi-agent system built entirely from scratch.</li>
-        </ul>
-        <p align="center">
-          <code>CrewAI</code> <code>LangChain</code> <code>AutoGen</code> <code>Python</code> <code>LLMs</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/local_rag_chat_app">💬 Local RAG Chat App</a></h3>
-        <p>A fully local, privacy-friendly RAG-powered chat application that runs entirely on your machine.</p>
-        <ul>
-          <li>Built with Reflex for modern web interface and seamless user experience.</li>
-          <li>Uses Ollama for local LLM inference and FAISS for vector search.</li>
-        </ul>
-        <p align="center">
-          <code>Reflex</code> <code>LangChain</code> <code>HuggingFace</code> <code>FAISS</code> <code>Ollama</code> <code>RAG</code>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/MachineLearningPortfolio">📊 Machine Learning Portfolio</a></h3>
-        <p>A comprehensive showcase of ML projects spanning supervised, unsupervised, and reinforcement learning techniques.</p>
-        <ul>
-          <li>Includes deep learning, semi-supervised learning, and ensemble methods.</li>
-          <li>Applied to real-world scenarios across various domains and industries.</li>
-        </ul>
-        <p align="center">
-          <code>Python</code> <code>Scikit-learn</code> <code>TensorFlow</code> <code>PyTorch</code> <code>XGBoost</code> <code>Pandas</code>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/ClimateRiskAssessmentTool">🌍 Climate Risk Assessment</a></h3>
-        <p>An advanced climate risk prediction system using ensemble machine learning and deep learning techniques.</p>
-        <ul>
-          <li>Combines multiple ML models for robust climate risk forecasting.</li>
-          <li>Integrates environmental data sources for comprehensive analysis.</li>
-        </ul>
-        <p align="center">
-          <code>Python</code> <code>Ensemble ML</code> <code>Deep Learning</code> <code>Climate Data</code> <code>Risk Assessment</code>
-        </p>
-      </td>      <td width="50%">
-        <h3 align="center"><a href="https://github.com/YanCotta/AgenticFlow">🚀 AgenticFlow</a></h3>
-        <p>An advanced AI-powered automation platform that streamlines digital communication and content management with intelligent email processing and social media automation.</p>
-        <ul>
-          <li>Automated email processing with AI-powered contextual responses.</li>
-          <li>Multi-platform social media content generation and scheduling.</li>
-        </ul>
-        <p align="center">
-          <code>React.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>CrewAI</code> <code>Tailwind CSS</code> <code>JWT</code>
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<div align="center">
-... and many more projects in my repositories!
-</div>
+Here is a comprehensive showcase of my projects, demonstrating my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
 
 ---
 
-## 🛠 Tech Stack & Tools
+### 🧠 Project Synapse: Production-Ready Multi-Agent System
+A comprehensive multi-agent system built with modern async Python, showcasing Agent Communication Protocol (ACP) and Model Context Protocol (MCP) capabilities through a collaborative research workflow.
+- **Key Features**: Engineered with a high-performance RabbitMQ message bus, containerized with Docker and Kubernetes, and fully observable with a Prometheus/Grafana stack.
+- **Technologies**: `Python`, `FastAPI`, `RabbitMQ`, `Docker`, `Kubernetes`, `ACP`, `MCP`
+<a href="https://github.com/YanCotta/project-synapse"><strong>Explore the Architecture &rarr;</strong></a>
+
+---
+
+### 🏆 Guardian System: National Resilience Platform (Award Winner)
+My winning project for FIAP's 2025.1 Global Solution Challenge. A visionary multi-agent platform designed to predict and manage large-scale events in Brazil by fusing Agentic AI with concepts from Brazilian folklore.
+- **Key Features**: Five autonomous "Guardian" agents for different threat domains, with a fully functional MVP for fire risk prediction using real-time IoT sensor data.
+- **Technologies**: `Agentic AI`, `Python`, `FastAPI`, `Docker`, `MicroPython`, `ESP32`, `IoT`
+<a href="https://github.com/YanCotta/global_solution_1_fiap"><strong>See the Award-Winning Code &rarr;</strong></a>
+
+---
+
+### ⚙️ Industrial Smart Maintenance SaaS
+A multi-agent AI platform for industrial IoT that predicts machine failures and automates maintenance scheduling, built entirely from scratch to ensure maximum performance and control.
+- **Key Features**: Custom-built agentic architecture (no frameworks), leverages TimescaleDB for high-performance time-series data, and is fully containerized with Docker.
+- **Technologies**: `Python`, `FastAPI`, `PostgreSQL`, `TimescaleDB`, `Docker`, `Streamlit`
+<a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply"><strong>Check out the SaaS Platform &rarr;</strong></a>
+
+---
+
+### 🔬 Post-Training Techniques for LLMs (SFT, DPO & RL)
+A production-ready framework implementing three key post-training techniques to enhance and align Large Language Models: Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning (GRPO).
+- **Key Features**: Modular architecture, educational notebooks, YAML-based configuration, and built-in benchmarking tools based on the DeepLearning.AI course.
+- **Technologies**: `PyTorch`, `TRL`, `Hugging Face`, `Fine-Tuning`, `DPO`, `Reinforcement Learning`
+<a href="https://github.com/YanCotta/post_training_llms"><strong>Learn about LLM Alignment &rarr;</strong></a>
+
+---
+
+### 🤖 RepoSpector AI: AI-Powered GitHub Reviewer
+An AI-powered multi-agent system built with CrewAI that automatically reviews GitHub repositories, providing expert-level feedback on code structure, documentation, and best practices.
+- **Key Features**: A team of specialized AI agents, a modern Streamlit web interface for real-time analysis, and a full CI/CD pipeline for quality assurance.
+- **Technologies**: `CrewAI`, `LangChain`, `Streamlit`, `Python`, `CI/CD`, `Docker`
+<a href="https://github.com/YanCotta/repospector-ai"><strong>View the Project &rarr;</strong></a>
+
+---
+
+### 🚀 AgenticFlow: AI-Powered Productivity
+An advanced automation platform designed to streamline digital communication. It uses a team of CrewAI agents to process emails, draft replies, and transform newsletters into social media content.
+- **Key Features**: Intelligent email management, multi-platform social media automation, and a modern full-stack architecture.
+- **Technologies**: `React.js`, `FastAPI`, `PostgreSQL`, `CrewAI`, `Tailwind CSS`, `JWT`
+<a href="https://github.com/YanCotta/AgenticFlow"><strong>See the Automation System &rarr;</strong></a>
+
+---
+
+### 📄 Full-Stack Invoice Automation System
+An AI-powered system that automates invoice processing, drastically reducing manual effort.
+- **Key Features**: Reduced processing time by over 85% and uses RAG with FAISS for intelligent error classification. Built with multiple frontend (React/Next.js) and deployment options.
+- **Technologies**: `Next.js`, `React`, `TypeScript`, `AWS`, `LangChain`, `Streamlit`, `RAG`
+<a href="https://github.com/YanCotta/agentic_invoice_system_final_version"><strong>See the Full-Stack Solution &rarr;</strong></a>
+
+---
+
+### 💬 Local RAG Chat App with Gemma
+A fully local, privacy-friendly RAG-powered chat application that runs entirely on your machine for secure document interaction.
+- **Key Features**: Uses Google's Gemma model via Ollama for local LLM inference, FAISS for vector search, and a modern UI built with Reflex.
+- **Technologies**: `Reflex`, `LangChain`, `HuggingFace`, `FAISS`, `Ollama`, `RAG`, `Local-AI`
+<a href="https://github.com/YanCotta/local_rag_chat_app"><strong>Explore the Privacy-First App &rarr;</strong></a>
+
+---
+
+### 💸 EduSpend: Global Education Cost Prediction
+An end-to-end machine learning platform to predict the Total Cost of Attendance for international higher education. A SuperDataScience Community Project.
+- **Key Features**: Achieved a 96.44% R² score with an XGBoost Regressor, deployed via both a Streamlit web app and a FastAPI service, all containerized with Docker and automated with CI/CD.
+- **Technologies**: `Scikit-learn`, `XGBoost`, `MLflow`, `Streamlit`, `FastAPI`, `Docker`, `CI/CD`
+<a href="https://github.com/YanCotta/SDS-CP030-edu-spend"><strong>Explore the EdTech Platform &rarr;</strong></a>
+
+---
+
+### 🌿 Smart Leaf: Deep Learning for Crop Disease
+A deep learning solution that classifies 14 different crop diseases across four species (corn, potato, rice, wheat) from leaf images with high accuracy.
+- **Key Features**: A Convolutional Neural Network (CNN) trained on over 13,000 images, deployed via a user-friendly Streamlit interface for real-time predictions.
+- **Technologies**: `Deep Learning`, `Computer Vision`, `CNN`, `TensorFlow`, `PyTorch`, `Streamlit`
+<a href="https://github.com/YanCotta/SDS-CP028-smart-leaf"><strong>See the Disease Detection Model &rarr;</strong></a>
+
+---
+
+### 🧬 Bioinformatics & Genetic Analysis Tools
+A collection of high-performance Python tools for bioinformatics, including DNA sequence analysis, gene expression analysis, and a pipeline that uses ML to predict disease risk from genetic variants.
+- **Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
+- **Technologies**: `Python`, `Bioinformatics`, `Genomics`, `PyTorch`, `Scikit-learn`
+<a href="https://github.com/YanCotta/DNASequenceAnalysisTool"><strong>Explore Bio-AI Tools &rarr;</strong></a>
+
+---
+
+### 🌍 Climate Risk Assessment Tool
+An advanced climate risk prediction system using ensemble machine learning and deep learning, delivered via a production-ready REST API.
+- **Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
+- **Technologies**: `Python`, `FastAPI`, `Ensemble ML`, `Deep Learning`, `Docker`, `CI/CD`
+<a href="https://github.com/YanCotta/ClimateRiskAssessmentTool"><strong>Check out the API &rarr;</strong></a>
+
+---
+
+### 📈 Algorithmic Trading with Machine Learning
+A systematic exploration into decoding financial market patterns using ML, developed as a Scientific Initiation Project at UniAcademia.
+- **Key Features**: Uses Random Forest classifiers to generate signals from technical indicators (RSI, MACD) and Elliott Wave Theory, with a robust backtesting engine to prevent lookahead bias.
+- **Technologies**: `Python`, `Scikit-learn`, `Quantitative-Finance`, `Algorithmic-Trading`, `Fintech`
+<a href="https://github.com/YanCotta/swing_trade_e_machine_learning"><strong>Analyze the Trading System &rarr;</strong></a>
+
+---
+
+###  Portfolio Collections & Other Work
+
+- **🤖 Agentic AI Portfolio:** A collection of advanced multi-agent systems for automation, using frameworks like CrewAI, LangChain, and AutoGen. <a href="https://github.com/YanCotta/AgenticAIPortfolio">**View &rarr;**</a>
+- **📊 Machine Learning Portfolio:** A comprehensive showcase of ML projects spanning supervised, unsupervised, and reinforcement learning techniques. <a href="https://github.com/YanCotta/MachineLearningPortfolio">**View &rarr;**</a>
+
+---
+<div align="center">
+... and even more projects in my repositories, covering Data Science, MLOps, and AI from end to end!
+</div>
+
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 🧮 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-83B81A?style=for-the-badge&logo=xgboost&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![IBM Watson](https://img.shields.io/badge/IBM_Watson-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
+**AI & Machine Learning**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/JAX-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-83B81A?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
-### 🧠 Agentic AI & LLMs
+**Agentic AI & LLMs**
+<br>
+<img src="https://img.shields.io/badge/LangChain-00A000?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/DSPy-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TRL-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Ollama-8A2BE2?style=for-the-badge" />
 
-![LangChain](https://img.shields.io/badge/LangChain-00A000?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00A000?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-4B8BBE?style=for-the-badge&logo=microsoft&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF1B2D?style=for-the-badge&logo=llama&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![MCP](https://img.shields.io/badge/Anthropic_MCP-5A2FC2?style=for-the-badge&logo=anthropic&logoColor=white)
-![A2A](https://img.shields.io/badge/Google_A2A-4285F4?style=for-the-badge&logo=google&logoColor=white)
+**Backend & APIs**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" />
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
 
-### 🛠️ Backend & APIs
+**Databases & Data Engineering**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-3F51B5?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Alembic](https://img.shields.io/badge/Alembic-306998?style=for-the-badge&logo=python&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
+**Cloud & MLOps**
+<br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 
-### 📊 Data Engineering & Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black)
-![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-### ☁️ Cloud & MLOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-### ⚙️ Systems & IoT
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
-![LoRaWAN](https://img.shields.io/badge/LoRaWAN-2C5282?style=for-the-badge&logo=thethingsnetwork&logoColor=white)
-
-### 🌐 Frontend & Visualization
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🧪 Testing & Code Quality
-
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Locust](https://img.shields.io/badge/Locust-83B81A?style=for-the-badge&logo=locust&logoColor=white)
-![Black](https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white)
-![MyPy](https://img.shields.io/badge/MyPy-2A5ADA?style=for-the-badge&logo=python&logoColor=white)
-![Flake8](https://img.shields.io/badge/Flake8-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black)
+**Frontend & Visualization**
+<br>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Reflex-5c6ac4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
-
----
 
 ## 🌍 Global Communication
 
@@ -347,6 +294,14 @@ Here are a few projects I'm proud of. They showcase my skills in Agentic AI, ful
 </div>
 
 ---
+## 📊 My GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/YanCotta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanCotta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 ## 🤝 Let's Connect!
 
