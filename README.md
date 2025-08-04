@@ -10,13 +10,21 @@
 
 *"In an era of accelerated AI, adaptability drives innovation."*
 
-I am a systems thinker who architects intelligent systems, inspired by the principles of nature and cognition. My approach is rooted in a deep understanding of the most successful systems ever created: those found in biology and the human mind. I leverage first principles from these domains to engineer AI that is not only powerful, but also robust, intuitive, and meaningful.
+I am a systems thinker who architects and engineers intelligent systems, inspired by the principles of nature and cognition. My approach is rooted in a deep academic foundation of the most successful systems to ever exist: those found in biology, and the human mind. I leverage first principles from these domains to engineer AI & ML systems and software that is not only powerful, but also robust, intuitive, and meaningful.
 
-My focus is on the entire lifecycle, from philosophical ideation to production-ready deployment. In my work, I've boosted LLM efficiency by 64% and increased research productivity by 84%. This is not just a job for me; it is the practical application of a lifelong study into the nature of intelligence itself.
+This is not just a job or a career for me; it is the practical application of a lifelong curiosity, and years of formal academic studies, into the nature of: life & biological systems, complex systems, philosophy, psychology, cognition & learning, languages & linguistics, programming & software development, data science, artificial intelligence & machine learning.
 
-As we enter the era of Agentic AI, my mission is to move beyond simply building tools and begin orchestrating intelligent workforces. I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
+As we enter the era of agentic AI & physical AI (robotics), my mission is to move beyond simply studying, developing my own projects, or building tools, and begin orchestrating intelligent workforces in companies and institutions, with likeminded individuals. I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
 
+---
+## 📊 My GitHub Activity
 
+<p align="center">
+  <a href="https://github.com/YanCotta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanCotta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 ---
 
 ## 🎯 Core Achievements & Impact
@@ -307,14 +315,6 @@ A systematic exploration into decoding financial market patterns using ML, devel
 </div>
 
 ---
-## 📊 My GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/YanCotta">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanCotta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
 
 ## 🤝 Let's Connect!
 
