@@ -16,7 +16,7 @@ This is not just a job or a career for me; it is the practical application of a 
 
 As we enter the era of agentic AI & physical AI (robotics), my mission is to move beyond simply studying, developing my own projects, or building tools, and begin orchestrating intelligent workforces in companies and institutions, with likeminded individuals. I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
 
----
+
 ## 📊 My GitHub Activity
 
 <p align="center">
@@ -25,7 +25,7 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
----
+
 
 ## 🎯 Core Achievements & Impact
 
