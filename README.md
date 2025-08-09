@@ -53,25 +53,17 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
     </tr>  </table>
 </div>
 
-## Professional Timeline
+## 🕰️ Professional Timeline
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
         <h3>🏢 Professional Experience</h3>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎓 Academic Background</h3>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>🏢 Professional Experience</h4>
         <div style="margin: 10px 0;">
           <strong>2025 - PRESENT</strong><br>
           <span style="font-size: 16px;">Bioinformatics & ML Engineer Intern</span><br>
-          <img src="https://img.shields.io/badge/EMBRAPA-FF6B00?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/EMBRAPA-228B22?style=for-the-badge" />
         </div>
         <div style="margin: 10px 0;">
           <strong>2024 - PRESENT</strong><br>
@@ -89,8 +81,8 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
           <img src="https://img.shields.io/badge/GSU-9C27B0?style=for-the-badge" />
         </div>
       </td>
-      <td align="center">
-        <h4>🎓 Academic Background</h4>
+      <td align="center" width="50%">
+        <h3>🎓 Academic Background</h3>
         <div style="margin: 10px 0;">
           <strong>2024 - 2026</strong><br>
           <span style="font-size: 16px;">Advanced AI & ML</span><br>
@@ -107,6 +99,10 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
           <img src="https://img.shields.io/badge/GSU-9C27B0?style=for-the-badge" />
         </div>
       </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 ## 🚀 Featured Projects
