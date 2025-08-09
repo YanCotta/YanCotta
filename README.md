@@ -16,16 +16,6 @@ This is not just a job or a career for me; it is the practical application of a 
 
 As we enter the era of agentic AI & physical AI (robotics), my mission is to move beyond simply studying, developing my own projects, or building tools, and begin orchestrating intelligent workforces in companies and institutions, with likeminded individuals. I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
 
-
-## 📊 My GitHub Activity
-
-<p align="center">
-  <a href="https://github.com/YanCotta">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanCotta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-
 ## 🕰️ Professional Timeline
 
 ### 🏢 Professional Experience
@@ -54,6 +44,18 @@ Bachelor's degree with emphasis on computational biology and systems thinking.
 Foundational studies in cognitive sciences, philosophy of mind, and human behavior.
 
 ---
+
+## 📊 My GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/YanCotta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanCotta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+--- 
+
 ## 🚀 Featured Projects
 
 Here is a comprehensive showcase of my projects, demonstrating my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
