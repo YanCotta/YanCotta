@@ -55,54 +55,30 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
 
 ## 🕰️ Professional Timeline
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🏢 Professional Experience</h3>
-        <div style="margin: 10px 0;">
-          <strong>2025 - PRESENT</strong><br>
-          <span style="font-size: 16px;">Bioinformatics & ML Engineer Intern</span><br>
-          <img src="https://img.shields.io/badge/EMBRAPA-228B22?style=for-the-badge" />
-        </div>
-        <div style="margin: 10px 0;">
-          <strong>2024 - PRESENT</strong><br>
-          <span style="font-size: 16px;">AI Trainer (RLHF)</span><br>
-          <img src="https://img.shields.io/badge/Outlier-0077B5?style=for-the-badge" />
-        </div>
-        <div style="margin: 10px 0;">
-          <strong>2022 - 2024</strong><br>
-          <span style="font-size: 16px;">Ecological Analyst</span><br>
-          <img src="https://img.shields.io/badge/Impaakt-4CAF50?style=for-the-badge" />
-        </div>
-        <div style="margin: 10px 0;">
-          <strong>2019 - 2020</strong><br>
-          <span style="font-size: 16px;">Research Assistant</span><br>
-          <img src="https://img.shields.io/badge/GSU-9C27B0?style=for-the-badge" />
-        </div>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎓 Academic Background</h3>
-        <div style="margin: 10px 0;">
-          <strong>2024 - 2026</strong><br>
-          <span style="font-size: 16px;">Advanced AI & ML</span><br>
-          <img src="https://img.shields.io/badge/FIAP-0077B5?style=for-the-badge" />
-        </div>
-        <div style="margin: 10px 0;">
-          <strong>2022 - 2025</strong><br>
-          <span style="font-size: 16px;">Biological Sciences</span><br>
-          <img src="https://img.shields.io/badge/UniAcademia-4CAF50?style=for-the-badge" />
-        </div>
-        <div style="margin: 10px 0;">
-          <strong>2017 - 2020</strong><br>
-          <span style="font-size: 16px;">Philosophy & Psychology</span><br>
-          <img src="https://img.shields.io/badge/GSU-9C27B0?style=for-the-badge" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+### 🏢 Professional Experience
 
+**🔬 Bioinformatics & ML Engineer Intern** | **EMBRAPA** | *2025 - Present*  
+Advanced research in computational biology and machine learning applications for agricultural innovation.
+
+**🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
+Specialized in Reinforcement Learning from Human Feedback for large language model optimization and alignment.
+
+**🌱 Ecological Analyst** | **Impaakt** | *2022 - 2024*  
+Led environmental impact assessments and sustainability research using data science methodologies.
+
+**📚 Research Assistant** | **Georgia State University** | *2019 - 2020*  
+Conducted interdisciplinary research in cognitive sciences and behavioral analysis.
+
+### 🎓 Academic Background
+
+**🚀 Advanced AI & Machine Learning** | **FIAP** | *2024 - 2026*  
+Specialized graduate program focusing on cutting-edge AI technologies and enterprise applications.
+
+**🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
+Bachelor's degree with emphasis on computational biology and systems thinking.
+
+**🧠 Philosophy & Psychology** | **Georgia State University** | *2017 - 2020*  
+Foundational studies in cognitive sciences, philosophy of mind, and human behavior.
 
 ---
 ## 🚀 Featured Projects
