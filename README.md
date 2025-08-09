@@ -26,33 +26,6 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
   </a>
 </p>
 
-
-## 🎯 Core Achievements & Impact
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/64%25-AI_Efficiency_Boost-success?style=for-the-badge" />
-        <br> Optimized SOTA LLMs via RLHF
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/10,000+-Concurrent_Tasks-blue?style=for-the-badge" />
-        <br> Scalable Multi-Agentic AI
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/500+-ESG_Analyses-orange?style=for-the-badge" />
-        <br> AI for Ecological Research
-      </td>
-      <td align="center" width="50%">
-        <img src="https://img.shields.io/badge/84%25-Productivity_Gain-purple?style=for-the-badge" />
-        <br> Research Workflow Optimization
-      </td>
-    </tr>  </table>
-</div>
-
 ## 🕰️ Professional Timeline
 
 ### 🏢 Professional Experience
