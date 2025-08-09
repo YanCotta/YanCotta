@@ -67,38 +67,46 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2024_--_Present-Bioinformatics_&_ML_Engineer_Intern_@_EMBRAPA-FF6B00?style=for-the-badge" />
+        <h4>🏢 Professional Experience</h4>
+        <div style="margin: 10px 0;">
+          <strong>2025 - PRESENT</strong><br>
+          <span style="font-size: 16px;">Bioinformatics & ML Engineer Intern</span><br>
+          <img src="https://img.shields.io/badge/EMBRAPA-FF6B00?style=for-the-badge" />
+        </div>
+        <div style="margin: 10px 0;">
+          <strong>2024 - PRESENT</strong><br>
+          <span style="font-size: 16px;">AI Trainer (RLHF)</span><br>
+          <img src="https://img.shields.io/badge/Outlier-0077B5?style=for-the-badge" />
+        </div>
+        <div style="margin: 10px 0;">
+          <strong>2022 - 2024</strong><br>
+          <span style="font-size: 16px;">Ecological Analyst</span><br>
+          <img src="https://img.shields.io/badge/Impaakt-4CAF50?style=for-the-badge" />
+        </div>
+        <div style="margin: 10px 0;">
+          <strong>2019 - 2020</strong><br>
+          <span style="font-size: 16px;">Research Assistant</span><br>
+          <img src="https://img.shields.io/badge/GSU-9C27B0?style=for-the-badge" />
+        </div>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/2024_--_2026-Advanced_AI_&_ML_@_FIAP-0077B5?style=for-the-badge" />
+        <h4>🎓 Academic Background</h4>
+        <div style="margin: 10px 0;">
+          <strong>2024 - 2026</strong><br>
+          <span style="font-size: 16px;">Advanced AI & ML</span><br>
+          <img src="https://img.shields.io/badge/FIAP-0077B5?style=for-the-badge" />
+        </div>
+        <div style="margin: 10px 0;">
+          <strong>2022 - 2025</strong><br>
+          <span style="font-size: 16px;">Biological Sciences</span><br>
+          <img src="https://img.shields.io/badge/UniAcademia-4CAF50?style=for-the-badge" />
+        </div>
+        <div style="margin: 10px 0;">
+          <strong>2017 - 2020</strong><br>
+          <span style="font-size: 16px;">Philosophy & Psychology</span><br>
+          <img src="https://img.shields.io/badge/GSU-9C27B0?style=for-the-badge" />
+        </div>
       </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2024_--_Present-AI_Trainer_@_Outlier-0077B5?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2022_--_2025-Biological_Sciences_@_UniAcademia-4CAF50?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2022_--_2024-Ecological_Analyst_@_Impaakt-4CAF50?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_&_Psychology_@_GSU-9C27B0?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-9C27B0?style=for-the-badge" />
-      </td>
-      <td align="center">
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 ---
 ## 🚀 Featured Projects
