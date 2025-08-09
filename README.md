@@ -67,7 +67,7 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2024_--_Present-AI_Trainer_@_Outlier-0077B5?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2024_--_Present-Bioinformatics_&_ML_Engineer_Intern_@_EMBRAPA-FF6B00?style=for-the-badge" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/2024_--_2026-Advanced_AI_&_ML_@_FIAP-0077B5?style=for-the-badge" />
@@ -75,7 +75,7 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2022_--_2024-Ecological_Analyst_@_Impaakt-4CAF50?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2024_--_Present-AI_Trainer_@_Outlier-0077B5?style=for-the-badge" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/2022_--_2025-Biological_Sciences_@_UniAcademia-4CAF50?style=for-the-badge" />
@@ -83,14 +83,22 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-9C27B0?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/2022_--_2024-Ecological_Analyst_@_Impaakt-4CAF50?style=for-the-badge" />
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/2017_--_2020-Philosophy_&_Psychology_@_GSU-9C27B0?style=for-the-badge" />
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2019_--_2020-Research_Assistant_@_GSU-9C27B0?style=for-the-badge" />
+      </td>
+      <td align="center">
+      </td>
+    </tr>
   </table>
 </div>
+
 
 ---
 ## 🚀 Featured Projects
