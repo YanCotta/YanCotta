@@ -99,6 +99,22 @@ Here is a comprehensive showcase of my projects, demonstrating my skills in buil
 
 ---
 
+### 🩺 GlucoTrack: Diabetes Risk Prediction Platform
+**Project Lead** for a comprehensive diabetes risk assessment system using the CDC diabetes dataset. Led a diverse team of data scientists and ML engineers to deliver both beginner-friendly and advanced deep learning solutions.
+- **Key Features**: Built traditional ML models (Logistic Regression, Decision Trees) and advanced Feedforward Neural Networks with hyperparameter tuning. Includes model explainability tools and multiple deployment options.
+- **Technologies**: `Python`, `Scikit-learn`, `Deep Learning`, `Streamlit`, `Model Explainability`, `Healthcare AI`
+<a href="https://github.com/YanCotta/SDS-CP035-gluco-track"><strong>Explore the Healthcare Platform &rarr;</strong></a>
+
+---
+
+### 💰 MLPayGrade: ML Salary Prediction System
+**Project Lead** for an end-to-end salary prediction platform analyzing the 2024 machine learning job market. Coordinated a team of data scientists and ML engineers to build comprehensive solutions across multiple skill levels.
+- **Key Features**: Analyzes global salary trends and job feature impacts on compensation. Features both traditional ML pipelines and advanced deep learning on tabular data with embeddings and explainability.
+- **Technologies**: `Python`, `Scikit-learn`, `Deep Learning`, `Tabular Data`, `Streamlit`, `Job Market Analytics`
+<a href="https://github.com/YanCotta/SDS-CP032-mlpaygrade"><strong>See the Salary Intelligence Tool &rarr;</strong></a>
+
+---
+
 ### 🧠 Project Synapse: Production-Ready Multi-Agent System
 A comprehensive multi-agent system built with modern async Python, showcasing Agent Communication Protocol (ACP) and Model Context Protocol (MCP) capabilities through a collaborative research workflow.
 - **Key Features**: Engineered with a high-performance RabbitMQ message bus, containerized with Docker and Kubernetes, and fully observable with a Prometheus/Grafana stack.
@@ -321,6 +337,7 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <div align="center">
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://lattes.cnpq.br/1066894671418362"><img src="https://img.shields.io/badge/Academic_CV_Lattes-FF6B00?style=for-the-badge&logo=academia&logoColor=white"/></a>
 </div>
 
 <p align="center"> 
