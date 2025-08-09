@@ -30,7 +30,7 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
 
 ### 🏢 Professional Experience
 
-**🔬 Bioinformatics & ML Engineer Intern** | **EMBRAPA** | *2025 - Present*  
+**🔬 Bioinformatics & Machine Learning Engineering Intern** | **EMBRAPA** | *2025 - Present*  
 Advanced research in computational biology and machine learning applications for agricultural innovation.
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
