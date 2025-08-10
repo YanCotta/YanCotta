@@ -20,28 +20,28 @@ As we enter the era of agentic AI & physical AI (robotics), my mission is to mov
 
 ### 🏢 Professional Experience
 
-**🔬 Bioinformatics & Machine Learning Engineering Intern** | **EMBRAPA** | *2025 - Present*  
+**🔬 Bioinformatics & Machine Learning Engineer Intern** | **EMBRAPA** | *2025 - Present*  
 Advanced research in computational biology and machine learning applications for agricultural innovation.
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
-Specialized in Reinforcement Learning from Human Feedback for large language model optimization and alignment.
+Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment.
 
 **🌱 Ecological Analyst** | **Impaakt** | *2022 - 2024*  
 Led environmental impact assessments and sustainability research using data science methodologies.
 
 **📚 Research Assistant** | **Georgia State University** | *2019 - 2020*  
-Conducted interdisciplinary research in cognitive sciences and behavioral analysis.
+Conducted interdisciplinary research in cognitive sciences, philosophy, psychology and behavioral analysis.
 
 ### 🎓 Academic Background
 
 **🚀 Advanced AI & Machine Learning** | **FIAP** | *2024 - 2026*  
-Specialized graduate program focusing on cutting-edge AI technologies and enterprise applications.
+Specialized graduate program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications, data engineering and modeling, edge AI & IoT, eletronics and sensors, and other practical real-world applications of AI & ML
 
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
-Bachelor's degree with emphasis on computational biology and systems thinking.
+Bachelor's degree with emphasis on computational biology, systems theory, gaia theory, cybernetics, genetics, and systems thinking.
 
 **🧠 Philosophy & Psychology** | **Georgia State University** | *2017 - 2020*  
-Foundational studies in cognitive sciences, philosophy of mind, and human behavior.
+Foundational studies in cognitive sciences, philosophy of mind, psychology, and human behavior.
 
 ---
 
