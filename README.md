@@ -8,9 +8,9 @@
 
 ## 🌍 About Me
 
-*"In an era of accelerated AI, adaptability drives innovation."*
+Creating intelligent systems by uniting life sciences, cognitive science, and computer science into full-stack AI architectures.
 
-I am a systems thinker who architects and engineers intelligent systems, inspired by the principles of nature and cognition. My approach is rooted in a deep academic foundation of the most successful systems to ever exist: those found in biology, and the human mind. I leverage first principles from these domains to engineer AI & ML systems and software that is not only powerful, but also robust, intuitive, and meaningful.
+I'm a junior, designing and deploying intelligent systems that are inspired by my unique interdiciplinary background. With formal training in Biology, Cognitive Science, Philosophy of Mind, and AI/ML architecture and engineering, I'm obsessed with building AI solutions — from early research and theory to deployment.
 
 This is not just a job or a career for me; it is the practical application of a lifelong curiosity, and years of formal academic studies, into the nature of: life & biological systems, complex systems, philosophy, psychology, cognition & learning, languages & linguistics, programming & software development, data science, artificial intelligence & machine learning.
 
