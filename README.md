@@ -35,7 +35,7 @@ Conducted interdisciplinary research in cognitive sciences, philosophy, psycholo
 ### 🎓 Academic Background
 
 **🚀 Advanced AI & Machine Learning** | **FIAP** | *2024 - 2026*  
-Specialized graduate program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications, data engineering and modeling, edge AI & IoT, eletronics and sensors, and other practical real-world applications of AI & ML
+Specialized graduate program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications, data engineering and modeling, edge AI & IoT, eletronics and sensors, and other practical real-world applications of AI & ML.
 
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
 Bachelor's degree with emphasis on computational biology, systems theory, gaia theory, cybernetics, genetics, and systems thinking.
