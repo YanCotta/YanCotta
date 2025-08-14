@@ -206,6 +206,15 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <img src="https://img.shields.io/badge/XGBoost-83B81A?style=for-the-badge&logo=xgboost&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/LSTM-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/CNN-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Computer_Vision-2196F3?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Fine_Tuning-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/DPO-FF9800?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/RLHF-E91E63?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/SFT-607D8B?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/GRPO-795548?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Model_Alignment-673AB7?style=for-the-badge&logo=openai&logoColor=white" />
 
 **Agentic AI & LLMs**
 <br>
@@ -267,6 +276,16 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MyPy-2A5ADA?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+**IoT & Edge AI**
+<br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
+<img src="https://img.shields.io/badge/Sensors-FF6B6B?style=for-the-badge&logo=iot&logoColor=white" />
+<img src="https://img.shields.io/badge/GPIO-4CAF50?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--time_Data-2196F3?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 
 </div>
 
