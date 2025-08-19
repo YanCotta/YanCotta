@@ -61,9 +61,7 @@ Bachelor's degree with emphasis on computational biology, systems theory, gaia t
 **🧠 Philosophy & Psychology** | **Georgia State University** | *2017 - 2020*  
 Foundational studies in cognitive sciences, philosophy of mind, psychology, and human behavior.
 
---- 
-
-## 🤝 Let's Connect!
+---
 
 <div align="center">
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -75,7 +73,7 @@ Foundational studies in cognitive sciences, philosophy of mind, psychology, and 
   <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
 
---- 
+---
 
 ## 🚀 Featured Projects
 
