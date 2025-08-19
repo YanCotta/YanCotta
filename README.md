@@ -8,13 +8,17 @@
 
 ## 🌍 About Me
 
-Creating intelligent systems by uniting life sciences, cognitive science, and computer science into full-stack AI architectures.
 
-I'm a junior, designing and deploying intelligent systems that are inspired by my unique interdiciplinary background. With formal training in Biology, Cognitive Science, Philosophy of Mind, and AI/ML architecture and engineering, I'm obsessed with building AI solutions — from early research and theory to deployment.
+I've been creating Intelligent Systems by uniting Biological Science, Cognitive Science, and Computer Science into FullStack AI Systems. 
 
-This is not just a job or a career for me; it is the practical application of a lifelong curiosity, and years of formal academic studies, into the nature of: life & biological systems, complex systems, philosophy, psychology, cognition & learning, languages & linguistics, programming & software development, data science, artificial intelligence & machine learning.
+I'm a junior, passionate about designing and deploying AI systems that are inspired by my unique interdiciplinary background: Biology, Psychology, Philosophy of Mind, and AI/ML Architecture and Engineering. 
 
-As we enter the era of agentic AI & physical AI (robotics), my mission is to move beyond simply studying, developing my own projects, or building tools, and begin orchestrating intelligent workforces in companies and institutions, with likeminded individuals. I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
+This is not just a job or a career for me; it is the practical application of a lifelong obsession into the nature of intelligent itself, and years of formal academic studies.
+
+My long-term ideal is to utilize my academic background to bridge Biology and AI into solving real-world biological/biomedical problems. My mission now is to begin orchestrating intelligent workforces and driving innovation in companies and institutions, with likeminded individuals. 
+
+I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
+
 
 ## 🕰️ Professional Timeline
 
