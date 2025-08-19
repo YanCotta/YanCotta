@@ -6,6 +6,19 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence%20%26%20Data%20Science;Agentic%20AI%20%26%20LLMs;Deep%20Learning%20%26%20Machine%20Learning;MLOps%20%26%20LLMOps;Biological%20%26%20Cognitive%20Sciences&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
+---
+
+## 📊 My GitHub Activity
+
+<p align="center">
+  <a href="https://github.com/YanCotta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanCotta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+--- 
+
 ## 🌍 About Me
 
 
@@ -19,6 +32,7 @@ My long-term ideal is to utilize my academic background to bridge Biology and AI
 
 I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
 
+--- 
 
 ## 🕰️ Professional Timeline
 
@@ -47,15 +61,18 @@ Bachelor's degree with emphasis on computational biology, systems theory, gaia t
 **🧠 Philosophy & Psychology** | **Georgia State University** | *2017 - 2020*  
 Foundational studies in cognitive sciences, philosophy of mind, psychology, and human behavior.
 
----
+--- 
 
-## 📊 My GitHub Activity
+## 🤝 Let's Connect!
 
-<p align="center">
-  <a href="https://github.com/YanCotta">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YanCotta&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
+<div align="center">
+  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://lattes.cnpq.br/1066894671418362"><img src="https://img.shields.io/badge/Academic_CV_Lattes-FF6B00?style=for-the-badge&logo=academia&logoColor=white"/></a>
+</div>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
 
 --- 
@@ -316,20 +333,6 @@ A systematic exploration into decoding financial market patterns using ML, devel
     </tr>
   </table>
 </div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://lattes.cnpq.br/1066894671418362"><img src="https://img.shields.io/badge/Academic_CV_Lattes-FF6B00?style=for-the-badge&logo=academia&logoColor=white"/></a>
-</div>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
-</p>
 
 ---
 
