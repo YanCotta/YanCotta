@@ -38,8 +38,8 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
 ### 🏢 Professional Experience
 
-**🔬 Bioinformatics & Machine Learning Engineer Intern** | **EMBRAPA** | *2025 - Present*  
-Advanced research in computational biology and machine learning applications for agricultural innovation.
+**🔬 Data & Machine Learning Engineer Intern (Paid Scientific Internship - CNPq)** | **EMBRAPA** | *2025 - Present*  
+Advanced R&D in data engineering, computational biology, bioinformatics, and machine learning applications for agricultural innovation.
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
 Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment.
