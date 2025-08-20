@@ -39,7 +39,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 ### 🏢 Professional Experience
 
 **🧬📊 Bioinformatics R&D Intern** | **Embrapa (Dairy Cattle)** | *2025 - Present*  
-R&D in bioinformatics, data engineering, computational biology, genomics, and machine learning applications for agricultural innovation in the dairy cattle branch of Embrapa (Brazilian Agricultural Research Corporation) through a scientific initiation federal grant (CNPq)
+R&D in bioinformatics, data engineering, computational biology, genomics, and machine learning applications for agricultural innovation in the dairy cattle branch of Embrapa (Brazilian Agricultural Research Corporation) through a scientific initiation internship from a federal grant (CNPq)
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
 Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment in the following areas: programming and software development (Python, C, C++); biological sciences
@@ -52,14 +52,14 @@ Conducted interdisciplinary research in cognitive sciences, philosophy of mind, 
 
 ### 🎓 Academic Background
 
-**🚀 Advanced AI & Machine Learning** | **FIAP** | *2024 - 2026*  
-Specialized graduate program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications, data engineering and modeling, edge AI & IoT, eletronics and sensors, and other practical real-world applications of AI & ML.
+**🤖 AI Systems & Machine Learning** | **FIAP** | *2024 - 2026 (expected)*  
+2-year specialized technologist degree (higher education degree of technology), with a program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications, data engineering and modeling, Edge AI & IoT, eletronics and sensors, software development and data science, deep learning, and other practical real-world applications of AI & ML.
 
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
-Bachelor's degree with emphasis on computational biology, systems theory, gaia theory, cybernetics, genetics, and systems thinking.
+4-year bachelor's degree completed with emphasis on genetics, education, cognition and learning, systems theory, gaia theory, cybernetics, and systems thinking.
 
-**🧠 Philosophy & Psychology** | **Georgia State University** | *2017 - 2020*  
-Foundational studies in cognitive sciences, philosophy of mind, psychology, and human behavior.
+**🧠 Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*  
+4-year bachelor's degree (3 completed) with foundational studies in cognitive sciences, philosophy, psychology, and human behavior.
 
 ---
 
