@@ -38,17 +38,17 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
 ### 🏢 Professional Experience
 
-**🔬 Bioinformatics R&D Intern | **Embrapa (Dairy Cattle)** | *2025 - Present*  
+**🧬📊 Bioinformatics R&D Intern** | **Embrapa (Dairy Cattle)** | *2025 - Present*  
 R&D in bioinformatics, data engineering, computational biology, genomics, and machine learning applications for agricultural innovation in the dairy cattle branch of Embrapa (Brazilian Agricultural Research Corporation) through a scientific initiation federal grant (CNPq)
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
-Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment.
+Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment in the following areas: programming and software development (Python, C, C++); biological sciences
 
 **🌱 Ecological Analyst** | **Impaakt** | *2022 - 2024*  
-Led environmental impact assessments and sustainability research using data science methodologies.
+Led environmental impact assessments and sustainability research using Python, LLMs and data science methodologies.
 
 **📚 Research Assistant** | **Georgia State University** | *2019 - 2020*  
-Conducted interdisciplinary research in cognitive sciences, philosophy, psychology and behavioral analysis.
+Conducted interdisciplinary research in cognitive sciences, philosophy of mind, psychology and behavioral analysis, through the Humanities Inclusivity Program (HIP) of the Center of Advancement of Students and Alumni (CASA), of Georgia State University, under the orientation of Neil Van Leeuwen, PhD
 
 ### 🎓 Academic Background
 
