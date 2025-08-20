@@ -38,8 +38,8 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
 ### 🏢 Professional Experience
 
-**🔬 Bioinformatics, Data Engineering & ML Intern (Scientific Internship - CNPq)** | **Embrapa (JF)** | *2025 - Present*  
-R&D in data engineering, computational biology, bioinformatics, and machine learning applications for agricultural innovation.
+**🔬 Bioinformatics R&D Intern (Scientific Initiation Internship - CNPq)** | **Embrapa (Dairy Cattle)** | *2025 - Present*  
+R&D in bioinformatics, data engineering, computational biology, genomics, and machine learning applications for agricultural innovation in the dairy cattle branch of Embrapa (Brazilian Agricultural Research Corporation)
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
 Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment.
