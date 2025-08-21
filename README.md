@@ -222,14 +222,12 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/XGBoost-83B81A?style=for-the-badge&logo=xgboost&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/LSTM-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/CNN-4CAF50?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer_Vision-2196F3?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Fine_Tuning-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/DPO-FF9800?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/RLHF-E91E63?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/SFT-607D8B?style=for-the-badge&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/GRPO-795548?style=for-the-badge&logo=openai&logoColor=white" />
@@ -240,8 +238,6 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <img src="https://img.shields.io/badge/LangChain-00A000?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" />
 <img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/DSPy-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TRL-FFD700?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Ollama-8A2BE2?style=for-the-badge" />
 
@@ -252,7 +248,6 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white" />
 <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
 
 **Databases & Data Engineering**
@@ -292,11 +287,9 @@ A systematic exploration into decoding financial market patterns using ML, devel
 <br>
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 <img src="https://img.shields.io/badge/Locust-83B81A?style=for-the-badge&logo=locust&logoColor=white" />
-<img src="https://img.shields.io/badge/Ruff-222?style=for-the-badge&logo=ruff&logoColor=white" />
 <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MyPy-2A5ADA?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" />
-<img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
 **IoT & Edge AI**
 <br>
