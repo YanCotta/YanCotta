@@ -53,7 +53,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
   - Made possible through a scientific initiation internship, from a federal grant (CNPq).
   - Areas of focus: bioinformatics, data engineering, data science, computational biology, genomics, animal genetics, and machine learning applications, for agricultural innovation (focus on the brazilian dairy cattle {nationscale wide program}).
 
-**🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
+**🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - 2025*  
   - Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment (freelance projects).
   - Areas of focus: programming and software development (Python, C, C++) and biological sciences.
 
