@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Artificial%20Intelligence%20%26%20Data%20Science;Agentic%20AI%20%26%20LLMs;Deep%20Learning%20%26%20Machine%20Learning;MLOps%20%26%20LLMOps;Biological%20%26%20Cognitive%20Sciences&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architecture%20%26%20Engineering;Machine%20Learning%20%26%20Deep%20Learning;MLOps%20%26%20LLMOps;Data%20Science%20%26%20Bioinformatics;Biological%20%26%20Cognitive%20Sciences;IoT%20%26%20Edge%20AI&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
 ---
@@ -16,10 +16,10 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
 <div align="center">
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/CottaYan"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://lattes.cnpq.br/1066894671418362"><img src="https://img.shields.io/badge/Academic_CV_Lattes-FF6B00?style=for-the-badge&logo=academia&logoColor=white"/></a>
 </div>
 
