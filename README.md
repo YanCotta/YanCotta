@@ -17,6 +17,16 @@
   </a>
 </p>
 
+<div align="center">
+  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://lattes.cnpq.br/1066894671418362"><img src="https://img.shields.io/badge/Academic_CV_Lattes-FF6B00?style=for-the-badge&logo=academia&logoColor=white"/></a>
+</div>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
+</p>
+
 --- 
 
 ## 🌍 About Me
@@ -41,19 +51,20 @@ I am driven to architect and govern these powerful new systems responsibly and a
 **🧬📊 Bioinformatics R&D Intern** | **Embrapa (Dairy Cattle)** | *2025 - Present*  
 R&D internship in the Laboratory of Bioinformatics & Animal Genomics, of the dairy cattle branch, of Embrapa (Brazilian Agricultural Research Corporation).
 Made possible through a scientific initiation internship, from a federal grant (CNPq).
-Areas of focus: bioinformatics, data engineering, data science, computational biology, genomics, animal genetics, and machine learning applications for agricultural innovation (focus on the brazilian dairy cattle {nationscale wide program}).
+Areas of focus: bioinformatics, data engineering, data science, computational biology, genomics, animal genetics, and machine learning applications, for agricultural innovation (focus on the brazilian dairy cattle {nationscale wide program}).
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
-Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment.
+Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment (freelancer projects).
 Areas of focus: programming and software development (Python, C, C++) and biological sciences.
 
 **🌱 Ecological Analyst** | **Impaakt** | *2022 - 2024*  
-Led environmental impact assessments and sustainability research using Python, LLMs and data science methodologies.
+Led environmental impact assessments and sustainability research using Python, LLMs and data science methodologies to optimize processes (part-time position).
 
 **📚 Research Assistant** | **Georgia State University** | *2019 - 2020*  
 Conducted research through the Humanities Inclusivity Program (HIP), of the Center of Advancement of Students and Alumni (CASA), of Georgia State University, under the orientation of Neil Van Leeuwen, PhD.
-Researched in support of Dr. Van Leeuwen's systematic theory in the making of cognitive attitudes (differentiating belief, imagination, and religious credence).
+Researched in support of Dr. Van Leeuwen's systematic theory in-the-making of cognitive attitudes (differentiating belief, imagination, and religious credence).
 Areas of focus: Interdisciplinary research in cognitive sciences, philosophy of mind, psychology and behavioral analysis. 
+Utilized Python and its libraries to speed up data collection and analysis.
 
 ### 🎓 Academic Background
 
@@ -61,22 +72,12 @@ Areas of focus: Interdisciplinary research in cognitive sciences, philosophy of 
 2-year specialized technologist degree (higher education degree of technology), with a program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications, data engineering and modeling, Edge AI & IoT, eletronics and sensors, software development and data science, deep learning, and other practical real-world applications of AI & ML.
 
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
-4-year bachelor's degree under completion. Participated in over 6 scientific initiation programs that resulted in published articles, under the areas of: machine learning, ontological data modeling, climate science, laboratory safety, epidemiology, genetics, education, cognition & learning. Thesis: An epigenetics software that serves as a health predictor and coach based on nutrition and other environmental variables.
+4-year bachelor's degree under completion. Participated in over 6 scientific initiation programs that resulted in published articles, under the areas of: machine learning, ontological data modeling, climate science, laboratory safety, epidemiology, genetics, education, cognition & learning. Thesis: An epigenetics full-stack software serving as a health predictor based on nutrition and other environmental variables by using machine learning algorithms.
 
 **🧠 Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*  
 4-year bachelor's degree (3 completed) with foundational studies in cognitive sciences, philosophy, psychology, and human behavior.
-
----
-
-<div align="center">
-  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://lattes.cnpq.br/1066894671418362"><img src="https://img.shields.io/badge/Academic_CV_Lattes-FF6B00?style=for-the-badge&logo=academia&logoColor=white"/></a>
-</div>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
-</p>
+Activities and societies: Scholar of the Humanities Inclusivity Program (HIP), from the Center for Advancement of Students and Alumni (CASA); Vice-President of the International Student Growth and Development Association; Assistant of the Office of International Students and Scholarly Services (OISSS); Awarded the Atlanta Campus Scholarship; Got into the Dean's List of Excellence; Member of the Honor Society; Member of the Scholar Honor Leader National Society; Columnist of "The Signal", GSU's award-winning newspaper. 
+Thesis: Differentiating Belief, Imagination and Religous Credence: A Systematic Theory of Cognitive Attitudes
 
 ---
 
