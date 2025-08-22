@@ -39,16 +39,21 @@ I am driven to architect and govern these powerful new systems responsibly and a
 ### 🏢 Professional Experience
 
 **🧬📊 Bioinformatics R&D Intern** | **Embrapa (Dairy Cattle)** | *2025 - Present*  
-R&D in bioinformatics, data engineering, data science, computational biology, genomics, and machine learning applications for agricultural innovation in the Laboratory of Bioinformatics & Animal Genomics of the dairy cattle branch of Embrapa (Brazilian Agricultural Research Corporation) through a scientific initiation internship from a federal grant (CNPq)
+R&D internship in the Laboratory of Bioinformatics & Animal Genomics, of the dairy cattle branch, of Embrapa (Brazilian Agricultural Research Corporation).
+Made possible through a scientific initiation internship, from a federal grant (CNPq).
+Areas of focus: bioinformatics, data engineering, data science, computational biology, genomics, animal genetics, and machine learning applications for agricultural innovation (focus on the brazilian dairy cattle {nationscale wide program}).
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
-Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment in the following areas: programming and software development (Python, C, C++); biological sciences
+Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment.
+Areas of focus: programming and software development (Python, C, C++) and biological sciences.
 
 **🌱 Ecological Analyst** | **Impaakt** | *2022 - 2024*  
 Led environmental impact assessments and sustainability research using Python, LLMs and data science methodologies.
 
 **📚 Research Assistant** | **Georgia State University** | *2019 - 2020*  
-Conducted interdisciplinary research in cognitive sciences, philosophy of mind, psychology and behavioral analysis, through the Humanities Inclusivity Program (HIP) of the Center of Advancement of Students and Alumni (CASA), of Georgia State University, under the orientation of Neil Van Leeuwen, PhD
+Conducted research through the Humanities Inclusivity Program (HIP), of the Center of Advancement of Students and Alumni (CASA), of Georgia State University, under the orientation of Neil Van Leeuwen, PhD.
+Researched in support of Dr. Van Leeuwen's systematic theory in the making of cognitive attitudes (differentiating belief, imagination, and religious credence).
+Areas of focus: Interdisciplinary research in cognitive sciences, philosophy of mind, psychology and behavioral analysis. 
 
 ### 🎓 Academic Background
 
