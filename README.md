@@ -49,36 +49,36 @@ I am driven to architect and govern these powerful new systems responsibly and a
 ### 🏢 Professional Experience
 
 **🧬📊 Bioinformatics R&D Intern** | **Embrapa (Dairy Cattle)** | *2025 - Present*  
-R&D internship in the Laboratory of Bioinformatics & Animal Genomics, of the dairy cattle branch, of Embrapa (Brazilian Agricultural Research Corporation).
-Made possible through a scientific initiation internship, from a federal grant (CNPq).
-Areas of focus: bioinformatics, data engineering, data science, computational biology, genomics, animal genetics, and machine learning applications, for agricultural innovation (focus on the brazilian dairy cattle {nationscale wide program}).
+  - R&D internship in the Laboratory of Bioinformatics & Animal Genomics, of the dairy cattle branch, of Embrapa (Brazilian Agricultural Research Corporation).
+  - Made possible through a scientific initiation internship, from a federal grant (CNPq).
+  - Areas of focus: bioinformatics, data engineering, data science, computational biology, genomics, animal genetics, and machine learning applications, for agricultural innovation (focus on the brazilian dairy cattle {nationscale wide program}).
 
 **🤖 AI Trainer (RLHF)** | **Outlier** | *2024 - Present*  
-Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment (freelance projects).
-Areas of focus: programming and software development (Python, C, C++) and biological sciences.
+  - Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment (freelance projects).
+  - Areas of focus: programming and software development (Python, C, C++) and biological sciences.
 
 **🌱 Ecological Analyst** | **Impaakt** | *2022 - 2024*  
-Led environmental impact assessments and sustainability research using Python, LLMs and data science methodologies to optimize processes (part-time position).
+  - Led environmental impact assessments and sustainability research using Python, LLMs and data science methodologies to optimize processes (part-time position).
 
 **📚 Research Assistant** | **Georgia State University** | *2019 - 2020*  
-Conducted research through the Humanities Inclusivity Program (HIP), of the Center of Advancement of Students and Alumni (CASA), of Georgia State University, under the orientation of Neil Van Leeuwen, PhD.
-Researched in support of Dr. Van Leeuwen's systematic theory in-the-making of cognitive attitudes (differentiating belief, imagination, and religious credence).
-Areas of focus: Interdisciplinary research in cognitive sciences, philosophy of mind, psychology and behavioral analysis. 
-Utilized Python and its libraries to speed up data collection and analysis.
+  - Conducted research through the Humanities Inclusivity Program (HIP), of the Center of Advancement of Students and Alumni (CASA), of Georgia State University, under the orientation of Neil Van Leeuwen, PhD.
+  - Researched in support of Dr. Van Leeuwen's systematic theory in-the-making of cognitive attitudes (differentiating belief, imagination, and religious credence).
+  - Areas of focus: Interdisciplinary research in cognitive sciences, philosophy of mind, psychology and behavioral analysis. Utilized Python and its libraries to speed up data collection and analysis.
 
 ### 🎓 Academic Background
 
 **🤖 AI Systems & Machine Learning** | **FIAP** | *2024 - 2026 (expected)*  
-2-year specialized technologist degree (higher education degree of technology), with a program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications & MLOps, data engineering and modeling, Edge AI & IoT, eletronics and sensors, software development and data science, deep learning, and other practical real-world applications of AI & ML.
+  - 2-year specialized technologist degree (higher education degree of technology), with a program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications & MLOps, data engineering and modeling, Edge AI & IoT, eletronics and sensors, software development and data science, deep learning, and other practical real-world applications of AI & ML.
 
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
-4-year bachelor's degree under completion. Participated in over 6 scientific initiation programs that resulted in published articles, under the areas of: machine learning, ontological data modeling, climate science, laboratory safety, epidemiology, genetics, education, cognition & learning. 
-Thesis: An epigenetics full-stack software serving as a health predictor based on nutrition and other environmental variables by using machine learning algorithms.
+  - 4-year bachelor's degree under completion. Participated in over 6 scientific initiation programs that resulted in published articles, under the areas of: machine learning, ontological data modeling, climate science, laboratory safety, epidemiology, genetics, education, cognition & learning.
+  - Thesis: An epigenetics full-stack software serving as a health predictor based on nutrition and other environmental variables by using machine learning algorithms.
+  - Professor Assistant (Monitor) of Molecular Genetics, General Chemistry & the University's Museum of Natural Sciences
 
 **🧠 Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*  
-4-year bachelor's degree (3 completed) with foundational studies in cognitive sciences, philosophy, psychology, and human behavior.
-Activities and societies: Scholar of the Humanities Inclusivity Program (HIP), from the Center for Advancement of Students and Alumni (CASA); Vice-President of the International Student Growth and Development Association; Assistant of the Office of International Students and Scholarly Services (OISSS); Awarded the Atlanta Campus Scholarship; Got into the Dean's List of Excellence; Member of the Honor Society; Member of the Scholar Honor Leader National Society; Columnist of "The Signal", GSU's award-winning newspaper. 
-Thesis: Differentiating Belief, Imagination and Religous Credence - A Systematic Theory of Cognitive Attitudes
+  - 4-year bachelor's degree (3 completed) with foundational studies in cognitive sciences, philosophy, psychology, and human behavior.
+  - Activities and societies: Scholar of the Humanities Inclusivity Program (HIP), from the Center for Advancement of Students and Alumni (CASA); Vice-President of the International Student Growth and Development Association; Assistant of the Office of International Students and Scholarly Services (OISSS); Awarded the Atlanta Campus Scholarship; Got into the Dean's List of Excellence; Member of the Honor Society; Member of the Scholar Honor Leader National Society; Columnist of "The Signal", GSU's award-winning newspaper.
+  - Thesis: Differentiating Belief, Imagination and Religous Credence - A Systematic Theory of Cognitive Attitudes
 
 ---
 
