@@ -61,7 +61,7 @@ Areas of focus: Interdisciplinary research in cognitive sciences, philosophy of 
 2-year specialized technologist degree (higher education degree of technology), with a program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications, data engineering and modeling, Edge AI & IoT, eletronics and sensors, software development and data science, deep learning, and other practical real-world applications of AI & ML.
 
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
-4-year bachelor's degree completed with emphasis on genetics, education, cognition and learning, systems theory, gaia theory, cybernetics, and systems thinking.
+4-year bachelor's degree under completion. Participated in over 6 scientific initiation programs that resulted in published articles, under the areas of: machine learning, ontological data modeling, climate science, laboratory safety, epidemiology, genetics, education, cognition & learning. Thesis: An epigenetics software that serves as a health predictor and coach based on nutrition and other environmental variables.
 
 **🧠 Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*  
 4-year bachelor's degree (3 completed) with foundational studies in cognitive sciences, philosophy, psychology, and human behavior.
