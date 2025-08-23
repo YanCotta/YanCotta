@@ -99,7 +99,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
   **🔧 Key Features**: Built traditional ML models (Logistic Regression, Decision Trees) and advanced Feedforward Neural Networks with hyperparameter tuning. Includes model explainability tools and multiple deployment options.
 
-  **💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Model Explainability` • `Healthcare AI`
+  **💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Model Explainability` • `Healthcare AI` • `Data Science` 
 
   <a href="https://github.com/YanCotta/SDS-CP035-gluco-track">
     <img src="https://img.shields.io/badge/🏥_Explore_Healthcare_Platform-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
@@ -114,7 +114,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
   **🔧 Key Features**: Analyzes global salary trends and job feature impacts on compensation. Features both traditional ML pipelines and advanced deep learning on tabular data with embeddings and explainability.
 
-  **💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Tabular Data` • `Streamlit` • `Job Market Analytics`
+  **💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Tabular Data` • `Streamlit` • `Job Market Analytics`• `Data Science` 
 
   <a href="https://github.com/YanCotta/SDS-CP032-mlpaygrade">
     <img src="https://img.shields.io/badge/💼_See_Salary_Intelligence_Tool-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
@@ -127,7 +127,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
   **🔧 Key Features**: Achieved a 96.44% R² score with an XGBoost Regressor, deployed via both a Streamlit web app and a FastAPI service, all containerized with Docker and automated with CI/CD.
 
-  **💻 Technologies**: `Scikit-learn` • `XGBoost` • `MLflow` • `Streamlit` • `FastAPI` • `Docker` • `CI/CD`
+  **💻 Technologies**: `Scikit-learn` • `XGBoost` • `MLflow` • `Streamlit` • `FastAPI` • `Docker` • `CI/CD`• `Data Science`
 
   <a href="https://github.com/YanCotta/SDS-CP030-edu-spend">
     <img src="https://img.shields.io/badge/🎓_Explore_EdTech_Platform-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
@@ -138,9 +138,9 @@ I am driven to architect and govern these powerful new systems responsibly and a
   ### 🌿 Smart Leaf: Deep Learning for Crop Disease
   **🎯 Project Member** | *Deep learning solution that classifies 14 different crop diseases across four species*
 
-  **🔧 Key Features**: A Convolutional Neural Network (CNN) trained on over 13,000 images, deployed via a user-friendly Streamlit interface for real-time predictions. Covers corn, potato, rice, and wheat diseases.
+  **🔧 Key Features**: A Convolutional Neural Network (CNN) trained on my local machine, on over 13,000 images, using only modulerized python scripts (no notebooks), deployed via a user-friendly Streamlit interface for real-time predictions. Covers corn, potato, rice, and wheat diseases.
 
-  **💻 Technologies**: `Deep Learning` • `Computer Vision` • `CNN` • `TensorFlow` • `PyTorch` • `Streamlit`
+  **💻 Technologies**: `Deep Learning` • `Computer Vision` • `CNN` • `TensorFlow` • `PyTorch` • `Streamlit`• `Locally Trained Neural Network` 
 
   <a href="https://github.com/YanCotta/SDS-CP028-smart-leaf">
     <img src="https://img.shields.io/badge/🔬_See_Disease_Detection_Model-8BC34A?style=for-the-badge&logo=github&logoColor=white"/>
@@ -165,7 +165,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
   **🔧 Key Features**: Custom-built agentic architecture (no frameworks), over 5 ML models tracked by MLFlow and trained on real-world industrial datasets, leverages TimescaleDB for high-performance time-series data, and is fully containerized with multiple Docker microservices.
 
-  **💻 Technologies**: `Python` • `FastAPI` • `PostgreSQL` • `TimescaleDB` • `Redis` • `MLflow` • `Docker` • `Streamlit`
+  **💻 Technologies**: `Python` • `FastAPI` • `PostgreSQL` • `TimescaleDB` • `Redis` • `MLflow` • `Docker` • `Streamlit`• `IoT` 
 
   <a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply">
     <img src="https://img.shields.io/badge/🏭_Check_SaaS_Platform-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
