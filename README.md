@@ -78,118 +78,197 @@ I am driven to architect and govern these powerful new systems responsibly and a
   - 4-year bachelor's degree (3 completed) with foundational studies in cognitive sciences, philosophy, psychology, and human behavior.
   - Activities and societies: Scholar of the Humanities Inclusivity Program (HIP), from the Center for Advancement of Students and Alumni (CASA); Vice-President of the International Student Growth and Development Association; Assistant of the Office of International Students and Scholarly Services (OISSS); Awarded the Atlanta Campus Scholarship; Got into the Dean's List of Excellence; Member of the Honor Society; Member of the Scholar Honor Leader National Society; Columnist of "The Signal", GSU's award-winning newspaper.
   - Thesis: Differentiating Belief, Imagination and Religous Credence - A Systematic Theory of Cognitive Attitudes
+  ---
 
----
+  ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
+  Here is a comprehensive showcase of my projects, demonstrating my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
 
-Here is a comprehensive showcase of my projects, demonstrating my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
+  <br>
 
----
+  ## 🤝 Community Projects
 
-### 🤝 Community Projects
+  *These projects were completed as part of the SuperDataScience Data Science international community, where I collaborated with talented data scientists and ML engineers from around the world. I served as **Project Lead** for 2 projects and as a **Project Member** for 2 others.*
 
-These projects were completed as part of the SuperDataScience Data Science international community, where I collaborated with talented data scientists and ML engineers from around the world. I served as **Project Lead** for 2 projects and as a **Project Member** for 2 others.
+  <br>
 
----
+  ### 🩺 GlucoTrack: Diabetes Risk Prediction Platform
+  **🎯 Project Lead** | *Comprehensive diabetes risk assessment system using the CDC diabetes dataset*
 
-### 🩺 GlucoTrack: Diabetes Risk Prediction Platform
-**Project Lead** for a comprehensive diabetes risk assessment system using the CDC diabetes dataset. Led a diverse team of data scientists and ML engineers to deliver both beginner-friendly and advanced deep learning solutions.
-- **Key Features**: Built traditional ML models (Logistic Regression, Decision Trees) and advanced Feedforward Neural Networks with hyperparameter tuning. Includes model explainability tools and multiple deployment options.
-- **Technologies**: `Python`, `Scikit-learn`, `Deep Learning`, `Streamlit`, `Model Explainability`, `Healthcare AI`
-<a href="https://github.com/YanCotta/SDS-CP035-gluco-track"><strong>Explore the Healthcare Platform &rarr;</strong></a>
+  Led a diverse team of data scientists and ML engineers to deliver both beginner-friendly and advanced deep learning solutions.
 
----
+  **🔧 Key Features**: Built traditional ML models (Logistic Regression, Decision Trees) and advanced Feedforward Neural Networks with hyperparameter tuning. Includes model explainability tools and multiple deployment options.
 
-### 💰 MLPayGrade: ML Salary Prediction System
-**Project Lead** for an end-to-end salary prediction platform analyzing the 2024 machine learning job market. Coordinated a team of data scientists and ML engineers to build comprehensive solutions across multiple skill levels.
-- **Key Features**: Analyzes global salary trends and job feature impacts on compensation. Features both traditional ML pipelines and advanced deep learning on tabular data with embeddings and explainability.
-- **Technologies**: `Python`, `Scikit-learn`, `Deep Learning`, `Tabular Data`, `Streamlit`, `Job Market Analytics`
-<a href="https://github.com/YanCotta/SDS-CP032-mlpaygrade"><strong>See the Salary Intelligence Tool &rarr;</strong></a>
+  **💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Model Explainability` • `Healthcare AI`
 
----
-
-### 💸 EduSpend: Global Education Cost Prediction
-**Project Member** for an end-to-end machine learning platform to predict the Total Cost of Attendance for international higher education.
-- **Key Features**: Achieved a 96.44% R² score with an XGBoost Regressor, deployed via both a Streamlit web app and a FastAPI service, all containerized with Docker and automated with CI/CD.
-- **Technologies**: `Scikit-learn`, `XGBoost`, `MLflow`, `Streamlit`, `FastAPI`, `Docker`, `CI/CD`
-<a href="https://github.com/YanCotta/SDS-CP030-edu-spend"><strong>Explore the EdTech Platform &rarr;</strong></a>
-
----
-
-### 🌿 Smart Leaf: Deep Learning for Crop Disease
-**Project Member** for a deep learning solution that classifies 14 different crop diseases across four species (corn, potato, rice, wheat) from leaf images with high accuracy.
-- **Key Features**: A Convolutional Neural Network (CNN) trained on over 13,000 images, deployed via a user-friendly Streamlit interface for real-time predictions.
-- **Technologies**: `Deep Learning`, `Computer Vision`, `CNN`, `TensorFlow`, `PyTorch`, `Streamlit`
-<a href="https://github.com/YanCotta/SDS-CP028-smart-leaf"><strong>See the Disease Detection Model &rarr;</strong></a>
----
-
-### 🔧 Full-Stack AI Systems & End-to-End Automation
-
-These are my most comprehensive projects where I architected and built complete AI systems from the ground up, working solo to deliver production-ready solutions that demonstrate my ability to handle complex, full-stack development challenges.
-
----
-
-### ⚙️ Industrial Smart Maintenance SaaS
-A multi-agent AI platform for industrial IoT that predicts machine failures and automates maintenance scheduling, built entirely from scratch to ensure maximum performance and control.
-- **Key Features**: Custom-built agentic architecture (no frameworks), over 5 ML models tracked by MLFlow and trained on real-world industrial datasets, leverages TimescaleDB for high-performance time-series data, and is fully containerized with multiple Docker microservices.
-- **Technologies**: `Python`, `FastAPI`, `PostgreSQL`, `TimescaleDB`, `Redis`, `MLflow`, `Docker`, `Streamlit`
-<a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply"><strong>Check out the SaaS Platform &rarr;</strong></a>
-
----
-
-### 📄 Full-Stack Invoice Automation System
-An AI-powered system that automates invoice processing, drastically reducing manual effort.
-- **Key Features**: Reduced processing time by over 85% and uses RAG with FAISS for intelligent error classification. Built with multiple frontend (React/Next.js) and deployment options.
-- **Technologies**: `Next.js`, `React`, `TypeScript`, `AWS`, `LangChain`, `Streamlit`, `RAG`
-<a href="https://github.com/YanCotta/agentic_invoice_system_final_version"><strong>See the Full-Stack Solution &rarr;</strong></a>
-
----
-
-### 🏆 Guardian System: National Resilience Platform (Award Winner)
-My winning project for FIAP's 2025.1 Global Solution Challenge. A visionary multi-agent platform designed to predict and manage large-scale events in Brazil by fusing Agentic AI with concepts from Brazilian folklore.
-- **Key Features**: Five autonomous "Guardian" agents for different threat domains, with a fully functional MVP for fire risk prediction using real-time IoT sensor data.
-- **Technologies**: `Agentic AI`, `Python`, `FastAPI`, `Docker`, `MicroPython`, `ESP32`, `IoT`
-<a href="https://github.com/YanCotta/global_solution_1_fiap"><strong>See the Award-Winning Code &rarr;</strong></a>
-
-### 🌱 AgroTech & BioTech Solutions
-
-These projects showcase my work at the intersection of technology and life sciences, developing AI-powered solutions for agriculture, bioinformatics, and environmental monitoring.
-
----
-
-### 🌾 SmartCrops: IoT-ML Agriculture System
-An IoT-ML project for smart agriculture featuring dual ESP32 nodes with sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubidots for comprehensive crop monitoring.
-- **Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
-- **Technologies**: `Python`, `C++`, `ESP32`, `IoT`, `MQTT`, `Machine Learning`, `Agriculture AI`
-<a href="https://github.com/YanCotta/SmartCrops-IoT-ML-System"><strong>See the Smart Agriculture System &rarr;</strong></a>
-
----
-
-### 🧬 Bioinformatics & Genetic Analysis Tools
-A collection of high-performance Python tools for bioinformatics, including DNA sequence analysis, gene expression analysis, and a pipeline that uses ML to predict disease risk from genetic variants.
-- **Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
-- **Technologies**: `Python`, `Bioinformatics`, `Genomics`, `PyTorch`, `Scikit-learn`
-<a href="https://github.com/YanCotta/DNASequenceAnalysisTool"><strong>Explore Bio-AI Tools &rarr;</strong></a>
-
----
-
-### 🌍 Climate Risk Assessment Tool
-An advanced climate risk prediction system using ensemble machine learning and deep learning, delivered via a production-ready REST API.
-- **Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
-- **Technologies**: `Python`, `FastAPI`, `Ensemble ML`, `Deep Learning`, `Docker`, `CI/CD`
-<a href="https://github.com/YanCotta/ClimateRiskAssessmentTool"><strong>Check out the API &rarr;</strong></a>
-
----
-<div align="center">
-  <img src="https://img.shields.io/badge/Explore_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
-  <br><br>
-  ... and even more projects in my repositories, covering Data Science, Machine Learning, MLOps, LLMOps, IoT, AI engineering, bioinformatics, and more!
-  <br><br>
-  <a href="https://github.com/YanCotta?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Repositories-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+  <a href="https://github.com/YanCotta/SDS-CP035-gluco-track">
+    <img src="https://img.shields.io/badge/🏥_Explore_Healthcare_Platform-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
+
+  ---
+
+  ### 💰 MLPayGrade: ML Salary Prediction System
+  **🎯 Project Lead** | *End-to-end salary prediction platform analyzing the 2024 machine learning job market*
+
+  Coordinated a team of data scientists and ML engineers to build comprehensive solutions across multiple skill levels.
+
+  **🔧 Key Features**: Analyzes global salary trends and job feature impacts on compensation. Features both traditional ML pipelines and advanced deep learning on tabular data with embeddings and explainability.
+
+  **💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Tabular Data` • `Streamlit` • `Job Market Analytics`
+
+  <a href="https://github.com/YanCotta/SDS-CP032-mlpaygrade">
+    <img src="https://img.shields.io/badge/💼_See_Salary_Intelligence_Tool-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  ---
+
+  ### 💸 EduSpend: Global Education Cost Prediction
+  **🎯 Project Member** | *End-to-end machine learning platform to predict Total Cost of Attendance for international higher education*
+
+  **🔧 Key Features**: Achieved a 96.44% R² score with an XGBoost Regressor, deployed via both a Streamlit web app and a FastAPI service, all containerized with Docker and automated with CI/CD.
+
+  **💻 Technologies**: `Scikit-learn` • `XGBoost` • `MLflow` • `Streamlit` • `FastAPI` • `Docker` • `CI/CD`
+
+  <a href="https://github.com/YanCotta/SDS-CP030-edu-spend">
+    <img src="https://img.shields.io/badge/🎓_Explore_EdTech_Platform-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  ---
+
+  ### 🌿 Smart Leaf: Deep Learning for Crop Disease
+  **🎯 Project Member** | *Deep learning solution that classifies 14 different crop diseases across four species*
+
+  **🔧 Key Features**: A Convolutional Neural Network (CNN) trained on over 13,000 images, deployed via a user-friendly Streamlit interface for real-time predictions. Covers corn, potato, rice, and wheat diseases.
+
+  **💻 Technologies**: `Deep Learning` • `Computer Vision` • `CNN` • `TensorFlow` • `PyTorch` • `Streamlit`
+
+  <a href="https://github.com/YanCotta/SDS-CP028-smart-leaf">
+    <img src="https://img.shields.io/badge/🔬_See_Disease_Detection_Model-8BC34A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <br>
+
+  ---
+
+  <br>
+
+  ## 🔧 Full-Stack AI Systems & End-to-End Automation
+
+  *These are my most comprehensive projects where I architected and built complete AI systems from the ground up, working solo to deliver production-ready solutions that demonstrate my ability to handle complex, full-stack development challenges.*
+
+  <br>
+
+  ### ⚙️ Industrial Smart Maintenance SaaS
+  **🎯 Solo Development** | *Multi-agent AI platform for industrial IoT that predicts machine failures and automates maintenance scheduling*
+
+  Built entirely from scratch to ensure maximum performance and control.
+
+  **🔧 Key Features**: Custom-built agentic architecture (no frameworks), over 5 ML models tracked by MLFlow and trained on real-world industrial datasets, leverages TimescaleDB for high-performance time-series data, and is fully containerized with multiple Docker microservices.
+
+  **💻 Technologies**: `Python` • `FastAPI` • `PostgreSQL` • `TimescaleDB` • `Redis` • `MLflow` • `Docker` • `Streamlit`
+
+  <a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply">
+    <img src="https://img.shields.io/badge/🏭_Check_SaaS_Platform-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  ---
+
+  ### 📄 Full-Stack Invoice Automation System
+  **🎯 Solo Development** | *AI-powered system that automates invoice processing, drastically reducing manual effort*
+
+  **🔧 Key Features**: Reduced processing time by over 85% and uses RAG with FAISS for intelligent error classification. Built with multiple frontend (React/Next.js) and deployment options.
+
+  **💻 Technologies**: `Next.js` • `React` • `TypeScript` • `AWS` • `LangChain` • `Streamlit` • `RAG`
+
+  <a href="https://github.com/YanCotta/agentic_invoice_system_final_version">
+    <img src="https://img.shields.io/badge/📊_See_Full--Stack_Solution-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  ---
+
+  ### 🏆 Guardian System: National Resilience Platform (Award Winner)
+  **🎯 Solo Development** | *My winning project for FIAP's 2025.1 Global Solution Challenge*
+
+  A visionary multi-agent platform designed to predict and manage large-scale events in Brazil by fusing Agentic AI with concepts from Brazilian folklore.
+
+  **🔧 Key Features**: Five autonomous "Guardian" agents for different threat domains, with a fully functional MVP for fire risk prediction using real-time IoT sensor data.
+
+  **💻 Technologies**: `Agentic AI` • `Python` • `FastAPI` • `Docker` • `MicroPython` • `ESP32` • `IoT`
+
+  <a href="https://github.com/YanCotta/global_solution_1_fiap">
+    <img src="https://img.shields.io/badge/🏆_See_Award--Winning_Code-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+
+  <br>
+
+  ---
+
+  <br>
+
+  ## 🌱 AgroTech & BioTech Solutions
+
+  *These projects showcase my work at the intersection of technology and life sciences, developing AI-powered solutions for agriculture, bioinformatics, and environmental monitoring.*
+
+  <br>
+
+  ### 🌾 SmartCrops: IoT-ML Agriculture System
+  **🎯 Solo Development** | *IoT-ML project for smart agriculture featuring dual ESP32 nodes*
+
+  Features sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubidots for comprehensive crop monitoring.
+
+  **🔧 Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
+
+  **💻 Technologies**: `Python` • `C++` • `ESP32` • `IoT` • `MQTT` • `Machine Learning` • `Agriculture AI`
+
+  <a href="https://github.com/YanCotta/SmartCrops-IoT-ML-System">
+    <img src="https://img.shields.io/badge/🚜_See_Smart_Agriculture_System-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  ---
+
+  ### 🧬 Bioinformatics & Genetic Analysis Tools
+  **🎯 Solo Development** | *Collection of high-performance Python tools for bioinformatics*
+
+  Includes DNA sequence analysis, gene expression analysis, and a pipeline that uses ML to predict disease risk from genetic variants.
+
+  **🔧 Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
+
+  **💻 Technologies**: `Python` • `Bioinformatics` • `Genomics` • `PyTorch` • `Scikit-learn`
+
+  <a href="https://github.com/YanCotta/DNASequenceAnalysisTool">
+    <img src="https://img.shields.io/badge/🧬_Explore_Bio--AI_Tools-00BCD4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  ---
+
+  ### 🌍 Climate Risk Assessment Tool
+  **🎯 Solo Development** | *Advanced climate risk prediction system using ensemble machine learning and deep learning*
+
+  Delivered via a production-ready REST API.
+
+  **🔧 Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
+
+  **💻 Technologies**: `Python` • `FastAPI` • `Ensemble ML` • `Deep Learning` • `Docker` • `CI/CD`
+
+  <a href="https://github.com/YanCotta/ClimateRiskAssessmentTool">
+    <img src="https://img.shields.io/badge/🌡️_Check_Climate_API-607D8B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <br>
+
+  ---
+
+  <div align="center">
+    <br>
+    <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+    <br><br>
+    <em>... and even more projects in my repositories, covering Data Science, Machine Learning, MLOps, LLMOps, IoT, AI engineering, bioinformatics, and more!</em>
+    <br><br>
+    <a href="https://github.com/YanCotta?tab=repositories">
+      <img src="https://img.shields.io/badge/📚_View_All_Repositories-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+    </a>
+    <br><br>
+  </div>
 
 
 ## 🛠️ Tech Stack & Tools
