@@ -16,6 +16,19 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YanCotta&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YanCotta&theme=algolia" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YanCotta&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YanCotta&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
 <div align="center">
   <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -26,8 +39,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
-
---- 
 
 ## 🌍 About Me
 
@@ -88,6 +99,12 @@ Here is a comprehensive showcase of my projects, demonstrating my skills in buil
 
 ---
 
+### 🤝 Community Projects
+
+These projects were completed as part of the SuperDataScience Data Science international community, where I collaborated with talented data scientists and ML engineers from around the world. I served as **Project Lead** for 2 projects and as a **Project Member** for 2 others.
+
+---
+
 ### 🩺 GlucoTrack: Diabetes Risk Prediction Platform
 **Project Lead** for a comprehensive diabetes risk assessment system using the CDC diabetes dataset. Led a diverse team of data scientists and ML engineers to deliver both beginner-friendly and advanced deep learning solutions.
 - **Key Features**: Built traditional ML models (Logistic Regression, Decision Trees) and advanced Feedforward Neural Networks with hyperparameter tuning. Includes model explainability tools and multiple deployment options.
@@ -104,51 +121,32 @@ Here is a comprehensive showcase of my projects, demonstrating my skills in buil
 
 ---
 
-### 🧠 Project Synapse: Production-Ready Multi-Agent System
-A comprehensive multi-agent system built with modern async Python, showcasing Agent Communication Protocol (ACP) and Model Context Protocol (MCP) capabilities through a collaborative research workflow.
-- **Key Features**: Engineered with a high-performance RabbitMQ message bus, containerized with Docker and Kubernetes, and fully observable with a Prometheus/Grafana stack.
-- **Technologies**: `Python`, `FastAPI`, `RabbitMQ`, `Docker`, `Kubernetes`, `ACP`, `MCP`
-<a href="https://github.com/YanCotta/project-synapse"><strong>Explore the Architecture &rarr;</strong></a>
+### 💸 EduSpend: Global Education Cost Prediction
+**Project Member** for an end-to-end machine learning platform to predict the Total Cost of Attendance for international higher education.
+- **Key Features**: Achieved a 96.44% R² score with an XGBoost Regressor, deployed via both a Streamlit web app and a FastAPI service, all containerized with Docker and automated with CI/CD.
+- **Technologies**: `Scikit-learn`, `XGBoost`, `MLflow`, `Streamlit`, `FastAPI`, `Docker`, `CI/CD`
+<a href="https://github.com/YanCotta/SDS-CP030-edu-spend"><strong>Explore the EdTech Platform &rarr;</strong></a>
 
 ---
 
-### 🏆 Guardian System: National Resilience Platform (Award Winner)
-My winning project for FIAP's 2025.1 Global Solution Challenge. A visionary multi-agent platform designed to predict and manage large-scale events in Brazil by fusing Agentic AI with concepts from Brazilian folklore.
-- **Key Features**: Five autonomous "Guardian" agents for different threat domains, with a fully functional MVP for fire risk prediction using real-time IoT sensor data.
-- **Technologies**: `Agentic AI`, `Python`, `FastAPI`, `Docker`, `MicroPython`, `ESP32`, `IoT`
-<a href="https://github.com/YanCotta/global_solution_1_fiap"><strong>See the Award-Winning Code &rarr;</strong></a>
+### 🌿 Smart Leaf: Deep Learning for Crop Disease
+**Project Member** for a deep learning solution that classifies 14 different crop diseases across four species (corn, potato, rice, wheat) from leaf images with high accuracy.
+- **Key Features**: A Convolutional Neural Network (CNN) trained on over 13,000 images, deployed via a user-friendly Streamlit interface for real-time predictions.
+- **Technologies**: `Deep Learning`, `Computer Vision`, `CNN`, `TensorFlow`, `PyTorch`, `Streamlit`
+<a href="https://github.com/YanCotta/SDS-CP028-smart-leaf"><strong>See the Disease Detection Model &rarr;</strong></a>
+---
+
+### 🔧 Full-Stack AI Systems & End-to-End Automation
+
+These are my most comprehensive projects where I architected and built complete AI systems from the ground up, working solo to deliver production-ready solutions that demonstrate my ability to handle complex, full-stack development challenges.
 
 ---
 
 ### ⚙️ Industrial Smart Maintenance SaaS
 A multi-agent AI platform for industrial IoT that predicts machine failures and automates maintenance scheduling, built entirely from scratch to ensure maximum performance and control.
-- **Key Features**: Custom-built agentic architecture (no frameworks), leverages TimescaleDB for high-performance time-series data, and is fully containerized with Docker.
-- **Technologies**: `Python`, `FastAPI`, `PostgreSQL`, `TimescaleDB`, `Docker`, `Streamlit`
+- **Key Features**: Custom-built agentic architecture (no frameworks), over 5 ML models tracked by MLFlow and trained on real-world industrial datasets, leverages TimescaleDB for high-performance time-series data, and is fully containerized with multiple Docker microservices.
+- **Technologies**: `Python`, `FastAPI`, `PostgreSQL`, `TimescaleDB`, `Redis`, `MLflow`, `Docker`, `Streamlit`
 <a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply"><strong>Check out the SaaS Platform &rarr;</strong></a>
-
----
-
-### 🔬 Post-Training Techniques for LLMs (SFT, DPO & RL)
-A production-ready framework implementing three key post-training techniques to enhance and align Large Language Models: Supervised Fine-Tuning (SFT), Direct Preference Optimization (DPO), and Reinforcement Learning (GRPO).
-- **Key Features**: Modular architecture, educational notebooks, YAML-based configuration, and built-in benchmarking tools based on the DeepLearning.AI course.
-- **Technologies**: `PyTorch`, `TRL`, `Hugging Face`, `Fine-Tuning`, `DPO`, `Reinforcement Learning`
-<a href="https://github.com/YanCotta/post_training_llms"><strong>Learn about LLM Alignment &rarr;</strong></a>
-
----
-
-### 🤖 RepoSpector AI: AI-Powered GitHub Reviewer
-An AI-powered multi-agent system built with CrewAI that automatically reviews GitHub repositories, providing expert-level feedback on code structure, documentation, and best practices.
-- **Key Features**: A team of specialized AI agents, a modern Streamlit web interface for real-time analysis, and a full CI/CD pipeline for quality assurance.
-- **Technologies**: `CrewAI`, `LangChain`, `Streamlit`, `Python`, `CI/CD`, `Docker`
-<a href="https://github.com/YanCotta/repospector-ai"><strong>View the Project &rarr;</strong></a>
-
----
-
-### 🚀 AgenticFlow: AI-Powered Productivity
-An advanced automation platform designed to streamline digital communication. It uses a team of CrewAI agents to process emails, draft replies, and transform newsletters into social media content.
-- **Key Features**: Intelligent email management, multi-platform social media automation, and a modern full-stack architecture.
-- **Technologies**: `React.js`, `FastAPI`, `PostgreSQL`, `CrewAI`, `Tailwind CSS`, `JWT`
-<a href="https://github.com/YanCotta/AgenticFlow"><strong>See the Automation System &rarr;</strong></a>
 
 ---
 
@@ -160,27 +158,23 @@ An AI-powered system that automates invoice processing, drastically reducing man
 
 ---
 
-### 💬 Local RAG Chat App with Gemma
-A fully local, privacy-friendly RAG-powered chat application that runs entirely on your machine for secure document interaction.
-- **Key Features**: Uses Google's Gemma model via Ollama for local LLM inference, FAISS for vector search, and a modern UI built with Reflex.
-- **Technologies**: `Reflex`, `LangChain`, `HuggingFace`, `FAISS`, `Ollama`, `RAG`, `Local-AI`
-<a href="https://github.com/YanCotta/local_rag_chat_app"><strong>Explore the Privacy-First App &rarr;</strong></a>
+### 🏆 Guardian System: National Resilience Platform (Award Winner)
+My winning project for FIAP's 2025.1 Global Solution Challenge. A visionary multi-agent platform designed to predict and manage large-scale events in Brazil by fusing Agentic AI with concepts from Brazilian folklore.
+- **Key Features**: Five autonomous "Guardian" agents for different threat domains, with a fully functional MVP for fire risk prediction using real-time IoT sensor data.
+- **Technologies**: `Agentic AI`, `Python`, `FastAPI`, `Docker`, `MicroPython`, `ESP32`, `IoT`
+<a href="https://github.com/YanCotta/global_solution_1_fiap"><strong>See the Award-Winning Code &rarr;</strong></a>
+
+### 🌱 AgroTech & BioTech Solutions
+
+These projects showcase my work at the intersection of technology and life sciences, developing AI-powered solutions for agriculture, bioinformatics, and environmental monitoring.
 
 ---
 
-### 💸 EduSpend: Global Education Cost Prediction
-An end-to-end machine learning platform to predict the Total Cost of Attendance for international higher education. A SuperDataScience Community Project.
-- **Key Features**: Achieved a 96.44% R² score with an XGBoost Regressor, deployed via both a Streamlit web app and a FastAPI service, all containerized with Docker and automated with CI/CD.
-- **Technologies**: `Scikit-learn`, `XGBoost`, `MLflow`, `Streamlit`, `FastAPI`, `Docker`, `CI/CD`
-<a href="https://github.com/YanCotta/SDS-CP030-edu-spend"><strong>Explore the EdTech Platform &rarr;</strong></a>
-
----
-
-### 🌿 Smart Leaf: Deep Learning for Crop Disease
-A deep learning solution that classifies 14 different crop diseases across four species (corn, potato, rice, wheat) from leaf images with high accuracy.
-- **Key Features**: A Convolutional Neural Network (CNN) trained on over 13,000 images, deployed via a user-friendly Streamlit interface for real-time predictions.
-- **Technologies**: `Deep Learning`, `Computer Vision`, `CNN`, `TensorFlow`, `PyTorch`, `Streamlit`
-<a href="https://github.com/YanCotta/SDS-CP028-smart-leaf"><strong>See the Disease Detection Model &rarr;</strong></a>
+### 🌾 SmartCrops: IoT-ML Agriculture System
+An IoT-ML project for smart agriculture featuring dual ESP32 nodes with sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubidots for comprehensive crop monitoring.
+- **Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
+- **Technologies**: `Python`, `C++`, `ESP32`, `IoT`, `MQTT`, `Machine Learning`, `Agriculture AI`
+<a href="https://github.com/YanCotta/SmartCrops-IoT-ML-System"><strong>See the Smart Agriculture System &rarr;</strong></a>
 
 ---
 
@@ -199,24 +193,16 @@ An advanced climate risk prediction system using ensemble machine learning and d
 <a href="https://github.com/YanCotta/ClimateRiskAssessmentTool"><strong>Check out the API &rarr;</strong></a>
 
 ---
-
-### 📈 Algorithmic Trading with Machine Learning
-A systematic exploration into decoding financial market patterns using ML, developed as a Scientific Initiation Project at UniAcademia.
-- **Key Features**: Uses Random Forest classifiers to generate signals from technical indicators (RSI, MACD) and Elliott Wave Theory, with a robust backtesting engine to prevent lookahead bias.
-- **Technologies**: `Python`, `Scikit-learn`, `Quantitative-Finance`, `Algorithmic-Trading`, `Fintech`
-<a href="https://github.com/YanCotta/swing_trade_e_machine_learning"><strong>Analyze the Trading System &rarr;</strong></a>
-
----
-
-###  Portfolio Collections & Other Work
-
-- **🤖 Agentic AI Portfolio:** A collection of advanced multi-agent systems for automation, using frameworks like CrewAI, LangChain, and AutoGen. <a href="https://github.com/YanCotta/AgenticAIPortfolio">**View &rarr;**</a>
-- **📊 Machine Learning Portfolio:** A comprehensive showcase of ML projects spanning supervised, unsupervised, and reinforcement learning techniques. <a href="https://github.com/YanCotta/MachineLearningPortfolio">**View &rarr;**</a>
-
----
 <div align="center">
-... and even more projects in my repositories, covering Data Science, MLOps, and AI from end to end!
+  <img src="https://img.shields.io/badge/Explore_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
+  <br><br>
+  ... and even more projects in my repositories, covering Data Science, Machine Learning, MLOps, LLMOps, IoT, AI engineering, bioinformatics, and more!
+  <br><br>
+  <a href="https://github.com/YanCotta?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
+  </a>
 </div>
+
 
 ## 🛠️ Tech Stack & Tools
 
