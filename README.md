@@ -257,18 +257,24 @@ I am driven to architect and govern these powerful new systems responsibly and a
   <br>
 
   ---
+  
+  <br>
+
+  ---
+
+  <br>
+
+  ## 📚 Explore More Projects
 
   <div align="center">
-    <br>
-    <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories"/>
-    <br><br>
     <em>... and even more projects in my repositories, covering Data Science, Machine Learning, MLOps, LLMOps, IoT, AI engineering, bioinformatics, and more!</em>
     <br><br>
     <a href="https://github.com/YanCotta?tab=repositories">
       <img src="https://img.shields.io/badge/📚_View_All_Repositories-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
     </a>
-    <br><br>
   </div>
+
+  <br>
 
 
 ## 🛠️ Tech Stack & Tools
