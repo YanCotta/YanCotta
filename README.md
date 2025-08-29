@@ -69,7 +69,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 **🤖 AI Systems & Machine Learning** | **FIAP** | *2024 - 2026 (expected)*  
   - 2-year specialized technologist degree (higher education degree of technology), with a program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications & MLOps, data engineering and modeling, Edge AI & IoT, eletronics and sensors, software development and data science, deep learning, and other practical real-world applications of AI & ML.
   - Solo Architect & Engineer of the Winning Project of FIAP'S "Global Solution - ProTech the Future - 2025.1"
-  - GPA: 3.9
+  - GPA: 4.0
 
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
   - 4-year bachelor's degree under completion. Participated in over 6 scientific initiation programs that resulted in published articles, under the areas of: machine learning, ontological data modeling, climate science, laboratory safety, epidemiology, genetics, education, cognition & learning.
