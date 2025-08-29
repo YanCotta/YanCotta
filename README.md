@@ -68,16 +68,20 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
 **🤖 AI Systems & Machine Learning** | **FIAP** | *2024 - 2026 (expected)*  
   - 2-year specialized technologist degree (higher education degree of technology), with a program focusing on cutting-edge end-to-end AI systems architecture and engineering, machine learning enterprise applications & MLOps, data engineering and modeling, Edge AI & IoT, eletronics and sensors, software development and data science, deep learning, and other practical real-world applications of AI & ML.
+  - Solo Architect & Engineer of the Winning Project of FIAP'S "Global Solution - ProTech the Future - 2025.1"
+  - GPA: 3.9
 
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
   - 4-year bachelor's degree under completion. Participated in over 6 scientific initiation programs that resulted in published articles, under the areas of: machine learning, ontological data modeling, climate science, laboratory safety, epidemiology, genetics, education, cognition & learning.
-  - Thesis: An epigenetics full-stack software serving as a health predictor based on nutrition and other environmental variables by using machine learning algorithms.
-  - Professor Assistant (Monitor) of Molecular Genetics, General Chemistry & the University's Museum of Natural Sciences
+  - Professor Assistant (Monitor) of Molecular Genetics, General Chemistry & the University's Museum of Natural Sciences.
+  - GPA: 3.8
+  - Thesis: Epigenetics Antiaging Health Software Leveraging Machine Learning & Deep Learning Algorithms.
 
 **🧠 Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*  
   - 4-year bachelor's degree (3 completed) with foundational studies in cognitive sciences, philosophy, psychology, and human behavior.
   - Activities and societies: Scholar of the Humanities Inclusivity Program (HIP), from the Center for Advancement of Students and Alumni (CASA); Vice-President of the International Student Growth and Development Association; Assistant of the Office of International Students and Scholarly Services (OISSS); Awarded the Atlanta Campus Scholarship; Got into the Dean's List of Excellence; Member of the Honor Society; Member of the Scholar Honor Leader National Society; Columnist of "The Signal", GSU's award-winning newspaper.
-  - Thesis: Differentiating Belief, Imagination and Religous Credence - A Systematic Theory of Cognitive Attitudes
+  - GPA: 3.7
+  - Thesis: Differentiating Factual Belief, Imagination & Religous Credence - A Systematic Theory of Cognitive Attitudes
   ---
 
   ## 🚀 Featured Projects
