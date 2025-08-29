@@ -74,13 +74,13 @@ I am driven to architect and govern these powerful new systems responsibly and a
 **🧬 Biological Sciences** | **UniAcademia** | *2022 - 2025*  
   - 4-year bachelor's degree under completion. Participated in over 6 scientific initiation programs that resulted in published articles, under the areas of: machine learning, ontological data modeling, climate science, laboratory safety, epidemiology, genetics, education, cognition & learning.
   - Professor Assistant (Monitor) of Molecular Genetics, General Chemistry & the University's Museum of Natural Sciences.
-  - GPA: 3.8
+  - GPA: 3.7
   - Thesis: Epigenetics Antiaging Health Software Leveraging Machine Learning & Deep Learning Algorithms.
 
 **🧠 Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*  
   - 4-year bachelor's degree (3 completed) with foundational studies in cognitive sciences, philosophy, psychology, and human behavior.
   - Activities and societies: Scholar of the Humanities Inclusivity Program (HIP), from the Center for Advancement of Students and Alumni (CASA); Vice-President of the International Student Growth and Development Association; Assistant of the Office of International Students and Scholarly Services (OISSS); Awarded the Atlanta Campus Scholarship; Got into the Dean's List of Excellence; Member of the Honor Society; Member of the Scholar Honor Leader National Society; Columnist of "The Signal", GSU's award-winning newspaper.
-  - GPA: 3.7
+  - GPA: 3.8
   - Thesis: Differentiating Factual Belief, Imagination & Religous Credence - A Systematic Theory of Cognitive Attitudes
   ---
 
