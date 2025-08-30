@@ -28,6 +28,66 @@
   <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
 
+## 📑 Quick Navigation
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="#-about-me">
+          <img src="https://img.shields.io/badge/🌍_About_Me-4CAF50?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#️-professional-timeline">
+          <img src="https://img.shields.io/badge/🕰️_Professional_Timeline-2196F3?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-featured-projects">
+          <img src="https://img.shields.io/badge/🚀_Featured_Projects-FF9800?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#-community-projects">
+          <img src="https://img.shields.io/badge/🤝_Community_Projects-9C27B0?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-full-stack-ai-systems--end-to-end-automation">
+          <img src="https://img.shields.io/badge/🔧_Full--Stack_AI_Systems-E91E63?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-agrotech--biotech-solutions">
+          <img src="https://img.shields.io/badge/🌱_AgroTech_&_BioTech-8BC34A?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#️-tech-stack--tools">
+          <img src="https://img.shields.io/badge/🛠️_Tech_Stack_&_Tools-607D8B?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-global-communication">
+          <img src="https://img.shields.io/badge/🌍_Global_Communication-FF5722?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#-explore-more-projects">
+          <img src="https://img.shields.io/badge/📚_Explore_More_Projects-795548?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🌍 About Me
 
 
