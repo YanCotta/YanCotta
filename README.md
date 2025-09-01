@@ -146,7 +146,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
   ## 🚀 Featured Projects
 
-  Here is a comprehensive showcase of my projects, demonstrating my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
+  Here is a comprehensive showcase of my projects (ALL FOR MY OWN LEARNING PURPOSES, since I learn better with Project Based Learning {PBL}), demonstrating my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
 
   <br>
 
