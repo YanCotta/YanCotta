@@ -44,7 +44,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#-my-elephants'-graveyard">
+        <a href="#-my-elephants-graveyard">
           <img src="https://img.shields.io/badge/🚀_My_Elephants'_Graveyard-FF9800?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
@@ -146,7 +146,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
   ## 🚀 My Elephants' Graveyard
 
-  Here is where all my projects come to die lol (most are never completed, since they are all for my own learning purposes {I do better with Project Based Learning - PBL}). They demonstrate my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
+  Here is where all my projects come to die lol (most are never completed, since they are all for my own learning purposes {I do better with Project Based Learning - PBL}). They demonstrate my skills in building production-grade, scalable, and innovative AI systems from end-to-end across multiple domains.
 
   <br>
 
@@ -218,7 +218,7 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
   ## 🔧 Full-Stack AI Systems & End-to-End Automation
 
-  *These are my most comprehensive projects where I architected and built complete AI systems from the ground up, working solo to deliver production-ready solutions that demonstrate my ability to handle complex, full-stack development challenges.*
+  *These are my most comprehensive projects where I architected and built complete AI systems from the ground up, working solo to learn as much as I could, and deliver production-ready solutions that demonstrate my ability to handle complex, full-stack development challenges.*
 
   <br>
 
@@ -237,19 +237,6 @@ I am driven to architect and govern these powerful new systems responsibly and a
 
   ---
 
-  ### 📄 Full-Stack Invoice Automation System
-  **🎯 Solo Development** | *AI-powered system that automates invoice processing, drastically reducing manual effort*
-
-  **🔧 Key Features**: Reduced processing time by over 85% and uses RAG with FAISS for intelligent error classification. Built with multiple frontend (React/Next.js) and deployment options.
-
-  **💻 Technologies**: `Next.js` • `React` • `TypeScript` • `AWS` • `LangChain` • `Streamlit` • `RAG`
-
-  <a href="https://github.com/YanCotta/agentic_invoice_system_final_version">
-    <img src="https://img.shields.io/badge/📊_See_Full--Stack_Solution-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  ---
-
   ### 🏆 Guardian System: National Resilience Platform (Award Winner)
   **🎯 Solo Development** | *My winning project for FIAP's 2025.1 Global Solution Challenge*
 
@@ -263,70 +250,95 @@ I am driven to architect and govern these powerful new systems responsibly and a
     <img src="https://img.shields.io/badge/🏆_See_Award--Winning_Code-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 
-  <br>
-
   ---
 
-  <br>
+  ### 📄 Full-Stack Invoice Automation System
+  **🎯 Solo Development** | *AI-powered system that automates invoice processing, drastically reducing manual effort*
 
-  ## 🌱 AgroTech & BioTech Solutions
+  **🔧 Key Features**: Reduced processing time by over 85% and uses RAG with FAISS for intelligent error classification. Built with multiple frontend (React/Next.js) and deployment options.
 
-  *These projects showcase my work at the intersection of technology and life sciences, developing AI-powered solutions for agriculture, bioinformatics, and environmental monitoring.*
+  **💻 Technologies**: `Next.js` • `React` • `TypeScript` • `AWS` • `LangChain` • `Streamlit` • `RAG`
 
-  <br>
-
-  ### 🌾 SmartCrops: IoT-ML Agriculture System
-  **🎯 Solo Development** | *IoT-ML project for smart agriculture featuring dual ESP32 nodes*
-
-  Features sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubidots for comprehensive crop monitoring.
-
-  **🔧 Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
-
-  **💻 Technologies**: `Python` • `C++` • `ESP32` • `IoT` • `MQTT` • `Machine Learning` • `Agriculture AI`
-
-  <a href="https://github.com/YanCotta/SmartCrops-IoT-ML-System">
-    <img src="https://img.shields.io/badge/🚜_See_Smart_Agriculture_System-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  ---
-
-  ### 🧬 Bioinformatics & Genetic Analysis Tools
-  **🎯 Solo Development** | *Collection of high-performance Python tools for bioinformatics*
-
-  Includes DNA sequence analysis, gene expression analysis, and a pipeline that uses ML to predict disease risk from genetic variants.
-
-  **🔧 Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
-
-  **💻 Technologies**: `Python` • `Bioinformatics` • `Genomics` • `PyTorch` • `Scikit-learn`
-
-  <a href="https://github.com/YanCotta/DNASequenceAnalysisTool">
-    <img src="https://img.shields.io/badge/🧬_Explore_Bio--AI_Tools-00BCD4?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  ---
-
-  ### 🌍 Climate Risk Assessment Tool
-  **🎯 Solo Development** | *Advanced climate risk prediction system using ensemble machine learning and deep learning*
-
-  Delivered via a production-ready REST API.
-
-  **🔧 Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
-
-  **💻 Technologies**: `Python` • `FastAPI` • `Ensemble ML` • `Deep Learning` • `Docker` • `CI/CD`
-
-  <a href="https://github.com/YanCotta/ClimateRiskAssessmentTool">
-    <img src="https://img.shields.io/badge/🌡️_Check_Climate_API-607D8B?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/YanCotta/agentic_invoice_system_final_version">
+    <img src="https://img.shields.io/badge/📊_See_Full--Stack_Solution-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <br>
 
   ---
-  
-  <br>
-
-  ---
 
   <br>
+
+    ## 🌱 AgroTech & BioTech Solutions
+
+    *These projects showcase my work at the intersection of technology and life sciences, developing AI-powered solutions for agriculture, bioinformatics, and environmental monitoring.*
+
+    <br>
+
+    ### 🌾 SmartCrops: IoT-ML Agriculture System
+    **🎯 Solo Development** | *IoT-ML project for smart agriculture featuring dual ESP32 nodes*
+
+    Features sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubidots for comprehensive crop monitoring.
+
+    **🔧 Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
+
+    **💻 Technologies**: `Python` • `C++` • `ESP32` • `IoT` • `MQTT` • `Machine Learning` • `Agriculture AI`
+
+    <a href="https://github.com/YanCotta/SmartCrops-IoT-ML-System">
+      <img src="https://img.shields.io/badge/🚜_See_Smart_Agriculture_System-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+
+    ---
+
+    ### 🧬 Personalized Anti-Aging Epigenetics ML System
+    **🎯 Solo Development** | *Thesis project developing a personalized anti-aging recommendation system based on genetics and lifestyle analysis*
+
+    Analyzes genetic predispositions (SNPs) and lifestyle habits to generate personalized risk assessments and actionable recommendations for healthy aging.
+
+    **🔧 Key Features**: Synthetic genetic data generation with BioPython, model comparison (Random Forest vs Neural Network), explainable AI via SHAP, and MLFlow experiment tracking. Fully containerized with secure JWT authentication.
+
+    **💻 Technologies**: `Python` • `FastAPI` • `React` • `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker`
+
+    <a href="https://github.com/YanCotta/anti-aging-epigenetics-ml-app">
+      <img src="https://img.shields.io/badge/🧬_Explore_Epigenetics_Platform-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+
+    ---
+
+    ### 🧬 Bioinformatics & Genetic Analysis Tools
+    **🎯 Solo Development** | *Collection of high-performance Python tools for bioinformatics*
+
+    Includes DNA sequence analysis, gene expression analysis, and a pipeline that uses ML to predict disease risk from genetic variants.
+
+    **🔧 Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
+
+    **💻 Technologies**: `Python` • `Bioinformatics` • `Genomics` • `PyTorch` • `Scikit-learn`
+
+    <a href="https://github.com/YanCotta/DNASequenceAnalysisTool">
+      <img src="https://img.shields.io/badge/🧬_Explore_Bio--AI_Tools-00BCD4?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+
+    ---
+
+    ### 🌍 Climate Risk Assessment Tool
+    **🎯 Solo Development** | *Advanced climate risk prediction system using ensemble machine learning and deep learning*
+
+    Delivered via a production-ready REST API.
+
+    **🔧 Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
+
+    **💻 Technologies**: `Python` • `FastAPI` • `Ensemble ML` • `Deep Learning` • `Docker` • `CI/CD`
+
+    <a href="https://github.com/YanCotta/ClimateRiskAssessmentTool">
+      <img src="https://img.shields.io/badge/🌡️_Check_Climate_API-607D8B?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+
+    <br>
+
+    ---
+    
+    <br>
+
 
   ## 📚 Explore More Projects
 
