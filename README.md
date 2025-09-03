@@ -91,15 +91,29 @@
 ## 🌍 About Me
 
 
-I've been creating Intelligent Systems by uniting Biological Science, Cognitive Science, and Computer Science into FullStack AI Systems. 
+DISCLAIMER: I love what I do. I don't do it to look good or attract recruiters. Not in this because of the AI hype. So no, at this moment, I'm not interested in a new opportunity, nor am I trying to stand-out or compete with anyone. Y'all can have the glory and the money. I just want to learn and practice.
 
-I'm a junior, passionate about designing and deploying AI systems that are inspired by my unique interdiciplinary background: Biology, Psychology, Philosophy of Mind, and AI/ML Architecture and Engineering. 
+I'm a junior, passionate about designing and deploying fullstack AI systems that are inspired by my unique interdiciplinary background: Biology, Psychology, Philosophy, Computer Science, and AI/ML Architecture and Engineering.
 
 This is not just a job or a career for me; it is the practical application of a lifelong obsession into the nature of intelligent itself, and years of formal academic studies.
 
-My long-term ideal is to utilize my academic background to bridge Biology and AI into solving real-world biological/biomedical problems. My mission now is to begin orchestrating intelligent workforces and driving innovation in companies and institutions, with likeminded individuals. 
+My long-term ideal is to utilize my academic background to bridge Biology and AI into solving real-world biological/biomedical problems. 
 
-I am driven to architect and govern these powerful new systems responsibly and am looking for a team that shares this vision.
+-> I've been gaining experience on:
+
+- AI Systems Architecture: Designing scalable, robust, and intelligent systems from concept to deployment.
+
+- End-to-End ML Engineering: Expertise from Data Science, feature engineering, to the full MLOps and LLMOps lifecycle, to ensure models reach production.
+
+- Full-Stack Proficiency: Expertise across the tech stack, from IoT & Edge AI (ESP32), backend development (Python, C++, FastAPI), Git, and DB and Data modeling/engineering (PostgreSQL, SQLite, TimescaleDB, etc) to core ML frameworks (PyTorch, TensorFlow, Scikit-Learn), cloud infrastructure and platforms (AWS, IBM Watson).
+
+- Agentic AI & LLMs: Developing "intelligent workforces" and leveraging LLMs with advanced techniques (SFT, RLHF).
+
+- Interdisciplinary Research: Academic work spanning foundational cognitive science (thesis on belief and cognitive attitudes at GSU) to applied Bio-AI (thesis leveraging ML for epigenetic anti-aging software).
+
+- Diverse Professional Experience: Hands-on experience ranging from applied data science and LLM training (RLHF) to upcoming R&D in bioinformatics and animal genomics with Embrapa, consistently applying AI to scientific challenges.
+
+- Leadership & Collaboration: Proven as a Project Lead & Team Member in the international community of Data Scientists and Machine Learning Engineers: SuperDataScience; and as the solo architect & engineer of the winning project for FIAP's 2025 "Global Solution Challenge".
 
 --- 
 
