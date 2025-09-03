@@ -90,8 +90,7 @@
 
 ## 🌍 About Me
 
-
-DISCLAIMER: I love what I do. I don't do it to look good or attract recruiters. Not in this because of the AI hype. So no, at this moment, I'm not interested in a new opportunity, nor am I trying to stand-out or compete with anyone. Y'all can have the glory and the money. I just want to learn and practice.
+DISCLAIMER: I love this field. I'm not in it because of the "AI Hype". So no, at this moment, I'm not interested in new opportunities, nor am I trying to stand-out or compete with anyone. Y'all can fight for the glory and the money. I'm just practicing and learning ;)
 
 I'm a junior, passionate about designing and deploying fullstack AI systems that are inspired by my unique interdiciplinary background: Biology, Psychology, Philosophy, Computer Science, and AI/ML Architecture and Engineering.
 
