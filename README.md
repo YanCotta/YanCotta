@@ -44,8 +44,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="#-featured-projects">
-          <img src="https://img.shields.io/badge/🚀_Featured_Projects-FF9800?style=for-the-badge&logoColor=white"/>
+        <a href="#-my-elephants'-graveyard">
+          <img src="https://img.shields.io/badge/🚀_My_Elephants'_Graveyard-FF9800?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
     </tr>
@@ -144,9 +144,9 @@ I am driven to architect and govern these powerful new systems responsibly and a
   - Thesis: Differentiating Factual Belief, Imagination & Religous Credence - A Systematic Theory of Cognitive Attitudes
   ---
 
-  ## 🚀 Featured Projects
+  ## 🚀 My Elephants' Graveyard
 
-  Here is a comprehensive showcase of my projects (ALL FOR MY OWN LEARNING PURPOSES, since I learn better with Project Based Learning {PBL}), demonstrating my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
+  Here is where all my projects come to die lol (most are never completed, since they are all for my own learning purposes {I do better with Project Based Learning - PBL}). They demonstrate my skills in building production-grade, scalable, and innovative AI systems from end to end across multiple domains.
 
   <br>
 
