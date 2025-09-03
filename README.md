@@ -263,82 +263,73 @@ I am driven to architect and govern these powerful new systems responsibly and a
     <img src="https://img.shields.io/badge/📊_See_Full--Stack_Solution-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
+  ---
+
+  ## 🌱 AgroTech & BioTech Solutions
+
+  *These projects showcase my work at the intersection of technology and life sciences, developing AI-powered solutions for agriculture, bioinformatics, and environmental monitoring.*
+
   <br>
+
+  ### 🌾 SmartCrops: IoT-ML Agriculture System
+  **🎯 Solo Development** | *IoT-ML project for smart agriculture featuring dual ESP32 nodes*
+
+  Features sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubidots for comprehensive crop monitoring.
+
+  **🔧 Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
+
+  **💻 Technologies**: `Python` • `C++` • `ESP32` • `IoT` • `MQTT` • `Machine Learning` • `Agriculture AI`
+
+  <a href="https://github.com/YanCotta/SmartCrops-IoT-ML-System">
+    <img src="https://img.shields.io/badge/🚜_See_Smart_Agriculture_System-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
   ---
 
-  <br>
+  ### 🧬 Personalized Anti-Aging Epigenetics ML System
+  **🎯 Solo Development** | *Thesis project developing a personalized anti-aging recommendation system based on genetics and lifestyle analysis*
 
-    ## 🌱 AgroTech & BioTech Solutions
+  Analyzes genetic predispositions (SNPs) and lifestyle habits to generate personalized risk assessments and actionable recommendations for healthy aging.
 
-    *These projects showcase my work at the intersection of technology and life sciences, developing AI-powered solutions for agriculture, bioinformatics, and environmental monitoring.*
+  **🔧 Key Features**: Synthetic genetic data generation with BioPython, model comparison (Random Forest vs Neural Network), explainable AI via SHAP, and MLFlow experiment tracking. Fully containerized with secure JWT authentication.
 
-    <br>
+  **💻 Technologies**: `Python` • `FastAPI` • `React` • `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker`
 
-    ### 🌾 SmartCrops: IoT-ML Agriculture System
-    **🎯 Solo Development** | *IoT-ML project for smart agriculture featuring dual ESP32 nodes*
+  <a href="https://github.com/YanCotta/anti-aging-epigenetics-ml-app">
+    <img src="https://img.shields.io/badge/🧬_Explore_Epigenetics_Platform-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-    Features sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubidots for comprehensive crop monitoring.
+  ---
 
-    **🔧 Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
+  ### 🧬 Bioinformatics & Genetic Analysis Tools
+  **🎯 Solo Development** | *Collection of high-performance Python tools for bioinformatics*
 
-    **💻 Technologies**: `Python` • `C++` • `ESP32` • `IoT` • `MQTT` • `Machine Learning` • `Agriculture AI`
+  Includes DNA sequence analysis, gene expression analysis, and a pipeline that uses ML to predict disease risk from genetic variants.
 
-    <a href="https://github.com/YanCotta/SmartCrops-IoT-ML-System">
-      <img src="https://img.shields.io/badge/🚜_See_Smart_Agriculture_System-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
+  **🔧 Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
 
-    ---
+  **💻 Technologies**: `Python` • `Bioinformatics` • `Genomics` • `PyTorch` • `Scikit-learn`
 
-    ### 🧬 Personalized Anti-Aging Epigenetics ML System
-    **🎯 Solo Development** | *Thesis project developing a personalized anti-aging recommendation system based on genetics and lifestyle analysis*
+  <a href="https://github.com/YanCotta/DNASequenceAnalysisTool">
+    <img src="https://img.shields.io/badge/🧬_Explore_Bio--AI_Tools-00BCD4?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-    Analyzes genetic predispositions (SNPs) and lifestyle habits to generate personalized risk assessments and actionable recommendations for healthy aging.
+  ---
 
-    **🔧 Key Features**: Synthetic genetic data generation with BioPython, model comparison (Random Forest vs Neural Network), explainable AI via SHAP, and MLFlow experiment tracking. Fully containerized with secure JWT authentication.
+  ### 🌍 Climate Risk Assessment Tool
+  **🎯 Solo Development** | *Advanced climate risk prediction system using ensemble machine learning and deep learning*
 
-    **💻 Technologies**: `Python` • `FastAPI` • `React` • `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker`
+  Delivered via a production-ready REST API.
 
-    <a href="https://github.com/YanCotta/anti-aging-epigenetics-ml-app">
-      <img src="https://img.shields.io/badge/🧬_Explore_Epigenetics_Platform-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
+  **🔧 Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
 
-    ---
+  **💻 Technologies**: `Python` • `FastAPI` • `Ensemble ML` • `Deep Learning` • `Docker` • `CI/CD`
 
-    ### 🧬 Bioinformatics & Genetic Analysis Tools
-    **🎯 Solo Development** | *Collection of high-performance Python tools for bioinformatics*
+  <a href="https://github.com/YanCotta/ClimateRiskAssessmentTool">
+    <img src="https://img.shields.io/badge/🌡️_Check_Climate_API-607D8B?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-    Includes DNA sequence analysis, gene expression analysis, and a pipeline that uses ML to predict disease risk from genetic variants.
-
-    **🔧 Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
-
-    **💻 Technologies**: `Python` • `Bioinformatics` • `Genomics` • `PyTorch` • `Scikit-learn`
-
-    <a href="https://github.com/YanCotta/DNASequenceAnalysisTool">
-      <img src="https://img.shields.io/badge/🧬_Explore_Bio--AI_Tools-00BCD4?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-
-    ---
-
-    ### 🌍 Climate Risk Assessment Tool
-    **🎯 Solo Development** | *Advanced climate risk prediction system using ensemble machine learning and deep learning*
-
-    Delivered via a production-ready REST API.
-
-    **🔧 Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
-
-    **💻 Technologies**: `Python` • `FastAPI` • `Ensemble ML` • `Deep Learning` • `Docker` • `CI/CD`
-
-    <a href="https://github.com/YanCotta/ClimateRiskAssessmentTool">
-      <img src="https://img.shields.io/badge/🌡️_Check_Climate_API-607D8B?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-
-    <br>
-
-    ---
-    
-    <br>
-
+  ---
 
   ## 📚 Explore More Projects
 
@@ -350,127 +341,128 @@ I am driven to architect and govern these powerful new systems responsibly and a
     </a>
   </div>
 
+  ---
+
+  ## 🛠️ Tech Stack & Tools
+
+  <div align="center">
+
+  **AI & Machine Learning**
   <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-83B81A?style=for-the-badge&logo=xgboost&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-2196F3?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fine_Tuning-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/RLHF-E91E63?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/SFT-607D8B?style=for-the-badge&logo=huggingface&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRPO-795548?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model_Alignment-673AB7?style=for-the-badge&logo=openai&logoColor=white" />
 
+  **Agentic AI & LLMs**
+  <br>
+  <img src="https://img.shields.io/badge/LangChain-00A000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-8A2BE2?style=for-the-badge" />
 
-## 🛠️ Tech Stack & Tools
+  **Backend & APIs**
+  <br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
 
-<div align="center">
+  **Databases & Data Engineering**
+  <br>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-3F51B5?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 
-**AI & Machine Learning**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/XGBoost-83B81A?style=for-the-badge&logo=xgboost&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Computer_Vision-2196F3?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Fine_Tuning-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/RLHF-E91E63?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/SFT-607D8B?style=for-the-badge&logo=huggingface&logoColor=white" />
-<img src="https://img.shields.io/badge/GRPO-795548?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Model_Alignment-673AB7?style=for-the-badge&logo=openai&logoColor=white" />
+  **Cloud & MLOps**
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 
-**Agentic AI & LLMs**
-<br>
-<img src="https://img.shields.io/badge/LangChain-00A000?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logo=crewai&logoColor=white" />
-<img src="https://img.shields.io/badge/AutoGen-4B8BBE?style=for-the-badge&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Ollama-8A2BE2?style=for-the-badge" />
+  **Frontend & Visualization**
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reflex-5c6ac4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-**Backend & APIs**
-<br>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Uvicorn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=websocket&logoColor=white" />
+  **Testing & Code Quality**
+  <br>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Locust-83B81A?style=for-the-badge&logo=locust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MyPy-2A5ADA?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" />
 
-**Databases & Data Engineering**
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white" />
-<img src="https://img.shields.io/badge/FAISS-3F51B5?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  **IoT & Edge AI**
+  <br>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensors-FF6B6B?style=for-the-badge&logo=iot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPIO-4CAF50?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Real--time_Data-2196F3?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 
-**Cloud & MLOps**
-<br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  </div>
 
-**Frontend & Visualization**
-<br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/Reflex-5c6ac4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  ---
 
-**Testing & Code Quality**
-<br>
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-<img src="https://img.shields.io/badge/Locust-83B81A?style=for-the-badge&logo=locust&logoColor=white" />
-<img src="https://img.shields.io/badge/Black-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MyPy-2A5ADA?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black" />
+  ## 🌍 Global Communication
 
-**IoT & Edge AI**
-<br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
-<img src="https://img.shields.io/badge/Sensors-FF6B6B?style=for-the-badge&logo=iot&logoColor=white" />
-<img src="https://img.shields.io/badge/GPIO-4CAF50?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-<img src="https://img.shields.io/badge/Real--time_Data-2196F3?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <div align="center">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/🇧🇷_Portuguese-Native-success?style=for-the-badge"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/🇺🇸_English-Fluent-2ea44f?style=for-the-badge"/>
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+          <img src="https://img.shields.io/badge/🇫🇷_French-Advanced-blue?style=for-the-badge"/>
+        </td>
+        <td align="center">
+          <img src="https://img.shields.io/badge/🇪🇸_Spanish-Advanced-orange?style=for-the-badge"/>
+        </td>
+      </tr>
+    </table>
+  </div>
 
-</div>
+  ---
 
-## 🌍 Global Communication
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🇧🇷_Portuguese-Native-success?style=for-the-badge"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🇺🇸_English-Fluent-2ea44f?style=for-the-badge"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🇫🇷_French-Advanced-blue?style=for-the-badge"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🇪🇸_Spanish-Advanced-orange?style=for-the-badge"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=100&section=header&text=Adaptive%20Systems%20Principle&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
-  
-  > *"The most flexible element is the one that controls the system."*
-</div>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=100&section=header&text=Adaptive%20Systems%20Principle&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+    
+    > *"The most flexible element is the one that controls the system."*
+  </div>
