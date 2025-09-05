@@ -90,8 +90,6 @@
 
 ## 🌍 About Me
 
-DISCLAIMER: I love this field, I'm not in it because of the "AI Hype", and I use Linkedin as a blog to share my tech journey. At this moment, I'm not available/interested in new opportunities, I'm practicing and learning as much as I can (trying to build solid foundations).
-
 I'm a junior, passionate about designing and deploying fullstack AI systems that are inspired by my unique interdiciplinary background: Biology, Psychology, Philosophy, Computer Science, and AI/ML Architecture and Engineering.
 
 This is not just a job or a career for me; it is the practical application of a lifelong obsession into the nature of intelligent itself, and years of formal academic studies.
