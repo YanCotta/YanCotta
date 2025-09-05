@@ -96,10 +96,6 @@ This is not just a job or a career for me; it is the practical application of a 
 
 My long-term ideal is to utilize my academic background to bridge Biology and AI into solving real-world biological/biomedical problems. 
 
-I understand. You want to ensure that the depth and breadth of your experience are fully represented, as the "About" section is your primary opportunity to make an impression. Let's create a final, definitive version that integrates all the important information from your original text while maintaining a highly readable and strategic structure.
-
-This version uses clear headings to improve the user experience, allowing someone to quickly scan and dive into the areas that interest them most. It is comprehensive, scannable, and powerful.
-
 🛠️ **Technical Expertise**
 
 * **AI Systems Architecture & MLOps:** I design scalable, robust, and intelligent systems from concept to deployment. My expertise covers the full **end-to-end ML lifecycle**, from data science and feature engineering to production-grade **MLOps and LLMOps** to ensure models deliver real-world value.
