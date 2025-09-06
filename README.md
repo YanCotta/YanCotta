@@ -132,17 +132,53 @@ As a CNPq research fellow at the **Laboratory of Bioinformatics & Animal Genomic
 
 **Key Areas:** `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning` `Agricultural Innovation`
 
-**🤖 AI Trainer (RLHF)** | **Outlier** | *Nov 2024 - Sep 2025*  
-  - Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment (freelance projects).
-  - Areas of focus: programming and software development (Python, C, C++) and biological sciences.
+---
 
-**🌱 Ecological Analyst** | **Impaakt** | *Fev 2022 - Oct 2024*  
-  - Led environmental impact assessments and sustainability research using Python, LLMs and data science methodologies to optimize processes (part-time position).
+**🤖 AI Trainer (RLHF)** | **Outlier** | *Nov 2024 - Sep 2025*
 
-**📚 Research Assistant** | **Georgia State University** | *Fev 2019 - Fev 2020*  
-  - Conducted research through the Humanities Inclusivity Program (HIP), of the Center of Advancement of Students and Alumni (CASA), of Georgia State University, under the orientation of Neil Van Leeuwen, PhD.
-  - Researched in support of Dr. Van Leeuwen's systematic theory in-the-making of cognitive attitudes (differentiating belief, imagination, and religious credence).
-  - Areas of focus: Interdisciplinary research in cognitive sciences, philosophy of mind, psychology and behavioral analysis. Utilized Python and its libraries to speed up data collection and analysis.
+Specialized in Reinforcement Learning from Human Feedback for state-of-the-art large language model optimization and alignment through freelance projects. My focus was on improving model performance and ensuring ethical AI behavior across specialized domains.
+
+🔹 **Model Alignment & Safety:** I conducted extensive human feedback sessions to align large language models with human values and preferences, focusing on reducing harmful outputs and improving response quality through RLHF techniques.
+
+🔹 **Domain-Specific Fine-Tuning:** I specialized in optimizing model performance for programming and software development tasks (Python, C, C++) and biological sciences expertise, ensuring accurate and contextually appropriate responses in these technical domains.
+
+🔹 **Quality Assurance & Evaluation:** I developed and implemented evaluation frameworks to assess model outputs, providing detailed feedback that directly contributed to iterative model improvements and enhanced user experience.
+
+🔹 **Technical Documentation:** I maintained comprehensive documentation of training processes, feedback patterns, and model performance metrics to support continuous improvement and knowledge transfer within the development team.
+
+**Key Areas:** `RLHF` `Model Alignment` `AI Safety` `Programming Languages` `Biological Sciences` `Quality Assurance`
+
+---
+
+**🌱 Ecological Analyst** | **Impaakt** | *Feb 2022 - Oct 2024*
+
+Led comprehensive environmental impact assessments and sustainability research initiatives, leveraging advanced data science methodologies and AI technologies to optimize environmental analysis processes in a part-time capacity.
+
+🔹 **Environmental Impact Assessment:** I conducted thorough analyses of corporate environmental footprints using Python-based data science tools, developing standardized methodologies for measuring and comparing sustainability metrics across diverse industries and organizations.
+
+🔹 **AI-Powered Research Optimization:** I integrated large language models and machine learning algorithms into research workflows, significantly reducing analysis time while improving the accuracy and depth of environmental impact evaluations.
+
+🔹 **Data-Driven Sustainability Insights:** I processed and analyzed large-scale environmental datasets to identify trends, patterns, and opportunities for sustainability improvements, providing actionable recommendations to stakeholders and decision-makers.
+
+🔹 **Process Automation & Efficiency:** I designed and implemented automated data collection and analysis pipelines, streamlining environmental assessment workflows and enabling scalable research operations across multiple projects simultaneously.
+
+**Key Areas:** `Environmental Science` `Sustainability Analysis` `Data Science` `Process Optimization` `AI Integration` `Impact Assessment`
+
+---
+
+**📚 Research Assistant** | **Georgia State University** | *Feb 2019 - Feb 2020*
+
+Conducted interdisciplinary cognitive sciences research through the Humanities Inclusivity Program (HIP) of the Center of Advancement of Students and Alumni (CASA), working under the direct orientation of Neil Van Leeuwen, PhD, to advance theoretical understanding of human cognitive processes.
+
+🔹 **Cognitive Attitude Research:** I supported Dr. Van Leeuwen's groundbreaking systematic theory development in cognitive attitudes, specifically investigating the fundamental differences between belief, imagination, and religious credence through empirical research and theoretical analysis.
+
+🔹 **Interdisciplinary Data Analysis:** I conducted comprehensive research spanning cognitive sciences, philosophy of mind, psychology, and behavioral analysis, synthesizing insights from multiple disciplines to support theoretical framework development and validation.
+
+🔹 **Computational Research Tools:** I utilized Python and its specialized libraries to accelerate data collection, processing, and analysis workflows, significantly improving research efficiency and enabling more sophisticated statistical analyses of cognitive phenomena.
+
+🔹 **Academic Research Support:** I provided critical research assistance including literature reviews, data validation, experimental design support, and preliminary analysis that directly contributed to ongoing academic publications and conference presentations.
+
+**Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Behavioral Analysis` `Research Methodology` `Data Analysis`
 
 ### 🎓 Academic Background
 
