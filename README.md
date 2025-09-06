@@ -132,16 +132,6 @@ As a CNPq research fellow at the **Laboratory of Bioinformatics & Animal Genomic
 
 **Key Areas:** `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning` `Agricultural Innovation`
 
----
-
-### **Why This Merged Version is the Best:**
-
-* **Keeps Your Title:** It uses the `Bioinformatics R&D Intern` title you like, but enhances it with `(CNPq Fellow)` to add the prestige of the federal grant.
-* **Specifies the Lab:** It incorporates the exact lab name, "Laboratory of Bioinformatics & Animal Genomics," from your original version, adding valuable specificity.
-* **Strong, Impactful Intro:** It leads with the powerful introductory paragraph that provides context on the scale and importance of your work.
-* **Detailed, Action-Oriented Bullet Points:** It uses the detailed, professional bullet points that clearly outline your technical responsibilities and achievements with strong keywords (BLUP, GWAS, ETL).
-* **Clean Keyword Section:** It concludes with a clean, tag-style list of your "Key Areas," which is excellent for searchability and quickly communicating your domain expertise, just like in your original version.
-
 **🤖 AI Trainer (RLHF)** | **Outlier** | *Nov 2024 - Sep 2025*  
   - Specialized in Reinforcement Learning from Human Feedback for SOTA large language model optimization and alignment (freelance projects).
   - Areas of focus: programming and software development (Python, C, C++) and biological sciences.
