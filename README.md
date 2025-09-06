@@ -206,7 +206,7 @@ Pursuing a 2-year specialized technologist degree in higher education technology
 
 Pursuing a comprehensive 4-year bachelor's degree with extensive research experience across multiple scientific disciplines. My academic journey is distinguished by active participation in over 6 scientific initiation programs resulting in published articles and significant contributions to biological research.
 
-🔹 **Interdisciplinary Research Leadership:** I have contributed to published research spanning machine learning applications in biology, ontological data modeling, machine learning, climate science, laboratory safety protocols, epidemiology, genetics, educational methodologies, and cognition & learning studies.
+🔹 **Interdisciplinary Research Leadership:** I have contributed to published research spanning biology, ontological data modeling, machine learning, climate science, laboratory safety protocols, epidemiology, genetics, educational methodologies, and cognition & learning studies.
 
 🔹 **Academic Teaching & Mentorship:** I serve as Professor Assistant (Monitor) for Molecular Genetics, General Chemistry, and the University's Museum of Natural Sciences, providing educational support and mentoring undergraduate students in advanced biological concepts and laboratory techniques.
 
