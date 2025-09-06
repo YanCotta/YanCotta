@@ -227,6 +227,7 @@ Completed 3 years of a comprehensive 4-year bachelor's degree program with found
 🔹 **Cognitive Sciences Research Excellence:** I served as a Scholar in the prestigious Humanities Inclusivity Program (HIP) through the Center for Advancement of Students and Alumni (CASA), contributing to cutting-edge research in cognitive attitudes and philosophy of mind.
 
 🔹 **Leadership & Community Engagement:** I held executive positions including Vice-President of the International Student Growth and Development Association and Assistant at the Office of International Students and Scholarly Services (OISSS), demonstrating strong leadership and cross-cultural communication skills.
+
 🔹 **Academic Recognition & Honors:** I received multiple academic distinctions including the Atlanta Campus Scholarship, Dean's List of Excellence recognition, and membership in the Honor Society and Scholar Honor Leader National Society, reflecting consistent academic excellence.
 
 🔹 **Research & Publication Experience:** My undergraduate thesis focused on "Differentiating Factual Belief, Imagination & Religious Credence - A Systematic Theory of Cognitive Attitudes," contributing original research to the field of cognitive sciences and philosophy of mind.
