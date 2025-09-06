@@ -180,6 +180,8 @@ Conducted interdisciplinary cognitive sciences research through the Humanities I
 
 **Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Behavioral Analysis` `Research Methodology` `Data Analysis`
 
+---
+
 ### 🎓 Academic Background
 
 **🤖 AI Systems & Machine Learning Technologist** | **FIAP** | *2024 - 2026 (expected)*
