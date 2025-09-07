@@ -150,7 +150,7 @@ Specialized in Reinforcement Learning from Human Feedback for state-of-the-art l
 
 ---
 
-**🌱 Ecological Analyst** | **Impaakt** | *Feb 2022 - Oct 2024*
+**🌱 Data Analyst (Ecological Impact)** | **Impaakt** | *Feb 2022 - Oct 2024*
 
 Led comprehensive environmental impact assessments and sustainability research initiatives, leveraging advanced data science methodologies and AI technologies to optimize environmental analysis processes in a part-time capacity.
 
