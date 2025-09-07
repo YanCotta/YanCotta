@@ -118,7 +118,7 @@ I'm always open to connecting with fellow builders, researchers, and leaders to 
 
 ### 🏢 Professional Experience
 
-**🧬📊 R&D Intern (Data, Bioinformatics & Genomics)** | **Embrapa (Dairy Cattle)** | *Sep 2025 - Present*
+**🧬📊 R&D Intern (Data & Genomics)** | **Embrapa (Dairy Cattle)** | *Sep 2025 - Present*
 
 As a CNPq research fellow at the **Laboratory of Bioinformatics & Animal Genomics**, I am actively engaged in the National Gyr Cattle Breeding Program — one of the world's largest and most influential cattle genetic improvement programs. My focus is on developing and applying bioinformatics and artificial intelligence solutions to accelerate genetic gain and enhance the accuracy of genomic evaluations in dairy cattle.
 
@@ -130,7 +130,7 @@ As a CNPq research fellow at the **Laboratory of Bioinformatics & Animal Genomic
 
 🔹 **Database Management & Integration:** I am responsible for the extraction, transformation, and integration of data from complex PostgreSQL databases, ensuring a robust, scalable, and reproducible data analysis workflow (ETL) from the server to the final analysis in Jupyter Notebooks.
 
-**Key Areas:** `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning` `Agricultural Innovation`
+**Key Areas:** `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning` `Agricultural Innovation` `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning & AI` `Bioinformatics` `Data Science`
 
 ---
 
