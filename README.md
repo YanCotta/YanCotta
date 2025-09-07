@@ -118,7 +118,7 @@ I'm always open to connecting with fellow builders, researchers, and leaders to 
 
 ### 🏢 Professional Experience
 
-**🧬📊 Bioinformatics R&D Intern (CNPq Fellow)** | **Embrapa (Dairy Cattle)** | *Sep 2025 - Present*
+**🧬📊 R&D Intern (Data, Bioinformatics & Genomics)** | **Embrapa (Dairy Cattle)** | *Sep 2025 - Present*
 
 As a CNPq research fellow at the **Laboratory of Bioinformatics & Animal Genomics**, I am actively engaged in the National Gyr Cattle Breeding Program — one of the world's largest and most influential cattle genetic improvement programs. My focus is on developing and applying bioinformatics and artificial intelligence solutions to accelerate genetic gain and enhance the accuracy of genomic evaluations in dairy cattle.
 
