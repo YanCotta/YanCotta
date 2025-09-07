@@ -108,7 +108,7 @@ My long-term ideal is to utilize my academic background to bridge Biology and AI
 
 * **Leadership & Award-Winning Projects:** I thrive on collaboration and have served as a Project Lead within the international SuperDataScience community. I was also the solo architect and engineer of the **winning project for FIAP's 2025 Global Solution Challenge**.
 
-* **Interdisciplinary Research & Application:** My technical work is informed by a deep research background, from a thesis on foundational cognitive science at GSU to applied **Bio-AI** research into epigenetic anti-aging. This passion for applying AI to scientific challenges continues with my upcoming role as a **Bioinformatics Researcher at Embrapa**, focusing on animal genomics.
+* **Interdisciplinary Research & Application:** My technical work is informed by a deep research background, from a thesis on foundational cognitive science at GSU to applied **Bio-AI** research into epigenetic anti-aging. This passion for applying AI to scientific challenges continues with my current role as a **R&D Intern at Embrapa**, focusing on data & animal genomics.
 
 I'm always open to connecting with fellow builders, researchers, and leaders to discuss the future of intelligent systems.
 
