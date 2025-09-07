@@ -134,7 +134,7 @@ As a CNPq research fellow at the **Laboratory of Bioinformatics & Animal Genomic
 
 ---
 
-**🤖 AI Trainer (RLHF)** | **Outlier** | *Nov 2024 - Sep 2025*
+**🤖 LLMs Trainer (RLHF)** | **Outlier** | *Nov 2024 - Sep 2025*
 
 Specialized in Reinforcement Learning from Human Feedback for state-of-the-art large language model optimization and alignment through freelance projects. My focus was on improving model performance and ensuring ethical AI behavior across specialized domains.
 
