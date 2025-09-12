@@ -294,6 +294,8 @@ Led a diverse team of data scientists and ML engineers to deliver both beginner-
 
 **💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Model Explainability` • `Healthcare AI` • `Data Science` 
 
+Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
+
 <a href="https://github.com/YanCotta/SDS-CP035-gluco-track">
   <img src="https://img.shields.io/badge/🏥_Explore_Healthcare_Platform-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -852,6 +854,8 @@ Liderei uma equipe diversa de cientistas de dados e engenheiros de ML para entre
 **🔧 Características Principais**: Construí modelos ML tradicionais (Regressão Logística, Árvores de Decisão) e Redes Neurais Feedforward avançadas com ajuste de hiperparâmetros. Inclui ferramentas de explicabilidade do modelo e múltiplas opções de implementação.
 
 **💻 Tecnologias**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Explicabilidade de Modelos` • `IA para Saúde` • `Data Science` 
+
+Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
 <a href="https://github.com/YanCotta/SDS-CP035-gluco-track">
   <img src="https://img.shields.io/badge/🏥_Explore_Plataforma_de_Saúde-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
@@ -1412,6 +1416,8 @@ J'ai dirigé une équipe diverse de data scientists et ingénieurs ML pour livre
 
 **💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Explicabilité de Modèles` • `IA Santé` • `Data Science` 
 
+Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
+
 <a href="https://github.com/YanCotta/SDS-CP035-gluco-track">
   <img src="https://img.shields.io/badge/🏥_Explorer_Plateforme_Santé-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -1970,6 +1976,8 @@ Lideré un equipo diverso de data scientists e ingenieros ML para entregar soluc
 **🔧 Características Clave**: Construí modelos ML tradicionales (Regresión Logística, Árboles de Decisión) y Redes Neuronales Feedforward avanzadas con ajuste de hiperparámetros. Incluye herramientas de explicabilidad del modelo y múltiples opciones de implementación.
 
 **💻 Tecnologías**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Explicabilidad de Modelos` • `IA para Salud` • `Data Science` 
+
+Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
 <a href="https://github.com/YanCotta/SDS-CP035-gluco-track">
   <img src="https://img.shields.io/badge/🏥_Explorar_Plataforma_Salud-FF6B6B?style=for-the-badge&logo=github&logoColor=white"/>
