@@ -27,8 +27,6 @@
 
 ---
 
-# English Version
-
 ## 📊 My GitHub Activity
 
 <p align="center">
