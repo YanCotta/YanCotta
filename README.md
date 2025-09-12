@@ -8,8 +8,6 @@
 
 ---
 
-### 🌍 Language Versions | Versões de Idioma
-
 <div align="center">
   <table>
     <tr>
@@ -579,8 +577,6 @@ Delivered via a production-ready REST API.
 </div>
 
 ---
-
-# Versão em Português Brasileiro
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=160&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
