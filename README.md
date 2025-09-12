@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architecture%20%26%20Engineering;Machine%20Learning%20%26%20Deep%20Learning;MLOps%20%26%20LLMOps;Data%20Science%20%26%20Bioinformatics;Biological%20%26%20Cognitive%20Sciences;IoT%20%26%20Edge%20AI&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
-## 🌍 Language Versions | Versões de Idioma | Versions Linguistiques | Versiones de Idioma
+---
+
+### 🌍 Language Versions | Versões de Idioma | Versions Linguistiques | Versiones de Idioma
 
 <div align="center">
   <table>
