@@ -115,7 +115,7 @@ I'm a junior, passionate about designing and deploying fullstack AI systems that
 
 This is not just a job or a career for me; it is the practical application of a lifelong obsession into the nature of intelligent itself, and years of formal academic studies.
 
-My long-term ideal is to utilize my academic background to bridge Biology and AI into solving real-world biological/biomedical problems. 
+My long-term ideal is to utilize my academic background to bridge Biology and AI into solving real-world biological/biomedical problems!
 
 🛠️ **Technical Expertise**
 
