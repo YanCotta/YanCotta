@@ -141,31 +141,11 @@ I'm always open to connecting with fellow builders, researchers, and leaders to 
 
 **🧬📊 R&D Intern (Data & Genomics)** | **Embrapa (Dairy Cattle)** | *Sep 2025 - Present*
 
-As a CNPq research fellow at the **Laboratory of Bioinformatics & Animal Genomics**, I am actively engaged in the National Gyr Cattle Breeding Program — one of the world's largest and most influential cattle genetic improvement programs. My focus is on developing and applying bioinformatics and artificial intelligence solutions to accelerate genetic gain and enhance the accuracy of genomic evaluations in dairy cattle.
-
-🔹 **Genomic Data Engineering & Analysis:** I leverage Python (Pandas, SQLAlchemy) in a high-performance computing environment (Linux) to process, validate the integrity of, and analyze large-scale datasets, including pedigree, production records, and genotypes. My work ensures the quality of the data that feeds genetic evaluation models.
-
-🔹 **Bioinformatics Pipeline Development:** I build and optimize automated pipelines for population structure analysis, inbreeding management, and Genome-Wide Association Studies (GWAS), aimed at identifying elite animals and maintaining the long-term genetic diversity of the herd.
-
-🔹 **AI-Driven Predictive Modeling for Genomic Selection:** I explore, train, and validate Machine Learning models (e.g., Gradient Boosting, Neural Networks) for the genomic prediction of economically important traits, such as milk yield and fertility. The objective is to benchmark these models against traditional statistical methods and identify non-linear gene interactions.
-
-🔹 **Database Management & Integration:** I am responsible for the extraction, transformation, and integration of data from complex PostgreSQL databases, ensuring a robust, scalable, and reproducible data analysis workflow (ETL) from the server to the final analysis in Jupyter Notebooks.
-
 **Key Areas:** `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning` `Agricultural Innovation` `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning & AI` `Bioinformatics` `Data Science`
 
 ---
 
 **🤖 LLMs Trainer (RLHF)** | **Outlier** | *Nov 2024 - Sep 2025*
-
-Specialized in Reinforcement Learning from Human Feedback for state-of-the-art large language model optimization and alignment through freelance projects. My focus was on improving model performance and ensuring ethical AI behavior across specialized domains.
-
-🔹 **Model Alignment & Safety:** I conducted extensive human feedback sessions to align large language models with human values and preferences, focusing on reducing harmful outputs and improving response quality through RLHF techniques.
-
-🔹 **Domain-Specific Fine-Tuning:** I specialized in optimizing model performance for programming and software development tasks (Python, C, C++) and biological sciences expertise, ensuring accurate and contextually appropriate responses in these technical domains.
-
-🔹 **Quality Assurance & Evaluation:** I developed and implemented evaluation frameworks to assess model outputs, providing detailed feedback that directly contributed to iterative model improvements and enhanced user experience.
-
-🔹 **Technical Documentation:** I maintained comprehensive documentation of training processes, feedback patterns, and model performance metrics to support continuous improvement and knowledge transfer within the development team.
 
 **Key Areas:** `RLHF` `Model Alignment` `AI Safety` `Programming Languages` `Biological Sciences` `Quality Assurance`
 
@@ -173,31 +153,11 @@ Specialized in Reinforcement Learning from Human Feedback for state-of-the-art l
 
 **🌱 Data Analyst (Ecological Impact)** | **Impaakt** | *Feb 2022 - Oct 2024*
 
-Led comprehensive environmental impact assessments and sustainability research initiatives, leveraging advanced data science methodologies and AI technologies to optimize environmental analysis processes in a part-time capacity.
-
-🔹 **Environmental Impact Assessment:** I conducted thorough analyses of corporate environmental footprints using Python-based data science tools, developing standardized methodologies for measuring and comparing sustainability metrics across diverse industries and organizations.
-
-🔹 **AI-Powered Research Optimization:** I integrated large language models and machine learning algorithms into research workflows, significantly reducing analysis time while improving the accuracy and depth of environmental impact evaluations.
-
-🔹 **Data-Driven Sustainability Insights:** I processed and analyzed large-scale environmental datasets to identify trends, patterns, and opportunities for sustainability improvements, providing actionable recommendations to stakeholders and decision-makers.
-
-🔹 **Process Automation & Efficiency:** I designed and implemented automated data collection and analysis pipelines, streamlining environmental assessment workflows and enabling scalable research operations across multiple projects simultaneously.
-
 **Key Areas:** `Environmental Science` `Sustainability Analysis` `Data Science` `Process Optimization` `AI Integration` `Impact Assessment`
 
 ---
 
 **📚 Research Assistant** | **Georgia State University** | *Feb 2019 - Feb 2020*
-
-Conducted interdisciplinary cognitive sciences research through the Humanities Inclusivity Program (HIP) of the Center of Advancement of Students and Alumni (CASA), working under the direct orientation of Neil Van Leeuwen, PhD, to advance theoretical understanding of human cognitive processes.
-
-🔹 **Cognitive Attitude Research:** I supported Dr. Van Leeuwen's groundbreaking systematic theory development in cognitive attitudes, specifically investigating the fundamental differences between belief, imagination, and religious credence through empirical research and theoretical analysis.
-
-🔹 **Interdisciplinary Data Analysis:** I conducted comprehensive research spanning cognitive sciences, philosophy of mind, psychology, and behavioral analysis, synthesizing insights from multiple disciplines to support theoretical framework development and validation.
-
-🔹 **Computational Research Tools:** I utilized Python and its specialized libraries to accelerate data collection, processing, and analysis workflows, significantly improving research efficiency and enabling more sophisticated statistical analyses of cognitive phenomena.
-
-🔹 **Academic Research Support:** I provided critical research assistance including literature reviews, data validation, experimental design support, and preliminary analysis that directly contributed to ongoing academic publications and conference presentations.
 
 **Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Behavioral Analysis` `Research Methodology` `Data Analysis`
 
@@ -207,16 +167,6 @@ Conducted interdisciplinary cognitive sciences research through the Humanities I
 
 **🤖 AI Systems & Machine Learning Technologist** | **FIAP** | *2024 - 2026 (expected)*
 
-Pursuing a 2-year specialized technologist degree in higher education technology, with a comprehensive curriculum focused on cutting-edge end-to-end AI systems architecture and engineering. The program emphasizes practical, real-world applications of AI & ML across diverse domains and industry applications.
-
-🔹 **AI Systems Architecture & Engineering:** I master the design and implementation of scalable AI systems from concept to production deployment, covering machine learning enterprise applications, MLOps best practices, and comprehensive system integration methodologies.
-
-🔹 **Data Engineering & Advanced Modeling:** I develop expertise in data engineering pipelines, advanced statistical modeling, and deep learning architectures, ensuring robust data workflows that support complex AI applications and real-time decision-making systems.
-
-🔹 **Edge AI & IoT Innovation:** I specialize in Edge AI implementations and IoT development, including electronics and sensor integration, enabling intelligent distributed systems that operate efficiently in resource-constrained environments.
-
-🔹 **Award-Winning Project Leadership:** As Solo Architect & Engineer, I developed the winning project for FIAP's "Global Solution - ProTech the Future - 2025.1," demonstrating exceptional technical innovation and practical problem-solving capabilities in AI system design.
-
 **Key Areas:** `AI Systems Architecture` `Machine Learning Engineering` `MLOps` `Edge AI` `IoT Development` `Software Engineering`
 
 **Academic Excellence:** GPA 4.0
@@ -225,16 +175,6 @@ Pursuing a 2-year specialized technologist degree in higher education technology
 
 **🧬 Bachelor of Biological Sciences** | **UniAcademia** | *2022 - 2025 (in progress)*
 
-Pursuing a comprehensive 4-year bachelor's degree with extensive research experience across multiple scientific disciplines. My academic journey is distinguished by active participation in over 6 scientific initiation programs resulting in published articles and significant contributions to biological research.
-
-🔹 **Interdisciplinary Research Leadership:** I have contributed to published research spanning biology, ontological data modeling, machine learning, climate science, laboratory safety protocols, epidemiology, genetics, educational methodologies, and cognition & learning studies.
-
-🔹 **Academic Teaching & Mentorship:** I serve as Professor Assistant (Monitor) for Molecular Genetics, General Chemistry, and the University's Museum of Natural Sciences, providing educational support and mentoring undergraduate students in advanced biological concepts and laboratory techniques.
-
-🔹 **Advanced Thesis Research:** My capstone thesis focuses on "Epigenetics Antiaging Health Software Leveraging Machine Learning & Deep Learning Algorithms," combining cutting-edge computational methods with biological research to address real-world health challenges.
-
-🔹 **Laboratory & Research Excellence:** I maintain expertise in molecular biology techniques, genetic analysis, and computational biology, with hands-on experience in both wet lab procedures and bioinformatics data analysis workflows.
-
 **Key Areas:** `Molecular Biology` `Genetics` `Computational Biology` `Research Methodology` `Laboratory Management` `Scientific Publishing`
 
 **Academic Excellence:** GPA 3.7 | **Thesis:** Epigenetics Antiaging Health Software Leveraging Machine Learning & Deep Learning Algorithms
@@ -242,16 +182,6 @@ Pursuing a comprehensive 4-year bachelor's degree with extensive research experi
 ---
 
 **🧠 Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*
-
-Completed 3 years of a comprehensive 4-year bachelor's degree program with foundational studies in cognitive sciences, philosophy, psychology, and human behavior. My academic experience was distinguished by extensive research participation and leadership roles in university organizations.
-
-🔹 **Cognitive Sciences Research Excellence:** I served as a Scholar in the prestigious Humanities Inclusivity Program (HIP) through the Center for Advancement of Students and Alumni (CASA), contributing to cutting-edge research in cognitive attitudes and philosophy of mind.
-
-🔹 **Leadership & Community Engagement:** I held executive positions including Vice-President of the International Student Growth and Development Association and Assistant at the Office of International Students and Scholarly Services (OISSS), demonstrating strong leadership and cross-cultural communication skills.
-
-🔹 **Academic Recognition & Honors:** I received multiple academic distinctions including the Atlanta Campus Scholarship, Dean's List of Excellence recognition, and membership in the Honor Society and Scholar Honor Leader National Society, reflecting consistent academic excellence.
-
-🔹 **Research & Publication Experience:** My undergraduate thesis focused on "Differentiating Factual Belief, Imagination & Religious Credence - A Systematic Theory of Cognitive Attitudes," contributing original research to the field of cognitive sciences and philosophy of mind.
 
 **Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Human Behavior` `Research Methodology` `Academic Leadership`
 
@@ -263,7 +193,7 @@ Completed 3 years of a comprehensive 4-year bachelor's degree program with found
 
 ## 🚀 My Elephants' Graveyard
 
-Here is where all my projects come to die lol (most are never completed, since they are all for my own learning purposes {I do better with Project Based Learning - PBL}). They demonstrate my skills in building production-grade, scalable, and innovative AI systems from end-to-end across multiple domains.
+Here is where all my projects come to die lol (since they are all for my own learning purposes {I do better with Project Based Learning - PBL}). They demonstrate my skills in building production-grade, scalable, and innovative AI systems from end-to-end across multiple domains.
 
 ---
 
@@ -702,31 +632,11 @@ Estou sempre aberto a me conectar com colegas construtores, pesquisadores e líd
 
 **🧬📊 Estagiário de P&D (Dados & Genômica)** | **Embrapa (Gado de Leite)** | *Set 2025 - Presente*
 
-Como bolsista de pesquisa CNPq no **Laboratório de Bioinformática & Genômica Animal**, estou ativamente engajado no Programa Nacional de Melhoramento Genético do Gado Gir — um dos maiores e mais influentes programas de melhoramento genético bovino do mundo. Meu foco é desenvolver e aplicar soluções de bioinformática e inteligência artificial para acelerar o ganho genético e melhorar a precisão das avaliações genômicas em gado leiteiro.
-
-🔹 **Engenharia & Análise de Dados Genômicos:** Utilizo Python (Pandas, SQLAlchemy) em ambiente de computação de alto desempenho (Linux) para processar, validar a integridade e analisar datasets em larga escala, incluindo pedigree, registros de produção e genótipos. Meu trabalho garante a qualidade dos dados que alimentam modelos de avaliação genética.
-
-🔹 **Desenvolvimento de Pipelines de Bioinformática:** Construo e otimizo pipelines automatizados para análise de estrutura populacional, manejo de endogamia e Estudos de Associação Genômica Ampla (GWAS), visando identificar animais elite e manter a diversidade genética de longo prazo do rebanho.
-
-🔹 **Modelagem Preditiva Orientada por IA para Seleção Genômica:** Exploro, treino e valido modelos de Machine Learning (ex: Gradient Boosting, Redes Neurais) para predição genômica de características economicamente importantes, como produção de leite e fertilidade. O objetivo é comparar esses modelos com métodos estatísticos tradicionais e identificar interações gênicas não-lineares.
-
-🔹 **Gestão & Integração de Bancos de Dados:** Sou responsável pela extração, transformação e integração de dados de bancos PostgreSQL complexos, garantindo um fluxo de análise de dados robusto, escalável e reproduzível (ETL) do servidor até a análise final em Jupyter Notebooks.
-
 **Áreas-Chave:** `Genética Animal` `Seleção Genômica` `Biologia Computacional` `Engenharia de Dados` `Machine Learning & IA Aplicados` `Bioinformática` `Data Science`
 
 ---
 
 **🤖 Treinador de LLMs (RLHF)** | **Outlier** | *Nov 2024 - Set 2025*
-
-Especializado em Reinforcement Learning from Human Feedback para otimização e alinhamento de large language models de ponta através de projetos freelance. Meu foco foi melhorar a performance dos modelos e garantir comportamento ético de IA em domínios especializados.
-
-🔹 **Alinhamento & Segurança de Modelos:** Conduzi sessões extensivas de feedback humano para alinhar large language models com valores e preferências humanas, focando na redução de outputs nocivos e melhoria da qualidade das respostas através de técnicas RLHF.
-
-🔹 **Fine-Tuning Específico por Domínio:** Me especializei em otimizar performance de modelos para tarefas de programação e desenvolvimento de software (Python, C, C++) e expertise em ciências biológicas, garantindo respostas precisas e contextualmente apropriadas nesses domínios técnicos.
-
-🔹 **Garantia de Qualidade & Avaliação:** Desenvolvi e implementei frameworks de avaliação para outputs de modelos, fornecendo feedback detalhado que contribuiu diretamente para melhorias iterativas dos modelos e experiência do usuário aprimorada.
-
-🔹 **Documentação Técnica:** Mantive documentação abrangente de processos de treinamento, padrões de feedback e métricas de performance dos modelos para apoiar melhoria contínua e transferência de conhecimento dentro da equipe de desenvolvimento.
 
 **Áreas-Chave:** `RLHF` `Alinhamento de Modelos` `Segurança de IA` `Linguagens de Programação` `Ciências Biológicas` `Garantia de Qualidade`
 
@@ -734,31 +644,11 @@ Especializado em Reinforcement Learning from Human Feedback para otimização e 
 
 **🌱 Analista de Dados (Impacto Ecológico)** | **Impaakt** | *Fev 2022 - Out 2024*
 
-Liderei avaliações abrangentes de impacto ambiental e iniciativas de pesquisa em sustentabilidade, utilizando metodologias avançadas de data science e tecnologias de IA para otimizar processos de análise ambiental em capacidade de meio período.
-
-🔹 **Avaliação de Impacto Ambiental:** Conduzi análises minuciosas de pegadas ambientais corporativas usando ferramentas de data science baseadas em Python, desenvolvendo metodologias padronizadas para medir e comparar métricas de sustentabilidade em diversas indústrias e organizações.
-
-🔹 **Otimização de Pesquisa Potencializada por IA:** Integrei large language models e algoritmos de machine learning em fluxos de trabalho de pesquisa, reduzindo significativamente o tempo de análise enquanto melhorava a precisão e profundidade das avaliações de impacto ambiental.
-
-🔹 **Insights de Sustentabilidade Orientados por Dados:** Processei e analisei datasets ambientais em larga escala para identificar tendências, padrões e oportunidades de melhorias de sustentabilidade, fornecendo recomendações acionáveis para stakeholders e tomadores de decisão.
-
-🔹 **Automação de Processos & Eficiência:** Projetei e implementei pipelines automatizados de coleta e análise de dados, simplificando fluxos de trabalho de avaliação ambiental e permitindo operações de pesquisa escaláveis em múltiplos projetos simultaneamente.
-
 **Áreas-Chave:** `Ciência Ambiental` `Análise de Sustentabilidade` `Data Science` `Otimização de Processos` `Integração de IA` `Avaliação de Impacto`
 
 ---
 
 **📚 Assistente de Pesquisa** | **Georgia State University** | *Fev 2019 - Fev 2020*
-
-Conduzi pesquisa interdisciplinar em ciências cognitivas através do Programa de Inclusividade em Humanidades (HIP) do Centro de Avanço de Estudantes e Alumni (CASA), trabalhando sob orientação direta de Neil Van Leeuwen, PhD, para avançar a compreensão teórica dos processos cognitivos humanos.
-
-🔹 **Pesquisa de Atitudes Cognitivas:** Apoiei o desenvolvimento de teoria sistemática pioneira do Dr. Van Leeuwen em atitudes cognitivas, investigando especificamente as diferenças fundamentais entre crença, imaginação e credência religiosa através de pesquisa empírica e análise teórica.
-
-🔹 **Análise de Dados Interdisciplinar:** Conduzi pesquisa abrangente abrangendo ciências cognitivas, filosofia da mente, psicologia e análise comportamental, sintetizando insights de múltiplas disciplinas para apoiar desenvolvimento e validação de frameworks teóricos.
-
-🔹 **Ferramentas Computacionais de Pesquisa:** Utilizei Python e suas bibliotecas especializadas para acelerar fluxos de trabalho de coleta, processamento e análise de dados, melhorando significativamente a eficiência da pesquisa e permitindo análises estatísticas mais sofisticadas de fenômenos cognitivos.
-
-🔹 **Suporte à Pesquisa Acadêmica:** Forneci assistência crítica à pesquisa incluindo revisões de literatura, validação de dados, suporte ao design experimental e análise preliminar que contribuiu diretamente para publicações acadêmicas em andamento e apresentações em conferências.
 
 **Áreas-Chave:** `Ciências Cognitivas` `Filosofia da Mente` `Psicologia` `Análise Comportamental` `Metodologia de Pesquisa` `Análise de Dados`
 
@@ -768,16 +658,6 @@ Conduzi pesquisa interdisciplinar em ciências cognitivas através do Programa d
 
 **🤖 Tecnólogo em Sistemas de IA & Machine Learning** | **FIAP** | *2024 - 2026 (previsto)*
 
-Cursando graduação tecnóloga de 2 anos em educação superior tecnológica, com currículo abrangente focado em arquitetura e engenharia de sistemas de IA end-to-end de ponta. O programa enfatiza aplicações práticas e do mundo real de IA & ML em diversos domínios e aplicações industriais.
-
-🔹 **Arquitetura & Engenharia de Sistemas de IA:** Domino o design e implementação de sistemas de IA escaláveis desde o conceito até a implementação em produção, cobrindo aplicações empresariais de machine learning, melhores práticas de MLOps e metodologias abrangentes de integração de sistemas.
-
-🔹 **Engenharia de Dados & Modelagem Avançada:** Desenvolvo expertise em pipelines de engenharia de dados, modelagem estatística avançada e arquiteturas de deep learning, garantindo fluxos de dados robustos que suportam aplicações de IA complexas e sistemas de tomada de decisão em tempo real.
-
-🔹 **Edge AI & Inovação em IoT:** Me especializo em implementações de Edge AI e desenvolvimento de IoT, incluindo integração de eletrônica e sensores, permitindo sistemas distribuídos inteligentes que operam eficientemente em ambientes com recursos limitados.
-
-🔹 **Liderança de Projeto Premiado:** Como Arquiteto & Engenheiro Solo, desenvolvi o projeto vencedor do "Global Solution - ProTech the Future - 2025.1" da FIAP, demonstrando inovação técnica excepcional e capacidades práticas de resolução de problemas no design de sistemas de IA.
-
 **Áreas-Chave:** `Arquitetura de Sistemas de IA` `Engenharia de Machine Learning` `MLOps` `Edge AI` `Desenvolvimento IoT` `Engenharia de Software`
 
 **Excelência Acadêmica:** CRA 4.0
@@ -786,16 +666,6 @@ Cursando graduação tecnóloga de 2 anos em educação superior tecnológica, c
 
 **🧬 Bacharelado em Ciências Biológicas** | **UniAcademia** | *2022 - 2025 (em andamento)*
 
-Cursando bacharelado abrangente de 4 anos com experiência de pesquisa extensiva em múltiplas disciplinas científicas. Minha jornada acadêmica é distinguida pela participação ativa em mais de 6 programas de iniciação científica resultando em artigos publicados e contribuições significativas para a pesquisa biológica.
-
-🔹 **Liderança em Pesquisa Interdisciplinar:** Contribuí para pesquisa publicada abrangendo biologia, modelagem ontológica de dados, machine learning, ciência climática, protocolos de segurança laboratorial, epidemiologia, genética, metodologias educacionais e estudos de cognição & aprendizagem.
-
-🔹 **Ensino Acadêmico & Mentoria:** Sirvo como Professor Assistente (Monitor) para Genética Molecular, Química Geral e Museu de Ciências Naturais da Universidade, fornecendo suporte educacional e mentoria para estudantes de graduação em conceitos biológicos avançados e técnicas laboratoriais.
-
-🔹 **Pesquisa de Tese Avançada:** Minha tese de conclusão foca em "Software de Saúde Anti-Envelhecimento Epigenético Utilizando Algoritmos de Machine Learning & Deep Learning", combinando métodos computacionais de ponta com pesquisa biológica para abordar desafios de saúde do mundo real.
-
-🔹 **Excelência Laboratorial & de Pesquisa:** Mantenho expertise em técnicas de biologia molecular, análise genética e biologia computacional, com experiência prática tanto em procedimentos de laboratório úmido quanto em fluxos de trabalho de análise de dados bioinformáticos.
-
 **Áreas-Chave:** `Biologia Molecular` `Genética` `Biologia Computacional` `Metodologia de Pesquisa` `Gestão Laboratorial` `Publicação Científica`
 
 **Excelência Acadêmica:** CRA 3.7 | **Tese:** Software de Saúde Anti-Envelhecimento Epigenético Utilizando Algoritmos de Machine Learning & Deep Learning
@@ -803,16 +673,6 @@ Cursando bacharelado abrangente de 4 anos com experiência de pesquisa extensiva
 ---
 
 **🧠 Filosofia (Principal) & Psicologia (Secundária)** | **Georgia State University** | *2017 - 2020 (incompleto)*
-
-Completei 3 anos de um programa abrangente de bacharelado de 4 anos com estudos fundamentais em ciências cognitivas, filosofia, psicologia e comportamento humano. Minha experiência acadêmica foi distinguida por extensa participação em pesquisa e papéis de liderança em organizações universitárias.
-
-🔹 **Excelência em Pesquisa de Ciências Cognitivas:** Servi como Scholar no prestigioso Programa de Inclusividade em Humanidades (HIP) através do Centro para Avanço de Estudantes e Alumni (CASA), contribuindo para pesquisa de ponta em atitudes cognitivas e filosofia da mente.
-
-🔹 **Liderança & Engajamento Comunitário:** Ocupei posições executivas incluindo Vice-Presidente da Associação Internacional de Crescimento e Desenvolvimento Estudantil e Assistente no Escritório de Estudantes Internacionais e Serviços Acadêmicos (OISSS), demonstrando forte liderança e habilidades de comunicação intercultural.
-
-🔹 **Reconhecimento Acadêmico & Honras:** Recebi múltiplas distinções acadêmicas incluindo a Bolsa do Campus de Atlanta, reconhecimento na Lista do Deão de Excelência e associação na Sociedade de Honra e Sociedade Nacional de Líderes de Honra Scholar, refletindo excelência acadêmica consistente.
-
-🔹 **Experiência em Pesquisa & Publicação:** Minha tese de graduação focou em "Diferenciando Crença Factual, Imaginação & Credência Religiosa - Uma Teoria Sistemática de Atitudes Cognitivas", contribuindo com pesquisa original para o campo das ciências cognitivas e filosofia da mente.
 
 **Áreas-Chave:** `Ciências Cognitivas` `Filosofia da Mente` `Psicologia` `Comportamento Humano` `Metodologia de Pesquisa` `Liderança Acadêmica`
 
@@ -824,7 +684,7 @@ Completei 3 anos de um programa abrangente de bacharelado de 4 anos com estudos 
 
 ## 🚀 Meu Cemitério de Elefantes
 
-Aqui é onde todos os meus projetos vêm morrer rsrs (a maioria nunca é completada, já que são todos para meus próprios propósitos de aprendizagem {me saio melhor com Aprendizagem Baseada em Projetos - ABP}). Eles demonstram minhas habilidades em construir sistemas de IA escaláveis, robustos e inovadores de nível produção de ponta a ponta em múltiplos domínios.
+Aqui é onde todos os meus projetos vêm morrer rsrs (já que são todos para meus próprios propósitos de aprendizagem {me saio melhor com Aprendizagem Baseada em Projetos - ABP}). Eles demonstram minhas habilidades em construir sistemas de IA escaláveis, robustos e inovadores de nível produção de ponta a ponta em múltiplos domínios.
 
 ---
 
