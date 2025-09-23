@@ -16,11 +16,6 @@
           <img src="https://img.shields.io/badge/🇺🇸_English-Main_Version-0077B5?style=for-the-badge&logo=readme&logoColor=white"/>
         </a>
       </td>
-      <td align="center">
-        <a href="#versão-em-português-brasileiro">
-          <img src="https://img.shields.io/badge/🇧🇷_Português_Brasileiro-Versão_Completa-4CAF50?style=for-the-badge&logo=readme&logoColor=white"/>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
