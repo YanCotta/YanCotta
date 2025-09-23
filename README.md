@@ -8,20 +8,6 @@
 
 ---
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="#english-version">
-          <img src="https://img.shields.io/badge/🇺🇸_English-Main_Version-0077B5?style=for-the-badge&logo=readme&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 <a id="english-version"></a>
 
 ## 📊 My GitHub Activity
