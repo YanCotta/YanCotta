@@ -8,8 +8,6 @@
 
 ---
 
-<a id="english-version"></a>
-
 ## 📊 My GitHub Activity
 
 <p align="center">
