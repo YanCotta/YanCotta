@@ -28,6 +28,8 @@
   <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
 
+---
+
 ## 📑 Quick Navigation
 
 <div align="center">
