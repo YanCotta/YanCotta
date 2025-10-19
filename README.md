@@ -90,7 +90,7 @@
 
 ---
 
-## 🌍 About Me
+## 🌍 About Me :)
 
 I'm passionate about designing and deploying fullstack AI systems that are inspired by my unique interdiciplinary background: Biology, Psychology, Philosophy, Computer Science, and AI/ML Architecture and Engineering.
 
