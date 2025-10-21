@@ -76,7 +76,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#recommendations">
+        <a href="#professional-recommendations">
           <img src="https://img.shields.io/badge/Recommendations-8BC34A?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
