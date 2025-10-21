@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architecture%20%26%20Engineering;Machine%20Learning%20%26%20Deep%20Learning;MLOps%20%26%20LLMOps;Data%20Science%20%26%20Bioinformatics;Biological%20%26%20Cognitive%20Sciences;IoT%20%26%20Edge%20AI&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architect%20%7C%20ML%20Engineer;Complex%20Problem%20Solver;Future%20Tech%20Leader;End-to-End%20AI%20Systems;MLOps%20%26%20LLMOps;Bioinformatics%20%26%20Genomics&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
 </p>
 
 ---
 
-## 📊 My GitHub Activity
+## GitHub Activity & Statistics
 
 <p align="center">
   <a href="https://github.com/YanCotta">
@@ -30,58 +30,71 @@
 
 ---
 
+## TL;DR - Key Achievements
+
+* **87% performance improvement** in genomic data queries through PostgreSQL → Neo4j migration at Embrapa
+* **76% reduction in operational downtime** via predictive AI platform with 12 autonomous agents and 17 ML models
+* **85% reduction in manual processing time** through full-stack invoice automation system with RAG
+* **Award-winning AI platform** for national resilience (FIAP 2025 Global Solution Challenge winner)
+* **Led 2 international ML teams** as Project Lead in SuperDataScience community
+* **Dual federal research grants** - Simultaneous R&D positions at Embrapa (Genomics) and UFJF (VLM/Deep Learning)
+
+**Current Status:** Actively seeking **Junior ML Engineer** or **AI Engineering Trainee** positions at innovative tech companies in São Paulo or Rio de Janeiro (Hybrid/On-site preferred).
+
+---
+
 ## 📑 Quick Navigation
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <a href="#-about-me">
-          <img src="https://img.shields.io/badge/🌍_About_Me-4CAF50?style=for-the-badge&logoColor=white"/>
+        <a href="#about-me">
+          <img src="https://img.shields.io/badge/About_Me-4CAF50?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
       <td align="center">
-        <a href="#️-professional-timeline">
-          <img src="https://img.shields.io/badge/🕰️_Professional_Timeline-2196F3?style=for-the-badge&logoColor=white"/>
+        <a href="#professional--research-experience">
+          <img src="https://img.shields.io/badge/Professional_Experience-2196F3?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
       <td align="center">
-        <a href="#-my-elephants-graveyard">
-          <img src="https://img.shields.io/badge/🚀_My_Elephants'_Graveyard-FF9800?style=for-the-badge&logoColor=white"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="#-community-projects">
-          <img src="https://img.shields.io/badge/🤝_Community_Projects-9C27B0?style=for-the-badge&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="#-full-stack-ai-systems--end-to-end-automation">
-          <img src="https://img.shields.io/badge/🔧_Full--Stack_AI_Systems-E91E63?style=for-the-badge&logoColor=white"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="#-agrotech--biotech-solutions">
-          <img src="https://img.shields.io/badge/🌱_AgroTech_&_BioTech-8BC34A?style=for-the-badge&logoColor=white"/>
+        <a href="#featured-projects">
+          <img src="https://img.shields.io/badge/Featured_Projects-FF9800?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="#️-tech-stack--tools">
-          <img src="https://img.shields.io/badge/🛠️_Tech_Stack_&_Tools-607D8B?style=for-the-badge&logoColor=white"/>
+        <a href="#certifications">
+          <img src="https://img.shields.io/badge/Certifications-9C27B0?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
       <td align="center">
-        <a href="#-global-communication">
-          <img src="https://img.shields.io/badge/🌍_Global_Communication-FF5722?style=for-the-badge&logoColor=white"/>
+        <a href="#publications">
+          <img src="https://img.shields.io/badge/Publications-E91E63?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
       <td align="center">
-        <a href="#-explore-more-projects">
-          <img src="https://img.shields.io/badge/📚_Explore_More_Projects-795548?style=for-the-badge&logoColor=white"/>
+        <a href="#recommendations">
+          <img src="https://img.shields.io/badge/Recommendations-8BC34A?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="#tech-stack--tools">
+          <img src="https://img.shields.io/badge/Tech_Stack_&_Tools-607D8B?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#global-communication">
+          <img src="https://img.shields.io/badge/Global_Communication-FF5722?style=for-the-badge&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="#explore-more-projects">
+          <img src="https://img.shields.io/badge/Explore_More_Projects-795548?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
     </tr>
@@ -90,15 +103,23 @@
 
 ---
 
-## 🌍 About Me
+## About Me
 
-I'm passionate about designing and deploying fullstack AI systems that are inspired by my unique interdiciplinary background: Biology, Psychology, Philosophy, Computer Science, and AI/ML Architecture and Engineering.
+I'm an **AI Systems Architect and Certified ML Engineer** with a core mission: to solve high-impact business challenges by architecting robust, scalable, and intelligent systems.
 
-This is not just a job or a career for me; it is the practical application of a lifelong obsession into the nature of intelligent itself, and years of formal academic studies.
+My unique interdisciplinary foundation in **Biology, Cognitive Science, and AI** provides me with a systemic thinking approach, allowing me to deconstruct the most complex problems—from biological systems to machine intelligence—and translate them into production-grade technology.
 
-My long-term ideal is to utilize my academic background to bridge Biology and AI into solving real-world biological/biomedical problems!
+### My Core Principles
 
-🛠️ **Technical Expertise**
+**End-to-End Ownership:** I don't just build models; I architect, build, and deploy entire systems. From the initial business problem to the final cloud deployment, I take full ownership of the solution's lifecycle.
+
+**Business-Driven Impact:** Technology is a tool to generate value. Every project and role on this profile is linked to a clear business outcome, whether it's increasing query performance by 87% or reducing operational downtime by 76%.
+
+**Excellence & Continuous Growth (Excelsior):** I am driven by a relentless pursuit of excellence and daily growth. I am currently seeking a high-impact trainee or junior role in a leading tech company where I can apply my problem-solving skills and grow into a future tech leader. I am available for hybrid or on-site roles in major tech hubs like **São Paulo and Rio de Janeiro**.
+
+---
+
+### Technical Expertise
 
 * **AI Systems Architecture & MLOps:** I design scalable, robust, and intelligent systems from concept to deployment. My expertise covers the full **end-to-end ML/AI lifecycle**, from data science and feature engineering to production-grade **MLOps and LLMOps** to ensure models deliver real-world value.
 
@@ -106,9 +127,11 @@ My long-term ideal is to utilize my academic background to bridge Biology and AI
 
 * **Agentic AI & LLMs:** My specialization lies at the frontier of AI. I develop "intelligent workforces" and have deep, hands-on experience in post-training Large Language Models using advanced techniques like **SFT and RLHF**.
 
-🏆 **Proven Impact & Research**
+---
 
-* **Leadership & Award-Winning Projects:** I thrive on collaboration and have served as a Project Lead within the international SuperDataScience community. I was also the solo architect and engineer of the **winning project for FIAP's 2025 Global Solution Challenge**.
+### Proven Impact & Research
+
+* **Leadership & Award-Winning Projects:** I thrive on collaboration and have served as a **Project Lead** within the international SuperDataScience community. I was also the solo architect and engineer of the **winning project for FIAP's 2025 Global Solution Challenge**.
 
 * **Interdisciplinary Research & Application:** My technical work is informed by a deep research background, from a thesis on foundational cognitive science at GSU to applied **Bio-AI** research into epigenetic anti-aging. This passion for applying AI to scientific challenges continues with my current role as a **R&D Intern at Embrapa**, focusing on data & animal genomics.
 
@@ -116,37 +139,54 @@ I'm always open to connecting with fellow builders, researchers, and leaders to 
 
 --- 
 
-## 🕰️ Professional Timeline
+## Professional & Research Experience
 
-### 🏢 Professional Experience
+### Professional Experience
 
-**🧬📊 R&D Intern (Data & Genomics)** | **Embrapa (Dairy Cattle)** | *Sep 2025 - Present*
+**R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Present*
 
-**Key Areas:** `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning` `Agricultural Innovation` `Animal Genetics` `Genomic Selection` `Computational Biology` `Data Engineering` `Applied Machine Learning & AI` `Bioinformatics` `Data Science`
+* **Increased performance by 87%** of genomic queries by migrating from PostgreSQL to Neo4j.
+* Architected a **scalable MLOps pipeline** for genomic analysis (Docker, Nextflow, FastAPI).
+* Optimized project presentations for stakeholders and executives responsible for laboratory budget and resources.
 
----
-
-**🤖 LLMs Trainer (RLHF)** | **Outlier** | *Nov 2024 - Sep 2025*
-
-**Key Areas:** `RLHF` `Model Alignment` `AI Safety` `Programming Languages` `Biological Sciences` `Quality Assurance`
+**Key Areas:** `Genomics` `Bioinformatics` `Data Engineering` `Applied ML` `Neo4j` `MLOps`
 
 ---
 
-**🌱 Data Analyst (Ecological Impact)** | **Impaakt** | *Feb 2022 - Oct 2024*
+**Collaborative Researcher (VLM & Deep Learning)** | **ReINVenTA (FrameNet Brasil / UFJF)** | *Remote | Sep 2025 - Present*
+
+*Federal research grant, conducted simultaneously with Embrapa position*
+
+* Developing **Vision-Language Models (VLMs)** and Deep Learning solutions to automate semantic annotation of large-scale multimodal (text and image) datasets.
+* Architecting a scalable pipeline to transform unstructured data into structured knowledge for computational analysis.
+
+**Key Areas:** `Deep Learning` `Vision-Language Models` `NLP` `Semantic Annotation` `Python`
+
+---
+
+**AI Trainer (LLM Systems via RLHF)** | **Outlier** | *Remote | Nov 2024 - Sep 2025*
+
+* Developed technical content to align Large Language Models (OpenAI, Meta, Anthropic), **increasing model efficiency by 64%** via RLHF in collaboration with technical teams.
+
+**Key Areas:** `RLHF` `Model Alignment` `AI Safety` `LLMs` `Quality Assurance`
+
+---
+
+**Data Analyst (Ecological Impact)** | **Impaakt** | *Remote | Feb 2022 - Oct 2024*
 
 **Key Areas:** `Environmental Science` `Sustainability Analysis` `Data Analysis` `Process Optimization` `AI Integration` `Impact Assessment`
 
 ---
 
-**📚 Research Assistant** | **Georgia State University** | *Feb 2019 - Feb 2020*
+**Research Assistant** | **Georgia State University** | *Atlanta, GA | Feb 2019 - Feb 2020*
 
 **Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Behavioral Analysis` `Research Methodology` `Data Analysis` `Data Science` `Python`
 
 ---
 
-### 🎓 Academic Background
+### Academic Background
 
-**🤖 AI Systems & Machine Learning Technologist** | **FIAP** | *2024 - 2026 (expected)*
+**AI Systems & Machine Learning Technologist** | **FIAP** | *2024 - 2026 (expected)*
 
 **Key Areas:** `AI Systems Architecture` `Machine Learning Engineering` `MLOps` `Edge AI` `IoT Development` `Software Engineering` `Data Engineering` `Cybersecurity` `Cloud Operations`
 
@@ -154,7 +194,7 @@ I'm always open to connecting with fellow builders, researchers, and leaders to 
 
 ---
 
-**🧬 Bachelor of Biological Sciences** | **UniAcademia** | *2022 - 2025 (in progress)*
+**Bachelor of Biological Sciences** | **UniAcademia** | *2022 - 2025 (in progress)*
 
 **Key Areas:** `Molecular Biology` `Genetics` `Computational Biology` `Research Methodology` `Laboratory Management` `Scientific Publishing`
 
@@ -162,7 +202,7 @@ I'm always open to connecting with fellow builders, researchers, and leaders to 
 
 ---
 
-**🧠 Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*
+**Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*
 
 **Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Human Behavior` `Research Methodology` `Academic Leadership`
 
@@ -172,24 +212,128 @@ I'm always open to connecting with fellow builders, researchers, and leaders to 
 
 ---
 
-## 🚀 My Elephants' Graveyard
+## Certifications
 
-Here is where all my projects come to die lol (since they are all for my own learning purposes {I do better with Project Based Learning - PBL}). They demonstrate my skills in building production-grade, scalable, and innovative AI systems from end-to-end across multiple domains.
+*View all certifications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/certifications/)*
+
+I maintain active certifications across AI/ML platforms, cloud infrastructure, and software development to ensure I stay current with industry-leading technologies and best practices.
+
+**Key Certifications Include:**
+- Machine Learning & AI Engineering
+- Cloud Platform Expertise (AWS, Azure)
+- Data Science & Analytics
+- Software Development & DevOps
+- Specialized domain certifications in Bioinformatics and IoT
 
 ---
 
-## 🤝 Community Projects
+## Publications
 
-*These projects were completed as part of the SuperDataScience Data Science international community, where I collaborated with talented data scientists and ML engineers from around the world. I served as **Project Lead** for 2 projects and as a **Project Member** for 2 others.*
+*View all publications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/publications/)*
 
-### 🩺 GlucoTrack: Diabetes Risk Prediction Platform
-**🎯 Project Lead** | *Comprehensive diabetes risk assessment system using the CDC diabetes dataset*
+My research spans cognitive science, artificial intelligence, and computational biology, bridging theoretical frameworks with practical applications.
+
+**Research Areas:**
+- Philosophy of Mind & Cognitive Attitudes
+- Machine Learning Applications in Health Sciences
+- Epigenetics & AI-Driven Personalized Medicine
+- Computational Biology & Genomics
+- AI Systems Architecture & Engineering
+
+---
+
+## Professional Recommendations
+
+*View all recommendations on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/recommendations/)*
+
+I've been fortunate to work with exceptional professionals who have recognized my technical capabilities, problem-solving approach, and collaborative leadership style. These recommendations span my work in:
+- AI/ML Engineering & Research
+- Data Science & Analytics
+- Project Leadership & Team Collaboration
+- Academic Research & Scientific Methodology
+
+---
+
+## Featured Projects
+
+This portfolio showcases end-to-end AI systems I've architected to solve real-world challenges. Each project demonstrates business impact, technical excellence, and production-ready implementation.
+
+---
+
+### Industrial Predictive Maintenance SaaS (v1.0)
+**Solo Development** | *Multi-agent AI platform for industrial IoT*
+
+**Business Goal:** To reduce costly, unplanned downtime in industrial operations through predictive AI.
+
+**Solution & Impact:** Developed a production-ready SaaS platform with **12 autonomous AI agents and 17 ML models**. The system optimizes maintenance schedules, achieving a **76% reduction in operational downtime** based on KPI tracking.
+
+**Technologies**: `Python` • `FastAPI` • `PostgreSQL` • `TimescaleDB` • `Redis` • `MLflow` • `Docker` • `Streamlit` • `IoT` • `Microservices` • `MLOps`
+
+<a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply">
+  <img src="https://img.shields.io/badge/Explore_SaaS_Platform-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### Invoice Automation System (Full-Stack & Multi-Agent)
+**Solo Development** | *AI-powered invoice processing automation*
+
+**Business Goal:** To eliminate the slow, error-prone manual process of invoice handling for small to medium businesses.
+
+**Solution & Impact:** Built a full-stack system that automates the entire invoice processing pipeline. By mapping the user journey and applying RAG for intelligent error handling, the system **reduced manual processing time by over 85%**.
+
+**Technologies**: `React.js` • `Next.js` • `TypeScript` • `FastAPI` • `LangChain` • `RAG` • `FAISS` • `Docker` • `AWS S3` • `PostgreSQL`
+
+<a href="https://github.com/YanCotta/agentic_invoice_system_final_version">
+  <img src="https://img.shields.io/badge/Explore_Full--Stack_Solution-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🏆 Guardian System: National Resilience Platform (Award Winner)
+**Solo Development** | *My winning project for FIAP's 2025.1 Global Solution Challenge*
+
+**Business Goal:** To create a predictive system to manage and mitigate large-scale national crises like natural disasters.
+
+**Solution & Impact:** I single-handedly architected and developed this award-winning multi-agent platform. Five autonomous "Guardian" agents for different threat domains, with a **fully functional MVP for fire risk prediction** using real-time IoT sensor data.
+
+**Technologies**: `Agentic AI` • `Python` • `FastAPI` • `Docker` • `MicroPython` • `ESP32` • `IoT` • `Apache Spark`
+
+<a href="https://github.com/YanCotta/global_solution_1_fiap">
+  <img src="https://img.shields.io/badge/See_Award--Winning_Code-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+---
+
+### AI Platform for Anti-Aging (Thesis Project)
+**Solo Development** | *Personalized anti-aging recommendation system*
+
+**Business Goal:** To create a scalable HealthTech platform that provides personalized, data-driven health recommendations, moving beyond generic advice.
+
+**Solution & Impact:** Developing an AI platform focused on **Explainable AI (SHAP)** and secure deployment (JWT). The system translates complex epigenetic data (BioPython) into actionable health insights. Analyzes genetic predispositions (SNPs) and lifestyle habits to generate personalized risk assessments.
+
+**Technologies**: `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker` • `FastAPI` • `React`
+
+<a href="https://github.com/YanCotta/anti-aging-epigenetics-ml-app">
+  <img src="https://img.shields.io/badge/Explore_Epigenetics_Platform-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+## Community Projects & Leadership
+
+*As a **Project Leader** in the international SuperDataScience community, I led diverse teams of data scientists and ML engineers to deliver production-ready AI/ML platforms. I was responsible for aligning project priorities with stakeholders, defining KPIs, and managing deployment.*
+
+**Leadership Experience:** Project Lead for 2 projects | Project Member for 2 projects
+
+### GlucoTrack: Diabetes Risk Prediction Platform
+**Project Lead** | *Comprehensive diabetes risk assessment system using the CDC diabetes dataset*
 
 Led a diverse team of data scientists and ML engineers to deliver both beginner-friendly and advanced deep learning solutions.
 
-**🔧 Key Features**: Built traditional ML models (Logistic Regression, Decision Trees) and advanced Feedforward Neural Networks with hyperparameter tuning. Includes model explainability tools and multiple deployment options.
+**Key Features**: Built traditional ML models (Logistic Regression, Decision Trees) and advanced Feedforward Neural Networks with hyperparameter tuning. Includes model explainability tools and multiple deployment options.
 
-**💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Model Explainability` • `Healthcare AI` • `Data Science` 
+**Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Streamlit` • `Model Explainability` • `Healthcare AI` • `Data Science` 
 
 Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
@@ -199,14 +343,14 @@ Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
 ---
 
-### 💰 MLPayGrade: ML Salary Prediction System
-**🎯 Project Lead** | *End-to-end salary prediction platform analyzing the 2024 machine learning job market*
+### MLPayGrade: ML Salary Prediction System
+**Project Lead** | *End-to-end salary prediction platform analyzing the 2024 machine learning job market*
 
 Coordinated a team of data scientists and ML engineers to build comprehensive solutions across multiple skill levels.
 
-**🔧 Key Features**: Analyzes global salary trends and job feature impacts on compensation. Features both traditional ML pipelines and advanced deep learning on tabular data with embeddings and explainability.
+**Key Features**: Analyzes global salary trends and job feature impacts on compensation. Features both traditional ML pipelines and advanced deep learning on tabular data with embeddings and explainability.
 
-**💻 Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Tabular Data` • `Streamlit` • `Job Market Analytics`• `Data Science` 
+**Technologies**: `Python` • `Scikit-learn` • `Deep Learning` • `Tabular Data` • `Streamlit` • `Job Market Analytics`• `Data Science` 
 
 <a href="https://github.com/YanCotta/SDS-CP032-mlpaygrade">
   <img src="https://img.shields.io/badge/💼_See_Salary_Intelligence_Tool-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
@@ -214,12 +358,12 @@ Coordinated a team of data scientists and ML engineers to build comprehensive so
 
 ---
 
-### 💸 EduSpend: Global Education Cost Prediction
-**🎯 Project Member** | *End-to-end machine learning platform to predict Total Cost of Attendance for international higher education*
+### EduSpend: Global Education Cost Prediction
+**Project Member** | *End-to-end machine learning platform to predict Total Cost of Attendance for international higher education*
 
-**🔧 Key Features**: Achieved a 96.44% R² score with an XGBoost Regressor, deployed via both a Streamlit web app and a FastAPI service, all containerized with Docker and automated with CI/CD.
+**Key Features**: Achieved a 96.44% R² score with an XGBoost Regressor, deployed via both a Streamlit web app and a FastAPI service, all containerized with Docker and automated with CI/CD.
 
-**💻 Technologies**: `Scikit-learn` • `XGBoost` • `MLflow` • `Streamlit` • `FastAPI` • `Docker` • `CI/CD`• `Data Science`
+**Technologies**: `Scikit-learn` • `XGBoost` • `MLflow` • `Streamlit` • `FastAPI` • `Docker` • `CI/CD`• `Data Science`
 
 <a href="https://github.com/YanCotta/SDS-CP030-edu-spend">
   <img src="https://img.shields.io/badge/🎓_Explore_EdTech_Platform-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
@@ -227,12 +371,12 @@ Coordinated a team of data scientists and ML engineers to build comprehensive so
 
 ---
 
-### 🌿 Smart Leaf: Deep Learning for Crop Disease
-**🎯 Project Member** | *Deep learning solution that classifies 14 different crop diseases across four species*
+### Smart Leaf: Deep Learning for Crop Disease
+**Project Member** | *Deep learning solution that classifies 14 different crop diseases across four species*
 
-**🔧 Key Features**: A Convolutional Neural Network (CNN) trained on my local machine, on over 13,000 images, using only modulerized python scripts (no notebooks), deployed via a user-friendly Streamlit interface for real-time predictions. Covers corn, potato, rice, and wheat diseases.
+**Key Features**: A Convolutional Neural Network (CNN) trained on my local machine, on over 13,000 images, using only modulerized python scripts (no notebooks), deployed via a user-friendly Streamlit interface for real-time predictions. Covers corn, potato, rice, and wheat diseases.
 
-**💻 Technologies**: `Deep Learning` • `Computer Vision` • `CNN` • `TensorFlow` • `PyTorch` • `Streamlit`• `Locally Trained Neural Network` 
+**Technologies**: `Deep Learning` • `Computer Vision` • `CNN` • `TensorFlow` • `PyTorch` • `Streamlit`• `Locally Trained Neural Network` 
 
 <a href="https://github.com/YanCotta/SDS-CP028-smart-leaf">
   <img src="https://img.shields.io/badge/🔬_See_Disease_Detection_Model-8BC34A?style=for-the-badge&logo=github&logoColor=white"/>
@@ -240,65 +384,18 @@ Coordinated a team of data scientists and ML engineers to build comprehensive so
 
 ---
 
-## 🔧 Full-Stack AI Systems & End-to-End Automation
-
-*These are my most comprehensive projects where I architected and built complete AI systems from the ground up, working solo to learn as much as I could, and deliver production-ready solutions that demonstrate my ability to handle complex, full-stack development challenges.*
-
-### ⚙️ Industrial Smart Maintenance SaaS
-**🎯 Solo Development** | *Multi-agent AI platform for industrial IoT that predicts machine failures and automates maintenance scheduling*
-
-Built entirely from scratch to ensure maximum performance and control.
-
-**🔧 Key Features**: Custom-built agentic architecture (no frameworks), over 5 ML models tracked by MLFlow and trained on real-world industrial datasets, leverages TimescaleDB for high-performance time-series data, and is fully containerized with multiple Docker microservices.
-
-**💻 Technologies**: `Python` • `FastAPI` • `PostgreSQL` • `TimescaleDB` • `Redis` • `MLflow` • `Docker` • `Streamlit`• `IoT` 
-
-<a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply">
-  <img src="https://img.shields.io/badge/🏭_Check_SaaS_Platform-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-### 🏆 Guardian System: National Resilience Platform (Award Winner)
-**🎯 Solo Development** | *My winning project for FIAP's 2025.1 Global Solution Challenge*
-
-A visionary multi-agent platform designed to predict and manage large-scale events in Brazil by fusing Agentic AI with concepts from Brazilian folklore.
-
-**🔧 Key Features**: Five autonomous "Guardian" agents for different threat domains, with a fully functional MVP for fire risk prediction using real-time IoT sensor data.
-
-**💻 Technologies**: `Agentic AI` • `Python` • `FastAPI` • `Docker` • `MicroPython` • `ESP32` • `IoT`
-
-<a href="https://github.com/YanCotta/global_solution_1_fiap">
-  <img src="https://img.shields.io/badge/🏆_See_Award--Winning_Code-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
----
-
-### 📄 Full-Stack Invoice Automation System
-**🎯 Solo Development** | *AI-powered system that automates invoice processing, drastically reducing manual effort*
-
-**🔧 Key Features**: Reduced processing time by over 85% and uses RAG with FAISS for intelligent error classification. Built with multiple frontend (React/Next.js) and deployment options.
-
-**💻 Technologies**: `Next.js` • `React` • `TypeScript` • `AWS` • `LangChain` • `Streamlit` • `RAG`
-
-<a href="https://github.com/YanCotta/agentic_invoice_system_final_version">
-  <img src="https://img.shields.io/badge/📊_See_Full--Stack_Solution-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
----
-
-## 🌱 AgroTech & BioTech Solutions
+## AgroTech & BioTech Solutions
 
 *These projects showcase my work at the intersection of technology and life sciences, developing AI-powered solutions for agriculture, bioinformatics, and environmental monitoring.*
 
-### 🌾 SmartCrops: IoT-ML Agriculture System
-**🎯 Solo Development** | *IoT-ML project for smart agriculture featuring dual ESP32 nodes*
+### SmartCrops: IoT-ML Agriculture System
+**Solo Development** | *IoT-ML project for smart agriculture featuring dual ESP32 nodes*
 
 Features sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubidots for comprehensive crop monitoring.
 
-**🔧 Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
+**Key Features**: Real-time collection of temperature, humidity, and soil moisture data. ML model analyzes crop yield predictions and provides real-time plant health classification.
 
-**💻 Technologies**: `Python` • `C++` • `ESP32` • `IoT` • `MQTT` • `Machine Learning` • `Agriculture AI`
+**Technologies**: `Python` • `C++` • `ESP32` • `IoT` • `MQTT` • `Machine Learning` • `Agriculture AI`
 
 <a href="https://github.com/YanCotta/SmartCrops-IoT-ML-System">
   <img src="https://img.shields.io/badge/🚜_See_Smart_Agriculture_System-4CAF50?style=for-the-badge&logo=github&logoColor=white"/>
@@ -306,14 +403,14 @@ Features sensor communication via ESP-NOW and gateway connectivity to MQTT/Ubido
 
 ---
 
-### 🧬 Personalized Anti-Aging Epigenetics ML System
-**🎯 Solo Development** | *Thesis project developing a personalized anti-aging recommendation system based on genetics and lifestyle analysis*
+### Personalized Anti-Aging Epigenetics ML System
+**Solo Development** | *Thesis project developing a personalized anti-aging recommendation system based on genetics and lifestyle analysis*
 
 Analyzes genetic predispositions (SNPs) and lifestyle habits to generate personalized risk assessments and actionable recommendations for healthy aging.
 
-**🔧 Key Features**: Synthetic genetic data generation with BioPython, model comparison (Random Forest vs Neural Network), explainable AI via SHAP, and MLFlow experiment tracking. Fully containerized with secure JWT authentication.
+**Key Features**: Synthetic genetic data generation with BioPython, model comparison (Random Forest vs Neural Network), explainable AI via SHAP, and MLFlow experiment tracking. Fully containerized with secure JWT authentication.
 
-**💻 Technologies**: `Python` • `FastAPI` • `React` • `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker`
+**Technologies**: `Python` • `FastAPI` • `React` • `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker`
 
 <a href="https://github.com/YanCotta/anti-aging-epigenetics-ml-app">
   <img src="https://img.shields.io/badge/🧬_Explore_Epigenetics_Platform-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
@@ -321,14 +418,14 @@ Analyzes genetic predispositions (SNPs) and lifestyle habits to generate persona
 
 ---
 
-### 🧬 Bioinformatics & Genetic Analysis Tools
-**🎯 Solo Development** | *Collection of high-performance Python tools for bioinformatics*
+### Bioinformatics & Genetic Analysis Tools
+**Solo Development** | *Collection of high-performance Python tools for bioinformatics*
 
 Includes DNA sequence analysis, gene expression analysis, and a pipeline that uses ML to predict disease risk from genetic variants.
 
-**🔧 Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
+**Key Features**: Combines population genetics with ML, features ORF detection, PCA for pattern recognition, and robust data processing.
 
-**💻 Technologies**: `Python` • `Bioinformatics` • `Genomics` • `PyTorch` • `Scikit-learn`
+**Technologies**: `Python` • `Bioinformatics` • `Genomics` • `PyTorch` • `Scikit-learn`
 
 <a href="https://github.com/YanCotta/DNASequenceAnalysisTool">
   <img src="https://img.shields.io/badge/🧬_Explore_Bio--AI_Tools-00BCD4?style=for-the-badge&logo=github&logoColor=white"/>
@@ -336,14 +433,14 @@ Includes DNA sequence analysis, gene expression analysis, and a pipeline that us
 
 ---
 
-### 🌍 Climate Risk Assessment Tool
-**🎯 Solo Development** | *Advanced climate risk prediction system using ensemble machine learning and deep learning*
+### Climate Risk Assessment Tool
+**Solo Development** | *Advanced climate risk prediction system using ensemble machine learning and deep learning*
 
 Delivered via a production-ready REST API.
 
-**🔧 Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
+**Key Features**: Combines multiple ML models (XGBoost, LSTM) for robust forecasting and integrates real-time weather data for comprehensive analysis. Fully containerized and CI/CD ready.
 
-**💻 Technologies**: `Python` • `FastAPI` • `Ensemble ML` • `Deep Learning` • `Docker` • `CI/CD`
+**Technologies**: `Python` • `FastAPI` • `Ensemble ML` • `Deep Learning` • `Docker` • `CI/CD`
 
 <a href="https://github.com/YanCotta/ClimateRiskAssessmentTool">
   <img src="https://img.shields.io/badge/🌡️_Check_Climate_API-607D8B?style=for-the-badge&logo=github&logoColor=white"/>
@@ -351,7 +448,7 @@ Delivered via a production-ready REST API.
 
 ---
 
-## 📚 Explore More Projects
+## Explore More Projects
 
 <div align="center">
   <em>... and even more projects in my repositories, covering Data Science, Machine Learning, MLOps, LLMOps, IoT, AI engineering, bioinformatics, and more!</em>
@@ -363,7 +460,7 @@ Delivered via a production-ready REST API.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <div align="center">
 
@@ -379,6 +476,7 @@ Delivered via a production-ready REST API.
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Computer_Vision-2196F3?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/XAI_(SHAP)-2196F3?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Fine_Tuning-9C27B0?style=for-the-badge&logo=huggingface&logoColor=white" />
 <img src="https://img.shields.io/badge/RLHF-E91E63?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/SFT-607D8B?style=for-the-badge&logo=huggingface&logoColor=white" />
@@ -393,8 +491,10 @@ Delivered via a production-ready REST API.
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Ollama-8A2BE2?style=for-the-badge" />
 
-**Backend & APIs**
+**Architecture, Backend & APIs**
 <br>
+<img src="https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=awsorganizations&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-2196F3?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -405,6 +505,7 @@ Delivered via a production-ready REST API.
 **Databases & Data Engineering**
 <br>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
 <img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle_SQL_Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
@@ -413,6 +514,7 @@ Delivered via a production-ready REST API.
 <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=chroma&logoColor=white" />
 <img src="https://img.shields.io/badge/FAISS-3F51B5?style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 
 **Cloud & MLOps**
@@ -422,6 +524,7 @@ Delivered via a production-ready REST API.
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 
@@ -448,6 +551,7 @@ Delivered via a production-ready REST API.
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
 <img src="https://img.shields.io/badge/Sensors-FF6B6B?style=for-the-badge&logo=iot&logoColor=white" />
 <img src="https://img.shields.io/badge/GPIO-4CAF50?style=for-the-badge&logo=raspberrypi&logoColor=white" />
 <img src="https://img.shields.io/badge/Real--time_Data-2196F3?style=for-the-badge&logo=apache-kafka&logoColor=white" />
@@ -456,7 +560,7 @@ Delivered via a production-ready REST API.
 
 ---
 
-## 🌍 Global Communication
+## Global Communication
 
 <div align="center">
   <table>
