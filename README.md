@@ -8,7 +8,7 @@
 
 ---
 
-## GitHub Activity & Statistics
+## GitHub Statistics
 
 <p align="center">
   <a href="https://github.com/YanCotta">
