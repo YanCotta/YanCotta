@@ -352,36 +352,6 @@ Coordinated a team of data scientists and ML engineers to build comprehensive so
 
 ---
 
-## Certifications
-
-*View all certifications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/certifications/)*
-
-I maintain active certifications across AI/ML platforms, cloud infrastructure, and software development to ensure I stay current with industry-leading technologies and best practices.
-
-**Key Certifications Include:**
-- Machine Learning & AI Engineering
-- Cloud Platform Expertise (AWS, Azure)
-- Data Science & Analytics
-- Software Development & DevOps
-- Specialized domain certifications in Bioinformatics and IoT
-
----
-
-## Publications
-
-*View all publications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/publications/)*
-
-My research spans cognitive science, artificial intelligence, and computational biology, bridging theoretical frameworks with practical applications.
-
-**Research Areas:**
-- Philosophy of Mind & Cognitive Attitudes
-- Machine Learning Applications in Health Sciences
-- Epigenetics & AI-Driven Personalized Medicine
-- Computational Biology & Genomics
-- AI Systems Architecture & Engineering
-
----
-
 ## Tech Stack & Tools
 
 <div align="center">
@@ -479,6 +449,36 @@ My research spans cognitive science, artificial intelligence, and computational 
 <img src="https://img.shields.io/badge/Real--time_Data-2196F3?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 
 </div>
+
+---
+
+## Certifications
+
+*View all certifications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/certifications/)*
+
+I maintain active certifications across AI/ML platforms, cloud infrastructure, and software development to ensure I stay current with industry-leading technologies and best practices.
+
+**Key Certifications Include:**
+- Machine Learning & AI Engineering
+- Cloud Platform Expertise (AWS, Azure)
+- Data Science & Analytics
+- Software Development & DevOps
+- Specialized domain certifications in Bioinformatics and IoT
+
+---
+
+## Publications
+
+*View all publications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/publications/)*
+
+My research spans cognitive science, artificial intelligence, and computational biology, bridging theoretical frameworks with practical applications.
+
+**Research Areas:**
+- Philosophy of Mind & Cognitive Attitudes
+- Machine Learning Applications in Health Sciences
+- Epigenetics & AI-Driven Personalized Medicine
+- Computational Biology & Genomics
+- AI Systems Architecture & Engineering
 
 ---
 
