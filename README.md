@@ -119,7 +119,7 @@ My journey has been a deliberate construction of technical expertise, business a
 
 I am actively seeking a high-impact **Trainee or Junior role** (AI Engineering, ML Engineering, Data Science) at a leading tech company where I can solve complex challenges, contribute meaningfully, and accelerate my growth towards becoming a future tech leader.
 
-* ► **Location:** Open to worldwide remote, and hybrid/on-site in São Paulo or Rio de Janeiro.
+► **Location:** Open to worldwide remote, and hybrid/on-site in São Paulo or Rio de Janeiro.
 
 ---
 
