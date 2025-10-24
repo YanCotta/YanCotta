@@ -103,8 +103,6 @@
 
 ## About Me
 
-## About Me
-
 I am an **AI Systems Architect & Certified ML Engineer** building strong foundations for future tech leadership. My core mission is to solve high-impact business challenges by architecting robust, scalable, and intelligent systems from end-to-end.
 
 My unique strength lies in **"Systemic Thinking,"** cultivated through a diverse background spanning Biology, Cognitive Science, Philosophy, and AI. This allows me to deconstruct the most complex problems – from optimizing genomic data pipelines to designing resilient multi-agent systems – and translate them into production-grade technology that delivers measurable value.
