@@ -109,36 +109,11 @@ My unique strength lies in **"Systemic Thinking,"** cultivated through a diverse
 
 My journey has been a deliberate construction of technical expertise, business acumen, and leadership capabilities:
 
----
-
-### PROVEN IMPACT & KEY ACHIEVEMENTS:
-
-* ◈ **87% Performance Increase:** Boosted genomic query performance at **Embrapa** by architecting a PostgreSQL → Neo4j migration. Also honed executive communication, successfully presenting complex technical results to stakeholders to secure resources.
-* ◈ **76% Downtime Reduction:** Solo-architected and deployed a **Predictive Maintenance SaaS** for Hermes Reply, with 12 AI agents & 17 ML models, demonstrating full end-to-end ownership and significant operational impact.
-* ◈ **>85% Efficiency Gain:** Built a **Full-Stack Invoice Automation System** (React, FastAPI, RAG) in an ~15-day sprint, drastically reducing manual processing time.
-* ◈ **Award-Winning AI Architect:** Conceived and **solo-developed** the winning solution (National Resilience Platform) for the **FIAP 2025 Global Solution Challenge**.
-* ◈ **64% Model Efficiency Increase:** Trained and aligned SOTA **LLMs at Outlier** using RLHF, collaborating directly with **OpenAI, Meta, & Anthropic**.
-* ◈ **International Team Leadership:** Led **2 global SuperDataScience teams** as Project Lead, guiding diverse groups (engineers, data scientists) to deploy end-to-end AI platforms and earning recommendations for technical and leadership skills.
-* ◈ **Foundational Skills:** Developed critical communication, logistics, and cross-cultural leadership skills early on through client-facing roles and student leadership positions (VP Int. Student Assoc.) at Georgia State University (achieving Dean's List & Honor Society).
-
----
-
 ### MY CORE PRINCIPLES:
 
 1.  **End-to-End Ownership:** I don't just build models; I architect, build, deploy, and monitor entire systems (MLOps/LLMOps).
 2.  **Business-Driven Impact:** Technology must solve real problems. I focus on aligning technical solutions with KPIs and stakeholder goals.
 3.  **Excelsior (Continuous Growth):** Driven by a relentless pursuit of excellence, daily learning (+70 Certifications), and tackling increasingly complex challenges.
-
----
-
-### TECHNICAL EXPERTISE:
-
-* ► **AI Systems Architecture:** Designing scalable, production-grade AI systems, microservices, and event-driven architectures.
-* ► **MLOps/LLMOps:** Building full end-to-end pipelines (Docker, Kubernetes, MLflow, Nextflow, CI/CD) and training/aligning LLMs (RLHF, RAG).
-* ► **Data & Genomics:** Engineering complex data pipelines and applying ML to biological/genomic data.
-* ► **Full-Stack & Edge AI:** Developing full-stack AI applications and solutions for IoT/Edge devices (ESP32).
-
----
 
 ### WHAT I'M SEEKING:
 
@@ -146,7 +121,7 @@ I am actively seeking a high-impact **Trainee or Junior role** (AI Engineering, 
 
 * ► **Location:** Open to worldwide remote, and hybrid/on-site in São Paulo or Rio de Janeiro.
 
---- 
+---
 
 ## Professional & Research Experience
 
@@ -218,36 +193,6 @@ I am actively seeking a high-impact **Trainee or Junior role** (AI Engineering, 
 **Academic Excellence:** GPA 3.8 | **Thesis:** Differentiating Factual Belief, Imagination & Religious Credence - A Systematic Theory of Cognitive Attitudes
 
 **Additional Recognition:** Columnist for "The Signal" (GSU's award-winning newspaper), Atlanta Campus Scholarship recipient, Dean's List, Honor Society member
-
----
-
-## Certifications
-
-*View all certifications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/certifications/)*
-
-I maintain active certifications across AI/ML platforms, cloud infrastructure, and software development to ensure I stay current with industry-leading technologies and best practices.
-
-**Key Certifications Include:**
-- Machine Learning & AI Engineering
-- Cloud Platform Expertise (AWS, Azure)
-- Data Science & Analytics
-- Software Development & DevOps
-- Specialized domain certifications in Bioinformatics and IoT
-
----
-
-## Publications
-
-*View all publications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/publications/)*
-
-My research spans cognitive science, artificial intelligence, and computational biology, bridging theoretical frameworks with practical applications.
-
-**Research Areas:**
-- Philosophy of Mind & Cognitive Attitudes
-- Machine Learning Applications in Health Sciences
-- Epigenetics & AI-Driven Personalized Medicine
-- Computational Biology & Genomics
-- AI Systems Architecture & Engineering
 
 ---
 
@@ -402,6 +347,36 @@ Coordinated a team of data scientists and ML engineers to build comprehensive so
     <img src="https://img.shields.io/badge/📚_View_All_Repositories-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories"/>
   </a>
 </div>
+
+---
+
+## Certifications
+
+*View all certifications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/certifications/)*
+
+I maintain active certifications across AI/ML platforms, cloud infrastructure, and software development to ensure I stay current with industry-leading technologies and best practices.
+
+**Key Certifications Include:**
+- Machine Learning & AI Engineering
+- Cloud Platform Expertise (AWS, Azure)
+- Data Science & Analytics
+- Software Development & DevOps
+- Specialized domain certifications in Bioinformatics and IoT
+
+---
+
+## Publications
+
+*View all publications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/publications/)*
+
+My research spans cognitive science, artificial intelligence, and computational biology, bridging theoretical frameworks with practical applications.
+
+**Research Areas:**
+- Philosophy of Mind & Cognitive Attitudes
+- Machine Learning Applications in Health Sciences
+- Epigenetics & AI-Driven Personalized Medicine
+- Computational Biology & Genomics
+- AI Systems Architecture & Engineering
 
 ---
 
