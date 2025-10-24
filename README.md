@@ -125,8 +125,6 @@ I am actively seeking a high-impact **Trainee or Junior role** (AI Engineering, 
 
 ## Professional & Research Experience
 
-### Professional Experience
-
 **R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Present*
 
 * **Increased performance by 87%** of genomic queries by migrating from PostgreSQL to Neo4j.
