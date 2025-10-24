@@ -158,11 +158,15 @@ I am actively seeking a high-impact **Trainee or Junior role** (AI Engineering, 
 
 **Data Analyst (Ecological Impact)** | **Impaakt** | *Remote | Feb 2022 - Oct 2024*
 
+* Delivered 500+ data-driven ecological impact reports that influenced ESG (Environmental, Social, and Governance) ratings used by investment firms.
+
 **Key Areas:** `Environmental Science` `Sustainability Analysis` `Data Analysis` `Process Optimization` `AI Integration` `Impact Assessment`
 
 ---
 
 **Research Assistant** | **Georgia State University** | *Atlanta, GA | Feb 2019 - Feb 2020*
+
+* Increased research productivity by 84% by automating data collection and analysis workflows using Python.
 
 **Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Behavioral Analysis` `Research Methodology` `Data Analysis` `Data Science` `Python`
 
