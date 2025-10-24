@@ -103,43 +103,50 @@
 
 ## About Me
 
-I am an AI Systems Architect & Certified ML Engineer building strong foundations for future tech leadership. My core mission is to solve high-impact business challenges by architecting robust, scalable, and intelligent systems from end-to-end.
+## About Me
 
-My unique strength lies in "Systemic Thinking," cultivated through a diverse background spanning Biology, Cognitive Science, Philosophy, and AI. This allows me to deconstruct the most complex problems – from optimizing genomic data pipelines to designing resilient multi-agent systems – and translate them into production-grade technology that delivers measurable value.
+I am an **AI Systems Architect & Certified ML Engineer** building strong foundations for future tech leadership. My core mission is to solve high-impact business challenges by architecting robust, scalable, and intelligent systems from end-to-end.
+
+My unique strength lies in **"Systemic Thinking,"** cultivated through a diverse background spanning Biology, Cognitive Science, Philosophy, and AI. This allows me to deconstruct the most complex problems – from optimizing genomic data pipelines to designing resilient multi-agent systems – and translate them into production-grade technology that delivers measurable value.
 
 My journey has been a deliberate construction of technical expertise, business acumen, and leadership capabilities:
 
-PROVEN IMPACT & KEY ACHIEVEMENTS:
+---
 
-◈ 87% Performance Increase: Boosted genomic query performance at Embrapa by architecting a PostgreSQL → Neo4j migration. Also honed executive communication, successfully presenting complex technical results to stakeholders to secure resources.
-◈ 76% Downtime Reduction: Solo-architected and deployed a Predictive Maintenance SaaS for Hermes Reply, with 12 AI agents & 17 ML models, demonstrating full end-to-end ownership and significant operational impact.
-◈ >85% Efficiency Gain: Built a Full-Stack Invoice Automation System (React, FastAPI, RAG) in an 15-day sprint, drastically reducing manual processing time.
-◈ Award-Winning AI Architect: Conceived and solo-developed the winning solution (National Resilience Platform) for the FIAP 2025 Global Solution Challenge.
-◈ 64% Model Efficiency Increase: Trained and aligned SOTA LLMs at Outlier using RLHF, collaborating directly with OpenAI, Meta, & Anthropic.
-◈ International Team Leadership: Led 2 global SuperDataScience teams as Project Lead, guiding diverse groups (engineers, data scientists) to deploy end-to-end AI platforms and earning recommendations for technical and leadership skills.
-◈ Foundational Skills: Developed critical communication, logistics, and cross-cultural leadership skills early on through client-facing roles and student leadership positions (VP Int. Student Assoc.) at Georgia State University (achieving Dean's List & Honor Society).
+### PROVEN IMPACT & KEY ACHIEVEMENTS:
 
-MY CORE PRINCIPLES:
+* ◈ **87% Performance Increase:** Boosted genomic query performance at **Embrapa** by architecting a PostgreSQL → Neo4j migration. Also honed executive communication, successfully presenting complex technical results to stakeholders to secure resources.
+* ◈ **76% Downtime Reduction:** Solo-architected and deployed a **Predictive Maintenance SaaS** for Hermes Reply, with 12 AI agents & 17 ML models, demonstrating full end-to-end ownership and significant operational impact.
+* ◈ **>85% Efficiency Gain:** Built a **Full-Stack Invoice Automation System** (React, FastAPI, RAG) in an ~15-day sprint, drastically reducing manual processing time.
+* ◈ **Award-Winning AI Architect:** Conceived and **solo-developed** the winning solution (National Resilience Platform) for the **FIAP 2025 Global Solution Challenge**.
+* ◈ **64% Model Efficiency Increase:** Trained and aligned SOTA **LLMs at Outlier** using RLHF, collaborating directly with **OpenAI, Meta, & Anthropic**.
+* ◈ **International Team Leadership:** Led **2 global SuperDataScience teams** as Project Lead, guiding diverse groups (engineers, data scientists) to deploy end-to-end AI platforms and earning recommendations for technical and leadership skills.
+* ◈ **Foundational Skills:** Developed critical communication, logistics, and cross-cultural leadership skills early on through client-facing roles and student leadership positions (VP Int. Student Assoc.) at Georgia State University (achieving Dean's List & Honor Society).
 
-1.  End-to-End Ownership: I don't just build models; I architect, build, deploy, and monitor entire systems (MLOps/LLMOps).
-2.  Business-Driven Impact: Technology must solve real problems. I focus on aligning technical solutions with KPIs and stakeholder goals.
-3.  Excelsior (Continuous Growth): Driven by a relentless pursuit of excellence, daily learning (+70 Certifications), and tackling increasingly complex challenges.
+---
 
-TECHNICAL EXPERTISE:
+### MY CORE PRINCIPLES:
 
-► AI Systems Architecture: Designing scalable, production-grade AI systems, microservices, and event-driven architectures.
-► MLOps/LLMOps: Building full end-to-end pipelines (Docker, Kubernetes, MLflow, Nextflow, CI/CD) and training/aligning LLMs (RLHF, RAG).
-► Data & Genomics: Engineering complex data pipelines and applying ML to biological/genomic data.
-► Full-Stack & Edge AI: Developing full-stack AI applications and solutions for IoT/Edge devices (ESP32).
+1.  **End-to-End Ownership:** I don't just build models; I architect, build, deploy, and monitor entire systems (MLOps/LLMOps).
+2.  **Business-Driven Impact:** Technology must solve real problems. I focus on aligning technical solutions with KPIs and stakeholder goals.
+3.  **Excelsior (Continuous Growth):** Driven by a relentless pursuit of excellence, daily learning (+70 Certifications), and tackling increasingly complex challenges.
 
-WHAT I'M SEEKING:
+---
 
-I am actively seeking a high-impact Trainee or Junior role (AI Engineering, ML Engineering, Data Science) at a leading tech company where I can solve complex challenges, contribute meaningfully, and accelerate my growth towards becoming a future tech leader.
+### TECHNICAL EXPERTISE:
 
-► Location: Open to worldwide remote, and hybrid/on-site in São Paulo or Rio de Janeiro.
-► Portfolio: https://github.com/YanCotta
-► Contact: yanpcotta@gmail.com
-► Academic CV (Lattes): https://lattes.cnpq.br/1066894671418362
+* ► **AI Systems Architecture:** Designing scalable, production-grade AI systems, microservices, and event-driven architectures.
+* ► **MLOps/LLMOps:** Building full end-to-end pipelines (Docker, Kubernetes, MLflow, Nextflow, CI/CD) and training/aligning LLMs (RLHF, RAG).
+* ► **Data & Genomics:** Engineering complex data pipelines and applying ML to biological/genomic data.
+* ► **Full-Stack & Edge AI:** Developing full-stack AI applications and solutions for IoT/Edge devices (ESP32).
+
+---
+
+### WHAT I'M SEEKING:
+
+I am actively seeking a high-impact **Trainee or Junior role** (AI Engineering, ML Engineering, Data Science) at a leading tech company where I can solve complex challenges, contribute meaningfully, and accelerate my growth towards becoming a future tech leader.
+
+* ► **Location:** Open to worldwide remote, and hybrid/on-site in São Paulo or Rio de Janeiro.
 
 --- 
 
