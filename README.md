@@ -32,13 +32,16 @@
 
 ## TL;DR - Key Achievements
 
-I am an AI Systems Architect & Strategist who builds high-impact, end-to-end solutions. My work is defined by a "Systemic Thinking" approach, bridging AI, Biology, and Cognitive Science to solve complex business challenges.
-
 • Architected a genomic data system at Embrapa, migrating from PostgreSQL \rightarrow Neo4j to boost query performance by 87%.
+
 • Solo-engineered a production-ready Predictive Maintenance SaaS (12 AI agents, 17 ML models), reducing asset downtime by 76%.
+
 • Trained SOTA models at Outlier using RLHF (collaborating with OpenAI, Meta & Anthropic), increasing model efficiency by 64%.
+
 • Developed an award-winning National Resilience AI Platform (FIAP 2025 Global Solution Winner) from concept to deployment.
+
 • Built a Full-Stack Invoice Automation System (React + RAG) in a ~15-day sprint, cutting manual work by >85%.
+
 • Led 2 global SuperDataScience teams to deploy end-to-end AI platforms, managing both project architecture and team execution.
 
 ---
