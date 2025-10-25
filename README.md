@@ -103,23 +103,9 @@
 
 ## About Me
 
-I am an **AI Systems Architect & Certified ML Engineer** building strong foundations for future tech leadership. My core mission is to solve high-impact business challenges by architecting robust, scalable, and intelligent systems from end-to-end.
+My mission is to build and lead the high-impact teams that architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.
 
-My unique strength lies in **"Systemic Thinking,"** cultivated through a diverse background spanning Biology, Cognitive Science, Philosophy, and AI. This allows me to deconstruct the most complex problems – from optimizing genomic data pipelines to designing resilient multi-agent systems – and translate them into production-grade technology that delivers measurable value.
-
-My journey has been a deliberate construction of technical expertise, business acumen, and leadership capabilities:
-
-### MY CORE PRINCIPLES:
-
-1.  **End-to-End Ownership:** I don't just build models; I architect, build, deploy, and monitor entire systems (MLOps/LLMOps).
-2.  **Business-Driven Impact:** Technology must solve real problems. I focus on aligning technical solutions with KPIs and stakeholder goals.
-3.  **Excelsior (Continuous Growth):** Driven by a relentless pursuit of excellence, daily learning (+70 Certifications), and tackling increasingly complex challenges.
-
-### WHAT I'M SEEKING:
-
-I am actively seeking a high-impact **Trainee or Junior role** (AI Engineering, ML Engineering, Data Science) at a leading tech company where I can solve complex challenges, contribute meaningfully, and accelerate my growth towards becoming a future tech leader.
-
-► **Location:** Open to worldwide remote, and hybrid/on-site in São Paulo or Rio de Janeiro.
+My unique advantage is Systemic Thinking. My background isn't just in AI; it's in the complex, interconnected systems of Biology and Cognitive Science. This allows me to deconstruct multifaceted problems, see the connections others miss, and architect holistic, high-impact solutions—not just code.
 
 ---
 
