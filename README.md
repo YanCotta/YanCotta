@@ -32,12 +32,14 @@
 
 ## TL;DR - Key Achievements
 
-* **87% performance improvement** in genomic data queries through PostgreSQL → Neo4j migration at Embrapa
-* **76% reduction in operational downtime** via predictive AI platform with 12 autonomous agents and 17 ML models
-* **85% reduction in manual processing time** through full-stack invoice automation system with RAG
-* **Award-winning AI platform** for national resilience (FIAP 2025 Global Solution Challenge winner)
-* **Led 2 international ML teams** as Project Lead in SuperDataScience community
-* **Dual federal research grants** - Simultaneous R&D positions at Embrapa (Genomics) and UFJF (VLM/Deep Learning)
+I am an AI Systems Architect & Strategist who builds high-impact, end-to-end solutions. My work is defined by a "Systemic Thinking" approach, bridging AI, Biology, and Cognitive Science to solve complex business challenges.
+
+• Architected a genomic data system at Embrapa, migrating from PostgreSQL \rightarrow Neo4j to boost query performance by 87%.
+• Solo-engineered a production-ready Predictive Maintenance SaaS (12 AI agents, 17 ML models), reducing asset downtime by 76%.
+• Trained SOTA models at Outlier using RLHF (collaborating with OpenAI, Meta & Anthropic), increasing model efficiency by 64%.
+• Developed an award-winning National Resilience AI Platform (FIAP 2025 Global Solution Winner) from concept to deployment.
+• Built a Full-Stack Invoice Automation System (React + RAG) in a ~15-day sprint, cutting manual work by >85%.
+• Led 2 global SuperDataScience teams to deploy end-to-end AI platforms, managing both project architecture and team execution.
 
 ---
 
