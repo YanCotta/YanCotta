@@ -34,7 +34,7 @@
 
 • Architected a genomic data system at Embrapa, migrating from PostgreSQL \rightarrow Neo4j to boost query performance by 87%.
 
-• Solo-engineered a production-ready Predictive Maintenance SaaS (12 AI agents, 17 ML models), reducing asset downtime by 76%.
+• Solo-engineered a production-ready, multi-agent AI SaaS platform for an enterprise challenge, achieving a 76% reduction in a key operational KPI.
 
 • Trained SOTA models at Outlier using RLHF (collaborating with OpenAI, Meta & Anthropic), increasing model efficiency by 64%.
 
@@ -207,18 +207,14 @@ This portfolio showcases end-to-end AI systems I've architected to solve real-wo
 
 ---
 
-### Industrial Predictive Maintenance SaaS (v1.0)
+### Enterprise AI Challenge Platform (v1.0)
 **Solo Development** | *Multi-agent AI platform for industrial IoT*
 
-**Business Goal:** To reduce costly, unplanned downtime in industrial operations through predictive AI.
+**Business Goal:** To solve a complex industrial challenge by developing a predictive AI solution to optimize operational efficiency.
 
-**Solution & Impact:** Developed a production-ready SaaS platform with **12 autonomous AI agents and 17 ML models**. The system optimizes maintenance schedules, achieving a **76% reduction in operational downtime** based on KPI tracking.
+**Solution & Impact:** Developed a production-ready SaaS platform featuring autonomous AI agents and ML models. The system optimizes complex workflows and achieved a significant, measurable reduction in operational downtime in simulated environments.
 
-**Technologies**: `Python` • `FastAPI` • `PostgreSQL` • `TimescaleDB` • `Redis` • `MLflow` • `Docker` • `Streamlit` • `IoT` • `Microservices` • `MLOps`
-
-<a href="https://github.com/YanCotta/enterprise_challenge_sprint_1_hermes_reply">
-  <img src="https://img.shields.io/badge/Explore_SaaS_Platform-FF9800?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+Technologies: Python • Agentic AI • FastAPI • MLOps • Docker • Streamlit • IoT • Microservices
 
 ---
 
