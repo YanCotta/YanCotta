@@ -8,6 +8,19 @@
 
 ---
 
+<div align="center">
+  <a href="https://linkedin.com/in/yan-cotta"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yanpcotta@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://x.com/CottaYan"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://lattes.cnpq.br/1066894671418362"><img src="https://img.shields.io/badge/Academic_CV_Lattes-FF6B00?style=for-the-badge&logo=academia&logoColor=white"/></a>
+</div>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
+</p>
+
+---
+
 ## TL;DR - Key Achievements
 
 • Architected a genomic data system at Embrapa, migrating from PostgreSQL \rightarrow Neo4j to boost query performance by 87%.
