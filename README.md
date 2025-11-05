@@ -117,7 +117,7 @@ My unique advantage is Systemic Thinking. My background isn't just in AI; it's i
 
 ---
 
-**Collaborative Researcher (VLM & Deep Learning)** | **ReINVenTA (FrameNet Brasil / UFJF)** | *Remote | Sep 2025 - Present*
+**Collaborative Researcher (VLM & Deep Learning)** | **FrameNet Brasil / UFJF** | *Remote | Sep 2025 - Present*
 
 *Federal research grant, conducted simultaneously with Embrapa position*
 
