@@ -99,7 +99,7 @@
 
 ## About Me
 
-My mission is to build and lead the high-impact teams that architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.
+My mission is to build and lead the high-impact teams that will architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.
 
 My unique advantage is Systemic Thinking. My background isn't just in AI; it's in the complex, interconnected systems of Biology and Cognitive Science. This allows me to deconstruct multifaceted problems, see the connections others miss, and architect holistic, high-impact solutions—not just code.
 
