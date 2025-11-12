@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=160&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
 </div>
 
@@ -29,7 +29,7 @@
 
 • Architected a genomic data system at Embrapa, migrating from PostgreSQL to Neo4j to boost query performance by 87%.
 
-• 1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025). I designed and built an end-to-end, production-grade AI platform, that is production-ready, composed of multi-agent AI system, achieving a 76% reduction in a key operational KPI.
+• 1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025). I designed and built an end-to-end, production-grade AI Multi-Agentic platform, that is production-ready, achieving a 76% reduction in a key operational KPI.
 
 • Trained SOTA models at Outlier using RLHF (collaborating with OpenAI, Meta & Anthropic), increasing model efficiency by 64%.
 
