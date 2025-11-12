@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <i>A quick note on my work: Due to NDAs and corporate policies, the vast majority of my professional-grade code resides in private repositories. The projects showcased here are primarily my academic and personal side-projects where I experiment, build, and deploy end-to-end systems from scratch.</i>
+  <i>A Due to NDAs and corporate policies, the vast majority of my professional-grade code resides in private repositories. The projects showcased here are primarily my academic and personal side-projects where I experiment, build, and deploy end-to-end systems from scratch.</i>
 </p>
 
 ---
