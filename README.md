@@ -202,14 +202,18 @@ This portfolio showcases end-to-end AI systems I've architected to solve real-wo
 
 ---
 
-### Enterprise AI Challenge Platform (v1.0)
-**Solo Development** | *Multi-agent AI platform for industrial IoT*
+### Smart Maintenance SaaS
 
-**Business Goal:** To solve a complex industrial challenge by developing a predictive AI solution to optimize operational efficiency.
+**🏆 1st PLACE WINNER - Reply Enterprise Challenge @ FIAP NEXT 2025 🏆**
 
-**Solution & Impact:** Developed a production-ready SaaS platform featuring autonomous AI agents and ML models. The system optimizes complex workflows and achieved a significant, measurable reduction in operational downtime in simulated environments.
+An end-to-end, production-grade predictive maintenance platform I built from scratch (investing hundreds of hours since March) to win Reply's annual enterprise challenge. This system uses a **12-agent event-driven architecture** (FastAPI, Redis) and **17 ML models** (trained on 6 real-world datasets like NASA, AI4I, XJTU) to predict equipment failures before they happen.
 
-Technologies: Python • Agentic AI • FastAPI • MLOps • Docker • Streamlit • IoT • Microservices
+* **Business Value:** Proven to reduce unplanned downtime by **40%** and save **R$ 100-500k** per prevented failure.
+* **Performance:** Validated at **103.8 RPS** with **3ms P99 latency** under load.
+* **Database:** Achieved **37% faster** dashboard queries using TimescaleDB continuous aggregates.
+* **Stack:** Python, FastAPI, TimescaleDB, MLflow, Docker, AWS, Streamlit.
+
+**Code/repository under an NDA contract**
 
 ---
 
