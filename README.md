@@ -27,17 +27,17 @@
 
 ## TL;DR - Key Achievements
 
-• Architected a genomic data system at Embrapa, migrating from PostgreSQL to Neo4j to boost query performance by 87%.
+• Architected a genomic data system at Embrapa, migrating from PostgreSQL to Neo4j to **boost query performance by 87%**.
 
-• 1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025). I designed and built an end-to-end, production-grade AI Multi-Agentic platform, that is production-ready, achieving a 76% reduction in a key operational KPI.
+• **1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025)**. I designed and built an end-to-end, production-grade AI Multi-Agentic platform, that is production-ready, **achieving a 76% reduction in a key operational KPI**.
 
-• Trained SOTA models at Outlier using RLHF (collaborating with OpenAI, Meta & Anthropic), increasing model efficiency by 64%.
+• Trained SOTA models at Outlier using RLHF (collaborating with OpenAI, Meta & Anthropic), **increasing model efficiency by 64%**.
 
-• Developed an award-winning National Resilience AI Platform (FIAP 2025 Global Solution Winner) from concept to deployment.
+• Developed an **award-winning National Resilience AI Platform (FIAP 2025 Global Solution Winner)** from concept to deployment.
 
-• Built a Full-Stack Invoice Automation System (React + RAG) in a ~15-day sprint, cutting manual work by >85%.
+• Built a Full-Stack Invoice Automation System (React + RAG) in a ~15-day sprint, **cutting manual work by >85%**.
 
-• Led 2 global SuperDataScience teams to deploy end-to-end AI systems, managing both project architecture and team execution.
+• **Led 2 global SuperDataScience teams** to deploy end-to-end AI systems, **managing both project architecture and team execution**.
 
 ---
 
@@ -103,9 +103,9 @@
 
 ## About Me
 
-My mission is to build and lead the high-impact teams that will architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.
+**My mission is to build and lead the high-impact teams that will architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.**
 
-My unique advantage is Systemic Thinking. My background isn't just in AI; it's in the complex, interconnected systems of Biology and Cognitive Science. This allows me to deconstruct multifaceted problems, see the connections others miss, and architect holistic, high-impact solutions—not just code.
+**My unique advantage is Systemic Thinking. My background isn't just in AI; it's in the complex, interconnected systems of Biology and Cognitive Science. This allows me to deconstruct multifaceted problems, see the connections others miss, and architect holistic, high-impact solutions—not just code.**
 
 ---
 
@@ -115,7 +115,7 @@ My unique advantage is Systemic Thinking. My background isn't just in AI; it's i
 
 * **Increased performance by 87%** of genomic queries by migrating from PostgreSQL to Neo4j.
 * Architected a **scalable MLOps pipeline** for genomic analysis (Docker, Nextflow, FastAPI).
-* Optimized project presentations for stakeholders and executives responsible for laboratory budget and resources.
+* **Optimized project presentations for stakeholders and executives** responsible for laboratory budget and resources.
 
 **Key Areas:** `Genomics` `Bioinformatics` `Data Engineering` `Applied ML` `Neo4j` `MLOps`
 
@@ -125,8 +125,8 @@ My unique advantage is Systemic Thinking. My background isn't just in AI; it's i
 
 *Federal research grant, conducted simultaneously with Embrapa position*
 
-* Developing **Vision-Language Models (VLMs)** and Deep Learning solutions to automate semantic annotation of large-scale multimodal (text and image) datasets.
-* Architecting a scalable pipeline to transform unstructured data into structured knowledge for computational analysis.
+* Developing Vision-Language Models (VLMs) and **Deep Learning solutions to automate semantic annotation of large-scale multimodal (text and image) datasets**.
+* **Architecting a scalable pipeline** to transform unstructured data into structured knowledge for computational analysis.
 
 **Key Areas:** `Deep Learning` `Vision-Language Models` `NLP` `Semantic Annotation` `Python`
 
@@ -142,7 +142,7 @@ My unique advantage is Systemic Thinking. My background isn't just in AI; it's i
 
 **Data Analyst (Ecological Impact)** | **Impaakt** | *Remote | Feb 2022 - Oct 2024*
 
-* Delivered 500+ data-driven ecological impact reports that influenced ESG (Environmental, Social, and Governance) ratings used by investment firms.
+* **Delivered 500+ data-driven ecological impact reports** that influenced ESG (Environmental, Social, and Governance) ratings used by investment firms.
 
 **Key Areas:** `Environmental Science` `Sustainability Analysis` `Data Analysis` `Process Optimization` `AI Integration` `Impact Assessment`
 
@@ -150,7 +150,7 @@ My unique advantage is Systemic Thinking. My background isn't just in AI; it's i
 
 **Research Assistant** | **Georgia State University** | *Atlanta, GA | Feb 2019 - Feb 2020*
 
-* Increased research productivity by 84% by automating data collection and analysis workflows using Python.
+* **Increased research productivity by 84%** by automating data collection and analysis workflows using Python.
 
 **Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Behavioral Analysis` `Research Methodology` `Data Analysis` `Data Science` `Python`
 
@@ -188,7 +188,7 @@ My unique advantage is Systemic Thinking. My background isn't just in AI; it's i
 
 *View all recommendations on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/recommendations/)*
 
-I've been fortunate to work with exceptional professionals who have recognized my technical capabilities, problem-solving approach, and collaborative leadership style. These recommendations span my work in:
+**I've been fortunate to work with exceptional professionals who have recognized my technical capabilities, problem-solving approach, and collaborative leadership style**. These recommendations span my work in:
 - AI/ML Engineering & Research
 - Data Science & Analytics
 - Project Leadership & Team Collaboration
@@ -198,7 +198,7 @@ I've been fortunate to work with exceptional professionals who have recognized m
 
 ## Featured Projects
 
-This portfolio showcases end-to-end AI systems I've architected to solve real-world challenges. Each project demonstrates business impact, technical excellence, and production-ready implementation.
+This portfolio showcases end-to-end AI systems I've architected to solve real-world challenges. **Each project demonstrates business impact, technical excellence, and production-ready implementation**.
 
 ---
 
@@ -252,7 +252,7 @@ An end-to-end, production-grade predictive maintenance platform I built from scr
 
 **Business Goal:** To create a scalable HealthTech platform that provides personalized, data-driven health recommendations, moving beyond generic advice.
 
-**Solution & Impact:** Developing an AI platform focused on **Explainable AI (SHAP)** and secure deployment (JWT). The system translates complex epigenetic data (BioPython) into actionable health insights. Analyzes genetic predispositions (SNPs) and lifestyle habits to generate personalized risk assessments.
+**Solution & Impact:** Developing an AI platform focused on **Explainable AI (SHAP)** and secure deployment (JWT). The system translates complex epigenetic data (BioPython) into actionable health insights. Analyzes genetic predispositions (SNPs) and **lifestyle habits to generate personalized risk assessments**.
 
 **Technologies**: `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker` • `FastAPI` • `React`
 
@@ -264,7 +264,7 @@ An end-to-end, production-grade predictive maintenance platform I built from scr
 
 ## Community Projects & Leadership
 
-*As a **Project Leader** in the international SuperDataScience community, I led diverse teams of data scientists and ML engineers to deliver production-ready AI/ML platforms. I was responsible for aligning project priorities with stakeholders, defining KPIs, and managing deployment.*
+*As a **Project Leader** in the international SuperDataScience community, **I led diverse teams of data scientists and ML engineers to deliver production-ready AI/ML platforms**. I was responsible for aligning project priorities with stakeholders, defining KPIs, and managing deployment.*
 
 **Leadership Experience:** Project Lead for 2 projects | Project Member for 2 projects
 
@@ -288,7 +288,7 @@ Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 ### MLPayGrade: ML Salary Prediction System
 **Project Lead** | *End-to-end salary prediction platform analyzing the 2024 machine learning job market*
 
-Coordinated a team of data scientists and ML engineers to build comprehensive solutions across multiple skill levels.
+**Coordinated a team of data scientists and ML engineers to build comprehensive solutions across multiple skill levels**.
 
 **Key Features**: Analyzes global salary trends and job feature impacts on compensation. Features both traditional ML pipelines and advanced deep learning on tabular data with embeddings and explainability.
 
@@ -442,7 +442,7 @@ Coordinated a team of data scientists and ML engineers to build comprehensive so
 
 *View all certifications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/certifications/)*
 
-I maintain active certifications across AI/ML platforms, cloud infrastructure, and software development to ensure I stay current with industry-leading technologies and best practices.
+I maintain active certifications across AI/ML platforms, cloud infrastructure, and software development to ensure **I stay current with industry-leading technologies and best practices**.
 
 **Key Certifications Include:**
 - Machine Learning & AI Engineering
@@ -457,7 +457,7 @@ I maintain active certifications across AI/ML platforms, cloud infrastructure, a
 
 *View all publications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/publications/)*
 
-My research spans cognitive science, artificial intelligence, and computational biology, bridging theoretical frameworks with practical applications.
+My research spans cognitive science, artificial intelligence, and computational biology, **bridging theoretical frameworks with practical applications.**
 
 **Research Areas:**
 - Philosophy of Mind & Cognitive Attitudes
