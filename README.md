@@ -19,13 +19,17 @@
   <img src="https://komarev.com/ghpvc/?username=YanCotta&label=Profile%20views&color=0e75b6&style=flat" alt="YanCotta"/> 
 </p>
 
+<p align="center">
+  <i>A quick note on my work: Due to NDAs and corporate policies, the vast majority of my professional-grade code resides in private repositories. The projects showcased here are primarily my academic and personal side-projects where I experiment, build, and deploy end-to-end systems from scratch.</i>
+</p>
+
 ---
 
 ## TL;DR - Key Achievements
 
 • Architected a genomic data system at Embrapa, migrating from PostgreSQL to Neo4j to boost query performance by 87%.
 
-• Solo-engineered a production-ready, multi-agent AI SaaS platform for an enterprise challenge, achieving a 76% reduction in a key operational KPI.
+• 1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025). I designed and built an end-to-end, production-grade AI platform, that is production-ready, composed of multi-agent AI system, achieving a 76% reduction in a key operational KPI.
 
 • Trained SOTA models at Outlier using RLHF (collaborating with OpenAI, Meta & Anthropic), increasing model efficiency by 64%.
 
