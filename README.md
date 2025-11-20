@@ -25,7 +25,7 @@
 
 ---
 
-## TL;DR - Key Achievements
+## TL;DR - Achievements
 
 • Architected a genomic data system at Embrapa, migrating from PostgreSQL to Neo4j to **boost query performance by 87%**.
 
