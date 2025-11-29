@@ -35,7 +35,7 @@
 
 • Developed an **award-winning National Resilience AI Platform (FIAP 2025 Global Solution Winner)** from concept to deployment.
 
-• Built a Full-Stack Invoice Automation System (React + RAG) in a ~15-day sprint, **cutting manual work by >85%**.
+• Built a Full-Stack Invoice Automation System (React + RAG) in a 15-day sprint, **cutting manual work by >85%**.
 
 • **Led 2 global SuperDataScience teams** to deploy end-to-end AI systems, **managing both project architecture and team execution/leadership**.
 
