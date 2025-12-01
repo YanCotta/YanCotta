@@ -113,7 +113,7 @@
 
 ## Professional & Research Experience
 
-**Data Manager: Strategy, Analytics & Innovation** | **Embrapa** | *Juiz de Fora, MG | Nov 2025 - Present*
+**Data Manager: Strategy, Analytics & Innovation** | **Embrapa** | *Juiz de Fora, MG | Dec 2025 - Present*
 
 * **Strategic Leadership:** Leading the data strategy and innovation for **Brazil’s largest genetic improvement program**, acting as the bridge between world-renowned PhD researchers and executive stakeholders.
 * **Big Data & AI:** Managing data assets across 10+ Latin American countries and architecting SOTA AI/ML pipelines to modernize genomic evaluations.
@@ -123,7 +123,7 @@
 
 ---
 
-**R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Present*
+**R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Dec 2025*
 
 * **Increased performance by 87%** of genomic queries by migrating from PostgreSQL to Neo4j.
 * Architected a **scalable MLOps pipeline** for genomic analysis (Docker, Nextflow, FastAPI).
