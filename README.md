@@ -29,7 +29,7 @@
 
 • **Leading Data Strategy & Innovation** for Brazil’s largest genomic improvement program (Embrapa), managing Big Data assets across 10+ Latin American countries.
 
-• Spearheaded R&D for a State-of-the-Art Multimodal AI system (Vision + Language), engineering a novel architecture that solved critical data quality issues and achieved a 6x performance breakthrough over traditional baselines.
+• Spearheaded R&D for a State-of-the-Art Multimodal AI system (Vision + Language), **engineering a novel architecture that solved critical data quality issues** and achieved a 6x performance breakthrough over traditional baselines.
 
 • **1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025)**. I designed and built an end-to-end, production-grade AI Multi-Agentic platform, that is production-ready, **achieving a 76% reduction in a key operational KPI**.
 
@@ -135,13 +135,13 @@
 
 **Invited AI Researcher (Multimodal Deep Learning)** | **FrameNet Brasil / UFJF** | Sep 2025 - Present (Conducted simultaneously with Embrapa position)
 
-**Advanced AI Research:** Led the development of novel Vision-Language Models (VLMs) designed to automate the semantic understanding of complex visual scenes.
+* **Advanced AI Research:** Led the development of novel Vision-Language Models (VLMs) designed to automate the semantic understanding of complex visual scenes.
 
-**Architecture Innovation:** Engineered a "Hybrid Neuro-Symbolic" system that combines visual perception with structured knowledge, successfully solving the challenge of training models on incomplete or "noisy" datasets.
+* **Architecture Innovation:** Engineered a "Hybrid Neuro-Symbolic" system that combines visual perception with structured knowledge, successfully solving the challenge of training models on incomplete or "noisy" datasets.
 
-**Impact: Achieved State-of-the-Art (SOTA) performance in multi-label classification, delivering a 6x improvement in model accuracy compared to previous methods.**
+* **Impact: Achieved State-of-the-Art (SOTA) performance in multi-label classification, delivering a 6x improvement in model accuracy compared to previous methods.**
 
-**End-to-End Development:** Managed the full research lifecycle, from data strategy and pipeline engineering to scientific validation and deployment of reproducible AI solutions.
+* **End-to-End Development:** Managed the full research lifecycle, from data strategy and pipeline engineering to scientific validation and deployment of reproducible AI solutions.
 
 Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Understanding R&D Leadership
 
