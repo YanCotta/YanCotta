@@ -27,6 +27,8 @@
 
 ## TL;DR - Achievements
 
+• **Leading Data Strategy & Innovation** for Brazil’s largest genomic improvement program (Embrapa), managing Big Data assets across 10+ Latin American countries.
+
 • Architected a genomic data system at Embrapa, migrating from PostgreSQL to Neo4j to **boost query performance by 87%**.
 
 • **1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025)**. I designed and built an end-to-end, production-grade AI Multi-Agentic platform, that is production-ready, **achieving a 76% reduction in a key operational KPI**.
@@ -110,6 +112,16 @@
 ---
 
 ## Professional & Research Experience
+
+**Data Manager: Strategy, Analytics & Innovation** | **Embrapa** | *Juiz de Fora, MG | Nov 2025 - Present*
+
+* **Strategic Leadership:** Leading the data strategy and innovation for **Brazil’s largest genetic improvement program**, acting as the bridge between world-renowned PhD researchers and executive stakeholders.
+* **Big Data & AI:** Managing data assets across 10+ Latin American countries and architecting SOTA AI/ML pipelines to modernize genomic evaluations.
+* **Innovation:** Designing automated workflows and securing laboratory budget/resources through high-impact executive presentations.
+
+**Key Areas:** `Data Strategy` `Big Data` `AI Leadership` `Genomics` `Innovation Management`
+
+---
 
 **R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Present*
 
