@@ -287,6 +287,36 @@ An end-to-end, production-grade predictive maintenance platform I built from scr
 
 ---
 
+### FarmTech Integrated Ecosystem (IoT & Edge AI)
+**End-to-End Architecture** | *Unified smart farming system integrating IoT, Cloud, and Hybrid AI*
+
+**Business Goal:** To optimize agricultural ROI by minimizing water usage and crop loss through real-time telemetry and automated decision-making.
+
+**Solution & Impact:** A massive 6-module ecosystem combining **Edge AI (YOLOv5)** for pest detection and **Cloud AI (GPT-4o)** for insights. Features a custom **Genetic Algorithm** that solves the "knapsack problem" for crop allocation and a distributed **ESP32 IoT network** for predictive irrigation.
+
+**Technologies**: `Python` • `AWS` • `IoT (ESP32)` • `YOLOv5` • `Genetic Algorithms` • `OpenAI API` • `SQLAlchemy` • `Streamlit`
+
+<a href="https://github.com/YanCotta/FarmTech_System">
+  <img src="https://img.shields.io/badge/🚜_Explore_Smart_Farming_System-2E7D32?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### Admixture Automation Pipeline (Bioinformatics)
+**Lead Developer** | *High-performance bovine ancestry analysis pipeline for Embrapa*
+
+**Business Goal:** To solve computational bottlenecks in genomic ancestry analysis and democratize access to complex tools for researchers.
+
+**Solution & Impact:** Architected a **Nextflow automation pipeline** that handles data conversion, Quality Control, and visualization. Introduced a **parallelized Cross-Validation engine** (reducing scan times drastically) and a **Streamlit Web UI**, allowing non-coders to run scientific-grade population structure analyses.
+
+**Technologies**: `Nextflow` • `Python` • `Streamlit` • `R` • `Bioinformatics` • `Parallel Computing` • `Docker`
+
+<a href="https://github.com/YanCotta/admixture_pipeline">
+  <img src="https://img.shields.io/badge/🧬_See_Genomic_Pipeline-00BCD4?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
 ## Community Projects & Leadership
 
 *As a **Project Leader** in the international SuperDataScience community, **I led diverse teams of data scientists and ML engineers to deliver production-ready AI/ML platforms**. I was responsible for aligning project priorities with stakeholders, defining KPIs, and managing deployment.*
@@ -334,6 +364,21 @@ Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
 <a href="https://github.com/YanCotta/SDS-CP030-edu-spend">
   <img src="https://img.shields.io/badge/🎓_Explore_EdTech_Platform-2196F3?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### FinResearch AI: Multi-Agent Market Intelligence
+**Project Lead** | *Agentic AI system for automated institutional-grade financial research*
+
+**Led the development of an autonomous multi-agent system that mimics a professional financial analyst team.**
+
+**Key Features:** Orchestrates **5 specialized agents** (Researcher, Quant Analyst, Reporter) using **Shared Vector Memory** to scrape real-time news, calculate financial ratios, and synthesize findings into investment-grade reports. Implements "Advanced Track" architecture using CrewAI concepts.
+
+**Technologies**: `Python` • `CrewAI` • `OpenAI Agents` • `RAG` • `ChromaDB` • `Streamlit` • `Financial APIs`
+
+<a href="https://github.com/YanCotta/SDS-CP044-finresearch">
+  <img src="https://img.shields.io/badge/📈_View_Agentic_Finance_System-0D47A1?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ---
