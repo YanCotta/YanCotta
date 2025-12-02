@@ -110,7 +110,6 @@
   </table>
 </div>
 <br>
----
 
 <br>
 <hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
