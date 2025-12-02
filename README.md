@@ -34,7 +34,7 @@
 </div>
 <br>
 
-• **Leading Data Strategy & Innovation** for Brazil’s largest genomic improvement program (Embrapa), managing Big Data assets across 10+ Latin American countries.
+• **Working with Data Strategy & Innovation for Brazil’s largest genomic improvement program (at Embrapa), with an elite team, and managing data assets across 7 Latin American countries.**
 
 • Spearheaded R&D for a State-of-the-Art Multimodal AI system (Vision + Language), **engineering a novel architecture that solved critical data quality issues** and achieved a 6x performance breakthrough over traditional baselines.
 
@@ -138,8 +138,8 @@
 
 **Data Manager: Strategy, Engineering & Innovation** | **Embrapa** | *Juiz de Fora, MG | Dec 2025 - Present*
 
-* **Strategic Leadership:** Leading the data strategy and innovation for **Brazil’s largest genetic improvement program**, acting as the bridge between world-renowned PhD researchers and executive stakeholders.
-* **Big Data & AI:** Managing data assets across 10+ Latin American countries and architecting SOTA AI/ML pipelines to modernize genomic evaluations.
+* **Strategic Leadership:** working with the data strategy and innovation for **Brazil’s largest genetic improvement program**, acting as the bridge between world-renowned PhD researchers, an elite team, and executive stakeholders.
+* **Big Data & AI:** Managing data assets across 7 Latin American countries and architecting SOTA AI/ML pipelines and LLMOps to modernize genomic evaluations.
 * **Innovation:** Designing automated workflows and securing laboratory budget/resources through high-impact executive presentations.
 
 **Key Areas:** `Data Strategy` `Big Data` `AI Leadership` `Genomics` `Innovation Management`
