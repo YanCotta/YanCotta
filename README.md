@@ -123,17 +123,7 @@
 
 ---
 
-**R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Dec 2025*
-
-* **Increased performance by 87%** of genomic queries by migrating from PostgreSQL to Neo4j.
-* Architected a **scalable MLOps pipeline** for genomic analysis (Docker, Nextflow, FastAPI).
-* **Optimized project presentations for stakeholders and executives** responsible for laboratory budget and resources.
-
-**Key Areas:** `Genomics` `Bioinformatics` `Data Engineering` `Applied ML` `Neo4j` `MLOps`
-
----
-
-**Invited AI Researcher (Multimodal Deep Learning)** | **FrameNet Brasil / UFJF** | Sep 2025 - Present (Conducted simultaneously with Embrapa position)
+**Invited AI Researcher (Multimodal Deep Learning)** | **FrameNet Brasil / UFJF** | Sep 2025 - Present
 
 * **Advanced AI Research:** Led the development of novel Vision-Language Models (VLMs) designed to automate the semantic understanding of complex visual scenes.
 
@@ -144,6 +134,26 @@
 * **End-to-End Development:** Managed the full research lifecycle, from data strategy and pipeline engineering to scientific validation and deployment of reproducible AI solutions.
 
 Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Understanding R&D Leadership
+
+---
+
+**Project Lead: AI Engineering & Research** | **SuperDataScience** | *Remote | Jun 2025 - Present*
+
+* **Agentic AI Leadership:** Architecting **"FinResearch AI"**, a multi-agent system using **CrewAI** to automate institutional financial research, pivoting teams from static notebooks to production-grade orchestration.
+* **Predictive ML Platforms:** Delivered full-stack healthcare (**GlucoTrack**) and HR analytics (**MLPayGrade**) platforms using Deep Learning, Model Explainability, and Tabular Embeddings.
+* **Global Team Management:** Orchestrating the full lifecycle for diverse international cohorts, aligning KPIs, conducting 1x1 mentorship, and enforcing software engineering best practices for scalable deployment.
+
+**Key Areas:** `Agentic AI` `Multi-Agent Systems` `CrewAI` `Technical Leadership` `LLMs` `RAG` `Full-Stack ML`
+
+---
+
+**R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Dec 2025*
+
+* **Increased performance by 87%** of genomic queries by migrating from PostgreSQL to Neo4j.
+* Architected a **scalable MLOps pipeline** for genomic analysis (Docker, Nextflow, FastAPI).
+* **Optimized project presentations for stakeholders and executives** responsible for laboratory budget and resources.
+
+**Key Areas:** `Genomics` `Bioinformatics` `Data Engineering` `Applied ML` `Neo4j` `MLOps`
 
 ---
 
