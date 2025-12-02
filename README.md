@@ -210,7 +210,7 @@ Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Underst
 </h3>
 <br>
 
-**AI Systems & Machine Learning Technologist** | **FIAP** | *2024 - 2026 (expected)*
+**Bachelor of Technology (Technologist Degree) - AI Systems & Machine Learning** | **FIAP** | *2024 - 2026 (expected)*
 
 **Key Areas:** `AI Systems Architecture` `Machine Learning Engineering` `MLOps` `Edge AI` `IoT Development` `Software Engineering` `Data Engineering` `Cybersecurity` `Cloud Operations`
 
@@ -218,7 +218,7 @@ Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Underst
 
 ---
 
-**Bachelor of Biological Sciences** | **UniAcademia** | *2022 - 2025 (in progress)*
+**Bachelor of Science - Biological Sciences** | **UniAcademia** | *2022 - 2025 (in progress)*
 
 **Key Areas:** `Molecular Biology` `Genetics` `Computational Biology` `Research Methodology` `Laboratory Management` `Scientific Publishing`
 
@@ -226,7 +226,7 @@ Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Underst
 
 ---
 
-**Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*
+**Bachelor of Science - Philosophy (Major) & Psychology (Minor)** | **Georgia State University** | *2017 - 2020 (incomplete)*
 
 **Key Areas:** `Cognitive Sciences` `Philosophy of Mind` `Psychology` `Human Behavior` `Research Methodology` `Academic Leadership`
 
