@@ -113,7 +113,7 @@
 
 ## Professional & Research Experience
 
-**Data Manager: Strategy, Analytics & Innovation** | **Embrapa** | *Juiz de Fora, MG | Dec 2025 - Present*
+**Data Manager: Strategy, Engineering & Innovation** | **Embrapa** | *Juiz de Fora, MG | Dec 2025 - Present*
 
 * **Strategic Leadership:** Leading the data strategy and innovation for **Brazil’s largest genetic improvement program**, acting as the bridge between world-renowned PhD researchers and executive stakeholders.
 * **Big Data & AI:** Managing data assets across 10+ Latin American countries and architecting SOTA AI/ML pipelines to modernize genomic evaluations.
