@@ -160,7 +160,7 @@ Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Underst
 
 ---
 
-**Project Lead: AI Engineering & Research** | **SuperDataScience** | *Remote | Jun 2025 - Present*
+**Project Lead: AI/ML Engineering & Data Science** | **SuperDataScience** | *Remote | Jun 2025 - Present*
 
 * **Agentic AI Leadership:** Architecting **"FinResearch AI"**, a multi-agent system using **CrewAI** to automate institutional financial research, pivoting teams from static notebooks to production-grade orchestration.
 * **Predictive ML Platforms:** Delivered full-stack healthcare (**GlucoTrack**) and HR analytics (**MLPayGrade**) platforms using Deep Learning, Model Explainability, and Tabular Embeddings.
