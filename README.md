@@ -25,7 +25,14 @@
 
 ---
 
-## TL;DR - Achievements
+<br>
+<h2 align="center" id="tldr">
+    🏆 TL;DR - ACHIEVEMENTS
+</h2>
+<div align="center">
+  <i>Quick summary of awards and key metrics</i>
+</div>
+<br>
 
 • **Leading Data Strategy & Innovation** for Brazil’s largest genomic improvement program (Embrapa), managing Big Data assets across 10+ Latin American countries.
 
@@ -43,7 +50,9 @@
 
 ---
 
-## 📑 Quick Navigation
+<h2 align="center" id="quick-nav">
+  📑 QUICK NAVIGATION
+</h2>
 
 <div align="center">
   <table>
@@ -54,7 +63,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="#professional--research-experience">
+        <a href="#professional-experience">
           <img src="https://img.shields.io/badge/Professional_Experience-2196F3?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
@@ -76,14 +85,14 @@
         </a>
       </td>
       <td align="center">
-        <a href="#professional-recommendations">
+        <a href="#recommendations">
           <img src="https://img.shields.io/badge/Recommendations-8BC34A?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <a href="#tech-stack--tools">
+        <a href="#tech-stack">
           <img src="https://img.shields.io/badge/Tech_Stack_&_Tools-607D8B?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
@@ -93,17 +102,23 @@
         </a>
       </td>
       <td align="center">
-        <a href="#explore-more-projects">
+        <a href="#explore-more">
           <img src="https://img.shields.io/badge/Explore_More_Projects-795548?style=for-the-badge&logoColor=white"/>
         </a>
       </td>
     </tr>
   </table>
 </div>
-
+<br>
 ---
 
-## About Me
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="about-me">
+    👨‍💻 ABOUT ME
+</h2>
+<br>
 
 **My mission is to build and lead the high-impact teams that will architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.**
 
@@ -111,7 +126,16 @@
 
 ---
 
-## Professional & Research Experience
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="professional-experience">
+    💼 PROFESSIONAL & RESEARCH EXPERIENCE
+</h2>
+<div align="center">
+  <i>Proven track record in AI Engineering, Leadership & Bioinformatics</i>
+</div>
+<br>
 
 **Data Manager: Strategy, Engineering & Innovation** | **Embrapa** | *Juiz de Fora, MG | Dec 2025 - Present*
 
@@ -181,7 +205,11 @@ Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Underst
 
 ---
 
-### Academic Background
+<br>
+<h3 align="center" id="academic-background">
+    🎓 ACADEMIC BACKGROUND
+</h3>
+<br>
 
 **AI Systems & Machine Learning Technologist** | **FIAP** | *2024 - 2026 (expected)*
 
@@ -209,7 +237,16 @@ Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Underst
 
 ---
 
-## Professional Recommendations
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="recommendations">
+    🤝 PROFESSIONAL RECOMMENDATIONS
+</h2>
+<div align="center">
+  <i>What others say about working with me</i>
+</div>
+<br>
 
 *View all recommendations on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/recommendations/)*
 
@@ -221,7 +258,16 @@ Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Underst
 
 ---
 
-## Featured Projects
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="featured-projects">
+    🚀 FEATURED PROJECTS
+</h2>
+<div align="center">
+  <i>End-to-end AI systems architected to solve real-world challenges</i>
+</div>
+<br>
 
 This portfolio showcases end-to-end AI systems I've architected to solve real-world challenges. **Each project demonstrates business impact, technical excellence, and production-ready implementation**.
 
@@ -302,6 +348,21 @@ An end-to-end, production-grade predictive maintenance platform I built from scr
 
 ---
 
+### Elliott Wave ML Financial Analyzer (Scientific Project)
+**Student Lead & Architect** | *Automated B3 Stock Analysis & Prediction System*
+
+**Business Goal:** To automate the complex detection of Elliott Wave market patterns, creating a professional-grade technical analysis tool for the Brazilian Stock Exchange (B3).
+
+**Solution & Impact:** Led the research and development of a full-stack ML system processing **real-time market data**. Built a custom feature engineering engine (24 technical indicators) and an **MLOps pipeline** (MLflow + AWS S3) to train and version Random Forest/SVM models. The system classifies market movements into 4 strategic categories (Impulse, Corrective, End of Cycle) via a Streamlit UI.
+
+**Technologies**: `Python` • `MLflow` • `AWS S3` • `Docker` • `Scikit-learn` • `Streamlit` • `FastAPI` • `Technical Analysis`
+
+<a href="https://github.com/Projeto-Pesquisa-2025/ViewElliotWickofSMS">
+  <img src="https://img.shields.io/badge/📊_Explore_Financial_ML_System-1E88E5?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
 ### Admixture Automation Pipeline (Bioinformatics)
 **Lead Developer** | *High-performance bovine ancestry analysis pipeline for Embrapa*
 
@@ -317,7 +378,16 @@ An end-to-end, production-grade predictive maintenance platform I built from scr
 
 ---
 
-## Community Projects & Leadership
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="community-projects">
+    🌐 COMMUNITY PROJECTS & LEADERSHIP
+</h2>
+<div align="center">
+  <i>Leading diverse teams to deliver production-ready AI platforms</i>
+</div>
+<br>
 
 *As a **Project Leader** in the international SuperDataScience community, **I led diverse teams of data scientists and ML engineers to deliver production-ready AI/ML platforms**. I was responsible for aligning project priorities with stakeholders, defining KPIs, and managing deployment.*
 
@@ -396,7 +466,13 @@ Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
 ---
 
-## Explore More Projects
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="explore-more">
+    🔍 EXPLORE MORE PROJECTS
+</h2>
+<br>
 
 <div align="center">
   <em>... and even more projects in my repositories, covering Data Science, Machine Learning, MLOps, LLMOps, IoT, AI engineering, bioinformatics, and more!</em>
@@ -408,7 +484,16 @@ Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
 ---
 
-## Tech Stack & Tools
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="tech-stack">
+    🛠️ TECH STACK & TOOLS
+</h2>
+<div align="center">
+  <i>My technical arsenal for building scalable solutions</i>
+</div>
+<br>
 
 <div align="center">
 
@@ -508,7 +593,13 @@ Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
 ---
 
-## Certifications
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="certifications">
+    📜 CERTIFICATIONS
+</h2>
+<br>
 
 *View all certifications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/certifications/)*
 
@@ -523,7 +614,13 @@ I maintain active certifications across AI/ML platforms, cloud infrastructure, a
 
 ---
 
-## Publications
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="publications">
+    📚 PUBLICATIONS
+</h2>
+<br>
 
 *View all publications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/publications/)*
 
@@ -538,7 +635,16 @@ My research spans cognitive science, artificial intelligence, and computational 
 
 ---
 
-## Global Communication
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
+<br>
+<h2 align="center" id="global-communication">
+    🌍 GLOBAL COMMUNICATION
+</h2>
+<div align="center">
+  <i>Languages & International Collaboration</i>
+</div>
+<br>
 
 <div align="center">
   <table>
