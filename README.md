@@ -46,7 +46,7 @@
 
 • Built a Full-Stack Invoice Automation System (React + RAG) in a 15-day sprint, **cutting manual work by >85%**.
 
-• **Led 3 global SuperDataScience teams** to deploy end-to-end AI systems, **managing both project architecture and team execution/leadership**.
+• **Led 3 global SuperDataScience teams** to deploy end-to-end AI systems, **managing both project architecture, KPIs, and team execution/mentoring/leadership**.
 
 ---
 
