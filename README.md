@@ -36,7 +36,7 @@
 
 • **Working with Data Strategy & Innovation for Brazil’s largest genomic improvement program (at Embrapa), with an elite team, and managing data assets across 7 Latin American countries.**
 
-• Spearheaded R&D for a State-of-the-Art Multimodal AI system (Vision + Language), **engineering a novel architecture that solved critical data quality issues** and achieved a 6x performance breakthrough over traditional baselines.
+• Spearheaded R&D for a State-of-the-Art Multimodal AI system (Vision + Language), **engineering a novel architecture that solved critical data quality issues and achieved a 6x performance breakthrough over traditional baselines.**
 
 • **1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025)**. I designed and built an end-to-end, production-grade AI Multi-Agentic platform, that is production-ready, **achieving a 76% reduction in a key operational KPI**.
 
