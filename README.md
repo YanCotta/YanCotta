@@ -34,7 +34,7 @@
 </div>
 <br>
 
-• **Working with Data Strategy & Innovation for Brazil’s largest genomic improvement program (at Embrapa), with an elite team, and managing data assets across 7 Latin American countries.**
+• **Working with Data Strategy & Innovation for Brazil’s largest genomic improvement program (at Embrapa), with an elite team, and managing data assets across 10+ Latin American countries.**
 
 • Spearheaded R&D for a State-of-the-Art Multimodal AI system (Vision + Language), **engineering a novel architecture that solved critical data quality issues and achieved a 6x performance breakthrough over traditional baselines.**
 
