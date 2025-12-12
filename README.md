@@ -34,7 +34,7 @@
 </div>
 <br>
 
-• **Working with Data Strategy & Innovation for Brazil’s largest genomic improvement program (at Embrapa), with an elite team, and managing data assets across 10+ Latin American countries.**
+• **Working with Data Management & Strategy for Brazil’s largest genomic improvement program (at Embrapa), with an elite team, and managing data assets across 10+ Latin American countries.**
 
 • Spearheaded R&D for a State-of-the-Art Multimodal AI system (Vision + Language), **engineering a novel architecture that solved critical data quality issues and achieved a 6x performance breakthrough over traditional baselines.**
 
@@ -119,7 +119,7 @@
 </h2>
 <br>
 
-**My mission is to build and lead the high-impact teams that will architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.**
+**My goal is to build and lead the high-impact teams that will architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.**
 
 **My unique advantage is Systemic Thinking. My background isn't just in AI; it's in the complex, interconnected systems of Biology and Cognitive Science. This allows me to deconstruct multifaceted problems, see the connections others miss, and architect holistic, high-impact solutions—not just code.**
 
@@ -136,12 +136,10 @@
 </div>
 <br>
 
-**Data Manager: Strategy, Engineering & Innovation** | **Embrapa** | *Juiz de Fora, MG | Dec 2025 - Present*
+**Data Manager: Strategy & Engineering** | **Embrapa** | *Juiz de Fora, MG | Dec 2025 - Present*
 
-* **Strategic Leadership:** working with the data strategy and innovation for **Brazil’s largest genetic improvement program**, acting as the bridge between world-renowned PhD researchers, an elite team, and executive stakeholders.
-* **Big Data & AI:** Managing data assets across 10+ Latin American countries and architecting SOTA AI/ML pipelines to modernize genomic evaluations.
-* **Innovation:** Designing automated workflows and securing laboratory budget/resources through high-impact executive presentations.
-
+* **Strategic Data-Driven Decisions & Teamwork:** working with the data management & strategy for **Brazil’s largest genetic improvement program**, acting as the bridge between world-renowned PhD researchers, an elite team, and executive stakeholders.
+* **Data & AI:** Managing data assets across 10+ Latin American countries and architecting SOTA AI/ML pipelines to modernize genomic evaluations.
 **Key Areas:** `Data Strategy` `Big Data` `Data Management` `Genomics` `Innovation Management` `Stakeholder Management`
 
 ---
@@ -173,10 +171,10 @@ Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Underst
 **R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Dec 2025*
 
 * **Increased performance by 87%** of genomic queries by migrating from PostgreSQL to Neo4j.
-* Architected a **scalable MLOps pipeline** for genomic analysis (Docker, Nextflow, FastAPI).
+* Architected a **scalable bioinformatics fullstack pipeline** for genomic analysis (Docker, Nextflow, FastAPI).
 * **Optimized project presentations for stakeholders and executives** responsible for laboratory budget and resources.
 
-**Key Areas:** `Genomics` `Bioinformatics` `Data Engineering` `Applied ML` `Neo4j` `MLOps`
+**Key Areas:** `Genomics` `Bioinformatics` `Data Engineering` `Bioinformatics` `Neo4j`
 
 ---
 
