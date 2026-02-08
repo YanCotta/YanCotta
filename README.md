@@ -139,6 +139,7 @@
 * **Sovereign AI Strategy:** Architecting the **"Sovereign Bio-Graph,"** moving national genomic assets from cloud dependency to on-premise, air-gapped high-performance computing.
 * **Global R&D Leadership:** Acting as the strategic bridge between world-renowned PhD researchers and executives, aligning **complex genomic R&D** with business KPIs across 10+ countries.
 * **Systemic Engineering:** Managing the transition from legacy SQL to **Graph Databases (Neo4j)** and implementing Agentic Workflows for automated pedigree validation.
+
 **Key Areas:** `Sovereign AI` `Genomics` `Graph Databases` `System Architecture` `R&D Strategy`
 
 ---
