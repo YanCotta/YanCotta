@@ -1,6 +1,6 @@
  <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=160&section=header&text=Yan%20Cotta&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architect%20%7C%20Bio-Inspired%20Sovereign%20AI;Global%20R%26D%20Strategy%20%40%20Embrapa;Building%20Entropy-Constrained%20Systems;Neuro-Symbolic%20%26%20Agentic%20Architect;Genomics%20%26%20Bio-Digital%20Intelligence&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+ </div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architect%20%7C%20ML%20Engineer;Complex%20Problem%20Solver;Future%20Tech%20Leader;End-to-End%20AI%20Systems;MLOps%20%26%20LLMOps;Bioinformatics%20%26%20Genomics&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
@@ -34,19 +34,17 @@
 </div>
 <br>
 
-• **Working with Data Management & Strategy for Brazil’s largest genomic improvement program (at Embrapa), with an elite team, and managing data assets across 10+ Latin American countries.**
+• **Architecting Sovereign Data Ecosystems** for Brazil’s largest genomic improvement program (Embrapa/ABCGIL), managing high-performance computing assets and **national security data** across 10+ Latin American countries.
 
-• Spearheaded R&D for a State-of-the-Art Multimodal AI system (Vision + Language), **engineering a novel architecture that solved critical data quality issues and achieved a 6x performance breakthrough over traditional baselines.**
+• Spearheaded R&D for a **Hybrid Neuro-Symbolic AI System**, engineering a novel architecture that solved critical data scarcity issues and **achieved a 6x performance breakthrough** over traditional deep learning baselines.
 
-• **1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025)**. I designed and built an end-to-end, production-grade AI Multi-Agentic platform, that is production-ready, **achieving a 76% reduction in a key operational KPI**.
+• **1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025)**. Solo-architected an end-to-end, production-grade **Multi-Agentic Maintenance Platform**, achieving a **76% reduction in operational downtime** via predictive entropy modeling.
 
-• Trained SOTA models at Outlier using RLHF (collaborating with OpenAI, Meta & Anthropic), **increasing model efficiency by 64%**.
+• Trained SOTA models at Outlier using **RLHF & Model Alignment**, increasing model efficiency by **64%** through rigorous human-in-the-loop validation pipelines.
 
-• Developed an **award-winning National Resilience AI Platform (FIAP 2025 Global Solution Winner)** from concept to deployment.
+• Developed the **"Guardian" National Resilience Platform (Award Winner)**, a multi-agent system for disaster mitigation, proving the viability of **autonomous AI in crisis management**.
 
-• Built a Full-Stack Invoice Automation System (React + RAG) in a 15-day sprint, **cutting manual work by >85%**.
-
-• **Led 3 global SuperDataScience teams** to deploy end-to-end AI systems, **managing both project architecture, KPIs, and team execution/mentoring/leadership**.
+• **Led 3 International R&D Teams** at SuperDataScience, orchestrating **Agentic Workflows** and deploying full-stack financial intelligence systems with cross-cultural engineering teams.
 
 ---
 
@@ -119,9 +117,9 @@
 </h2>
 <br>
 
-**My goal is to build and lead the high-impact teams that will architect the future. I am a strategist who uses AI to solve complex, global business challenges and deliver measurable, executive-level value.**
+**I operate at the intersection of Sovereign AI, Biological Complexity, and Enterprise Architecture.**
 
-**My unique advantage is Systemic Thinking. My background isn't just in AI; it's in the complex, interconnected systems of Biology and Cognitive Science. This allows me to deconstruct multifaceted problems, see the connections others miss, and architect holistic, high-impact solutions—not just code.**
+**My unique advantage is Bio & Cognitive Inspired Systemic Thinking. I don't just build algorithms; I treat AI as an adaptive system that must survive within business constraints. Drawing from my background in biological sciences, cognition and cybernetics, I look beyond the code to architect resilient, entropy-constrained systems that adapt, scale, and deliver high-impact value in the real world.**
 
 ---
 
@@ -136,25 +134,22 @@
 </div>
 <br>
 
-**Data Manager: Strategy & Engineering** | **Embrapa** | *Juiz de Fora, MG | Dec 2025 - Present*
+**Data Manager & AI Systems Architect** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Dec 2025 - Present*
 
-* **Strategic Data-Driven Decisions & Teamwork:** working with the data management & strategy for **Brazil’s largest genetic improvement program**, acting as the bridge between world-renowned PhD researchers, an elite team, and executive stakeholders.
-* **Data & AI:** Managing data assets across 10+ Latin American countries and architecting SOTA AI/ML pipelines to modernize genomic evaluations.
-**Key Areas:** `Data Strategy` `Big Data` `Data Management` `Genomics` `Innovation Management` `Stakeholder Management`
+* **Sovereign AI Strategy:** Architecting the **"Sovereign Bio-Graph,"** moving national genomic assets from cloud dependency to on-premise, air-gapped high-performance computing.
+* **Global R&D Leadership:** Acting as the strategic bridge between world-renowned PhD researchers and executives, aligning **complex genomic R&D** with business KPIs across 10+ countries.
+* **Systemic Engineering:** Managing the transition from legacy SQL to **Graph Databases (Neo4j)** and implementing Agentic Workflows for automated pedigree validation.
+**Key Areas:** `Sovereign AI` `Genomics` `Graph Databases` `System Architecture` `R&D Strategy`
 
 ---
 
-**Invited AI Researcher (Multimodal Deep Learning)** | **FrameNet Brasil / UFJF** | Sep 2025 - Present
+**Invited AI Researcher (Neuro-Symbolic Architecture)** | **FrameNet Brasil / UFJF** | Sep 2025 - Present
 
-* **Advanced AI Research:** Led the development of novel Vision-Language Models (VLMs) designed to automate the semantic understanding of complex visual scenes.
+* **Architectural Innovation:** Led the engineering of a **Hybrid Neuro-Symbolic System** that fuses Visual Transformers (ViT) with structured linguistic logic to solve "noisy data" challenges.
+* **SOTA Performance:** Achieved a **6x improvement in multi-label classification accuracy** by implementing **Active Inference** principles and Asymmetric Loss functions.
+* **End-to-End Pipeline:** Managed the full lifecycle from data strategy to deployment, proving that **small, structured models** can outperform massive, unstructured baselines.
 
-* **Architecture Innovation:** Engineered a "Hybrid Neuro-Symbolic" system that combines visual perception with structured knowledge, successfully solving the challenge of training models on incomplete or "noisy" datasets.
-
-* **Impact: Achieved State-of-the-Art (SOTA) performance in multi-label classification, delivering a 6x improvement in model accuracy compared to previous methods.**
-
-* **End-to-End Development:** Managed the full research lifecycle, from data strategy and pipeline engineering to scientific validation and deployment of reproducible AI solutions.
-
-Key Areas: Multimodal AI Computer Vision Deep Learning Research Semantic Understanding R&D Leadership
+**Key Areas:** `Neuro-Symbolic AI` `Multimodal Models` `Computer Vision` `Active Inference` `Deep Learning`
 
 ---
 
@@ -667,9 +662,9 @@ My research spans cognitive science, artificial intelligence, and computational 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=100&section=header&text=Adaptive%20Systems%20Principle&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
-  
-  > *"The most flexible element is the one that controls the system."*
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=100&section=header&text=Building%20Sovereign%20Systems&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
+   
+  > *"I don't just build tools; I breed adaptive AI systems."*
 </div>
 
 ---
