@@ -117,9 +117,9 @@
 </h2>
 <br>
 
-**I operate at the intersection of Sovereign AI, Biological Complexity, and Enterprise Architecture.**
+**I operate at the intersection of AI, Data (Management, Engineering & Science), Biology, Cognition, Global R&D, and Business Value.**
 
-**My unique advantage is Bio & Cognitive Inspired Systemic Thinking. I don't just build algorithms; I treat AI as an adaptive system that must survive within business constraints. Drawing from my background in biological sciences, cognition and cybernetics, I look beyond the code to architect resilient, entropy-constrained systems that adapt, scale, and deliver high-impact value in the real world.**
+**My unique advantages are having a bio and cognitive based systemic thinking approach, being a polyglot, and having a proven record of excelling in teamwork, leadership, R&D, and project management in cross-cultural environments.**
 
 ---
 
