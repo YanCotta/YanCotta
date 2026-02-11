@@ -2,10 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architect%20%7C%20Bio-Inspired%20Sovereign%20AI;Global%20R%26D%20Strategy%20%40%20Embrapa;Building%20Entropy-Constrained%20Systems;Neuro-Symbolic%20%26%20Agentic%20Architect;Genomics%20%26%20Bio-Digital%20Intelligence&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
  </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architect%20%7C%20ML%20Engineer;Complex%20Problem%20Solver;Future%20Tech%20Leader;End-to-End%20AI%20Systems;MLOps%20%26%20LLMOps;Bioinformatics%20%26%20Genomics&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
-</p>
-
 ---
 
 <div align="center">
