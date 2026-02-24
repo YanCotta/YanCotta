@@ -109,14 +109,27 @@
 <hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
 <br>
 <h2 align="center" id="about-me">
-    👨‍💻 ABOUT ME
+  👨‍💻 ABOUT ME
 </h2>
 <br>
 
-**I operate at the intersection of AI, Data (Management, Engineering & Science), Biology, Cognition, Global R&D, and Business Value.**
+**I operate at the intersection of Artificial Intelligence, Data Engineering, Cognitive Science, Global R&D, and Business Value.**
 
-**My unique advantages are having a bio and cognitive based systemic thinking approach, being a polyglot, and having a proven record of excelling in teamwork, leadership, R&D, and project management in cross-cultural environments.**
+My mission is to translate complex, bio-inspired cognitive theories and rigorous mathematical models into scalable, production-grade enterprise architectures. I bridge the gap between abstract algorithmic theory and tangible business ROI.
 
+### 🔬 Scientific Authority & Deep Tech
+* **M.Sc. in Computer Science @ UFJF:** My academic research focuses on the mathematical foundations and software engineering of **Cognitive Architectures and Multi-Agent Systems (MAS)**. I research, specify, and architect the "Deep Tech" infrastructure that powers autonomous decision-making and semantic interoperability in highly complex, heterogeneous data environments.
+* **Neuro-Symbolic AI R&D:** As an Invited AI Researcher at FrameNet Brasil (UFJF), I push the boundaries of multi-modal semantic models, working at the exact frontier where computational linguistics meets deep learning.
+
+### 💼 Executive Impact & Global R&D
+* **Data Management at International Scale:** At Embrapa Dairy Cattle/ABCGIL, I act as the strategic bridge between world-class PhD researchers and complex data engineering. I align R&D with project KPIs, architecting the sovereign digital ecosystems that power Latin America's genomic improvement programs.
+* **Cross-Cultural Leadership:** I have led multiple international engineering teams, orchestrating diverse groups of ML engineers to deploy models and multi-agent workflows. Fluent in English and Portuguese, with advanced French and Spanish, I excel at driving global technical strategy.
+
+### 🏆 Proven Engineering
+* **Award-Winning Architecture:** I solo-architected the 1st Place winner of the Reply Enterprise Challenge (FIAP NEXT 2025)—an end-to-end, production-grade multi-agentic platform for predictive industrial maintenance.
+
+<br>
+<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
 ---
 
 <br>
