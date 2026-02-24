@@ -1,5 +1,5 @@
  <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architect%20%7C%20Bio-Inspired%20Sovereign%20AI;Global%20R%26D%20Strategy%20%40%20Embrapa;Building%20Entropy-Constrained%20Systems;Neuro-Symbolic%20%26%20Agentic%20Architect;Genomics%20%26%20Bio-Digital%20Intelligence&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architect%20%7C%20Bio-Inspired%20Sovereign%20AI;Global%20R%26D%20Strategy%20%40%20Embrapa;M.Sc.%20Computer%20Science%20Researcher%20%40%20UFJF;Building%20Entropy-Constrained%20Systems;Neuro-Symbolic%20%26%20Agentic%20Architect&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
  </div>
 
 ---
@@ -199,6 +199,14 @@
     🎓 ACADEMIC BACKGROUND
 </h3>
 <br>
+
+**Master of Science (M.Sc.) - Computer Science** | **Universidade Federal de Juiz de Fora (UFJF)** | *2026 - 2028 (expected)*
+
+* **Research Focus:** Architecting Cognitive Multi-Agent Systems (MAS), semantic interoperability (Ontologies) in heterogeneous data, and autonomous decision-making based on Green AI.
+* **Key Graduate Coursework:** Intelligent Agents • Autonomous Software Systems • Artificial Intelligence in Software Engineering • Machine Learning • Applied Intelligent Systems.
+* **Academic Excellence:** Admitted with a 91.25 score on the Scientific Research Project defense.
+
+---
 
 **Bachelor of Technology (Technologist Degree) - AI Systems & Machine Learning** | **FIAP** | *2024 - 2026 (expected)*
 
