@@ -220,7 +220,7 @@ My mission is to translate complex, bio-inspired cognitive theories and rigorous
 
 ---
 
-**Bachelor of Technology (Technologist Degree) - AI Systems & Machine Learning** | **FIAP** | *2024 - 2026 (expected)*
+**Bachelor of Technology (Technologist Degree) - AI Systems & Machine Learning** | **FIAP** | *2024 - 2026*
 
 **Key Areas:** `AI Systems Architecture` `Machine Learning Engineering` `MLOps` `Edge AI` `IoT Development` `Software Engineering` `Data Engineering` `Cybersecurity` `Cloud Operations`
 
@@ -228,7 +228,7 @@ My mission is to translate complex, bio-inspired cognitive theories and rigorous
 
 ---
 
-**Bachelor of Science - Biological Sciences** | **UniAcademia** | *2022 - 2025 (in progress)*
+**Bachelor of Science - Biological Sciences** | **UniAcademia** | *2022 - 2025*
 
 **Key Areas:** `Molecular Biology` `Genetics` `Computational Biology` `Research Methodology` `Laboratory Management` `Scientific Publishing`
 
@@ -278,112 +278,68 @@ My mission is to translate complex, bio-inspired cognitive theories and rigorous
 </div>
 <br>
 
-This portfolio showcases end-to-end AI systems I've architected to solve real-world challenges. **Each project demonstrates business impact, technical excellence, and production-ready implementation**.
+<p align="center">
+  This portfolio showcases end-to-end AI systems I've architected to solve real-world challenges. <b>Each project demonstrates business impact, technical excellence, and production-ready implementation.</b>
+</p>
 
 ---
 
-### Smart Maintenance SaaS
-
+### 🏭 Smart Maintenance SaaS (Hermes)
 **🏆 1st PLACE WINNER - Reply Enterprise Challenge @ FIAP NEXT 2025 🏆**
-
-An end-to-end, production-grade predictive maintenance platform I built from scratch (investing hundreds of hours since March) to win Reply's annual enterprise challenge. This system uses a **12-agent event-driven architecture** (FastAPI, Redis) and **17 ML models** (trained on 6 real-world datasets like NASA, AI4I, XJTU) to predict equipment failures before they happen.
-
+An end-to-end, production-grade predictive maintenance platform I built from scratch (investing hundreds of hours) to win Reply's annual enterprise challenge. This system uses a **12-agent event-driven architecture** (FastAPI, Redis) and **17 ML models** (trained on 6 real-world datasets like NASA, AI4I, XJTU) to predict equipment failures before they happen.
 * **Business Value:** Proven to reduce unplanned downtime by **40%** and save **R$ 100-500k** per prevented failure.
 * **Performance:** Validated at **103.8 RPS** with **3ms P99 latency** under load.
 * **Database:** Achieved **37% faster** dashboard queries using TimescaleDB continuous aggregates.
-* **Stack:** Python, FastAPI, TimescaleDB, MLflow, Docker, AWS, Streamlit.
-
-**Code/repository under an NDA contract**
+* **Stack:** `Python` • `FastAPI` • `TimescaleDB` • `MLflow` • `Docker` • `AWS` • `Streamlit`
+*(NDA Expired - Repository open for architectural review)*
 
 ---
 
-### Invoice Automation System (Full-Stack & Multi-Agent)
+### 📑 Invoice Automation System (Full-Stack & Multi-Agent)
 **Solo Development** | *AI-powered invoice processing automation*
-
-**Business Goal:** To eliminate the slow, error-prone manual process of invoice handling for small to medium businesses.
-
-**Solution & Impact:** Built a full-stack system that automates the entire invoice processing pipeline. By mapping the user journey and applying RAG for intelligent error handling, the system **reduced manual processing time by over 85%**.
-
-**Technologies**: `React.js` • `Next.js` • `TypeScript` • `FastAPI` • `LangChain` • `RAG` • `FAISS` • `Docker` • `AWS S3` • `PostgreSQL`
-
-<a href="https://github.com/YanCotta/agentic_invoice_system_final_version">
-  <img src="https://img.shields.io/badge/Explore_Full--Stack_Solution-9C27B0?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* **Business Goal:** To eliminate the slow, error-prone manual process of invoice handling for small to medium businesses.
+* **Solution & Impact:** Built a full-stack system that automates the entire invoice processing pipeline. By mapping the user journey and applying RAG for intelligent error handling, the system **reduced manual processing time by over 85%**.
+* **Technologies:** `React.js` • `Next.js` • `TypeScript` • `FastAPI` • `LangChain` • `RAG` • `FAISS` • `Docker` • `AWS S3` • `PostgreSQL`
 
 ---
 
-### 🏆 Guardian System: National Resilience Platform (Award Winner)
-**Solo Development** | *My winning project for FIAP's 2025.1 Global Solution Challenge*
-
-**Business Goal:** To create a predictive system to manage and mitigate large-scale national crises like natural disasters.
-
-**Solution & Impact:** I single-handedly architected and developed this award-winning multi-agent platform. Five autonomous "Guardian" agents for different threat domains, with a **fully functional MVP for fire risk prediction** using real-time IoT sensor data.
-
-**Technologies**: `Agentic AI` • `Python` • `FastAPI` • `Docker` • `MicroPython` • `ESP32` • `IoT` • `Apache Spark`
-
-<a href="https://github.com/YanCotta/global_solution_1_fiap">
-  <img src="https://img.shields.io/badge/See_Award--Winning_Code-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+### 🌍 Guardian System: National Resilience Platform
+**🏆 Award Winner - FIAP Global Solution 2025.1**
+* **Business Goal:** To create a predictive system to manage and mitigate large-scale national crises like natural disasters.
+* **Solution & Impact:** I single-handedly architected and developed this award-winning multi-agent platform. Five autonomous "Guardian" agents for different threat domains, with a **fully functional MVP for fire risk prediction** using real-time IoT sensor data.
+* **Technologies:** `Agentic AI` • `Python` • `FastAPI` • `Docker` • `MicroPython` • `ESP32` • `IoT` • `Apache Spark`
 
 ---
 
-### AI Platform for Anti-Aging (Thesis Project)
+### 🧬 AI Platform for Anti-Aging (Thesis Project)
 **Solo Development** | *Personalized anti-aging recommendation system*
-
-**Business Goal:** To create a scalable HealthTech platform that provides personalized, data-driven health recommendations, moving beyond generic advice.
-
-**Solution & Impact:** Developing an AI platform focused on **Explainable AI (SHAP)** and secure deployment (JWT). The system translates complex epigenetic data (BioPython) into actionable health insights. Analyzes genetic predispositions (SNPs) and **lifestyle habits to generate personalized risk assessments**.
-
-**Technologies**: `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker` • `FastAPI` • `React`
-
-<a href="https://github.com/YanCotta/anti-aging-epigenetics-ml-app">
-  <img src="https://img.shields.io/badge/Explore_Epigenetics_Platform-E91E63?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* **Business Goal:** To create a scalable HealthTech platform that provides personalized, data-driven health recommendations, moving beyond generic advice.
+* **Solution & Impact:** Developing an AI platform focused on **Explainable AI (SHAP)** and secure deployment (JWT). The system translates complex epigenetic data (BioPython) into actionable health insights by analyzing genetic predispositions (SNPs) and **lifestyle habits to generate personalized risk assessments**.
+* **Technologies:** `PyTorch` • `Scikit-learn` • `BioPython` • `MLFlow` • `SHAP` • `Docker` • `FastAPI` • `React`
 
 ---
 
-### FarmTech Integrated Ecosystem (IoT & Edge AI)
+### 🚜 FarmTech Integrated Ecosystem (IoT & Edge AI)
 **End-to-End Architecture** | *Unified smart farming system integrating IoT, Cloud, and Hybrid AI*
-
-**Business Goal:** To optimize agricultural ROI by minimizing water usage and crop loss through real-time telemetry and automated decision-making.
-
-**Solution & Impact:** A massive 6-module ecosystem combining **Edge AI (YOLOv5)** for pest detection and **Cloud AI (GPT-4o)** for insights. Features a custom **Genetic Algorithm** that solves the "knapsack problem" for crop allocation and a distributed **ESP32 IoT network** for predictive irrigation.
-
-**Technologies**: `Python` • `AWS` • `IoT (ESP32)` • `YOLOv5` • `Genetic Algorithms` • `OpenAI API` • `SQLAlchemy` • `Streamlit`
-
-<a href="https://github.com/YanCotta/FarmTech_System">
-  <img src="https://img.shields.io/badge/🚜_Explore_Smart_Farming_System-2E7D32?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* **Business Goal:** To optimize agricultural ROI by minimizing water usage and crop loss through real-time telemetry and automated decision-making.
+* **Solution & Impact:** A massive 6-module ecosystem combining **Edge AI (YOLOv5)** for pest detection and **Cloud AI (GPT-4o)** for insights. Features a custom **Genetic Algorithm** that solves the "knapsack problem" for crop allocation and a distributed **ESP32 IoT network** for predictive irrigation.
+* **Technologies:** `Python` • `AWS` • `IoT (ESP32)` • `YOLOv5` • `Genetic Algorithms` • `OpenAI API` • `SQLAlchemy` • `Streamlit`
 
 ---
 
-### Elliott Wave ML Financial Analyzer (Scientific Project)
+### 📊 Elliott Wave ML Financial Analyzer (Scientific Project)
 **Student Lead & Architect** | *Automated B3 Stock Analysis & Prediction System*
-
-**Business Goal:** To automate the complex detection of Elliott Wave market patterns, creating a professional-grade technical analysis tool for the Brazilian Stock Exchange (B3).
-
-**Solution & Impact:** Led the research and development of a full-stack ML system processing **real-time market data**. Built a custom feature engineering engine (24 technical indicators) and an **MLOps pipeline** (MLflow + AWS S3) to train and version Random Forest/SVM models. The system classifies market movements into 4 strategic categories (Impulse, Corrective, End of Cycle) via a Streamlit UI.
-
-**Technologies**: `Python` • `MLflow` • `AWS S3` • `Docker` • `Scikit-learn` • `Streamlit` • `FastAPI` • `Technical Analysis`
-
-<a href="https://github.com/Projeto-Pesquisa-2025/ViewElliotWickofSMS">
-  <img src="https://img.shields.io/badge/📊_Explore_Financial_ML_System-1E88E5?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* **Business Goal:** To automate the complex detection of Elliott Wave market patterns, creating a professional-grade technical analysis tool for the Brazilian Stock Exchange (B3).
+* **Solution & Impact:** Led the research and development of a full-stack ML system processing **real-time market data**. Built a custom feature engineering engine (24 technical indicators) and an **MLOps pipeline** (MLflow + AWS S3) to train and version Random Forest/SVM models. The system classifies market movements into 4 strategic categories via a Streamlit UI.
+* **Technologies:** `Python` • `MLflow` • `AWS S3` • `Docker` • `Scikit-learn` • `Streamlit` • `FastAPI` • `Technical Analysis`
 
 ---
 
-### Admixture Automation Pipeline (Bioinformatics)
+### 🧪 Admixture Automation Pipeline (Bioinformatics)
 **Lead Developer** | *High-performance bovine ancestry analysis pipeline for Embrapa*
-
-**Business Goal:** To solve computational bottlenecks in genomic ancestry analysis and democratize access to complex tools for researchers.
-
-**Solution & Impact:** Architected a **Nextflow automation pipeline** that handles data conversion, Quality Control, and visualization. Introduced a **parallelized Cross-Validation engine** (reducing scan times drastically) and a **Streamlit Web UI**, allowing non-coders to run scientific-grade population structure analyses.
-
-**Technologies**: `Nextflow` • `Python` • `Streamlit` • `R` • `Bioinformatics` • `Parallel Computing` • `Docker`
-
-<a href="https://github.com/YanCotta/admixture_pipeline">
-  <img src="https://img.shields.io/badge/🧬_See_Genomic_Pipeline-00BCD4?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+* **Business Goal:** To solve computational bottlenecks in genomic ancestry analysis and democratize access to complex tools for researchers.
+* **Solution & Impact:** Architected a **Nextflow automation pipeline** that handles data conversion, Quality Control, and visualization. Introduced a **parallelized Cross-Validation engine** (reducing scan times drastically) and a **Streamlit Web UI**, allowing non-coders to run scientific-grade population structure analyses.
+* **Technologies:** `Nextflow` • `Python` • `Streamlit` • `R` • `Bioinformatics` • `Parallel Computing` • `Docker`
 
 ---
 
@@ -599,48 +555,6 @@ Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 <img src="https://img.shields.io/badge/Real--time_Data-2196F3?style=for-the-badge&logo=apache-kafka&logoColor=white" />
 
 </div>
-
----
-
-<br>
-<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
-<br>
-<h2 align="center" id="certifications">
-    📜 CERTIFICATIONS
-</h2>
-<br>
-
-*View all certifications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/certifications/)*
-
-I maintain active certifications across AI/ML platforms, cloud infrastructure, and software development to ensure **I stay current with industry-leading technologies and best practices**.
-
-**Key Certifications Include:**
-- Machine Learning & AI Engineering
-- Cloud Platform Expertise (AWS, Azure)
-- Data Science & Analytics
-- Software Development & DevOps
-- Specialized domain certifications in Bioinformatics and IoT
-
----
-
-<br>
-<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
-<br>
-<h2 align="center" id="publications">
-    📚 PUBLICATIONS
-</h2>
-<br>
-
-*View all publications on [LinkedIn](https://www.linkedin.com/in/yan-cotta/details/publications/)*
-
-My research spans cognitive science, artificial intelligence, and computational biology, **bridging theoretical frameworks with practical applications.**
-
-**Research Areas:**
-- Philosophy of Mind & Cognitive Attitudes
-- Machine Learning Applications in Health Sciences
-- Epigenetics & AI-Driven Personalized Medicine
-- Computational Biology & Genomics
-- AI Systems Architecture & Engineering
 
 ---
 
