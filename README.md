@@ -130,9 +130,6 @@ My mission is to translate complex, bio-inspired cognitive theories and rigorous
 
 <br>
 <hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
-
-<br>
-<hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
 <br>
 <h2 align="center" id="professional-experience">
     💼 PROFESSIONAL & RESEARCH EXPERIENCE
