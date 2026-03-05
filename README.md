@@ -591,9 +591,7 @@ Live app: [glucotrack.streamlit.app](https://glucotrack.streamlit.app/)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4a9d,100:00d4ff&height=100&section=header&text=Building%20Sovereign%20Systems&fontSize=24&fontColor=ffffff&animation=fadeIn"/>
-   
-  > *"I don't just build tools; I breed adaptive AI systems."*
-</div>
+ 
 
 ---
 
