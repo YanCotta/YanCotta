@@ -1,5 +1,5 @@
- <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Systems%20Architect%20%7C%20Bio-Inspired%20Sovereign%20AI;Global%20R%26D%20Strategy%20%40%20Embrapa;M.Sc.%20Computer%20Science%20Researcher%20%40%20UFJF;Building%20Entropy-Constrained%20Systems;Neuro-Symbolic%20%26%20Agentic%20Architect&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Manager%20%40%20Embrapa;Solutions%20Architect%20%40%20Stealth%20Startup;M.Sc.%20Computer%20Science%20%40%20UFJF;AI%20Systems%20Architect;Bio%20%26%20Cognitive%20Inspired%20Enterprise%20AI;Global%20R%26D%20Leadership&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
  </div>
 
 ---
@@ -29,6 +29,8 @@
   <i>Quick summary of awards and key metrics</i>
 </div>
 <br>
+
+• **Architecting Digital Validation Models** for a Climate Tech Stealth Startup, structuring multi-modal data pipelines for global environmental integrity and traceability.
 
 • **Architecting Sovereign Data Ecosystems** for Brazil’s largest genomic improvement program (Embrapa/ABCGIL), managing high-performance computing assets and **national security data** across 10+ Latin American countries.
 
@@ -113,20 +115,21 @@
 </h2>
 <br>
 
-**I operate at the intersection of Artificial Intelligence, Data Engineering, Cognitive Science, Global R&D, and Business Value.**
+**I operate at the intersection of Artificial Intelligence, Data Engineering, Biology, Cognition, Global R&D, and Business Value.**
 
-My mission is to translate complex, bio-inspired cognitive theories and rigorous mathematical models into scalable, production-grade enterprise architectures. I bridge the gap between abstract algorithmic theory and tangible business ROI.
+My mission is to translate complex, bio-inspired cognitive theories and massive environmental datasets into scalable, production-grade enterprise architectures. I bridge the gap between abstract algorithmic theory and tangible business ROI.
+
+### 💼 Executive Impact & Architecture
+* **Enterprise Data Strategy @ Embrapa/ABCGIL:** I architect the digital ecosystems underpinning national genomic improvement programs, ensuring mission-critical data assets drive objective business KPIs.
+* **Solutions Architecture @ Stealth Startup (Climate Tech):** Architecting digital validation models and multi-modal data pipelines for the Climate Tech/AI Market, translating complex geospatial data into globally auditable realities.
+* **Cross-Cultural Leadership:** Orchestrated diverse groups of ML engineers to deploy multi-agent workflows. Fluent in English and Portuguese (advanced French/Spanish), I translate complex technical architectures into global strategy.
 
 ### 🔬 Scientific Authority & Deep Tech
-* **M.Sc. in Computer Science @ UFJF:** My academic research focuses on the mathematical foundations and software engineering of **Cognitive Architectures and Multi-Agent Systems (MAS)**. I research, specify, and architect the "Deep Tech" infrastructure that powers autonomous decision-making and semantic interoperability in highly complex, heterogeneous data environments.
-* **Neuro-Symbolic AI R&D:** As an Invited AI Researcher at FrameNet Brasil (UFJF), I push the boundaries of multi-modal semantic models, working at the exact frontier where computational linguistics meets deep learning.
+* **Agentic AI Research @ UFJF (M.Sc. Computer Science):** My thesis focuses on the design of Multi-Agent Systems, building architectures for semantic interoperability and autonomous decision-making in highly complex, heterogeneous data environments.
+* **Frontier AI R&D @ FrameNet BR (UFJF):** Engineered hybrid Neuro-Symbolic pipelines that translate complex cognitive theories into functional AI architectures.
+* **Award-Winning Commercial AI:** Solo-architected the 1st place winner of the Reply Enterprise Challenge (FIAP NEXT 2025)—an end-to-end, production-grade Multi-Agent platform for predictive industrial maintenance.
 
-### 💼 Executive Impact & Global R&D
-* **Data Management at International Scale:** At Embrapa Dairy Cattle/ABCGIL, I act as the strategic bridge between world-class PhD researchers and complex data engineering. I align R&D with project KPIs, architecting the sovereign digital ecosystems that power Latin America's genomic improvement programs.
-* **Cross-Cultural Leadership:** I have led multiple international engineering teams, orchestrating diverse groups of ML engineers to deploy models and multi-agent workflows. Fluent in English and Portuguese, with advanced French and Spanish, I excel at driving global technical strategy.
-
-### 🏆 Proven Engineering
-* **Award-Winning Architecture:** I solo-architected the 1st Place winner of the Reply Enterprise Challenge (FIAP NEXT 2025)—an end-to-end, production-grade multi-agentic platform for predictive industrial maintenance.
+---
 
 <br>
 <hr style="height:1px;border-width:0;color:gray;background-color:lightgray">
@@ -146,6 +149,16 @@ My mission is to translate complex, bio-inspired cognitive theories and rigorous
 * **Systemic Engineering:** Managing the transition from legacy SQL to **Graph Databases (Neo4j)** and implementing Agentic Workflows for automated pedigree validation.
 
 **Key Areas:** `Sovereign AI` `Genomics` `Graph Databases` `System Architecture` `R&D Strategy`
+
+---
+
+**Solutions Architect** | **Stealth Startup (Climate Tech)** | *Remote | Mar 2026 - Present*
+
+* **Digital Validation Models:** Leading the data architecture design for the AI Climate Tech Market, utilizing remote sensing and advanced AI.
+* **Enterprise Architecture:** Structuring multi-modal data pipelines to process complex environmental and biological data models.
+* **System Integrity:** Integrating robust integrity systems to ensure global traceability, auditability, and compliance with international certification standards.
+
+**Key Areas:** `Solutions Architecture` `Climate Tech` `Data Pipelines` `AI Integration` `System Integrity`
 
 ---
 
