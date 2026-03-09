@@ -30,7 +30,7 @@
 </div>
 <br>
 
-• **Architecting Digital Validation Models** for a Climate Tech Stealth Startup, structuring multi-modal data pipelines for global environmental integrity and traceability.
+• **Architecting Digital Validation Models** for a Stealth Startup, structuring multi-modal data pipelines for global environmental integrity and traceability.
 
 • **Architecting Sovereign Data Ecosystems** for Brazil’s largest genomic improvement program (Embrapa/ABCGIL), managing high-performance computing assets and **national security data** across 10+ Latin American countries.
 
@@ -121,7 +121,7 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 
 ### 💼 Executive Impact & Architecture
 * **Enterprise Data Strategy @ Embrapa/ABCGIL:** I architect the digital ecosystems underpinning national genomic improvement programs, ensuring mission-critical data assets drive objective business KPIs.
-* **Solutions Architecture @ Stealth Startup (Climate Tech):** Architecting digital validation models and multi-modal data pipelines for the Climate Tech/AI Market, translating complex geospatial data into globally auditable realities.
+* **Solutions Architecture @ Stealth Startup:** Architecting digital validation AI models and multi-modal enterprise-scale data pipelines (more when the company is launched publicly).
 * **Cross-Cultural Leadership:** Orchestrated diverse groups of ML engineers to deploy multi-agent workflows. Fluent in English and Portuguese (advanced French/Spanish), I translate complex technical architectures into global strategy.
 
 ### 🔬 Scientific Authority & Deep Tech
@@ -152,13 +152,13 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 
 ---
 
-**Solutions Architect** | **Stealth Startup (Climate Tech)** | *Remote | Mar 2026 - Present*
+**Solutions Architect** | **Stealth Startup** | *Remote | Mar 2026 - Present*
 
-* **Digital Validation Models:** Leading the data architecture design for the AI Climate Tech Market, utilizing remote sensing and advanced AI.
+* **Digital Validation Models:** Leading the data architecture design for enterprise grade, scalable, advanced AI systems.
 * **Enterprise Architecture:** Structuring multi-modal data pipelines to process complex environmental and biological data models.
 * **System Integrity:** Integrating robust integrity systems to ensure global traceability, auditability, and compliance with international certification standards.
 
-**Key Areas:** `Solutions Architecture` `Climate Tech` `Data Pipelines` `AI Integration` `System Integrity`
+**Key Areas:** `Solutions Architecture` `Data Pipelines` `AI Integration` `System Integrity` `Big Data` `Enterprise AI`
 
 ---
 
