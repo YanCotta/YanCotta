@@ -162,7 +162,7 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 
 ---
 
-**Invited AI Researcher (Neuro-Symbolic Architecture)** | **FrameNet Brasil / UFJF** | Sep 2025 - Present
+**Invited AI Researcher (Neuro-Symbolic Architecture)** | **FrameNet Brasil / UFJF** | Sep 2025 - Mar 2026
 
 * **Architectural Innovation:** Led the engineering of a **Hybrid Neuro-Symbolic System** that fuses Visual Transformers (ViT) with structured linguistic logic to solve "noisy data" challenges.
 * **SOTA Performance:** Achieved a **6x improvement in multi-label classification accuracy** by implementing **Active Inference** principles and Asymmetric Loss functions.
@@ -172,7 +172,7 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 
 ---
 
-**Project Lead: AI/ML Engineering & Data Science** | **SuperDataScience** | *Remote | Jun 2025 - Present*
+**Project Lead: AI/ML Engineering & Data Science** | **SuperDataScience** | *Remote | Jun 2025 - January 2026
 
 * **Agentic AI Leadership:** Architecting **"FinResearch AI"**, a multi-agent system using **CrewAI** to automate institutional financial research, pivoting teams from static notebooks to production-grade orchestration.
 * **Predictive ML Platforms:** Delivered full-stack healthcare (**GlucoTrack**) and HR analytics (**MLPayGrade**) platforms using Deep Learning, Model Explainability, and Tabular Embeddings.
