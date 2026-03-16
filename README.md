@@ -122,14 +122,15 @@
 My mission is to translate complex, bio-inspired cognitive theories and massive environmental datasets into scalable, production-grade enterprise architectures. I bridge the gap between abstract algorithmic theory and tangible business ROI.
 
 ### 💼 Executive Impact & Architecture
-* **Enterprise Data Strategy @ Embrapa/ABCGIL:** I architect the digital ecosystems underpinning national genomic improvement programs, ensuring mission-critical data assets drive objective business KPIs.
-* **Solutions Architecture @ Stealth Startup:** Architecting digital validation AI models and multi-modal enterprise-scale data pipelines (more when the company is launched publicly).
+* **Enterprise AI Architecture @ OrangeDoor:** Orchestrating enterprise-grade agentic ecosystems and Multi-Agent Systems (MAS) within the **Salesforce (Agentforce)** ecosystem, operating in direct conjunction with **GETTER S.A.** I design secure, scalable AI infrastructures, enforcing strict data governance and risk mitigation guardrails to drive objective business KPIs.
+* **Solutions Architecture @ Stealth Startup:** Architecting digital validation AI models and multi-modal enterprise-scale data pipelines, integrating robust systems to meet international certification standards.
+* * **Enterprise Data Strategy @ Embrapa/ABCGIL:** I architected the digital ecosystems underpinning national genomic improvement programs, ensuring mission-critical data assets drive national security and research excellence.
 * **Cross-Cultural Leadership:** Orchestrated diverse groups of ML engineers to deploy multi-agent workflows. Fluent in English and Portuguese (advanced French/Spanish), I translate complex technical architectures into global strategy.
 
 ### 🔬 Scientific Authority & Deep Tech
-* **Agentic AI Research @ UFJF (M.Sc. Computer Science):** My thesis focuses on the design of Multi-Agent Systems, building architectures for semantic interoperability and autonomous decision-making in highly complex, heterogeneous data environments.
-* **Frontier AI R&D @ FrameNet BR (UFJF):** Engineered hybrid Neuro-Symbolic pipelines that translate complex cognitive theories into functional AI architectures.
-* **Award-Winning Commercial AI:** Solo-architected the 1st place winner of the Reply Enterprise Challenge (FIAP NEXT 2025)—an end-to-end, production-grade Multi-Agent platform for predictive industrial maintenance.
+* **Agentic AI Research @ UFJF (M.Sc. Computer Science):** My thesis focuses on the design of **Multi-Agent Systems**, building architectures for semantic interoperability and autonomous decision-making in highly complex, heterogeneous data environments.
+* **Frontier AI R&D @ FrameNet BR (UFJF):** Engineered hybrid **Neuro-Symbolic** pipelines that translate complex cognitive theories into functional AI architectures.
+* **Award-Winning Commercial AI:** Solo-architected the 1st place winner of the **Reply Enterprise Challenge (FIAP NEXT 2025)**—an end-to-end, production-grade Multi-Agent platform for predictive industrial maintenance.
 
 ---
 
