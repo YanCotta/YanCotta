@@ -34,7 +34,7 @@
 
 • **Architecting Digital Validation Models** for a Stealth Startup, structuring multi-modal data pipelines for global environmental integrity and traceability.
 
-• **Architecting Sovereign Data Ecosystems** for Brazil’s largest genomic improvement program (Embrapa/ABCGIL), managing high-performance computing assets and **national security data** across 10+ Latin American countries.
+• **Architected Sovereign Data Ecosystems** for Brazil’s largest genomic improvement program (Embrapa/ABCGIL), managing high-performance computing assets and **national security data** across 10+ Latin American countries.
 
 • Spearheaded R&D for a **Hybrid Neuro-Symbolic AI System**, engineering a novel architecture that solved critical data scarcity issues and **achieved a 6x performance breakthrough** over traditional deep learning baselines.
 
