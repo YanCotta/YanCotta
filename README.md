@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Manager%20%40%20Embrapa;Solutions%20Architect%20%40%20Stealth%20Startup;M.Sc.%20Computer%20Science%20%40%20UFJF;AI%20Systems%20Architect;Bio%20%26%20Cognitive%20Inspired%20Enterprise%20AI;Global%20R%26D%20Leadership&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Architect%20%40%20OrangeDoor;Data%20Manager%20%40%20Embrapa;Solutions%20Architect%20%40%20Stealth%20Startup;M.Sc.%20Computer%20Science%20%40%20UFJF;Bio%20%26%20Cognitive%20Inspired%20Enterprise%20AI&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
  </div>
 
 ---
@@ -29,6 +29,8 @@
   <i>Quick summary of awards and key metrics</i>
 </div>
 <br>
+
+• **Orchestrating Enterprise Agentic Ecosystems** as an AI Architect at Orange-Door.com, designing scalable Multi-Agent Systems (MAS) and strict AI governance protocols within the Salesforce (Agentforce) ecosystem.
 
 • **Architecting Digital Validation Models** for a Stealth Startup, structuring multi-modal data pipelines for global environmental integrity and traceability.
 
@@ -142,13 +144,13 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 </div>
 <br>
 
-**Data Manager & AI Systems Architect** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Dec 2025 - Present*
+**AI Architect** | **OrangeDoor** | *Remote | Mar 2026 - Present*
 
-* **Sovereign AI Strategy:** Architecting the **"Sovereign Bio-Graph,"** moving national genomic assets from cloud dependency to on-premise, air-gapped high-performance computing.
-* **Global R&D Leadership:** Acting as the strategic bridge between world-renowned PhD researchers and executives, aligning **complex genomic R&D** with business KPIs across 10+ countries.
-* **Systemic Engineering:** Managing the transition from legacy SQL to **Graph Databases (Neo4j)** and implementing Agentic Workflows for automated pedigree validation.
+* **Enterprise MAS Architecture:** Orchestrating enterprise-grade agentic ecosystems and Multi-Agent Systems (MAS) integrating with global platforms like Salesforce Agentforce.
+* **AI Governance & Security:** Implementing rigid AI trust protocols, conducting data security audits, and establishing guardrails for mission-critical operations.
+* **Strategic Alignment:** Operating in direct conjunction with GETTER S.A. to translate C-Level business metrics into scalable, high-ROI technological architectures.
 
-**Key Areas:** `Sovereign AI` `Genomics` `Graph Databases` `System Architecture` `R&D Strategy`
+**Key Areas:** `Enterprise Architecture` `Agentic AI` `Salesforce` `Agentforce` `AI Governance` `Multi-Agent Systems` `ROI Optimization`
 
 ---
 
@@ -159,6 +161,16 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 * **System Integrity:** Integrating robust integrity systems to ensure global traceability, auditability, and compliance with international certification standards.
 
 **Key Areas:** `Solutions Architecture` `Data Pipelines` `AI Integration` `System Integrity` `Big Data` `Enterprise AI`
+
+---
+
+**Data Manager & AI Systems Architect** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Dec 2025 - April 2026*
+
+* **Sovereign AI Strategy:** Architecting the **"Sovereign Bio-Graph,"** moving national genomic assets from cloud dependency to on-premise, air-gapped high-performance computing.
+* **Global R&D Leadership:** Acting as the strategic bridge between world-renowned PhD researchers and executives, aligning **complex genomic R&D** with business KPIs across 10+ countries.
+* **Systemic Engineering:** Managing the transition from legacy SQL to **Graph Databases (Neo4j)** and implementing Agentic Workflows for automated pedigree validation.
+
+**Key Areas:** `Sovereign AI` `Genomics` `Graph Databases` `System Architecture` `R&D Strategy`
 
 ---
 
