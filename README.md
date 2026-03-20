@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Architect%20%40%20OrangeDoor;Solutions%20Architect%20%40%20Stealth%20Startup;M.Sc.%20Computer%20Science%20%40%20UFJF;Bio%20%26%20Cognitive%20Inspired%20Enterprise%20AI&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Architect%20%40%20OrangeDoor%20IT;Solutions%20Architect%20%40%20Stealth%20Startup;M.Sc.%20Computer%20Science%20%40%20UFJF;Bio%20%26%20Cognitive%20Inspired%20Enterprise%20AI&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
  </div>
 
 ---
