@@ -30,7 +30,7 @@
 </div>
 <br>
 
-• **Orchestrating Enterprise Agentic Ecosystems** as an AI Architect at Orange-Door.com, designing scalable Multi-Agent Systems (MAS) and strict AI governance protocols within the Salesforce (Agentforce) ecosystem.
+• **World-Class Multi-Agentic Solutions** Translating world-class architecture solutions, from an expert Salesforce team (official partners of OrangeDoor IT), into secure and business oriented blueprints, designs and documentations, for both clients, and for our engineering team.
 
 • **Architecting Digital Validation Models** for a Stealth Startup, structuring multi-modal data pipelines for global environmental integrity and traceability.
 
@@ -122,7 +122,7 @@
 My mission is to translate complex, bio-inspired cognitive theories and massive environmental datasets into scalable, production-grade enterprise architectures. I bridge the gap between abstract algorithmic theory and tangible business ROI.
 
 ### 💼 Executive Impact & Architecture
-* **Enterprise AI Architecture @ OrangeDoor:** Orchestrating enterprise-grade agentic ecosystems and Multi-Agent Systems (MAS) within the **Salesforce (Agentforce)** ecosystem, operating in direct conjunction with **GETTER S.A.** I design secure, scalable AI infrastructures, enforcing strict data governance and risk mitigation guardrails to drive objective business KPIs.
+* **Enterprise AI Architecture @ OrangeDoor IT:** Translating world-class architecture solutions, from an expert Salesforce team (official partners of OrangeDoor IT), into secure and business oriented blueprints, designs and documentations, for both clients, and for our engineering team, to drive objective business KPIs.
 * **Solutions Architecture @ Stealth Startup:** Architecting digital validation AI models and multi-modal enterprise-scale data pipelines, integrating robust systems to meet international certification standards.
 *  **Enterprise Data Strategy @ Embrapa/ABCGIL:** I architected the digital ecosystems underpinning national genomic improvement programs, ensuring mission-critical data assets drive national security and research excellence.
 * **Cross-Cultural Leadership:** Orchestrated diverse groups of ML engineers to deploy multi-agent workflows. Fluent in English and Portuguese (advanced French/Spanish), I translate complex technical architectures into global strategy.
@@ -145,11 +145,11 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 </div>
 <br>
 
-**AI Architect** | **OrangeDoor** | *Remote | Mar 2026 - Present*
+**AI Architect** | **OrangeDoor IT** | *Remote | Mar 2026 - Present*
 
-* **Enterprise MAS Architecture:** Orchestrating enterprise-grade agentic ecosystems and Multi-Agent Systems (MAS) integrating with global platforms like Salesforce Agentforce.
+* **Enterprise MAS Architecture:** Translating world-class architecture solutions, from an expert Salesforce team (official partners of OrangeDoor IT), into secure and business oriented blueprints, designs and documentations, for both clients, and for our engineering team.
 * **AI Governance & Security:** Implementing rigid AI trust protocols, conducting data security audits, and establishing guardrails for mission-critical operations.
-* **Strategic Alignment:** Operating in direct conjunction with GETTER S.A. to translate C-Level business metrics into scalable, high-ROI technological architectures.
+* **Strategic Alignment:** Operating in direct conjunction with Salesforce, to translate C-Level business metrics into scalable, high-ROI technological architectures.
 
 **Key Areas:** `Enterprise Architecture` `Agentic AI` `Salesforce` `Agentforce` `AI Governance` `Multi-Agent Systems` `ROI Optimization`
 
