@@ -117,9 +117,7 @@
 </h2>
 <br>
 
-**I operate at the intersection of Artificial Intelligence, Data Engineering, Biology, Cognition, Global R&D, and Business Value.**
-
-My mission is to translate complex, bio-inspired cognitive theories and massive environmental datasets into scalable, production-grade enterprise architectures. I bridge the gap between abstract algorithmic theory and tangible business ROI.
+**I operate at the intersection of AI, Solutions Architecture, Data, C-level Strategy, Global & Cross-Cultural Operations, R&D, and Business Value.**
 
 ### 💼 Executive Impact & Architecture
 * **Enterprise AI Architecture @ OrangeDoor IT:** Translating world-class architecture solutions, from an expert Salesforce team (official partners of OrangeDoor IT), into secure and business oriented blueprints, designs and documentations, for both clients, and for our engineering team, to drive objective business KPIs.
@@ -145,11 +143,12 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 </div>
 <br>
 
-**AI Architect** | **OrangeDoor IT** | *Remote | Mar 2026 - Present*
+**Strategic AI Architect** | **OrangeDoor IT** | *Remote | Mar 2026 - Present*
 
-* **Enterprise MAS Architecture:** Translating world-class architecture solutions, from an expert Salesforce team (official partners of OrangeDoor IT), into secure and business oriented blueprints, designs and documentations, for both clients, and for our engineering team.
+* **Enterprise MAS Architecture:** Planning of agentic infrastructures and Multi-Agent Systems (MAS), in large-scale enterprise operations.
 * **AI Governance & Security:** Implementing rigid AI trust protocols, conducting data security audits, and establishing guardrails for mission-critical operations.
-* **Strategic Alignment:** Operating in direct conjunction with Salesforce, to translate C-Level business metrics into scalable, high-ROI technological architectures.
+* **Strategic Alignment:** Interfacing with global strategic partners, such as Salesforce, for team coordination and enterprise integrations, translating their world-class ideas and solutions, into technical & business secure architectural blueprints, for both clients, and for the engineering teams.
+* **Organizational Alignment:** Diverse alignment meetings with teams of engineers, architects, PMs, C-level personnel, and strategic private & governmental clients, translating business goals into technology solutions driven by ROI and efficiency.
 
 **Key Areas:** `Enterprise Architecture` `Agentic AI` `Salesforce` `Agentforce` `AI Governance` `Multi-Agent Systems` `ROI Optimization`
 
@@ -157,9 +156,9 @@ My mission is to translate complex, bio-inspired cognitive theories and massive 
 
 **Solutions Architect** | **Stealth Startup** | *Remote | Mar 2026 - Present*
 
-* **Digital Validation Models:** Leading the data architecture design for enterprise grade, scalable, advanced AI systems.
-* **Enterprise Architecture:** Structuring multi-modal data pipelines to process complex environmental and biological data models.
-* **System Integrity:** Integrating robust integrity systems to ensure global traceability, auditability, and compliance with international certification standards.
+* **Enterprise AI Architecture:** Conceiving and developing autonomous AI models that integrate big data to monitor and process complex, large-scale realities.
+* **Large Scale Data Science:** Leading and validating machine learning, deep learning, MLOps, and geospatial AI multi-modal techniques to align with business KPIs.
+* **Stakeholder Management:** Serving as the strategic bridge between complex scientific modeling, VCs, and the CTO, translating technicalities and scientific rigor into KPIs and business metrics/impact.
 
 **Key Areas:** `Solutions Architecture` `Data Pipelines` `AI Integration` `System Integrity` `Big Data` `Enterprise AI`
 
