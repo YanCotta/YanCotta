@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Strategic%20AI%20Architect%20%40%20OrangeDoor%20IT;Solutions%20Architect%20%40%20Stealth%20Startup;M.Sc.%20Computer%20Science%20%40%20UFJF;Bio%20%26%20Cognitive%20Inspired%20Enterprise%20AI&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Fractional%20AI%20Architect%20%26%20Strategic%20Advisor;Scaling%20Enterprise%20AI%20Infrastructure;Bio%20%26%20Cognitive%20Inspired%20Engineering;Global%20R%26D%20Leadership%20for%20Business%20Value&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
  </div>
 
 ---
@@ -30,21 +30,19 @@
 </div>
 <br>
 
-• **World-Class Multi-Agentic Solutions** Translating world-class architecture solutions, from an expert Salesforce team (official partners of OrangeDoor IT), into secure and business oriented blueprints, designs and documentations, for both clients, and for our engineering team.
+• **Strategic AI Solutions (OrangeDoor IT):** Translating world-class Salesforce architectures into secure, business-oriented blueprints, ensuring 100% data governance and immediate ROI.
 
-• **Architecting Digital Validation Models** for a Stealth Startup, structuring multi-modal data pipelines for global environmental integrity and traceability.
+• **Enterprise AI Architecture (Getter):** Planning complex multi-agentic infrastructures and conducting high-level technical governance audits for autonomous enterprise logic.
 
-• **Architected Sovereign Data Ecosystems** for Brazil’s largest genomic improvement program (Embrapa/ABCGIL), managing high-performance computing assets and **national security data** across 10+ Latin American countries.
+• **Architecting Digital Validation Models (Stealth Startup):** Structuring multi-modal data pipelines for global environmental integrity, aligning technical roadmaps with VC-backed KPIs.
 
-• Spearheaded R&D for a **Hybrid Neuro-Symbolic AI System**, engineering a novel architecture that solved critical data scarcity issues and **achieved a 6x performance breakthrough** over traditional deep learning baselines.
+• **Sovereign Data Ecosystems (Embrapa/ABCGIL):** Architected the "Sovereign Bio-Graph," moving national genomic assets to air-gapped HPC infrastructure across 10+ countries.
 
-• **1st Place Winner at the Reply Enterprise Challenge (FIAP NEXT 2025)**. Solo-architected an end-to-end, production-grade **Multi-Agentic Maintenance Platform**, achieving a **76% reduction in operational downtime** via predictive entropy modeling.
+• **Neuro-Symbolic Breakthrough (FrameNet BR):** Engineered a hybrid AI system fusing Vision Transformers with linguistic logic, achieving a **6x performance increase** in semantic reasoning.
 
-• Trained SOTA models at Outlier using **RLHF & Model Alignment**, increasing model efficiency by **64%** through rigorous human-in-the-loop validation pipelines.
+• **1st Place Winner - Reply Enterprise Challenge (FIAP NEXT 2025):** Solo-architected a production-grade Agentic platform for predictive maintenance, reducing downtime by **40%**.
 
-• Developed the **"Guardian" National Resilience Platform (Award Winner)**, a multi-agent system for disaster mitigation, proving the viability of **autonomous AI in crisis management**.
-
-• **Led 3 International R&D Teams** at SuperDataScience, orchestrating **Agentic Workflows** and deploying full-stack financial intelligence systems with cross-cultural engineering teams.
+• **Global R&D Leadership:** Orchestrated 3 international engineering cohorts at SuperDataScience, deploying full-stack financial intelligence and healthcare AI systems.
 
 ---
 
@@ -117,18 +115,17 @@
 </h2>
 <br>
 
-**I operate at the intersection of AI, Solutions Architecture, Data, C-level Strategy, Global & Cross-Cultural Operations, R&D, and Business Value.**
+**I partner with high-growth startups and global enterprises to architect sovereign AI ecosystems that drive ruthless market ROI. I bridge the gap between deep R&D and the boardroom, translating complex data physics into scalable B2B revenue.**
 
-### 💼 Executive Impact & Architecture
-* **Enterprise AI Architecture @ OrangeDoor IT:** Translating world-class architecture solutions, from an expert Salesforce team (official partners of OrangeDoor IT), into secure and business oriented blueprints, designs and documentations, for both clients, and for our engineering team, to drive objective business KPIs.
-* **Solutions Architecture @ Stealth Startup:** Architecting digital validation AI models and multi-modal enterprise-scale data pipelines, integrating robust systems to meet international certification standards.
-*  **Enterprise Data Strategy @ Embrapa/ABCGIL:** I architected the digital ecosystems underpinning national genomic improvement programs, ensuring mission-critical data assets drive national security and research excellence.
-* **Cross-Cultural Leadership:** Orchestrated diverse groups of ML engineers to deploy multi-agent workflows. Fluent in English and Portuguese (advanced French/Spanish), I translate complex technical architectures into global strategy.
+### 💼 Fractional Mandates & Strategic Architecture
+* **Strategic AI Architect @ OrangeDoor IT (Consulting):** Designing secure agentic infrastructures that integrate world-class Salesforce solutions with enterprise-grade data governance.
+* **AI Architect @ Getter (Advisory):** Managing technical leadership and organizational alignment, translating business goals into high-impact, autonomous technology solutions.
+* **Solutions Architect @ Stealth Startup:** Leading the design of multi-modal data pipelines and AI validation models to ensure global environmental integrity and traceability.
+* **Enterprise Data Strategy @ Embrapa (Transitioning):** Architected the digital foundations for international genomic improvement programs, ensuring research data drives objective business KPIs.
 
-### 🔬 Scientific Authority & Deep Tech
-* **Agentic AI Research @ UFJF (M.Sc. Computer Science):** My thesis focuses on the design of **Multi-Agent Systems**, building architectures for semantic interoperability and autonomous decision-making in highly complex, heterogeneous data environments.
-* **Frontier AI R&D @ FrameNet BR (UFJF):** Engineered hybrid **Neuro-Symbolic** pipelines that translate complex cognitive theories into functional AI architectures.
-* **Award-Winning Commercial AI:** Solo-architected the 1st place winner of the **Reply Enterprise Challenge (FIAP NEXT 2025)**—an end-to-end, production-grade Multi-Agent platform for predictive industrial maintenance.
+### 🔬 Intellectual Moat & Scientific Authority
+* **Agentic AI Research @ UFJF (M.Sc. CS):** Researching Cognitive Multi-Agent Systems (MAS) for autonomous decision-making and semantic interoperability in heterogeneous environments.
+* **Award-Winning Systems:** Solo-architected the 1st place winner of the **Reply Enterprise Challenge (FIAP NEXT 2025)**—a production-grade platform for predictive maintenance.
 
 ---
 
@@ -164,7 +161,7 @@
 
 ---
 
-**Data Manager & AI Systems Architect** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Dec 2025 - April 2026*
+**Data Manager & AI Systems Architect** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Dec 2025 - Present*
 
 * **Sovereign AI Strategy:** Architecting the **"Sovereign Bio-Graph,"** moving national genomic assets from cloud dependency to on-premise, air-gapped high-performance computing.
 * **Global R&D Leadership:** Acting as the strategic bridge between world-renowned PhD researchers and executives, aligning **complex genomic R&D** with business KPIs across 10+ countries.
