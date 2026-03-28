@@ -30,11 +30,11 @@
 </div>
 <br>
 
-• **Strategic AI Solutions (OrangeDoor IT):** Translating world-class Salesforce architectures into secure, business-oriented blueprints, ensuring 100% data governance and immediate ROI.
+• **Strategic AI Solutions (OrangeDoor IT):** Working on the largest Agentforce project in the globe, with contracts valued in the tens of millions and directly impacting millions of users. Acting as the critical strategic bridge between a world-class Salesforce team, OrangeDoor executives, and high-profile clients. 
 
-• **Enterprise AI Architecture (Getter):** Planning complex multi-agentic infrastructures and conducting high-level technical governance audits for autonomous enterprise logic.
+• **Enterprise AI Architecture (Getter):** Driving the technical architecture for a Industry 5.0 South Summit Finalist (Top 50 out of 2,500+ global startups). Working with projects encompassing complex multi-agentic, computer vision, and machine learning systems, coordinating strategies with an expert team to align cutting-edge technology with industry-revolutionizing business goals.
 
-• **Architecting Digital Validation Models (Stealth Startup):** Structuring multi-modal data pipelines for global environmental integrity, aligning technical roadmaps with VC-backed KPIs.
+• **Architecting Digital Validation Models (Stealth Startup):** Leading the technical architecture of a complex, global-scale multi-modal data pipeline utilizing SOTA Google technology to revolutionize the market. I design the infrastructure that translates big data into high-fidelity, actionable digital assets, aligning advanced scientific modeling with the KPIs of the CTO, Founders, and VCs.
 
 • **Sovereign Data Ecosystems (Embrapa/ABCGIL):** Architected the "Sovereign Bio-Graph," moving national genomic assets to air-gapped HPC infrastructure across 10+ countries.
 
@@ -115,13 +115,15 @@
 </h2>
 <br>
 
-**I partner with high-growth startups and global enterprises to architect sovereign AI ecosystems that drive ruthless market ROI. I bridge the gap between deep R&D and the boardroom, translating complex data physics into scalable B2B revenue.**
+Operating at the intersection of AI, Solutions Architecture, Data Governance, C-Level Strategy, and Business Value, designing the infrastructure and technology of the next economic era.
+
+As a Fractional AI Solutions Architect, I partner with disruptive startups and global enterprises to design and govern safe, state-of-the-art AI ecosystems that drive massive market ROI. I bridge the gap between deep R&D and the boardroom, translating complex data physics into scalable B2B revenue.
 
 ### 💼 Fractional Mandates & Strategic Architecture
-* **Strategic AI Architect @ OrangeDoor IT (Consulting):** Designing secure agentic infrastructures that integrate world-class Salesforce solutions with enterprise-grade data governance.
-* **AI Architect @ Getter (Advisory):** Managing technical leadership and organizational alignment, translating business goals into high-impact, autonomous technology solutions.
-* **Solutions Architect @ Stealth Startup:** Leading the design of multi-modal data pipelines and AI validation models to ensure global environmental integrity and traceability.
-* **Enterprise Data Strategy @ Embrapa (Transitioning):** Architected the digital foundations for international genomic improvement programs, ensuring research data drives objective business KPIs.
+* **Strategic AI Architect @ OrangeDoor IT (Consulting):** Working on the largest Agentforce implementation globally, encompassing multi-million dollar contracts and affecting millions of users. Acting as the critical strategic bridge between a world-class Salesforce team, executives, and enterprise clients.
+* **Strategic AI Architect @ Getter (Contract):** Driving the technical architecture for a Top 10 Industry 5.0 startup and South Summit Finalist. Designing complex multi-agentic, computer vision, and machine learning systems to revolutionize industrial automation.
+* **Solutions Architect @ Stealth Startup (Contract):** Leading the design of global-scale multi-modal data pipelines using state-of-the-art Google technology to translate highly complex biological data into high-fidelity digital assets.
+* **Enterprise Data Strategy @ Embrapa (Transitioning):** Architected the digital foundations for international genomic improvement programs across 10+ countries, bridging the gap between PhD researchers and mission-critical business KPIs.
 
 ### 🔬 Intellectual Moat & Scientific Authority
 * **Agentic AI Research @ UFJF (M.Sc. CS):** Researching Cognitive Multi-Agent Systems (MAS) for autonomous decision-making and semantic interoperability in heterogeneous environments.
@@ -142,22 +144,34 @@
 
 **Strategic AI Architect** | **OrangeDoor IT** | *Remote | Mar 2026 - Present*
 
-* **Enterprise MAS Architecture:** Planning of agentic infrastructures and Multi-Agent Systems (MAS), in large-scale enterprise operations.
-* **AI Governance & Security:** Implementing rigid AI trust protocols, conducting data security audits, and establishing guardrails for mission-critical operations.
-* **Strategic Alignment:** Interfacing with global strategic partners, such as Salesforce, for team coordination and enterprise integrations, translating their world-class ideas and solutions, into technical & business secure architectural blueprints, for both clients, and for the engineering teams.
-* **Organizational Alignment:** Diverse alignment meetings with teams of engineers, architects, PMs, C-level personnel, and strategic private & governmental clients, translating business goals into technology solutions driven by ROI and efficiency.
+* **Cross-Functional Executive Leadership:** Serving as the central strategic bridge between world-class Salesforce engineering teams, OrangeDoor's C-suite executives, internal architects, and enterprise clients to secure long-term technological ROI.
+* **Technical Governance & Liability Shielding:** Acting as the ultimate technical gatekeeper. Instituting and managing strict Architecture Decision Records (ADRs) to audit partner directives, isolate corporate liability, and ensure compliance in mission-critical deployments.
+* **AI Systems Architecture:** Logging hybrid agentic infrastructures and Multi-Agent Systems (MAS). Designing scalable functional architectures that integrate native enterprise ecosystems (Agentforce/MuleSoft) with distributed tech stacks.
+* **Strategic R&D & Reverse Engineering:** Analyzing state-of-the-art multi-agent patterns and reverse-engineering successful internal architectures to transpose custom design patterns into rigid enterprise environments.
 
 **Key Areas:** `Enterprise Architecture` `Agentic AI` `Salesforce` `Agentforce` `AI Governance` `Multi-Agent Systems` `ROI Optimization`
 
 ---
 
-**Solutions Architect** | **Stealth Startup** | *Remote | Mar 2026 - Present*
+**Strategic AI Architect** | **GETTER S.A.** | *Remote | Mar 2026 - Present*
+
+* **AI Systems Architecture & Design:** Planning and deploying robust agentic infrastructures and complex system designs that drive industry-defining automation for a Top 10 Industry 5.0 startup and South Summit Finalist.
+* **Technical Consulting & Governance:** Conducting rigorous data security auditing and risk mitigation at an enterprise scale to ensure safe, scalable AI adoption.
+* **Technical Leadership & Coordination:** Interfacing with strategic partners and our internal ecosystem—engineers, developers, PMs, and the CEO—to execute high-level integrations.
+* **Organizational Alignment:** Translating visionary business goals into high-impact, state-of-the-art technology solutions and measurable ROI.
+
+**Key Areas:** `Agentic AI` `Computer Vision` `Machine Learning` `Industry 5.0` `Strategic Communications` `System Design`
+
+---
+
+**Solutions Architect** | **(Stealth Startup)** | *Remote | Mar 2026 - Present*
 
 * **Enterprise AI Architecture:** Conceiving and developing autonomous AI models that integrate big data to monitor and process complex, large-scale realities.
-* **Large Scale Data Science:** Leading and validating machine learning, deep learning, MLOps, and geospatial AI multi-modal techniques to align with business KPIs.
+* **Multi-Modal Data Pipelines:** Structuring the underlying data infrastructure to translate highly complex biological data into high-fidelity, actionable digital assets utilizing SOTA Google technology.
+* **Large Scale Data Science:** Leading and validating machine learning, deep learning, MLOps, and geospatial AI multi-modal techniques to align with aggressive business KPIs.
 * **Stakeholder Management:** Serving as the strategic bridge between complex scientific modeling, VCs, and the CTO, translating technicalities and scientific rigor into KPIs and business metrics/impact.
 
-**Key Areas:** `Solutions Architecture` `Data Pipelines` `AI Integration` `System Integrity` `Big Data` `Enterprise AI`
+**Key Areas:** `Solutions Architecture` `Data Pipelines` `Complex Systems` `System Design` `Big Data` `Enterprise AI`
 
 ---
 
