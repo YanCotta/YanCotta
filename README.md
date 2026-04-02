@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Fractional%20AI%20Architect%20%26%20Strategic%20Advisor;Scaling%20Enterprise%20AI%20Infrastructure;Bio%20%26%20Cognitive%20Inspired%20Engineering;Global%20R%26D%20Leadership%20for%20Business%20Value&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Enterprise%20AI%20Product%20Owner%20%26%20Architect;Scaling%20Enterprise%20AI%20Infrastructure;Bio%20%26%20Cognitive%20Inspired%20Engineering;Global%20R%26D%20Leadership%20for%20Business%20Value&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
  </div>
 
 ---
@@ -30,7 +30,7 @@
 </div>
 <br>
 
-• **Strategic AI Solutions (OrangeDoor IT):** Working on the largest Agentforce project in the globe, with contracts valued in the tens of millions and directly impacting millions of users. Acting as the critical strategic bridge between a world-class Salesforce team, OrangeDoor executives, and high-profile clients. 
+• **Enterprise AI Product Ownership (OrangeDoor IT):** Leading the product vision and technical governance for one of the largest Agentforce implementations globally, impacting millions of users. Acting as the strategic bridge between world-class Salesforce teams, expert internal engineers, and C-suite executives to ensure AI Systems translate into immediate technological ROI.
 
 • **Enterprise AI Architecture (Getter):** Driving the technical architecture for a Industry 5.0 South Summit Finalist (Top 50 out of 2,500+ global startups). Working with projects encompassing complex multi-agentic, computer vision, and machine learning systems, coordinating strategies with an expert team to align cutting-edge technology with industry-revolutionizing business goals.
 
@@ -120,7 +120,7 @@ Operating at the intersection of AI, Solutions Architecture, Data Governance, C-
 As a Fractional AI Solutions Architect, I partner with disruptive startups and global enterprises to design and govern safe, state-of-the-art AI ecosystems that drive massive market ROI. I bridge the gap between deep R&D and the boardroom, translating complex data physics into scalable B2B revenue.
 
 ### 💼 Fractional Mandates & Strategic Architecture
-* **Strategic AI Architect @ OrangeDoor IT (Consulting):** Working on the largest Agentforce implementation globally, encompassing multi-million dollar contracts and affecting millions of users. Acting as the critical strategic bridge between a world-class Salesforce team, executives, and enterprise clients.
+* **Enterprise AI Product Owner @ OrangeDoor IT (Contract):** Leading the product vision, Agile orchestration, and technical governance for one of the largest Agentforce implementations in the world. Bridging the gap between global Salesforce teams and internal C-suite executives, acting as the ultimate gatekeeper for architectural liability and UX/functional sign-offs.
 * **Strategic AI Architect @ Getter (Contract):** Driving the technical architecture for a Top 10 Industry 5.0 startup and South Summit Finalist. Designing complex multi-agentic, computer vision, and machine learning systems to revolutionize industrial automation.
 * **Solutions Architect @ Stealth Startup (Contract):** Leading the design of global-scale multi-modal data pipelines using state-of-the-art Google technology to translate highly complex biological data into high-fidelity digital assets.
 * **Enterprise Data Strategy @ Embrapa (Transitioning):** Architected the digital foundations for international genomic improvement programs across 10+ countries, bridging the gap between PhD researchers and mission-critical business KPIs.
@@ -142,14 +142,16 @@ As a Fractional AI Solutions Architect, I partner with disruptive startups and g
 </div>
 <br>
 
-**Strategic AI Architect** | **OrangeDoor IT** | *Remote | Mar 2026 - Present*
+**Enterprise AI Product Owner** | **OrangeDoor IT** | *Remote | Mar 2026 - Present*
 
-* **Cross-Functional Executive Leadership:** Serving as the central strategic bridge between world-class Salesforce engineering teams, OrangeDoor's C-suite executives, internal architects, and enterprise clients to secure long-term technological ROI.
-* **Technical Governance & Liability Shielding:** Acting as the ultimate technical gatekeeper. Instituting and managing strict Architecture Decision Records (ADRs) to audit partner directives, isolate corporate liability, and ensure compliance in mission-critical deployments.
-* **AI Systems Architecture:** Logging hybrid agentic infrastructures and Multi-Agent Systems (MAS). Designing scalable functional architectures that integrate native enterprise ecosystems (Agentforce/MuleSoft) with distributed tech stacks.
-* **Strategic R&D & Reverse Engineering:** Analyzing state-of-the-art multi-agent patterns and reverse-engineering successful internal architectures to transpose custom design patterns into rigid enterprise environments.
+Executive-level AI Product Owner operating in direct conjunction with an internal expert team and a world-class Salesforce team. Responsible for the end-to-end product lifecycle, technical governance, and system design of enterprise AI deployments for high-stakes governmental and private projects.
 
-**Key Areas:** `Enterprise Architecture` `Agentic AI` `Salesforce` `Agentforce` `AI Governance` `Multi-Agent Systems` `ROI Optimization`
+* **Enterprise Product Ownership & Agile Orchestration:** Directing the product lifecycle, backlog refinement, and sprint planning. Translating abstract business goals into rigorous technical specifications and actionable epics (Azure DevOps/Jira) to maintain product evolution and sustainment.
+* **Functional Authority:** Holding final approval authority over functional specifications, UX journey mapping, and prototyping. Ensuring that the engineering output perfectly aligns with client expectations and executive ROI directives.
+* **Technical Governance & Liability Shielding:** Instituting and managing strict Architecture Decision Records (ADRs) to audit global partner directives. Acting as the ultimate technical gatekeeper to isolate corporate liability and ensure absolute compliance in mission-critical deployments.
+* **AI Systems Architecture & Consulting:** Acting as a senior architectural advisor for hybrid Multi-Agent Systems (MAS) and Agentforce implementations. Consulting on integration architectures and designing scalable functional blueprints that bridge native enterprise ecosystems with distributed tech stacks.
+
+**Key Areas:** `Enterprise Product Ownership` `Agile Orchestration` `AI Governance` `Agentic AI` `Salesforce Agentforce` `Multi-Agent Systems` `UX/UI Sign-off`
 
 ---
 
