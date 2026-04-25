@@ -183,23 +183,23 @@ Orchestrating the technical blueprint, product, and data science strategy for a 
 
 ---
 
-**Data Manager & AI Systems Architect** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Dec 2025 - April 2026*
+**Data Manager: Strategy & Innovation** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Nov 2025 - Apr 2026*
 
-* **Sovereign AI Strategy:** Architected the **"Sovereign Bio-Graph,"** moving national genomic assets from cloud dependency to on-premise, air-gapped high-performance computing.
-* **Global R&D Leadership:** Acted as the strategic bridge between world-renowned PhD researchers and executives, aligning **complex genomic R&D** with business KPIs across 10+ countries.
-* **Systemic Engineering:** Managed the transition from legacy SQL to **Graph Databases (Neo4j)** and implementing Agentic Workflows for automated pedigree validation.
+* **Sovereign AI & LLMOps:** Architected the **"Sovereign Bio-Graph,"** moving national genomic assets to air-gapped high-performance computing, and modernized legacy pipelines by implementing state-of-the-art LLMOps and automated workflows.
+* **Global R&D Leadership:** Bridged the gap between PhD researchers, world-class laboratory partners (Zoetis, Neogen), and industry-leading associations (ABCGIL), aligning complex genomic R&D with business KPIs across 10+ countries.
+* **Enterprise Data Engineering:** Engineered robust ETL pipelines (Python, Pandas, Linux) and managed hybrid database solutions using PostgreSQL (Relational) and Neo4j (Graph) to ingest and standardize complex genomic structures.
 
-**Key Areas:** `Sovereign AI` `Genomics` `Graph Databases` `System Architecture` `R&D Strategy`
+**Key Areas:** `Sovereign AI` `LLMOps` `Data Engineering` `Graph Databases` `ETL Pipelines` `Neo4j` `PostgreSQL`
 
 ---
 
-**Invited AI Researcher (Neuro-Symbolic Architecture)** | **FrameNet Brasil / UFJF** | Sep 2025 - Mar 2026
+**AI Researcher/Engineer (Neuro-Symbolic Architecture)** | **FrameNet Brasil / UFJF** | *Juiz de Fora, MG | Oct 2025 - Mar 2026*
 
-* **Architectural Innovation:** Led the engineering of a **Hybrid Neuro-Symbolic System** that fuses Visual Transformers (ViT) with structured linguistic logic to solve "noisy data" challenges.
-* **SOTA Performance:** Achieved a **6x improvement in multi-label classification accuracy** by implementing **Active Inference** principles and Asymmetric Loss functions.
-* **End-to-End Pipeline:** Managed the full lifecycle from data strategy to deployment, proving that **small, structured models** can outperform massive, unstructured baselines.
+* **Architectural Innovation (Project ReINVenTA):** Led the engineering of a Hybrid Neuro-Symbolic System under the supervision of PhD researchers. Fused visual perception with structured linguistic logic to solve critical data quality issues (noisy labels) and scarcity constraints.
+* **SOTA Performance:** Achieved a **6x improvement in multi-label classification accuracy**, transforming a failing baseline into a robust model capable of abstract semantic reasoning.
+* **Advanced Tech Stack:** Engineered end-to-end multi-modal solutions utilizing PyTorch, OpenAI CLIP (ViT-B/32), YOLOv8, and Vision Transformers (ViT), applying techniques like Asymmetric Loss (ASL) and Zero-Shot Learning in an NVIDIA A30 GPU optimized environment.
 
-**Key Areas:** `Neuro-Symbolic AI` `Multimodal Models` `Computer Vision` `Active Inference` `Deep Learning`
+**Key Areas:** `Neuro-Symbolic AI` `Computer Vision` `PyTorch` `Hugging Face` `Zero-Shot Learning`
 
 ---
 
@@ -213,13 +213,13 @@ Orchestrating the technical blueprint, product, and data science strategy for a 
 
 ---
 
-**R&D Intern (Data & Genomics)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Dec 2025*
+**Data Engineer (R&D)** | **Embrapa Gado de Leite** | *Juiz de Fora, MG | Sep 2025 - Nov 2025*
 
 * **Increased performance by 87%** of genomic queries by migrating from PostgreSQL to Neo4j.
 * Architected a **scalable bioinformatics fullstack pipeline** for genomic analysis (Docker, Nextflow, FastAPI).
 * **Optimized project presentations for stakeholders and executives** responsible for laboratory budget and resources.
 
-**Key Areas:** `Genomics` `Bioinformatics` `Data Engineering` `Bioinformatics` `Neo4j`
+**Key Areas:** `Genomics` `Bioinformatics` `Data Engineering` `Neo4j`
 
 ---
 
