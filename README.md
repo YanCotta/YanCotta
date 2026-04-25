@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Enterprise%20AI%20Product%20Owner%20%26%20Architect;Scaling%20Enterprise%20AI%20Infrastructure;Bio%20%26%20Cognitive%20Inspired%20Engineering;Global%20R%26D%20Leadership%20for%20Business%20Value&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Enterprise%20AI%20Architecture%20%26%20Engineering;Architecting%20Multi-Agent%20Systems;Bio%20%26%20Cognitive%20Inspired%20AI;Scaling%20Mission-Critical%20AI%20Infrastructure&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
  </div>
 
 ---
@@ -30,11 +30,11 @@
 </div>
 <br>
 
-• **Enterprise AI Product Ownership (OrangeDoor IT):** Leading the product vision and technical governance for one of the largest Agentforce implementations globally, impacting millions of users. Acting as the strategic bridge between world-class Salesforce teams, expert internal engineers, and C-suite executives to ensure AI Systems translate into immediate technological ROI.
+• **Enterprise AI Product Ownership (Orange-Door.com):** Leading the product vision and technical governance for one of the largest Agentforce implementations globally (São Paulo's Poupatempo), impacting millions of citizens. Acting as the strategic bridge between world-class Salesforce teams, internal experts, and C-suite executives to ensure AI systems translate into immediate business value.
 
-• **Enterprise AI Architecture (Getter):** Driving the technical architecture for a Industry 5.0 South Summit Finalist (Top 50 out of 2,500+ global startups). Working with projects encompassing complex multi-agentic, computer vision, and machine learning systems, coordinating strategies with an expert team to align cutting-edge technology with industry-revolutionizing business goals.
+• **Principal AI Strategy (GETTER S.A.):** Spearheading the technical and architectural strategy for a Top 10 Industry 5.0 startup and South Summit Finalist (Top 50 out of 2,500+ global startups). Architecting multi-agentic and machine learning systems while aligning elite engineering with global business development and high-stakes enterprise contracts.
 
-• **Architecting Digital Validation Models (Stealth Startup):** Leading the technical architecture of a complex, global-scale multi-modal data pipeline utilizing SOTA Google technology to revolutionize the market. I design the infrastructure that translates big data into high-fidelity, actionable digital assets, aligning advanced scientific modeling with the KPIs of the CTO, Founders, and VCs.
+• **Enterprise AI Architecture (VivaTerra Ventures):** Orchestrating the technical blueprint, product, and data science strategy for a disruptive stealth startup. Designing hyper-scale, autonomous, multi-modal data pipelines utilizing SOTA Google infrastructure to translate complex biological realities into deterministic predictive models.
 
 • **Sovereign Data Ecosystems (Embrapa/ABCGIL):** Architected the "Sovereign Bio-Graph," moving national genomic assets to air-gapped HPC infrastructure across 10+ countries.
 
@@ -120,10 +120,10 @@ Operating at the intersection of AI, Solutions Architecture, Data Governance, C-
 As a Fractional AI Solutions Architect, I partner with disruptive startups and global enterprises to design and govern safe, state-of-the-art AI ecosystems that drive massive market ROI. I bridge the gap between deep R&D and the boardroom, translating complex data physics into scalable B2B revenue.
 
 ### 💼 Fractional Mandates & Strategic Architecture
-* **Enterprise AI Product Owner @ OrangeDoor IT (Contract):** Leading the product vision, Agile orchestration, and technical governance for one of the largest Agentforce implementations in the world. Bridging the gap between global Salesforce teams and internal C-suite executives, acting as the ultimate gatekeeper for architectural liability and UX/functional sign-offs.
-* **Strategic AI Architect @ Getter (Contract):** Driving the technical architecture for a Top 10 Industry 5.0 startup and South Summit Finalist. Designing complex multi-agentic, computer vision, and machine learning systems to revolutionize industrial automation.
-* **Solutions Architect @ Stealth Startup (Contract):** Leading the design of global-scale multi-modal data pipelines using state-of-the-art Google technology to translate highly complex biological data into high-fidelity digital assets.
-* **Enterprise Data Strategy @ Embrapa (Transitioning):** Architected the digital foundations for international genomic improvement programs across 10+ countries, bridging the gap between PhD researchers and mission-critical business KPIs.
+* **AI Technical Product Owner @ Orange-Door.com:** Leading the product lifecycle, Agile orchestration, and technical governance for the largest global Salesforce Agentforce implementation. Acting as the ultimate technical gatekeeper for architectural liability (ADRs) and UX/functional sign-offs.
+* **Principal AI Strategist @ GETTER S.A.:** Driving the technical architecture and global pre-sales strategy for a Top 10 Industry 5.0 startup. Architecting complex multi-agentic infrastructures while ensuring enterprise data security and measurable ROI for global clients.
+* **Principal AI & Product Architect @ VivaTerra Ventures:** Leading the design of global-scale, multi-modal data pipelines and the core "operating system" for a disruptive startup, translating highly complex biological data into high-fidelity digital assets.
+* **Enterprise Data Strategy @ Embrapa:** Architected the digital foundations for international genomic improvement programs across 10+ countries, bridging the gap between PhD researchers and mission-critical business KPIs.
 
 ### 🔬 Intellectual Moat & Scientific Authority
 * **Agentic AI Research @ UFJF (M.Sc. CS):** Researching Cognitive Multi-Agent Systems (MAS) for autonomous decision-making and semantic interoperability in heterogeneous environments.
@@ -142,46 +142,52 @@ As a Fractional AI Solutions Architect, I partner with disruptive startups and g
 </div>
 <br>
 
-**Enterprise AI Product Owner** | **OrangeDoor IT** | *Remote | Mar 2026 - Present*
+**AI Technical Product Owner** | **Orange-Door.com** | *Remote (Miami, FL) | Mar 2026 - Present*
 
-Executive-level AI Product Owner operating in direct conjunction with an internal expert team and a world-class Salesforce team. Responsible for the end-to-end product lifecycle, technical governance, and system design of enterprise AI deployments for high-stakes governmental and private projects.
+Operating at the intersection of business strategy and advanced AI engineering. Working in direct conjunction with an internal expert team and a world-class Salesforce team, I am currently working on the largest Salesforce Agentforce implementation globally for São Paulo's Poupatempo platform—architecting agentic AI systems designed to impact millions of citizens.
 
-* **Enterprise Product Ownership & Agile Orchestration:** Directing the product lifecycle, backlog refinement, and sprint planning. Translating abstract business goals into rigorous technical specifications and actionable epics (Azure DevOps/Jira) to maintain product evolution and sustainment.
-* **Functional Authority:** Holding final approval authority over functional specifications, UX journey mapping, and prototyping. Ensuring that the engineering output perfectly aligns with client expectations and executive ROI directives.
-* **Technical Governance & Liability Shielding:** Instituting and managing strict Architecture Decision Records (ADRs) to audit global partner directives. Acting as the ultimate technical gatekeeper to isolate corporate liability and ensure absolute compliance in mission-critical deployments.
-* **AI Systems Architecture & Consulting:** Acting as a senior architectural advisor for hybrid Multi-Agent Systems (MAS) and Agentforce implementations. Consulting on integration architectures and designing scalable functional blueprints that bridge native enterprise ecosystems with distributed tech stacks.
+* **Enterprise Product Ownership & Agile Orchestration:** Directing the product lifecycle, backlog refinement, and sprint planning. Translating abstract business objectives into rigorous technical specifications and actionable epics.
+* **Cross-Functional Leadership & Stakeholder Alignment:** Serving as the central axis across Discovery with stakeholders, architectural stages with Salesforce experts, and engineering development, bridging executive expectations and technical reality.
+* **Technical Governance & Liability Shielding:** Instituting strict Architecture Decision Records (ADRs) to audit global partner directives, ensuring absolute compliance and isolating corporate liability in mission-critical deployments.
+* **AI Systems Architecture & Engineering Oversight:** Advising on hybrid Multi-Agent Systems (MAS) and Agentforce architectures. Conducting daily technical and code reviews to guarantee top-tier software quality.
+* **Functional Authority & UX Validation:** Holding final approval over functional specifications, UX journey mapping, and prototyping to match client expectations and executive ROI.
 
-**Key Areas:** `Enterprise Product Ownership` `Agile Orchestration` `AI Governance` `Agentic AI` `Salesforce Agentforce` `Multi-Agent Systems` `UX/UI Sign-off`
-
----
-
-**Strategic AI Architect** | **GETTER S.A.** | *Remote | Mar 2026 - Present*
-
-* **AI Systems Architecture & Design:** Planning and deploying robust agentic infrastructures and complex system designs that drive industry-defining automation for a Top 10 Industry 5.0 startup and South Summit Finalist.
-* **Technical Consulting & Governance:** Conducting rigorous data security auditing and risk mitigation at an enterprise scale to ensure safe, scalable AI adoption.
-* **Technical Leadership & Coordination:** Interfacing with strategic partners and our internal ecosystem—engineers, developers, PMs, and the CEO—to execute high-level integrations.
-* **Organizational Alignment:** Translating visionary business goals into high-impact, state-of-the-art technology solutions and measurable ROI.
-
-**Key Areas:** `Agentic AI` `Computer Vision` `Machine Learning` `Industry 5.0` `Strategic Communications` `System Design`
+**Key Areas:** `Agentic AI` `AI Architecture` `Salesforce Agentforce` `Enterprise Product Ownership` `Technical Governance` `Multi-Agent Systems`
 
 ---
 
-**Solutions Architect** | **(Stealth Startup)** | *Remote | Mar 2026 - Present*
+**Principal AI Strategist** | **GETTER S.A.** | *Remote (Manaus, AM) | Mar 2026 - Present*
 
-* **Enterprise AI Architecture:** Conceiving and developing autonomous AI models that integrate big data to monitor and process complex, large-scale realities.
-* **Multi-Modal Data Pipelines:** Structuring the underlying data infrastructure to translate highly complex biological data into high-fidelity, actionable digital assets utilizing SOTA Google technology.
-* **Large Scale Data Science:** Leading and validating machine learning, deep learning, MLOps, and geospatial AI multi-modal techniques to align with aggressive business KPIs.
-* **Stakeholder Management:** Serving as the strategic bridge between complex scientific modeling, VCs, and the CTO, translating technicalities and scientific rigor into KPIs and business metrics/impact.
+Spearheading the technical and architectural strategy to revolutionize the Industry 5.0 sector through advanced AI, machine learning, and multi-agent systems. GETTER is recognized as a Top 10 startup in Industry 5.0 and a South Summit Finalist. I act as the critical nexus between high-stakes business development and elite engineering.
 
-**Key Areas:** `Solutions Architecture` `Data Pipelines` `Complex Systems` `System Design` `Big Data` `Enterprise AI`
+* **Global Business Development & Pre-Sales Architecture:** Drafting, refining, and validating high-stakes business proposals and executive pitches for large-scale enterprise contracts.
+* **AI Systems Architecture & Tech Governance:** Architecting complex system designs and agentic infrastructures. Conducting rigorous technical reviews to ensure scalable, secure, and SOTA engineering standards.
+* **Technical Consulting & Strategic Prioritization:** Advising the internal engineering ecosystem on development priorities and tech stack choices to optimize output for measurable ROI.
+* **Security & Risk Mitigation:** Conducting rigorous data security auditing and technical risk mitigation at an enterprise scale for industrial clients.
+* **Executive Leadership & Organizational Alignment:** Interfacing seamlessly with strategic partners, product managers, and the CEO to translate visionary goals into industry-defining automation.
+
+**Key Areas:** `Agentic AI` `Industry 5.0` `Strategic Communications` `System Architecture` `Pre-Sales Architecture` `Tech Governance`
 
 ---
 
-**Data Manager & AI Systems Architect** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Dec 2025 - Present*
+**Principal AI & Product Architect** | **VivaTerra Ventures** | *Remote (São Paulo, SP) | Mar 2026 - Present*
 
-* **Sovereign AI Strategy:** Architecting the **"Sovereign Bio-Graph,"** moving national genomic assets from cloud dependency to on-premise, air-gapped high-performance computing.
-* **Global R&D Leadership:** Acting as the strategic bridge between world-renowned PhD researchers and executives, aligning **complex genomic R&D** with business KPIs across 10+ countries.
-* **Systemic Engineering:** Managing the transition from legacy SQL to **Graph Databases (Neo4j)** and implementing Agentic Workflows for automated pedigree validation.
+Orchestrating the technical blueprint, product, and data science strategy for a disruptive stealth startup. Designing a global validation protocol at the intersection of AI, big data, and complex system modeling, leveraging state-of-the-art Google infrastructure.
+
+* **Enterprise AI Architecture:** Conceiving the core "operating system" for large-scale AI. Architecting autonomous, multi-modal AI pipelines to ingest decentralized data streams into deterministic predictive models.
+* **Hyper-Scale Data Infrastructure:** Designing advanced cloud-native architectures and high-performance computing strategies for processing massive, fragmented datasets with low-latency scalability.
+* **Applied Data Science & Systemic Modeling:** Directing ML, Deep Learning, and MLOps initiatives to translate complex biological/physical realities into digital assets, integrating strict scientific constraints.
+* **Executive Product Strategy & Stakeholder Management:** Serving as the nexus between scientific research, engineering execution, and institutional stakeholders (VCs, C-Suite), translating technical rigor into aggressive business KPIs.
+
+**Key Areas:** `Enterprise AI Architecture` `Hyper-Scale Data Infrastructure` `Systemic Modeling` `Applied Data Science` `MLOps`
+
+---
+
+**Data Manager & AI Systems Architect** | **Embrapa/ABCGIL** | *Juiz de Fora, MG | Dec 2025 - April 2026*
+
+* **Sovereign AI Strategy:** Architected the **"Sovereign Bio-Graph,"** moving national genomic assets from cloud dependency to on-premise, air-gapped high-performance computing.
+* **Global R&D Leadership:** Acted as the strategic bridge between world-renowned PhD researchers and executives, aligning **complex genomic R&D** with business KPIs across 10+ countries.
+* **Systemic Engineering:** Managed the transition from legacy SQL to **Graph Databases (Neo4j)** and implementing Agentic Workflows for automated pedigree validation.
 
 **Key Areas:** `Sovereign AI` `Genomics` `Graph Databases` `System Architecture` `R&D Strategy`
 
