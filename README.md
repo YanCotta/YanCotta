@@ -143,7 +143,7 @@ As a Fractional AI Solutions Architect, I partner with disruptive startups and g
 </div>
 <br>
 
-**AI Solutions & Delivery Lead** | **OrangeDoor IT** | *São Paulo, Brazil (Hybrid) | May 2026 – Present*
+**AI Solutions & Delivery Lead** | **OrangeDoor IT** | *São Paulo, Brazil (Hybrid) | Mar 2026 – Present*
 
 Leading technical delivery and architecture for one of the **world’s largest Salesforce Agentforce implementations** — São Paulo’s Poupatempo platform serving **46M+ citizens** and backed by contracts valued at ~**200M BRL**.
 
