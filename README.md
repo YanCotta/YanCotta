@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Enterprise%20AI%20Architecture%20%26%20Engineering;Architecting%20Multi-Agent%20Systems;Bio%20%26%20Cognitive%20Inspired%20AI;Scaling%20Mission-Critical%20AI%20Infrastructure&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
- </div>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Business%20Development%20Manager%20%40%20Revo;Urban%20Air%20Mobility%20%26%20eVTOL;Architecting%20Multi-Agent%20Systems;Bridging%20AI%2C%20Operations%20%26%20Business%20Value&font=Fira%20Code&center=true&width=800&height=45&color=00d4ff&vCenter=true&size=22">
+</div>
 
 ---
 
@@ -29,17 +29,17 @@
 </div>
 <br>
 
-• **AI Solutions & Delivery Lead @ OrangeDoor IT**: Leading technical delivery for one of the **world’s largest Salesforce Agentforce implementations** (São Paulo’s Poupatempo platform, **46M+ citizens**, ~**200M BRL** contracts). Owning full lifecycle delivery in **1–2 month cycles** while bridging government stakeholders and world-class Salesforce teams.
+• **AI Business Development Manager @ Revo**: Leading AI strategy, roadmap and high-impact implementations for an urban air mobility operator in São Paulo (helicopter operations + eVTOL transition). Focused on turning AI into measurable operational and commercial value.
 
-• **AI Architect & Strategist @ GETTER S.A.**: Driving AI architecture and pre-sales strategy for a **Top 10 Industry 5.0 startup** and **South Summit Top 50 finalist** (out of 2,500+ global startups). Architecting multi-agent systems for enterprise clients including **Jabil, Valgroup, Renault Global, and Vale**.
+• **AI Solutions & Delivery Lead @ OrangeDoor IT**: Led technical delivery for one of the **world’s largest Salesforce Agentforce implementations** (São Paulo’s Poupatempo platform, **46M+ citizens**, ~**200M BRL** contracts). Owned full lifecycle delivery in **1–2 month cycles** while orchestrating a 20+ person multi-disciplinary squad.
 
-• **AI Architect & Product Strategist @ VivaTerra Ventures**: Orchestrating 0-to-1 AI architecture for a VC-backed global stealth startup. Secured early access to frontier Google/DeepMind technologies (**AlphaEarth, AlphaEvolve, Co-Scientist**) and supporting a **150M BRL seed raise** while designing planetary-scale multi-modal systems.
+• **AI Architect & Strategist @ GETTER S.A.**: Drove AI architecture and pre-sales strategy for a **Top 10 Industry 5.0 startup** and **South Summit Top 50 finalist**. Architected multi-agent systems for enterprise clients including **Jabil, Valgroup, Renault Global, and Vale**.
 
-• **Data Manager @ Embrapa Dairy Cattle**: Architected high-performance data pipelines and the “Sovereign Bio-Graph” for one of the world’s largest international genomic improvement programs across **10+ countries**.
+• **AI Architect & Product Strategist @ VivaTerra Ventures**: Orchestrated 0-to-1 AI architecture for a VC-backed global startup. Secured early access to frontier Google/DeepMind technologies and supported a **150M BRL seed raise**.
 
-• **AI Engineer @ FrameNet Brasil**: Engineered a hybrid neuro-symbolic AI system achieving a **6x performance increase** in abstract semantic reasoning by fusing Vision Transformers with linguistic logic.
+• **Data Manager @ Embrapa Dairy Cattle**: Architected high-performance data pipelines for one of the world’s largest international genomic improvement programs across **10+ countries**.
 
-• **1st Place Winner – Reply Enterprise Challenge (FIAP NEXT 2025)**: Solo-architected a production-grade 12-agent predictive maintenance platform, validated at **103.8 RPS** with **3ms P99 latency** and proven to reduce unplanned downtime by **40%**.
+• **1st Place Winner – Reply Enterprise Challenge (FIAP NEXT 2025)**: Solo-architected a production-grade 12-agent predictive maintenance platform.
 
 ---
 
@@ -116,15 +116,12 @@ Operating at the intersection of AI, Solutions Architecture, Data Governance, C-
 
 As a Fractional AI Solutions Architect, I partner with disruptive startups and global enterprises to design and govern safe, state-of-the-art AI ecosystems that drive massive market ROI. I bridge the gap between deep R&D and the boardroom, translating complex data physics into scalable B2B revenue.
 
-### 💼 Fractional Mandates & Strategic Architecture
-
-* **AI Solutions & Delivery Lead @ OrangeDoor IT**: Leading technical delivery and governance for one of the largest global Salesforce Agentforce implementations (São Paulo’s Poupatempo, **46M+ citizens**). Acting as the central bridge between PRODESP stakeholders, Salesforce architects, and delivery squads while owning the full product lifecycle in aggressive **1–2 month cycles**.
-
-* **AI Architect & Strategist @ GETTER S.A.**: Driving multi-agent system architecture and global pre-sales strategy for a **Top 10 Industry 5.0 startup** and South Summit Top 50 finalist. Supporting enterprise engagements with clients including **Jabil, Valgroup, Renault Global, and Vale**.
-
-* **AI Architect & Product Strategist @ VivaTerra Ventures**: Leading 0-to-1 technical architecture and product strategy for a VC-backed stealth startup. Secured early access to frontier Google/DeepMind technologies and architecting planetary-scale multi-modal data pipelines while supporting a **150M BRL seed raise**.
-
-* **Data Manager: Strategy & Innovation @ Embrapa/ABCGIL**: Architected sovereign data ecosystems and high-performance pipelines for international genomic programs spanning **10+ countries**, bridging PhD researchers and mission-critical business KPIs.
+### 💼 Current & Recent Mandates
+* **AI Business Development Manager @ Revo**: Leading AI strategy, roadmap prioritization and value-oriented implementations for an urban air mobility operator (current helicopter operations + eVTOL transition). On-site at Faria Lima, São Paulo.
+* **AI Solutions & Delivery Lead @ OrangeDoor IT**: Led technical delivery and governance for one of the largest global Salesforce Agentforce implementations (São Paulo’s Poupatempo, **46M+ citizens**). Orchestrated a 20+ person multi-disciplinary squad and owned the full product lifecycle in aggressive **1–2 month cycles**.
+* **AI Architect & Strategist @ GETTER S.A.**: Drove multi-agent system architecture and global pre-sales strategy for a **Top 10 Industry 5.0 startup** and South Summit Top 50 finalist.
+* **AI Architect & Product Strategist @ VivaTerra Ventures**: Led 0-to-1 technical architecture and product strategy for a VC-backed startup. Secured early access to frontier Google/DeepMind technologies.
+* **Data Manager: Strategy & Innovation @ Embrapa/ABCGIL**: Architected sovereign data ecosystems and high-performance pipelines for international genomic programs spanning **10+ countries**.
 
 ### 🔬 Intellectual Moat & Scientific Authority
 * **Agentic AI Research @ UFJF (M.Sc. CS):** Researching Cognitive Multi-Agent Systems (MAS) for autonomous decision-making and semantic interoperability in heterogeneous environments.
@@ -143,29 +140,15 @@ As a Fractional AI Solutions Architect, I partner with disruptive startups and g
 </div>
 <br>
 
-**AI Solutions & Delivery Lead** | **OrangeDoor IT** | *São Paulo, Brazil (Hybrid) | Mar 2026 – Present*
-
-Leading technical delivery and architecture for one of the **world’s largest Salesforce Agentforce implementations** — São Paulo’s Poupatempo platform serving **46M+ citizens** and backed by contracts valued at ~**200M BRL**.
-
-* Own the full product lifecycle (discovery → architecture → development → QA → PROD → sustainment), consistently delivering iterations in **1–2 month agile cycles**.
-* Serve as the primary technical authority bridging PRODESP/SGGD stakeholders, Salesforce architects, and multi-disciplinary delivery squads.
-* Architect and govern complex multi-agent systems integrating Agentforce, Data Cloud, MuleSoft, and custom LLM layers in a high-stakes government environment.
-* Drive technical governance, risk mitigation, and scope negotiation while maintaining delivery velocity and solution integrity.
-
-**Key Areas:** `Agentforce` `Multi-Agent Systems` `Enterprise AI` `Technical Governance` `Product Ownership` `Agile Delivery`
-
----
-
-**AI Architect & Strategist** | **GETTER S.A.** | *Remote (Manaus, AM) | Mar 2026 – Present*
-
-Driving AI architecture and strategic consulting for a **Top 10 Industry 5.0 startup** and **South Summit Brazil Top 50 finalist** (out of 2,500+ global startups). Acting as the critical nexus between high-stakes business development and elite engineering for global enterprise clients.
-
-* Architecting and governing complex multi-agent/agentic infrastructures for clients including **Jabil, Valgroup, Renault Global, and Vale**.
-* Leading pre-sales architecture and proposal development for large-scale enterprise contracts.
-* Providing strategic technical consulting on system design, tech stack decisions, and prioritization to maximize business ROI.
-* Aligning visionary Industry 5.0 goals with executable, high-impact technology solutions across engineering, product, and executive stakeholders.
-
-**Key Areas:** `Multi-Agent Systems` `Industry 5.0` `Enterprise AI` `Pre-Sales Architecture` `Tech Governance`
+**AI Business Development Manager** | **Revo** | *São Paulo, Brazil (On-site – Faria Lima) | Aug 2026 – Present*
+Leading AI strategy, roadmap and high-impact implementations for Revo, an urban air mobility operator spanning current helicopter operations and the eVTOL transition.
+* Structure and manage the AI roadmap, prioritizing use cases with the highest operational, commercial and financial impact.
+* Lead development of AI, automation and advanced analytics solutions applied to operations, commercial, product and customer experience.
+* Strengthen data foundations (integration, quality, governance) to support trusted models, dashboards and decision-making.
+* Design predictive and analytical models supporting demand forecasting, capacity allocation, fleet performance and operational planning.
+* Develop automation solutions, internal AI assistants and prototypes that reduce manual work.
+* Deliver technical studies, simulation models, executive dashboards and strategic recommendations to leadership.
+**Key Areas:** `AI Strategy` `Roadmap Prioritization` `Urban Air Mobility` `eVTOL` `Operational AI` `Data Governance` `Executive Advisory`
 
 ---
 
@@ -179,6 +162,32 @@ Orchestrating 0-to-1 AI architecture, product strategy, and data science for a V
 * Co-piloting product strategy and UX vision while ensuring deep scientific rigor and systemic constraints are preserved in the interface layer.
 
 **Key Areas:** `Multi-Modal AI` `Planetary-Scale Systems` `Enterprise AI Architecture` `Product Strategy` `Frontier AI`
+
+---
+
+**AI Solutions & Delivery Lead** | **OrangeDoor IT** | *São Paulo, Brazil (Hybrid) | Mar 2026 – August 2026*
+
+Leading technical delivery and architecture for one of the **world’s largest Salesforce Agentforce implementations** — São Paulo’s Poupatempo platform serving **46M+ citizens** and backed by contracts valued at ~**200M BRL**.
+
+* Own the full product lifecycle (discovery → architecture → development → QA → PROD → sustainment), consistently delivering iterations in **1–2 month agile cycles**.
+* Serve as the primary technical authority bridging PRODESP/SGGD stakeholders, Salesforce architects, and multi-disciplinary delivery squads.
+* Architect and govern complex multi-agent systems integrating Agentforce, Data Cloud, MuleSoft, and custom LLM layers in a high-stakes government environment.
+* Drive technical governance, risk mitigation, and scope negotiation while maintaining delivery velocity and solution integrity.
+
+**Key Areas:** `Agentforce` `Multi-Agent Systems` `Enterprise AI` `Technical Governance` `Product Ownership` `Agile Delivery`
+
+---
+
+**AI Architect & Strategist** | **GETTER S.A.** | *Remote (Manaus, AM) | Mar 2026 – August 2026*
+
+Driving AI architecture and strategic consulting for a **Top 10 Industry 5.0 startup** and **South Summit Brazil Top 50 finalist** (out of 2,500+ global startups). Acting as the critical nexus between high-stakes business development and elite engineering for global enterprise clients.
+
+* Architecting and governing complex multi-agent/agentic infrastructures for clients including **Jabil, Valgroup, Renault Global, and Vale**.
+* Leading pre-sales architecture and proposal development for large-scale enterprise contracts.
+* Providing strategic technical consulting on system design, tech stack decisions, and prioritization to maximize business ROI.
+* Aligning visionary Industry 5.0 goals with executable, high-impact technology solutions across engineering, product, and executive stakeholders.
+
+**Key Areas:** `Multi-Agent Systems` `Industry 5.0` `Enterprise AI` `Pre-Sales Architecture` `Tech Governance`
 
 ---
 
