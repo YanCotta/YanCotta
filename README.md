@@ -112,9 +112,9 @@
 </h2>
 <br>
 
-Operating at the intersection of AI, Solutions Architecture, Data Governance, C-Level Strategy, and Business Value, designing the infrastructure and technology of the next economic era.
+Operating at the intersection of AI, operations, and business value. Currently AI Business Development Manager at Revo, where I focus on turning artificial intelligence into measurable operational and commercial impact for urban air mobility.
 
-As a Fractional AI Solutions Architect, I partner with disruptive startups and global enterprises to design and govern safe, state-of-the-art AI ecosystems that drive massive market ROI. I bridge the gap between deep R&D and the boardroom, translating complex data physics into scalable B2B revenue.
+I also work across high-stakes environments — from large-scale public-sector AI delivery to deep-tech startups — bridging technical architecture, data foundations, and executive decision-making.
 
 ### 💼 Current & Recent Mandates
 * **AI Business Development Manager @ Revo**: Leading AI strategy, roadmap prioritization and value-oriented implementations for an urban air mobility operator (current helicopter operations + eVTOL transition). On-site at Faria Lima, São Paulo.
@@ -165,15 +165,12 @@ Orchestrating 0-to-1 AI architecture, product strategy, and data science for a V
 
 ---
 
-**AI Solutions & Delivery Lead** | **OrangeDoor IT** | *São Paulo, Brazil (Hybrid) | Mar 2026 – August 2026*
-
-Leading technical delivery and architecture for one of the **world’s largest Salesforce Agentforce implementations** — São Paulo’s Poupatempo platform serving **46M+ citizens** and backed by contracts valued at ~**200M BRL**.
-
-* Own the full product lifecycle (discovery → architecture → development → QA → PROD → sustainment), consistently delivering iterations in **1–2 month agile cycles**.
-* Serve as the primary technical authority bridging PRODESP/SGGD stakeholders, Salesforce architects, and multi-disciplinary delivery squads.
-* Architect and govern complex multi-agent systems integrating Agentforce, Data Cloud, MuleSoft, and custom LLM layers in a high-stakes government environment.
-* Drive technical governance, risk mitigation, and scope negotiation while maintaining delivery velocity and solution integrity.
-
+**AI Solutions & Delivery Lead** | **OrangeDoor** | *São Paulo, Brazil (Hybrid) | Mar 2026 – Aug 2026*
+Led technical delivery and architecture for one of the **world’s largest Salesforce Agentforce implementations** — São Paulo’s Poupatempo platform serving **46M+ citizens** and backed by contracts valued at ~**200M BRL**.
+* Owned the full product lifecycle (discovery → architecture → development → QA → PROD → sustainment), consistently delivering iterations in **1–2 month agile cycles**.
+* Served as the primary technical authority bridging PRODESP/SGGD stakeholders, Salesforce architects, and a multi-disciplinary delivery squad of 20+ professionals.
+* Architected and governed complex multi-agent systems integrating Agentforce, Data Cloud, MuleSoft, and custom LLM layers in a high-stakes government environment.
+* Drove technical governance, risk mitigation, and scope negotiation while maintaining delivery velocity and solution integrity.
 **Key Areas:** `Agentforce` `Multi-Agent Systems` `Enterprise AI` `Technical Governance` `Product Ownership` `Agile Delivery`
 
 ---
